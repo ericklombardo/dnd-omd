@@ -1,0 +1,323 @@
+{
+  "type": "adventure",
+  "name": "OotA",
+  "description": "Out of the Abyss",
+  "backgroundImageKey": "official/covers/oota.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Prisoners of the Drow",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Velkynvelve Side View",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-1.01-velkynvelve-side-view.jpg",
+          "tokenScale": 0.0271875
+        },
+        {
+          "name": "Velkynvelve Side View",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-1.01-velkynvelve-side-view-player.jpg",
+          "tokenScale": 0.0271875
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: Into Darkness",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Underdark",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-2.01-the-underdark.jpg",
+          "tokenScale": 0.01333333333333333
+        },
+        {
+          "name": "The Hook Horror Lair",
+          "description": "(DM Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-2.02-the-hook-horror-lair.jpg",
+          "tokenScale": 0.01607142857142857
+        },
+        {
+          "name": "The Hook Horror Lair",
+          "description": "(Player Version)",
+          "order": 3,
+          "imageKey": "official/maps/oota/map-2.02-the-hook-horror-lair-player.jpg",
+          "tokenScale": 0.01607142857142857
+        },
+        {
+          "name": "The Oozing Temple",
+          "description": "(DM Version)",
+          "order": 4,
+          "imageKey": "official/maps/oota/map-2.03-the-oozing-temple.jpg",
+          "tokenScale": 0.03312499999999999
+        },
+        {
+          "name": "The Oozing Temple",
+          "description": "(Player Version)",
+          "order": 5,
+          "imageKey": "official/maps/oota/map-2.03-the-oozing-temple-player.jpg",
+          "tokenScale": 0.03312499999999999
+        },
+        {
+          "name": "The Lost Tomb",
+          "description": "(DM Version)",
+          "order": 6,
+          "imageKey": "official/maps/oota/map-2.04-the-lost-tomb.jpg",
+          "tokenScale": 0.0259375
+        },
+        {
+          "name": "The Lost Tomb",
+          "description": "(Player Version)",
+          "order": 7,
+          "imageKey": "official/maps/oota/map-2.04-the-lost-tomb-player.jpg",
+          "tokenScale": 0.0259375
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: The Darklake",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Sloobludop",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-3.01-sloobludop.jpg",
+          "tokenScale": 0.009705882352941172
+        },
+        {
+          "name": "Sloobludop",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-3.01-sloobludop-player.jpg",
+          "tokenScale": 0.009705882352941172
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: Gracklstugh",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Gracklstugh",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-4.01-gracklstugh.jpg",
+          "tokenScale": 0.0103125
+        },
+        {
+          "name": "Gracklstugh",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-4.01-gracklstugh-player.jpg",
+          "tokenScale": 0.0103125
+        },
+        {
+          "name": "Gracklstugh - The Whorlstone Tunnels",
+          "description": "(DM Version)",
+          "order": 3,
+          "imageKey": "official/maps/oota/Whorlstone-Tunnels.jpg",
+          "tokenScale": 0.005931712962962961
+        },
+        {
+          "name": "Gracklstugh - The Whorlstone Tunnels",
+          "description": "(Player Version)",
+          "order": 4,
+          "imageKey": "official/maps/oota/Whorlstone-Tunnels-Player.jpg",
+          "tokenScale": 0.005931712962962961
+        },
+        {
+          "name": "Whorlstone Tunnels - The Dire Den",
+          "description": "(DM Version)",
+          "order": 5,
+          "imageKey": "official/maps/oota/Whorlstone-DireDen.jpg",
+          "tokenScale": 0.029166666666666667
+        },
+        {
+          "name": "Whorlstone Tunnels - The Dire Den",
+          "description": "(Player Version)",
+          "order": 6,
+          "imageKey": "official/maps/oota/Whorlstone-DireDen-player.jpg",
+          "tokenScale": 0.029166666666666667
+        },
+        {
+          "name": "Whorlstone Tunnels - Gray Ghost Garden",
+          "description": "(DM Version)",
+          "order": 7,
+          "imageKey": "official/maps/oota/Whorlstone-GrayGardens.jpg",
+          "tokenScale": 0.023437499999999993
+        },
+        {
+          "name": "Whorlstone Tunnels - Gray Ghost Garden",
+          "description": "(Player Version)",
+          "order": 8,
+          "imageKey": "official/maps/oota/Whorlstone-GrayGardens-Player.jpg",
+          "tokenScale": 0.023437499999999993
+        },
+        {
+          "name": "Whorlstone Tunnels - Cultist Pens",
+          "description": "(DM Version)",
+          "order": 9,
+          "imageKey": "official/maps/oota/Whorlstone-Cultist-Pens.jpg",
+          "tokenScale": 0.027864583333333335
+        },
+        {
+          "name": "Whorlstone Tunnels - Cultist Pens",
+          "description": "(Player Version)",
+          "order": 10,
+          "imageKey": "official/maps/oota/Whorlstone-Cultist-Pens-player.jpg",
+          "tokenScale": 0.027864583333333335
+        },
+        {
+          "name": "Whorlstone Tunnels - The Gray Alchemist",
+          "description": "(DM Version)",
+          "order": 11,
+          "imageKey": "official/maps/oota/Whorlstone-Gray-Alchemist.jpg",
+          "tokenScale": 0.016555059523809517
+        },
+        {
+          "name": "Whorlstone Tunnels - The Gray Alchemist",
+          "description": "(Player Version)",
+          "order": 12,
+          "imageKey": "official/maps/oota/Whorlstone-Gray-Alchemist-player.jpg",
+          "tokenScale": 0.016555059523809517
+        },
+        {
+          "name": "Whorlstone Tunnels - The Obelisk",
+          "description": "(DM Version)",
+          "order": 13,
+          "imageKey": "official/maps/oota/Whorlstone-Obelisk.jpg",
+          "tokenScale": 0.02578125
+        },
+        {
+          "name": "Whorlstone Tunnels - The Obelisk",
+          "description": "(Player Version)",
+          "order": 14,
+          "imageKey": "official/maps/oota/Whorlstone-Obelisk-player.jpg",
+          "tokenScale": 0.02578125
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Neverlight Grove",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Neverlight Grove",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-5.01-neverlight-grove.jpg",
+          "tokenScale": 0.014375
+        },
+        {
+          "name": "Neverlight Grove",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-5.01-neverlight-grove-player.jpg",
+          "tokenScale": 0.014375
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 6: Blingdenstone",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Blingdenstone",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-6.01-blingdenstone.jpg",
+          "tokenScale": 0.012999999999999998
+        },
+        {
+          "name": "Blingdenstone",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-6.01-blingdenstone-player.jpg",
+          "tokenScale": 0.012999999999999998
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 9: Mantol-Derith",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Mantol-Derith",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-9.01-mantol-derith.jpg",
+          "tokenScale": 0.0065
+        },
+        {
+          "name": "Mantol-Derith",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-9.01-mantol-derith-player.jpg",
+          "tokenScale": 0.0065
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Chapter 13: The Wormwrithings",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Troglodyte Lair",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-13.01-troglodyte-lair.jpg",
+          "tokenScale": 0.0103125
+        },
+        {
+          "name": "Troglodyte Lair",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/oota/map-13.01-troglodyte-lair-player.jpg",
+          "tokenScale": 0.0103125
+        },
+        {
+          "name": "The Worm Nursery",
+          "description": "(DM Version)",
+          "order": 3,
+          "imageKey": "official/maps/oota/map-13.02-the-worm-nursery.jpg",
+          "tokenScale": 0.0109375
+        },
+        {
+          "name": "The Worm Nursery",
+          "description": "(Player Version)",
+          "order": 4,
+          "imageKey": "official/maps/oota/map-13.02-the-worm-nursery-player.jpg",
+          "tokenScale": 0.0109375
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Chapter 15: The City of Spiders",
+      "order": 15,
+      "maps": [
+        {
+          "name": "Menzoberranzan",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/oota/map-15.01-menzoberranzan.jpg",
+          "tokenScale": 0.002625
+        }
+      ]
+    }
+  ]
+}

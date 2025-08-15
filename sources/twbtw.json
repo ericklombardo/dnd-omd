@@ -1,0 +1,183 @@
+{
+  "type": "adventure",
+  "name": "TWBtW",
+  "description": "The Wild Beyond the Witchlight",
+  "backgroundImageKey": "official/covers/twbtw.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Witchlight Carnival",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Witchlight Carnival",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/twbtw/map-1.01-witchlight-carnival.jpg",
+          "tokenScale": 0.014285714285714282
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: Hither",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Domain of Prismeer",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/twbtw/map-2.01-prismeer.jpg",
+          "tokenScale": 0.004142857142857143
+        },
+        {
+          "name": "Hither",
+          "description": "(DM version)",
+          "order": 2,
+          "imageKey": "official/maps/twbtw/map-2.02-hither.jpg",
+          "tokenScale": 0.013605442176870746
+        },
+        {
+          "name": "Hither",
+          "description": "(Player version)",
+          "order": 3,
+          "imageKey": "official/maps/twbtw/map-2.02-hither-player.jpg",
+          "tokenScale": 0.013605442176870746
+        },
+        {
+          "name": "Downfall",
+          "description": "(DM version)",
+          "order": 4,
+          "imageKey": "official/maps/twbtw/map-2.03-downfall.jpg",
+          "tokenScale": 0.010714285714285713
+        },
+        {
+          "name": "Downfall",
+          "description": "(Player version)",
+          "order": 5,
+          "imageKey": "official/maps/twbtw/map-2.03-downfall-player.jpg",
+          "tokenScale": 0.010714285714285713
+        },
+        {
+          "name": "Bavlorna’s Cottage",
+          "description": "(DM version)",
+          "order": 6,
+          "imageKey": "official/maps/twbtw/map-2.04-bavlornas-cottage.jpg",
+          "tokenScale": 0.024149659863945575
+        },
+        {
+          "name": "Bavlorna’s Cottage",
+          "description": "(Player version)",
+          "order": 7,
+          "imageKey": "official/maps/twbtw/map-2.04-bavlornas-cottage-player.jpg",
+          "tokenScale": 0.024149659863945575
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Thither",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Thither",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/twbtw/map-3.01-thither.jpg",
+          "tokenScale": 0.016666666666666663
+        },
+        {
+          "name": "Thither",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/twbtw/map-3.01-thither-player.jpg",
+          "tokenScale": 0.016666666666666663
+        },
+        {
+          "name": "Loomlurch",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/twbtw/map-3.02-loomlurch.jpg",
+          "tokenScale": 0.011224489795918365
+        },
+        {
+          "name": "Loomlurch",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/twbtw/map-3.02-loomlurch-player.jpg",
+          "tokenScale": 0.011224489795918365
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: Yon",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Yon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/twbtw/map-4.01-yon.jpg",
+          "tokenScale": 0.0123015873015873
+        },
+        {
+          "name": "Yon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/twbtw/map-4.01-yon-player.jpg",
+          "tokenScale": 0.0123015873015873
+        },
+        {
+          "name": "Motherhorn",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/twbtw/map-4.02-motherhorn.jpg",
+          "tokenScale": 0.01130952380952381
+        },
+        {
+          "name": "Motherhorn",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/twbtw/map-4.02-motherhorn-player.jpg",
+          "tokenScale": 0.01130952380952381
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Palace of Heart’s Desire",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Palace of Heart’s Desire, Lower",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/twbtw/map-5.01-palace-lower.jpg",
+          "tokenScale": 0.012698412698412697
+        },
+        {
+          "name": "Palace of Heart’s Desire, Lower",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/twbtw/map-5.01-palace-lower-player.jpg",
+          "tokenScale": 0.012698412698412697
+        },
+        {
+          "name": "Palace of Heart’s Desire, Upper",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/twbtw/map-5.02-palace-upper.jpg",
+          "tokenScale": 0.010952380952380953
+        },
+        {
+          "name": "Palace of Heart’s Desire, Upper",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/twbtw/map-5.02-palace-upper-player.jpg",
+          "tokenScale": 0.010952380952380953
+        }
+      ]
+    }
+  ]
+}

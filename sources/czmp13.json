@@ -1,0 +1,295 @@
+{
+    "type": "mappack",
+    "name": "CZMP13",
+    "description": "Czepeku: Orc Desert Camp",
+    "backgroundImageKey": "official/covers/czmp13.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Orc Desert Camp",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Camp Day",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp13/map-01.01-g-orc-desert-camp-camp-day.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Camp Day",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp13/map-01.01-gl-orc-desert-camp-camp-day.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Camp Night",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp13/map-01.02-g-orc-desert-camp-camp-night.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Camp Night",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp13/map-01.02-gl-orc-desert-camp-camp-night.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Cave",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp13/map-01.03-g-orc-desert-camp-cave.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Cave",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp13/map-01.03-gl-orc-desert-camp-cave.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Dark",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp13/map-01.04-g-orc-desert-camp-dark.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Dark",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp13/map-01.04-gl-orc-desert-camp-dark.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Dark Magic",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp13/map-01.05-g-orc-desert-camp-dark-magic.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Dark Magic",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp13/map-01.05-gl-orc-desert-camp-dark-magic.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp13/map-01.06-g-orc-desert-camp-desert.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp13/map-01.06-gl-orc-desert-camp-desert.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Fighting Pit",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp13/map-01.07-g-orc-desert-camp-fighting-pit.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Fighting Pit",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp13/map-01.07-gl-orc-desert-camp-fighting-pit.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Fire",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp13/map-01.08-g-orc-desert-camp-fire.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Fire",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp13/map-01.08-gl-orc-desert-camp-fire.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp13/map-01.09-g-orc-desert-camp-fog.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp13/map-01.09-gl-orc-desert-camp-fog.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp13/map-01.10-g-orc-desert-camp-massacre.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp13/map-01.10-gl-orc-desert-camp-massacre.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Natural Day",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp13/map-01.11-g-orc-desert-camp-natural-day.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Natural Day",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp13/map-01.11-gl-orc-desert-camp-natural-day.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Natural Night",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp13/map-01.12-g-orc-desert-camp-natural-night.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Natural Night",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp13/map-01.12-gl-orc-desert-camp-natural-night.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp13/map-01.13-g-orc-desert-camp-original-day.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp13/map-01.13-gl-orc-desert-camp-original-day.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+         {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp13/map-01.14-g-orc-desert-camp-original-night.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp13/map-01.14-gl-orc-desert-camp-original-night.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Ritual",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp13/map-01.15-g-orc-desert-camp-ritual.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Ritual",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp13/map-01.15-gl-orc-desert-camp-ritual.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Sinkhole",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp13/map-01.16-g-orc-desert-camp-sinkhole.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Sinkhole",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp13/map-01.16-gl-orc-desert-camp-sinkhole.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Take No Prisoners",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp13/map-01.17-g-orc-desert-camp-take-no-prisoners.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Take No Prisoners",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp13/map-01.17-gl-orc-desert-camp-take-no-prisoners.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Tundra",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp13/map-01.18-g-orc-desert-camp-tundra.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Tundra",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp13/map-01.18-gl-orc-desert-camp-tundra.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Water",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp13/map-01.19-g-orc-desert-camp-water.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Water",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp13/map-01.19-gl-orc-desert-camp-water.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp13/map-01.20-g-orc-desert-camp-winter.jpg",
+            "tokenScale": 0.030179260267755838
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp13/map-01.20-gl-orc-desert-camp-winter.jpg",
+            "tokenScale": 0.030179260267755838
+          }
+        ]
+      }
+    ]
+  }

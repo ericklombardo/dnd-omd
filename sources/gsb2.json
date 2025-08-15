@@ -1,0 +1,155 @@
+{
+  "type": "sourcebook",
+  "name": "GSB2",
+  "description": "The Griffon's Saddle Bag Book Two",
+  "backgroundImageKey": "official/covers/gsb2.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Antronec",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Antronec - The City of Guilds",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gsb2/map-1.01-antronec-the-city-of-guilds.png",
+          "tokenScale": 0.008389652761594034
+        },
+        {
+          "name": "Antronec - The City of Guilds",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gsb2/map-1.01-antronec-the-city-of-guilds-player.png",
+          "tokenScale": 0.008389652761594034
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "The Bloodmire",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Bloodmire",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gsb2/map-2.01-the-bloodmire.png",
+          "tokenScale": 0.040070713022981735
+        },
+        {
+          "name": "The Bloodmire",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gsb2/map-2.01-the-bloodmire-player.png",
+          "tokenScale": 0.040070713022981735
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Crest City",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Crest City",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/gsb2/map-3.01-crest-city.png",
+          "tokenScale": 0.016101331043366248
+        },
+        {
+          "name": "Crest City",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/gsb2/map-3.01-crest-city-player.png",
+          "tokenScale": 0.016101331043366248
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Durheim Monastery",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Durheim Monastery",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/gsb2/map-4.01-durheim-monastery.png",
+          "tokenScale": 0.03781236299868478
+        },
+        {
+          "name": "Durheim Monastery",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/gsb2/map-4.01-durheim-monastery-player.png",
+          "tokenScale": 0.03781236299868478
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Heavensteppe",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Heavensteppe",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/gsb2/map-5.01-heavensteppe.png",
+          "tokenScale": 0.027881040892193298
+        },
+        {
+          "name": "Heavensteppe",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/gsb2/map-5.01-heavensteppe-player.png",
+          "tokenScale": 0.027881040892193298
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Magmarath",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Magmarath",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/gsb2/map-6.01-magmarath.png",
+          "tokenScale": 0.027960526315789474
+        },
+        {
+          "name": "Magmarath",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/gsb2/map-6.01-magmarath-player.png",
+          "tokenScale": 0.027960526315789474
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Orostead",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Orostead",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/gsb2/map-7.01-orostead.png",
+          "tokenScale": 0.01556420233463035
+        },
+        {
+          "name": "Orostead",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/gsb2/map-7.01-orostead-player.png",
+          "tokenScale": 0.01556420233463035
+        }
+      ]
+    }
+  ]
+}

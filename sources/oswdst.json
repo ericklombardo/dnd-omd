@@ -1,0 +1,239 @@
+{
+    "type": "adventure",
+    "name": "oswdst",
+    "description": "One-Shot Wonders: 10 Desert One-Shot Adventures",
+    "backgroundImageKey": "official/covers/oswdst.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Flower Power",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Moonlit Oasis",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/oswdst/map-01.01-moonlit-oasis-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          },
+          {
+            "name": "Moonlit Oasis",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/oswdst/map-01.01-moonlit-oasis-no-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          }
+        ]
+      },
+{
+        "id": "1",
+        "name": "Hostage Hoax",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Derelict Arena",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/oswdst/map-02.01-derelict-arena-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          },
+          {
+            "name": "Derelict Arena",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/oswdst/map-02.01-derelict-arena-no-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          }
+        ]
+      },
+{
+        "id": "2",
+        "name": "No-Horse Race",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Rack Track",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/oswdst/map-03.01-race-track-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          },
+          {
+            "name": "Rack Track",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/oswdst/map-03.01-race-track-no-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          }
+        ]
+      },
+{
+        "id": "3",
+        "name": "On Shaky Ground",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Village Hospital",
+            "description": "(with grid)",
+            "order":7,
+            "imageKey": "official/maps/oswdst/map-04.01-village-hospital-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          },
+          {
+            "name": "Village Hospital",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/oswdst/map-04.01-village-hospital-no-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          }
+        ]
+      },
+{
+        "id": "4",
+        "name": "Lure of the Lamia",
+        "order": 5,
+        "maps": [
+          {
+            "name": "Bandit Hideout",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/oswdst/map-05.01-bandit-hideout-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          },
+          {
+            "name": "Bandit Hideout",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/oswdst/map-05.01-bandit-hideout-no-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          }
+        ]
+      },
+{
+        "id": "5",
+        "name": "Crash Landing",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Rocky Canyon",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/oswdst/map-06.01-rocky-canyon-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          },
+          {
+            "name": "Rocky Canyon",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/oswdst/map-06.01-rocky-canyon-no-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          }
+        ]
+      },
+{
+        "id": "6",
+        "name": "The Tomb’s Tome",
+        "order": 7,
+        "maps": [
+          {
+            "name": "Treasure Tomb",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/oswdst/map-07.01-treasure-tomb-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          },
+          {
+            "name": "Treasure Tomb",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/oswdst/map-07.01-treasure-tomb-no-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          }
+        ]
+      },
+{
+        "id": "7",
+        "name": "On Burrowed Time",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Insect Lair",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/oswdst/map-08.01-insect-lair-grid.jpg",
+            "tokenScale": 0.05971563981042654
+          },
+          {
+            "name": "Insect Lair",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/oswdst/map-08.01-insect-lair-no-grid.jpg",
+            "tokenScale": 0.05971563981042654
+          }
+        ]
+      },
+{
+        "id": "8",
+        "name": "Chasing Dreams",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Secret Temple",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/oswdst/map-09.01-secret-temple-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          },
+          {
+            "name": "Secret Temple",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/oswdst/map-09.01-secret-temple-no-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          }
+        ]
+      },
+{
+        "id": "9",
+        "name": "Bulette Proof",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Watering Hole",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/oswdst/map-10.01-watering-hole-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          },
+          {
+            "name": "Watering Hole",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/oswdst/map-10.01-watering-hole-no-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          }
+        ]
+      },
+{
+        "id": "10",
+        "name": "Continuing the Adventure",
+        "order": 11,
+        "maps": [
+          {
+            "name": "Mirabilis World",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/oswdst/map-11.01-mirabilis-world-dst.jpg",
+            "tokenScale": 0.025017135023989032
+          },
+          {
+            "name": "Mirabilis World",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/oswdst/map-11.01-mirabilis-world-dst-player.jpg",
+            "tokenScale": 0.025017135023989032
+          }
+        ]
+      }
+    ]
+  }

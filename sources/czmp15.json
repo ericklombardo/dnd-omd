@@ -1,0 +1,365 @@
+{
+    "type": "mappack",
+    "name": "CZMP15",
+    "description": "Czepeku: Riverwood Toll Castle",
+    "backgroundImageKey": "official/covers/czmp15.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Riverwood Toll Castle",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Arctic",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp15/map-01.01-g-riverwood-toll-castle-arctic.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Arctic",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp15/map-01.01-gl-riverwood-toll-castle-arctic.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp15/map-01.02-g-riverwood-toll-castle-autumn.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp15/map-01.02-gl-riverwood-toll-castle-autumn.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Bloody Battle",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp15/map-01.03-g-riverwood-toll-castle-bloodybattle.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Bloody Battle",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp15/map-01.03-gl-riverwood-toll-castle-bloodybattle.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Broken Bridge",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp15/map-01.04-g-riverwood-toll-castle-brokenbridge.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Broken Bridge",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp15/map-01.04-gl-riverwood-toll-castle-brokenbridge.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp15/map-01.05-g-riverwood-toll-castle-desert.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp15/map-01.05-gl-riverwood-toll-castle-desert.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Flooded",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp15/map-01.06-g-riverwood-toll-castle-flooded.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Flooded",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp15/map-01.06-gl-riverwood-toll-castle-flooded.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Interior Day",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp15/map-01.07-g-riverwood-toll-castle-interior-day.jpg",
+            "tokenScale": 0.031195746527777766
+          },
+          {
+            "name": "Interior Day",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp15/map-01.07-gl-riverwood-toll-castle-interior-day.jpg",
+            "tokenScale": 0.031195746527777766
+          },
+          {
+            "name": "Interior Night",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp15/map-01.08-g-riverwood-toll-castle-interior-night.jpg",
+            "tokenScale": 0.031195746527777766
+          },
+          {
+            "name": "Interior Night",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp15/map-01.08-gl-riverwood-toll-castle-interior-night.jpg",
+            "tokenScale": 0.031195746527777766
+          },
+          {
+            "name": "Night Fireflies",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp15/map-01.09-g-riverwood-toll-castle-night-fireflies.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Night Fireflies",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp15/map-01.09-gl-riverwood-toll-castle-night-fireflies.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Night Torches",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp15/map-01.10-g-riverwood-toll-castle-night-torches.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Night Torches",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp15/map-01.10-gl-riverwood-toll-castle-night-torches.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "No Bridge",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp15/map-01.11-g-riverwood-toll-castle-nobridge.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "No Bridge",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp15/map-01.11-gl-riverwood-toll-castle-nobridge.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp15/map-01.12-g-riverwood-toll-castle-original-day.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp15/map-01.12-gl-riverwood-toll-castle-original-day.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp15/map-01.13-g-riverwood-toll-castle-original-night.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp15/map-01.13-gl-riverwood-toll-castle-original-night.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+         {
+            "name": "Props Off",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp15/map-01.14-g-riverwood-toll-castle-propsoff.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Props Off",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp15/map-01.14-gl-riverwood-toll-castle-propsoff.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp15/map-01.15-g-riverwood-toll-castle-rain.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp15/map-01.15-gl-riverwood-toll-castle-rain.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 01",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp15/map-01.16-g-riverwood-toll-castle-risingfog-01.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 01",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp15/map-01.16-gl-riverwood-toll-castle-risingfog-01.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 02",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp15/map-01.17-g-riverwood-toll-castle-risingfog-02.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 02",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp15/map-01.17-gl-riverwood-toll-castle-risingfog-02.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 03",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp15/map-01.18-g-riverwood-toll-castle-risingfog-03.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 03",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp15/map-01.18-gl-riverwood-toll-castle-risingfog-03.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 04",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp15/map-01.19-g-riverwood-toll-castle-risingfog-04.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 04",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp15/map-01.19-gl-riverwood-toll-castle-risingfog-04.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 05",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp15/map-01.20-g-riverwood-toll-castle-risingfog-05.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Rising Fog 05",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp15/map-01.20-gl-riverwood-toll-castle-risingfog-05.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Shadow Realm",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp15/map-01.21-g-riverwood-toll-castle-shadowrealm.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Shadow Realm",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp15/map-01.21-gl-riverwood-toll-castle-shadowrealm.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp15/map-01.22-g-riverwood-toll-castle-spring.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp15/map-01.22-gl-riverwood-toll-castle-spring.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Swamp",
+            "description": "(with grid)",
+            "order": 45,
+            "imageKey": "official/maps/czmp/czmp15/map-01.23-g-riverwood-toll-castle-swamp.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Swamp",
+            "description": "(without grid)",
+            "order": 46,
+            "imageKey": "official/maps/czmp/czmp15/map-01.23-gl-riverwood-toll-castle-swamp.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Tar Spill",
+            "description": "(with grid)",
+            "order": 47,
+            "imageKey": "official/maps/czmp/czmp15/map-01.24-g-riverwood-toll-castle-tarspill.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Tar Spill",
+            "description": "(without grid)",
+            "order": 48,
+            "imageKey": "official/maps/czmp/czmp15/map-01.24-gl-riverwood-toll-castle-tarspill.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 49,
+            "imageKey": "official/maps/czmp/czmp15/map-01.25-g-riverwood-toll-castle-winter.jpg",
+            "tokenScale": 0.033416875522138664
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 50,
+            "imageKey": "official/maps/czmp/czmp15/map-01.25-gl-riverwood-toll-castle-winter.jpg",
+            "tokenScale": 0.033416875522138664
+          }
+        ]
+      }
+    ]
+  }

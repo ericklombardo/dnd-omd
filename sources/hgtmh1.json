@@ -1,0 +1,155 @@
+{
+  "type": "sourcebook",
+  "name": "HGtMH1",
+  "description": "Heliana's Guide to Monster Hunting: Part 1",
+  "backgroundImageKey": "official/covers/hgtmh1.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Loot Tavern",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Loot Tavern (Isometric)",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hgtmh1/map-01.01-loot-tavern.jpg",
+          "tokenScale":0.01585660117200965 
+        },
+        {
+          "name": "Loot Tavern (Isometric)",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hgtmh1/map-01.01-loot-tavern-player.jpg",
+          "tokenScale": 0.01585660117200965
+        },
+        {
+          "name": "Loot Tavern (Top-down)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/hgtmh1/map-01.02-loot-tavern-grid.jpg",
+          "tokenScale": 0.0244140625
+        },
+        {
+          "name": "Loot Tavern (Top-down)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/hgtmh1/map-01.02-loot-tavern-grid-player.jpg",
+          "tokenScale": 0.0244140625
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Polyhedrooze",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Big Bad Base",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hgtmh1/map-08.01-the-big-bad-base.png",
+          "tokenScale": 0.030229043134519237
+        },
+        {
+          "name": "The Big Bad Base",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hgtmh1/map-08.01-the-big-bad-base-player.png",
+          "tokenScale": 0.030229043134519237
+        }
+      ] 
+    },   
+    {
+      "id": "2",
+      "name": "Dread and Breakfast",
+      "order": 3,
+      "maps": [
+        {
+          "name": "The Tavern",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/hgtmh1/map-09.01-the-tavern.png",
+          "tokenScale": 0.038787023977433
+        },
+        {
+          "name": "Dinner Table",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/hgtmh1/map-09.02-dinner-table.png",
+          "tokenScale": 0.052865612648221344
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Reign of Iron",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Haemspire Monastery",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hgtmh1/map-10.01-haemspire-monastery.jpg",
+          "tokenScale": 0.06027474067844124
+        },
+        {
+          "name": "Haemspire Monastery",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hgtmh1/map-10.01-haemspire-monastery-player.jpg",
+          "tokenScale": 0.06027474067844124
+        }
+      ]
+    },  
+    {
+      "id": "4",
+      "name": "Shadow of the Broodmother",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Slkvol's Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hgtmh1/map-11.01-slkvols-lair.jpg",
+          "tokenScale": 0.03515624999999999
+          },
+        {
+          "name": "Slkvol's Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hgtmh1/map-11.01-slkvols-lair-player.jpg",
+          "tokenScale": 0.03515624999999999
+        }
+      ]
+    },
+        {
+      "id": "5",
+      "name": "Dream Weaver",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Train Carriages",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hgtmh1/map-12.01-train-carriages.png",
+          "tokenScale": 0.059814453125
+        },
+        {
+          "name": "Train Carriages",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hgtmh1/map-12.01-train-carriages-player.png",
+          "tokenScale": 0.059814453125
+        },
+        {
+          "name": "Insomnium's Station",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/hgtmh1/map-12.02-insomniums-station.png",
+          "tokenScale": 0.028887818969667783
+        }
+      ]
+    }
+  ]
+}

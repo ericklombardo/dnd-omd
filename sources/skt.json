@@ -1,0 +1,568 @@
+{
+  "type": "adventure",
+  "name": "SKT",
+  "description": "Storm King’s Thunder",
+  "backgroundImageKey": "official/covers/skt.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: A Great Upheaval",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Nightstone",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/skt/map-1.01-nightstone.jpg",
+          "tokenScale": 0.00825
+        },
+        {
+          "name": "Nightstone",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/skt/map-1.01-nightstone-player.jpg",
+          "tokenScale": 0.00825
+        },
+        {
+          "name": "Dripping Caves",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/skt/map-1.02-dripping-caves.png",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Dripping Caves",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/skt/map-1.02-dripping-caves-player.png",
+          "tokenScale": 0.025
+        },
+        {
+            "name": "Tower of Zephyros",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/skt/map-1.03-tower-of-zephyros.jpg",
+            "tokenScale": 0.02208333333333333
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: Rumblings",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Bryn Shander",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/skt/map-2.01-bryn-shander.jpg",
+          "tokenScale": 0.005535714285714284
+        },
+        {
+          "name": "Bryn Shander",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/skt/map-2.01-bryn-shander-player.jpg",
+          "tokenScale": 0.005535714285714284
+        },
+        {
+            "name": "Goldenfields",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-2.02-goldenfields.png",
+            "tokenScale": 0.0078125
+        },
+        {
+            "name": "Goldenfields",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-2.02-goldenfields-player.png",
+            "tokenScale": 0.0078125
+        },
+        {
+            "name": "Triboar",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/skt/map-2.03-triboar.png",
+            "tokenScale": 0.005208333333333332
+        },
+        {
+            "name": "Triboar",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/skt/map-2.03-triboar-player.png",
+            "tokenScale": 0.005208333333333332
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: The Savage Frontier",
+      "order": 3,
+      "maps": [
+        {
+          "name": "The North",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/skt/map-3.01-the-north.jpg",
+          "tokenScale": 0.005
+        },
+        {
+          "name": "Beorunna's Well",
+          "description": "(DM version)",
+          "order": 2,
+          "imageKey": "official/maps/skt/map-3.02-beorunnas-well.jpg",
+          "tokenScale": 0.004642857142857141
+        },
+        {
+            "name": "Beorunna's Well",
+            "description": "(Player version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-3.02-beorunnas-well-player.jpg",
+            "tokenScale": 0.004642857142857141
+        },
+        {
+            "name": "Everlund",
+            "description": "(DM version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-3.03-everlund.png",
+            "tokenScale": 0.005624999999999999
+        },
+        {
+            "name": "Everlund",
+            "description": "(Player version)",
+            "order": 5,
+            "imageKey": "official/maps/skt/map-3.03-everlund-player.png",
+            "tokenScale": 0.005624999999999999
+        },
+        {
+            "name": "Flint Rock",
+            "description": "(DM version)",
+            "order": 6,
+            "imageKey": "official/maps/skt/map-3.04-flint-rock.jpg",
+            "tokenScale": 0.009285714285714284
+        },
+        {
+            "name": "Flint Rock",
+            "description": "(Player version)",
+            "order": 7,
+            "imageKey": "official/maps/skt/map-3.04-flint-rock-player.jpg",
+            "tokenScale": 0.009285714285714284
+        },
+        {
+            "name": "The Grandfather Tree",
+            "description": "(DM version)",
+            "order": 8,
+            "imageKey": "official/maps/skt/map-3.05-the-grandfather-tree.jpg",
+            "tokenScale": 0.004038461538461538
+        },
+        {
+            "name": "The Grandfather Tree",
+            "description": "(Player version)",
+            "order": 9,
+            "imageKey": "official/maps/skt/map-3.05-the-grandfather-tree-player.jpg",
+            "tokenScale": 0.004038461538461538
+        },
+        {
+            "name": "Great Worm Cavern",
+            "description": "(DM version)",
+            "order": 10,
+            "imageKey": "official/maps/skt/map-3.06-great-worm-cavern.jpg",
+            "tokenScale": 0.006136363636363636
+        },
+        {
+            "name": "Great Worm Cavern",
+            "description": "(Player version)",
+            "order": 11,
+            "imageKey": "official/maps/skt/map-3.06-great-worm-cavern-player.jpg",
+            "tokenScale": 0.006136363636363636
+        },
+        {
+            "name": "Mogur's Mound",
+            "description": "(DM version)",
+            "order": 12,
+            "imageKey": "official/maps/skt/map-3.07-mogurs-mound.jpg",
+            "tokenScale": 0.01
+        },
+        {
+            "name": "Mogur's Mound",
+            "description": "(Player version)",
+            "order": 13,
+            "imageKey": "official/maps/skt/map-3.07-mogurs-mound-player.jpg",
+            "tokenScale": 0.01
+        },
+        {
+            "name": "One Stone",
+            "description": "(DM version)",
+            "order": 14,
+            "imageKey": "official/maps/skt/map-3.08-one-stone.jpg",
+            "tokenScale": 0.011
+        },
+        {
+            "name": "One Stone",
+            "description": "(Player version)",
+            "order": 15,
+            "imageKey": "official/maps/skt/map-3.08-one-stone-player.jpg",
+            "tokenScale": 0.011
+        },
+        {
+            "name": "Raven Rock",
+            "description": "(DM version)",
+            "order": 16,
+            "imageKey": "official/maps/skt/map-3.09-raven-rock.jpg",
+            "tokenScale": 0.0090625
+        },
+        {
+            "name": "Raven Rock",
+            "description": "(Player version)",
+            "order": 17,
+            "imageKey": "official/maps/skt/map-3.09-raven-rock-player.jpg",
+            "tokenScale": 0.0090625
+        },
+        {
+            "name": "Gundarlun and Ruathym",
+            "description": "",
+            "order": 18,
+            "imageKey": "official/maps/skt/map-3.10-gundarlun-and-ruathym.jpg",
+            "tokenScale": 0.007857142857142856
+        },
+        {
+            "name": "Shining White",
+            "description": "(DM version)",
+            "order": 19,
+            "imageKey": "official/maps/skt/map-3.11-shining-white.jpg",
+            "tokenScale": 0.008863636363636363
+        },
+        {
+            "name": "Shining White",
+            "description": "(Player version)",
+            "order": 20,
+            "imageKey": "official/maps/skt/map-3.11-shining-white-player.jpg",
+            "tokenScale": 0.008863636363636363
+        },
+        {
+            "name": "Stone Stand",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/skt/map-3.12-stone-stand.jpg",
+            "tokenScale": 0.00964285714285714
+        },
+        {
+            "name": "Stone Stand",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/skt/map-3.12-stone-stand-player.jpg",
+            "tokenScale": 0.00964285714285714
+        },
+        {
+            "name": "Tuern and Purple Rocks",
+            "description": "",
+            "order": 23,
+            "imageKey": "official/maps/skt/map-3.13-tuern-and-purple-rocks.jpg",
+            "tokenScale": 0.006666666666666667
+        },
+        {
+            "name": "Old Tower",
+            "description": "",
+            "order": 24,
+            "imageKey": "official/maps/skt/map-3.14-old-tower.png",
+            "tokenScale": 0.0335
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: The Chosen Path",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Eye of the All-Father",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/skt/map-4.01-eye-of-the-all-father.jpg",
+          "tokenScale": 0.005833333333333331
+        },
+        {
+          "name": "Eye of the All-Father",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/skt/map-4.01-eye-of-the-all-father-player.jpg",
+          "tokenScale": 0.005833333333333331
+        },
+        {
+          "name": "Harshnag's Map",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/skt/map-4.02-harshnags-map.png",
+          "tokenScale": 0.015416666666666664
+        },
+        {
+          "name": "Dragon Cult Airship",
+          "description": "(DM version)",
+          "order": 4,
+          "imageKey": "official/maps/skt/map-4.03-dragon-cult-airship.png",
+          "tokenScale": 0.045
+        },
+        {
+          "name": "Dragon Cult Airship",
+          "description": "(Player version)",
+          "order": 5,
+          "imageKey": "official/maps/skt/map-4.03-dragon-cult-airship-player.png",
+          "tokenScale": 0.045
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Den of the Hill Giants",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Grudd Haug",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/skt/map-5.01-grudd-haug.jpg",
+          "tokenScale": 0.005
+        },
+        {
+          "name": "Grudd Haug",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/skt/map-5.01-grudd-haug-player.jpg",
+          "tokenScale": 0.005
+        }
+      ]
+    },
+    {
+        "id": "5",
+        "name": "Chapter 6: Canyon of the Stone Giants",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Deadstone Cleft",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-6.01-deadstone-cleft.jpg",
+            "tokenScale": 0.00575
+          },
+          {
+            "name": "Deadstone Cleft",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-6.01-deadstone-cleft-player.jpg",
+            "tokenScale": 0.00575
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Chapter 7: Berg of the Frost Giants",
+        "order": 7,
+        "maps": [
+          {
+            "name": "Svardborg",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-7.01-svardborg.jpg",
+            "tokenScale": 0.004
+          },
+          {
+            "name": "Svardborg",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-7.01-svardborg-player.jpg",
+            "tokenScale": 0.004
+          },
+          {
+            "name": "Svardborg Lodges",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-7.02-svardborg-lodges.jpg",
+            "tokenScale": 0.005125
+          },
+          {
+            "name": "Svardborg Lodges",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-7.02-svardborg-lodges-player.jpg",
+            "tokenScale": 0.005125
+          },
+          {
+            "name": "Krigvind",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/skt/map-7.03-krigvind.png",
+            "tokenScale": 0.008625
+          },
+          {
+            "name": "Krigvind",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/skt/map-7.03-krigvind-player.png",
+            "tokenScale": 0.008625
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Chapter 8: Forge of the Fire Giants",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Ironslag",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-8.01-ironslag.png",
+            "tokenScale": 0.0063235294117647035
+          },
+          {
+            "name": "Ironslag",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-8.01-ironslag-player.png",
+            "tokenScale": 0.0063235294117647035
+          },
+          {
+            "name": "Ironslag, Lower Level",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-8.02-ironslag-lower-level.png",
+            "tokenScale": 0.0055
+          },
+          {
+            "name": "Ironslag, Lower Level",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-8.02-ironslag-lower-level-player.png",
+            "tokenScale": 0.0055
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Chapter 9: Castle of the Cloud Giants",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Lyn Armaal, Level 1",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-9.01-lyn-armaal-level-1.jpg",
+            "tokenScale": 0.0055
+          },
+          {
+            "name": "Lyn Armaal, Level 1",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-9.01-lyn-armaal-level-1-player.jpg",
+            "tokenScale": 0.0055
+          },
+          {
+            "name": "Lyn Armaal, Levels 2-6",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-9.02-lyn-armaal-levels-2-6.jpg",
+            "tokenScale": 0.006
+          },
+          {
+            "name": "Lyn Armaal, Levels 2-6",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-9.02-lyn-armaal-levels-2-6-player.jpg",
+            "tokenScale": 0.006
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Chapter 10: Hold of the Storm Giants",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Maelstorm, Levels 1 and 2",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-10.01-maelstorm-levels-1-and-2.jpg",
+            "tokenScale": 0.0065
+          },
+          {
+            "name": "Maelstorm, Levels 1 and 2",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-10.01-maelstorm-levels-1-and-2-player.jpg",
+            "tokenScale": 0.0065
+          },
+          {
+            "name": "Maelstorm, Level 3",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-10.02-maelstorm-level-3.jpg",
+            "tokenScale": 0.006875
+          },
+          {
+            "name": "Maelstorm, Level 3",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-10.02-maelstorm-level-3-player.jpg",
+            "tokenScale": 0.006875
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Chapter 11: Caught in the Tentacles",
+        "order": 11,
+        "maps": [
+          {
+            "name": "The Grand Dame",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-11.01-the-grand-dame.png",
+            "tokenScale": 0.0190625
+          },
+          {
+            "name": "The Grand Dame",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-11.01-the-grand-dame-player.png",
+            "tokenScale": 0.0190625
+          },
+          {
+            "name": "Morkoth",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/skt/map-11.02-morkoth.png",
+            "tokenScale": 0.021388888888888888
+          },
+          {
+            "name": "Morkoth",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/skt/map-11.02-morkoth-player.png",
+            "tokenScale": 0.021388888888888888
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "Chapter 12: Doom of the Desert",
+        "order": 12,
+        "maps": [
+          {
+            "name": "Iymrith's Lair",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/skt/map-12.01-iymriths-lair.png",
+            "tokenScale": 0.00657894736842105
+          },
+          {
+            "name": "Iymrith's Lair",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/skt/map-12.01-iymriths-lair-player.png",
+            "tokenScale": 0.00657894736842105
+          }
+        ]
+      }
+  ]
+}

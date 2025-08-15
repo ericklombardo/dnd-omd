@@ -1,0 +1,337 @@
+{
+  "type": "adventure",
+  "name": "DoIP",
+  "description": "Dragon of Icespire Peak",
+  "backgroundImageKey": "official/covers/doip.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Running the Adventure",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Sword Coast",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-1.01-sword-coast.jpg",
+          "tokenScale": 0.016388373531230672
+        },
+        {
+          "name": "Sword Coast",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-1.01-sword-coast-player.jpg",
+          "tokenScale": 0.016388373531230672
+        },
+        {
+          "name": "Phandalin",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/doip/map-1.02-phandalin.jpg",
+          "tokenScale": 0.00830078125
+        },
+        {
+          "name": "Phandalin",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/doip/map-1.02-phandalin-player.jpg",
+          "tokenScale": 0.00830078125
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Axeholm",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Axeholm",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-2.01-axeholm.jpg",
+          "tokenScale": 0.014836237980769228
+        },
+        {
+          "name": "Axeholm",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-2.01-axeholm-player.jpg",
+          "tokenScale": 0.014836237980769228
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Butterskull Ranch",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Butterskull Ranch",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-3.01-butterskull-ranch.jpg",
+          "tokenScale": 0.014973958333333329
+        },
+        {
+          "name": "Butterskull Ranch",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-3.01-butterskull-ranch-player.jpg",
+          "tokenScale": 0.014973958333333329
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Circle of Thunder",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Circle of Thunder",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-4.01-circle-of-thunder.jpg",
+          "tokenScale": 0.014997209821428568
+        },
+        {
+          "name": "Circle of Thunder",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-4.01-circle-of-thunder-player.jpg",
+          "tokenScale": 0.014997209821428568
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Dragon Barrow",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Dragon Barrow",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-5.01-dragon-barrow.jpg",
+          "tokenScale": 0.014935661764705876
+        },
+        {
+          "name": "Dragon Barrow",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-5.01-dragon-barrow-player.jpg",
+          "tokenScale": 0.014935661764705876
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Dwarven Excavation",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Dwarven Excavation",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-6.01-dwarven-excavation.jpg",
+          "tokenScale": 0.014973958333333329
+        },
+        {
+          "name": "Dwarven Excavation",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-6.01-dwarven-excavation-player.jpg",
+          "tokenScale": 0.014973958333333329
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Falcon's Hunting Lodge",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Falcon's Hunting Lodge",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-7.01-falcons-hunting-lodge.jpg",
+          "tokenScale": 0.015024038461538458
+        },
+        {
+          "name": "Falcon's Hunting Lodge",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-7.01-falcons-hunting-lodge-player.jpg",
+          "tokenScale": 0.015024038461538458
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Gnomengarde",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Gnomengarde",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-8.01-gnomengarde.jpg",
+          "tokenScale": 0.014648437499999997
+        },
+        {
+          "name": "Gnomengarde",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-8.01-gnomengarde-player.jpg",
+          "tokenScale": 0.014648437499999997
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Icespire Hold",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Icespire Hold",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-9.01-icespire-hold.jpg",
+          "tokenScale": 0.015171595982142853
+        },
+        {
+          "name": "Icespire Hold",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-9.01-icespire-hold-player.jpg",
+          "tokenScale": 0.015171595982142853
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Loggers' Camp",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Loggers' Camp",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-10.01-loggers-camp.jpg",
+          "tokenScale": 0.014811197916666663
+        },
+        {
+          "name": "Loggers' Camp",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-10.01-loggers-camp-player.jpg",
+          "tokenScale": 0.014811197916666663
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Mountain's Toe Gold Mine",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Mountain's Toe Gold Mine",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-11.01-mountains-toe-gold-mine.jpg",
+          "tokenScale": 0.015171595982142853
+        },
+        {
+          "name": "Mountain's Toe Gold Mine",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-11.01-mountains-toe-gold-mine-player.jpg",
+          "tokenScale": 0.015171595982142853
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Shrine of Savras",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Shrine of Savras",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-12.01-shrine-of-savras.jpg",
+          "tokenScale": 0.01447405133928571
+        },
+        {
+          "name": "Shrine of Savras",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-12.01-shrine-of-savras-player.jpg",
+          "tokenScale": 0.01447405133928571
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Tower of Storms",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Tower of Storms",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-13.01-tower-of-storms.jpg",
+          "tokenScale": 0.014836237980769228
+        },
+        {
+          "name": "Tower of Storms",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-13.01-tower-of-storms-player.jpg",
+          "tokenScale": 0.014836237980769228
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Umbrage Hill",
+      "order": 14,
+      "maps": [
+        {
+          "name": "Umbrage Hill",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-14.01-umbrage-hill.jpg",
+          "tokenScale": 0.0153664981617647
+        },
+        {
+          "name": "Umbrage Hill",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-14.01-umbrage-hill-player.jpg",
+          "tokenScale": 0.0153664981617647
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Woodland Manse",
+      "order": 15,
+      "maps": [
+        {
+          "name": "Woodland Manse",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/doip/map-15.01-woodland-manse.jpg",
+          "tokenScale": 0.014973958333333329
+        },
+        {
+          "name": "Woodland Manse",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/doip/map-15.01-woodland-manse-player.jpg",
+          "tokenScale": 0.014973958333333329
+        }
+      ]
+    }
+  ]
+}

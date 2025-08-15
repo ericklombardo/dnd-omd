@@ -1,0 +1,323 @@
+{
+    "type": "mappack",
+    "name": "CZMP10",
+    "description": "Czepeku: Jungle Temple Entrance",
+    "backgroundImageKey": "official/covers/czmp10.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Jungle Temple Entrance",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Closed Autumn",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp10/map-01.01-g-jungle-temple-entrance-closed-autumn.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Autumn",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp10/map-01.01-gl-jungle-temple-entrance-closed-autumn.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Blood",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp10/map-01.02-g-jungle-temple-entrance-closed-blood.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Blood",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp10/map-01.02-gl-jungle-temple-entrance-closed-blood.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Blood River",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp10/map-01.03-g-jungle-temple-entrance-closed-bloodriver.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Blood River",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp10/map-01.03-gl-jungle-temple-entrance-closed-bloodriver.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Fireflies",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp10/map-01.04-g-jungle-temple-entrance-closed-fireflies.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Fireflies",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp10/map-01.04-gl-jungle-temple-entrance-closed-fireflies.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed No Flames Dark",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp10/map-01.05-g-jungle-temple-entrance-closed-noflames-dark.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed No Flames Dark",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp10/map-01.05-gl-jungle-temple-entrance-closed-noflames-dark.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Original Day",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp10/map-01.06-g-jungle-temple-entrance-closed-original-day.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Original Day",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp10/map-01.06-gl-jungle-temple-entrance-closed-original-day.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Original Night",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp10/map-01.07-g-jungle-temple-entrance-closed-original-night.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Original Night",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp10/map-01.07-gl-jungle-temple-entrance-closed-original-night.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Rain",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp10/map-01.08-g-jungle-temple-entrance-closed-rain.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Rain",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp10/map-01.08-gl-jungle-temple-entrance-closed-rain.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Symbols",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp10/map-01.09-g-jungle-temple-entrance-closed-symbols.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Symbols",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp10/map-01.09-gl-jungle-temple-entrance-closed-symbols.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Toxic",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp10/map-01.10-g-jungle-temple-entrance-closed-toxic.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Closed Toxic",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp10/map-01.10-gl-jungle-temple-entrance-closed-toxic.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Autumn",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp10/map-01.11-g-jungle-temple-entrance-open-autumn.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Autumn",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp10/map-01.11-gl-jungle-temple-entrance-open-autumn.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Blood",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp10/map-01.12-g-jungle-temple-entrance-open-blood.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Blood",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp10/map-01.12-gl-jungle-temple-entrance-open-blood.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Blood River",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp10/map-01.13-g-jungle-temple-entrance-open-bloodriver.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Blood River",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp10/map-01.13-gl-jungle-temple-entrance-open-bloodriver.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+         {
+            "name": "Open Fireflies",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp10/map-01.14-g-jungle-temple-entrance-open-fireflies.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Fireflies",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp10/map-01.14-gl-jungle-temple-entrance-open-fireflies.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Massacre",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp10/map-01.15-g-jungle-temple-entrance-open-massacre.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Massacre",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp10/map-01.15-gl-jungle-temple-entrance-open-massacre.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open No Flames Day",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp10/map-01.16-g-jungle-temple-entrance-open-noflames-day.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open No Flames Day",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp10/map-01.16-gl-jungle-temple-entrance-open-noflames-day.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open No Flames Night",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp10/map-01.17-g-jungle-temple-entrance-open-noflames-night.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open No Flames Night",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp10/map-01.17-gl-jungle-temple-entrance-open-noflames-night.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Original Day",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp10/map-01.18-g-jungle-temple-entrance-open-original-day.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Original Day",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp10/map-01.18-gl-jungle-temple-entrance-open-original-day.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Original Night",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp10/map-01.19-g-jungle-temple-entrance-open-original-night.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Original Night",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp10/map-01.19-gl-jungle-temple-entrance-open-original-night.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Rain",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp10/map-01.20-g-jungle-temple-entrance-open-rain.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Rain",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp10/map-01.20-gl-jungle-temple-entrance-open-rain.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Symbols",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp10/map-01.21-g-jungle-temple-entrance-open-symbols.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Symbols",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp10/map-01.21-gl-jungle-temple-entrance-open-symbols.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Toxic",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp10/map-01.22-g-jungle-temple-entrance-open-toxic.jpg",
+            "tokenScale": 0.030432867496896634
+          },
+          {
+            "name": "Open Toxic",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp10/map-01.22-gl-jungle-temple-entrance-open-toxic.jpg",
+            "tokenScale": 0.030432867496896634
+          }
+        ]
+      }
+    ]
+  }

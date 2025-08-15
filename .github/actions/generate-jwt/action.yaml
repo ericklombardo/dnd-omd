@@ -1,0 +1,21 @@
+name: "Generate JWT"
+description: Generate and Sign JWT
+
+inputs:
+  jwt_secret_key:
+    description: "The JWT secret key to use for signing"
+    required: true
+
+outputs:
+  signed_jwt:
+    value: ${{ steps.generate_jwt.outputs.signed_jwt }}
+
+runs:
+  using: "composite"
+  steps:
+    - id: generate_jwt
+      name: Generate and Sign JWT
+      shell: bash
+      run: npm run generate-jwt
+      env:
+        JWT_SECRET_KEY: ${{ inputs.jwt_secret_key }}

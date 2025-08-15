@@ -1,0 +1,38 @@
+name: Deploy Changed Sources to Staging
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'sources/*.json'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ddb-arc-stg
+    container:
+      image: ghcr.io/catthehacker/ubuntu:act-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate and Sign JWT
+        id: jwt
+        uses: ./.github/actions/generate-jwt
+        with:
+          jwt_secret_key: ${{ secrets.JWT_SECRET_KEY_STG }}
+
+      - name: Deploy Changed Sources to Staging
+        run: npm run deploy-map-data-by-sources
+        env:
+          API_URL: "https://stg.dndbeyond.com/games/api"
+          BEARER_TOKEN: ${{ steps.jwt.outputs.signed_jwt }}

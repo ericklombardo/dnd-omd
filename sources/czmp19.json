@@ -1,0 +1,211 @@
+{
+    "type": "mappack",
+    "name": "CZMP19",
+    "description": "Czepeku: Spider Queen Throne",
+    "backgroundImageKey": "official/covers/czmp19.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Spider Queen Throne",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Baby Spiders",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp19/map-01.01-g-spider-queen-throne-babyspiders.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Baby Spiders",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp19/map-01.01-gl-spider-queen-throne-babyspiders.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Broken Bridge",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp19/map-01.02-g-spider-queen-throne-brokenbridge.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Broken Bridge",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp19/map-01.02-gl-spider-queen-throne-brokenbridge.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Dead Spider",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp19/map-01.03-g-spider-queen-throne-deadspider.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Dead Spider",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp19/map-01.03-gl-spider-queen-throne-deadspider.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Fire Throne",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp19/map-01.04-g-spider-queen-throne-firethrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Fire Throne",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp19/map-01.04-gl-spider-queen-throne-firethrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Frozen Throne",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp19/map-01.05-g-spider-queen-throne-frozenthrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Frozen Throne",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp19/map-01.05-gl-spider-queen-throne-frozenthrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Hostage",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp19/map-01.06-g-spider-queen-throne-hostage.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Hostage",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp19/map-01.06-gl-spider-queen-throne-hostage.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Hostages",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp19/map-01.07-g-spider-queen-throne-hostages.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Hostages",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp19/map-01.07-gl-spider-queen-throne-hostages.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Hostile",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp19/map-01.08-g-spider-queen-throne-hostile.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Hostile",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp19/map-01.08-gl-spider-queen-throne-hostile.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "No Throne",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp19/map-01.09-g-spider-queen-throne-nothrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "No Throne",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp19/map-01.09-gl-spider-queen-throne-nothrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "No Throne Queen Spider",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp19/map-01.10-g-spider-queen-throne-nothronequeenspider.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "No Throne Queen Spider",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp19/map-01.10-gl-spider-queen-throne-nothronequeenspider.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Original",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp19/map-01.11-g-spider-queen-throne-original.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Original",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp19/map-01.11-gl-spider-queen-throne-original.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Spider Throne",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp19/map-01.12-g-spider-queen-throne-spiderthrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Spider Throne",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp19/map-01.12-gl-spider-queen-throne-spiderthrone.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "The Queen",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp19/map-01.13-g-spider-queen-throne-thequeen.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "The Queen",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp19/map-01.13-gl-spider-queen-throne-thequeen.jpg",
+            "tokenScale": 0.0341796875
+          },
+         {
+            "name": "Umbral",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp19/map-01.14-g-spider-queen-throne-umbral.jpg",
+            "tokenScale": 0.0341796875
+          },
+          {
+            "name": "Umbral",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp19/map-01.14-gl-spider-queen-throne-umbral.jpg",
+            "tokenScale": 0.0341796875
+          }
+        ]
+      }
+    ]
+  }

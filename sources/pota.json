@@ -1,0 +1,428 @@
+{
+  "type": "adventure",
+  "name": "PotA",
+  "description": "Princes of the Apocalypse",
+  "backgroundImageKey": "official/covers/pota.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 2: The Dessarin Valley",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Red Larch",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/pota/map-1.01-red-larch.jpg",
+          "tokenScale": 0.00964285714285714
+        },
+        {
+          "name": "Red Larch",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/pota/map-1.01-red-larch-player.jpg",
+          "tokenScale": 0.00964285714285714
+        },
+        {
+          "name": "The Dessarin Valley",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/pota/map-1.02-the-dessarin-valley.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "The Dessarin Valley",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/pota/map-1.02-the-dessarin-valley-player.jpg",
+          "tokenScale": 0.01
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 3: Secret of the Sumber Hills",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Feathergale Spire",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/pota/map-2.01-feathergale-spire.jpg",
+          "tokenScale": 0.0246875
+        },
+        {
+          "name": "Feathergale Spire",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/pota/map-2.01-feathergale-spire-player.jpg",
+          "tokenScale": 0.0246875
+        },
+        {
+          "name": "Sighing Valley",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/pota/map-2.02-sighing-valley.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Sighing Valley",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/pota/map-2.02-sighing-valley-player.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Rivergard Keep",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/pota/map-2.03-rivergard-keep.jpg",
+          "tokenScale": 0.0125
+        },
+        {
+          "name": "Rivergard Keep",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/pota/map-2.03-rivergard-keep-player.jpg",
+          "tokenScale": 0.0125
+        },
+        {
+          "name": "Sacred Stone Monastery",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/pota/map-2.04-sacred-stone-monastery.jpg",
+          "tokenScale": 0.01475
+        },
+        {
+          "name": "Sacred Stone Monastery",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/pota/map-2.04-sacred-stone-monastery-player.jpg",
+          "tokenScale": 0.01475
+        },
+        {
+          "name": "Scarlet Moon Hall",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/pota/map-2.05-scarlet-moon-hall.jpg",
+          "tokenScale": 0.013532763532763533
+        },
+        {
+          "name": "Scarlet Moon Hall",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/pota/map-2.05-scarlet-moon-hall-player.jpg",
+          "tokenScale": 0.013532763532763533
+        },
+        {
+          "name": "Scarlet Moon Hall (Tower Side View)",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/pota/map-2.05-scarlet-moon-hall-tower-side-view.jpg",
+          "tokenScale": 0.08574380165289253
+        },
+        {
+          "name": "Scarlet Moon Hall (Tower Side View)",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/pota/map-2.05-scarlet-moon-hall-tower-side-view-player.jpg",
+          "tokenScale": 0.08574380165289253
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 4: Air, Earth, Fire, and Water",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Temple of Howling Hatred",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/pota/map-3.01-temple-of-howling-hatred.jpg",
+          "tokenScale": 0.0140625
+        },
+        {
+          "name": "Temple of Howling Hatred",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/pota/map-3.01-temple-of-howling-hatred-player.jpg",
+          "tokenScale": 0.0140625
+        },
+        {
+          "name": "Temple of the Crushing Wave",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/pota/map-3.02-temple-of-the-crushing-wave.jpg",
+          "tokenScale": 0.0145
+        },
+        {
+          "name": "Temple of the Crushing Wave",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/pota/map-3.02-temple-of-the-crushing-wave-player.jpg",
+          "tokenScale": 0.0145
+        },
+        {
+          "name": "Temple of Black Earth",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/pota/map-3.03-temple-of-black-earth.jpg",
+          "tokenScale": 0.014166666666666664
+        },
+        {
+          "name": "Temple of Black Earth",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/pota/map-3.03-temple-of-black-earth-player.jpg",
+          "tokenScale": 0.014166666666666664
+        },
+        {
+          "name": "Temple of Eternal Flame",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/pota/map-3.04-temple-of-eternal-flame.jpg",
+          "tokenScale": 0.014285714285714282
+        },
+        {
+          "name": "Temple of Eternal Flame",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/pota/map-3.04-temple-of-eternal-flame-player.jpg",
+          "tokenScale": 0.014285714285714282
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 5: Temple of the Elder Elemental Eye",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Fane of the Eye",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/pota/map-4.01-fane-of-the-eye.jpg",
+          "tokenScale": 0.014821428571428567
+        },
+        {
+          "name": "Fane of the Eye",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/pota/map-4.01-fane-of-the-eye-player.jpg",
+          "tokenScale": 0.014821428571428567
+        },
+        {
+          "name": "Howling Caves",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/pota/map-4.02-howling-caves.jpg",
+          "tokenScale": 0.008653846153846153
+        },
+        {
+          "name": "Howling Caves",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/pota/map-4.02-howling-caves-player.jpg",
+          "tokenScale": 0.008653846153846153
+        },
+        {
+          "name": "The Plunging Torrents",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/pota/map-4.03-the-plunging-torrents.jpg",
+          "tokenScale": 0.011538461538461536
+        },
+        {
+          "name": "The Plunging Torrents",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/pota/map-4.03-the-plunging-torrents-player.jpg",
+          "tokenScale": 0.011538461538461536
+        },
+        {
+          "name": "The Black Geode",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/pota/map-4.04-the-black-geode.jpg",
+          "tokenScale": 0.0125
+        },
+        {
+          "name": "The Black Geode",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/pota/map-4.04-the-black-geode-player.jpg",
+          "tokenScale": 0.0125
+        },
+        {
+          "name": "The Weeping Colossus",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/pota/map-4.05-the-weeping-colossus.jpg",
+          "tokenScale": 0.026111111111111113
+        },
+        {
+          "name": "The Weeping Colossus",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/pota/map-4.05-the-weeping-colossus-player.jpg",
+          "tokenScale": 0.026111111111111113
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 6: Alarums and Excursions",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Red Larch Surroundings",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/pota/map-5.01-red-larch-surroundings.jpg",
+          "tokenScale": 0.016
+        },
+        {
+          "name": "Red Larch Surroundings",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/pota/map-5.01-red-larch-surroundings-player.jpg",
+          "tokenScale": 0.016
+        },
+        {
+          "name": "Necromancer’s Cave",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/pota/map-5.02-necromancers-cave.jpg",
+          "tokenScale": 0.014464285714285709
+        },
+        {
+          "name": "Necromancer’s Cave",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/pota/map-5.02-necromancers-cave-player.jpg",
+          "tokenScale": 0.014464285714285709
+        },
+        {
+          "name": "Tomb of Moving Stones",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/pota/map-5.03-tomb-of-moving-stones.jpg",
+          "tokenScale": 0.008571428571428568
+        },
+        {
+          "name": "Tomb of Moving Stones",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/pota/map-5.03-tomb-of-moving-stones-player.jpg",
+          "tokenScale": 0.008571428571428568
+        },
+        {
+          "name": "Bargewright Inn",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/pota/map-5.04-bargewright-inn.jpg",
+          "tokenScale": 0.009999999999999998
+        },
+        {
+          "name": "Bargewright Inn",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/pota/map-5.04-bargewright-inn-player.jpg",
+          "tokenScale": 0.009999999999999998
+        },
+        {
+          "name": "Dellmon Ranch",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/pota/map-5.05-dellmon-ranch.jpg",
+          "tokenScale": 0.02916666666666666
+        },
+        {
+          "name": "Dellmon Ranch",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/pota/map-5.05-dellmon-ranch-player.jpg",
+          "tokenScale": 0.02916666666666666
+        },
+        {
+          "name": "The Barrow Mound",
+          "description": "",
+          "order": 11,
+          "imageKey": "official/maps/pota/map-5.06-the-barrow-mound.jpg",
+          "tokenScale": 0.026249999999999996
+        },
+        {
+          "name": "Shrine of the Tender Oath",
+          "description": "(DM version)",
+          "order": 12,
+          "imageKey": "official/maps/pota/map-5.07-shrine-of-the-tender-oath.jpg",
+          "tokenScale": 0.022142857142857138
+        },
+        {
+          "name": "Shrine of the Tender Oath",
+          "description": "(Player version)",
+          "order": 13,
+          "imageKey": "official/maps/pota/map-5.07-shrine-of-the-tender-oath-player.jpg",
+          "tokenScale": 0.022142857142857138
+        },
+        {
+          "name": "Yartar",
+          "description": "(DM version)",
+          "order": 14,
+          "imageKey": "official/maps/pota/map-5.08-yartar.jpg",
+          "tokenScale": 0.00975
+        },
+        {
+          "name": "Yartar",
+          "description": "(Player version)",
+          "order": 15,
+          "imageKey": "official/maps/pota/map-5.08-yartar-player.jpg",
+          "tokenScale": 0.00975
+        },
+        {
+          "name": "Halls of the Hunting Axe (Areas X1-X7)",
+          "description": "(DM version)",
+          "order": 16,
+          "imageKey": "official/maps/pota/map-5.09-halls-of-the-hunting-axe-areas-x1-7.jpg",
+          "tokenScale": 0.0025
+        },
+        {
+          "name": "Halls of the Hunting Axe (Areas X1-X7)",
+          "description": "(Player version)",
+          "order": 17,
+          "imageKey": "official/maps/pota/map-5.09-halls-of-the-hunting-axe-areas-x1-7-player.jpg",
+          "tokenScale": 0.0025
+        },
+        {
+          "name": "Halls of the Hunting Axe (Areas X8-X9)",
+          "description": "(DM version)",
+          "order": 18,
+          "imageKey": "official/maps/pota/map-5.09-halls-of-the-hunting-axe-areas-x8-9.png",
+          "tokenScale": 0.015015015015015015
+        },
+        {
+          "name": "Halls of the Hunting Axe (Areas X8-X9)",
+          "description": "(Player version)",
+          "order": 19,
+          "imageKey": "official/maps/pota/map-5.09-halls-of-the-hunting-axe-areas-x8-9-player.png",
+          "tokenScale": 0.015015015015015015
+        },
+        {
+          "name": "Halls of the Hunting Axe (Areas X10-X11)",
+          "description": "(DM version)",
+          "order": 20,
+          "imageKey": "official/maps/pota/map-5.09-halls-of-the-hunting-axe-areas-x10-11.png",
+          "tokenScale": 0.03078078078078078
+        },
+        {
+          "name": "Halls of the Hunting Axe (Areas X10-X11)",
+          "description": "(Player version)",
+          "order": 21,
+          "imageKey": "official/maps/pota/map-5.09-halls-of-the-hunting-axe-areas-x10-11-player.png",
+          "tokenScale": 0.03078078078078078
+        }
+      ]
+    }
+  ]
+}

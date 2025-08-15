@@ -1,0 +1,428 @@
+{
+  "type": "adventure",
+  "name": "LoE",
+  "description": "Lairs of Etharis",
+  "backgroundImageKey": "official/covers/loe.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "1: Bone House",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Bone House",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-00.01-bone-house.jpg",
+          "tokenScale": 0.033939393939393936
+        },
+        {
+          "name": "Bone House",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-00.01-bone-house-player.jpg",
+          "tokenScale": 0.033939393939393936
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "2: Faren’s Rest",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Faren’s Rest",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-00.02-farens-rest.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Faren’s Rest",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-00.02-farens-rest-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "3: Leatherhollow",
+      "order": 3,
+      "maps": [
+        {
+          "name": "The Leatherhollow",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-03.01-leatherhollow.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "The Leatherhollow",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-03.01-leatherhollow-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "4: Apostate Temple",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Apostate Temple",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-04.01-apostate-temple.jpg",
+          "tokenScale": 0.034188034188034185
+        },
+        {
+          "name": "Apostate Temple",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-04.01-apostate-temple-player.jpg",
+          "tokenScale": 0.034188034188034185
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "5: Gloomrock Caverns",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Gloomrock Caverns",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-05.01-gloomrock-caverns.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Gloomrock Caverns",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-05.01-gloomrock-caverns-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "6: Boulderwood Path",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Boulderwood Path",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-06.01-boulderwood-path.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Boulderwood Path",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-06.01-boulderwood-path-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "7: Flamegrit Iron Mine",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Flamegrit Iron Mine",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-07.01-flamegrit-iron-mine.jpg",
+          "tokenScale": 0.034333333333333334
+        },
+        {
+          "name": "Flamegrit Iron Mine",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-07.01-flamegrit-iron-mine-player.jpg",
+          "tokenScale": 0.034333333333333334
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "8: Shadowsteel Citadel",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Shadowsteel Citadel",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-08.01-shadowsteel-citadel.jpg",
+          "tokenScale": 0.034666666666666665
+        },
+        {
+          "name": "Shadowsteel Citadel",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-08.01-shadowsteel-citadel-player.jpg",
+          "tokenScale": 0.034666666666666665
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "9: Storm Sanctuary",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Storm Sanctuary",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-09.01-storm-sanctuary.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Storm Sanctuary",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-09.01-storm-sanctuary-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "10: Sardonyx Necropolis",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Sardonyx Necropolis",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-10.01-sardonyx-necropolis.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Sardonyx Necropolis",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-10.01-sardonyx-necropolis-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "11: Foulest Truths",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Foulest Truths",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-11.01-foulest-truths.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Foulest Truths",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-11.01-foulest-truths-player.jpg",
+          "tokenScale": 0.033666666666666664
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "12: The Tower of Flicker and Shadow",
+      "order": 12,
+      "maps": [
+        {
+          "name": "The Tower of Flicker and Shadow",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-12.01-flicker-and-shadow.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "The Tower of Flicker and Shadow",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-12.01-flicker-and-shadow-player.jpg",
+          "tokenScale": 0.033666666666666664
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "13: Swamp of Fate",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Swamp of Fate",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-13.01-swamp-of-fate.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Swamp of Fate",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-13.01-swamp-of-fate-player.jpg",
+          "tokenScale": 0.033666666666666664
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "14: Street Prophet",
+      "order": 14,
+      "maps": [
+        {
+          "name": "Street Prophet",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-14.01-street-prophet.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Street Prophet",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-14.01-street-prophet-player.jpg",
+          "tokenScale": 0.033666666666666664
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "15: The Thundering Hills",
+      "order": 15,
+      "maps": [
+        {
+          "name": "The Thundering Hills",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-15.01-thundering-hills.jpg",
+          "tokenScale": 0.034333333333333334
+        },
+        {
+          "name": "The Thundering Hills",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-15.01-thundering-hills-player.jpg",
+          "tokenScale": 0.034333333333333334
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "16: Safe in the Stillborn",
+      "order": 16,
+      "maps": [
+        {
+          "name": "Safe in the Stillborn",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-16.01-stillborn.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Safe in the Stillborn",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-16.01-stillborn-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "17: Cave of Rising Sands",
+      "order": 17,
+      "maps": [
+        {
+          "name": "Cave of Rising Sands",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-17.01-rising-sands.jpg",
+          "tokenScale": 0.034333333333333334
+        },
+        {
+          "name": "Cave of Rising Sands",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-17.01-rising-sands-player.jpg",
+          "tokenScale": 0.034333333333333334
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "18: Mayhem at the Crossroads",
+      "order": 18,
+      "maps": [
+        {
+          "name": "Mayhem at the Crossroads",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-18.01-mayhem-crossroads.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Mayhem at the Crossroads",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-18.01-mayhem-crossroads-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "19: Prison of Good Intent",
+      "order": 19,
+      "maps": [
+        {
+          "name": "Prison of Good Intent",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-19.01-prison-of-good-intent.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Prison of Good Intent",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-19.01-prison-of-good-intent-player.jpg",
+          "tokenScale": 0.033666666666666664
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "20: Top of the World",
+      "order": 20,
+      "maps": [
+        {
+          "name": "Top of the World",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/loe/map-20.01-top-of-the-world.jpg",
+          "tokenScale": 0.03333333333333333
+        },
+        {
+          "name": "Top of the World",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/loe/map-20.01-top-of-the-world-player.jpg",
+          "tokenScale": 0.03333333333333333
+        }
+      ]
+    }
+  ]
+}

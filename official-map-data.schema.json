@@ -1,0 +1,116 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/OfficialMapData",
+  "definitions": {
+    "OfficialMapData": {
+      "type": "object",
+      "properties": {
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Source"
+          }
+        }
+      },
+      "required": [
+        "sources"
+      ],
+      "additionalProperties": false
+    },
+    "Source": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "sourcebook",
+            "adventure",
+            "basic",
+            "mappack"
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "backgroundImageKey": {
+          "type": "string"
+        },
+        "chapters": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Chapter"
+          }
+        }
+      },
+      "required": [
+        "type",
+        "name",
+        "description",
+        "backgroundImageKey",
+        "chapters"
+      ],
+      "additionalProperties": false
+    },
+    "Chapter": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "order": {
+          "type": "number"
+        },
+        "maps": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Map"
+          }
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "order",
+        "maps"
+      ],
+      "additionalProperties": false
+    },
+    "Map": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "order": {
+          "type": "number"
+        },
+        "imageKey": {
+          "type": "string"
+        },
+        "videoKey": {
+          "type": "string"
+        },
+        "tokenScale": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "name",
+        "description",
+        "order",
+        "imageKey",
+        "tokenScale"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

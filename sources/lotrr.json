@@ -1,0 +1,225 @@
+{
+  "type": "sourcebook",
+  "name": "LotRR",
+  "description": "The Lord of the Rings Roleplaying",
+  "backgroundImageKey": "official/covers/lotrr.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Prologue",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Eriador",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/lotrr/map-1.01-eriador-world.jpg",
+          "tokenScale": 0.005018446180555553
+        },
+        {
+          "name": "Eriador",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/lotrr/map-1.01-eriador-world-Player.jpg",
+          "tokenScale": 0.005018446180555553
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Adventuring Phases",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Eriador",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/lotrr/map-4.01-eriador-hex.jpg",
+          "tokenScale": 0.004882812499999998
+        },
+        {
+          "name": "Eriador",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/lotrr/map-4.01-eriador-hex-player.jpg",
+          "tokenScale": 0.004882812499999998
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "The World",
+      "order": 3,
+      "maps": [
+        {
+          "name": "The Shire",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/lotrr/map-9.01-the-shire.jpg",
+          "tokenScale": 0.010452392617997712
+        },
+        {
+          "name": "The Shire",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/lotrr/map-9.01-the-shire-Player.jpg",
+          "tokenScale": 0.010452392617997712
+        },
+        {
+          "name": "Lake Evendim",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/lotrr/map-9.02-lake-evendim.jpg",
+          "tokenScale": 0.021811649987169616
+        },
+        {
+          "name": "Lake Evendim",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/lotrr/map-9.02-lake-evendim-Player.jpg",
+          "tokenScale": 0.021811649987169616
+        },
+        {
+          "name": "Bree-land",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/lotrr/map-9.03-bree.jpg",
+          "tokenScale": 0.017236135050187566
+        },
+        {
+          "name": "Bree-land",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/lotrr/map-9.03-bree-Player.jpg",
+          "tokenScale": 0.017236135050187566
+        },
+        {
+          "name": "The Great East Road",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/lotrr/map-9.04-the-great-east-road.jpg",
+          "tokenScale": 0.012190874259839774
+        },
+        {
+          "name": "The Great East Road",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/lotrr/map-9.04-the-great-east-road-Player.jpg",
+          "tokenScale": 0.012190874259839774
+        },
+        {
+          "name": "The Greenway",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/lotrr/map-9.05-the-greenway.jpg",
+          "tokenScale": 0.0127939142461964
+        },
+        {
+          "name": "The Greenway",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/lotrr/map-9.05-the-greenway-Player.jpg",
+          "tokenScale": 0.0127939142461964
+        },
+        {
+          "name": "Weather Hills",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/lotrr/map-9.06-weather-hills.jpg",
+          "tokenScale": 0.022280471821756218
+        },
+        {
+          "name": "Weather Hills",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/lotrr/map-9.06-weather-hills-Player.jpg",
+          "tokenScale": 0.022280471821756218
+        },
+        {
+          "name": "The Old Witch-Realm of Angmar",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/lotrr/map-9.07-witch-realm-of-angmar.jpg",
+          "tokenScale": 0.013196214051692755
+        },
+        {
+          "name": "The Old Witch-Realm of Angmar",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/lotrr/map-9.07-witch-realm-of-angmar-Player.jpg",
+          "tokenScale": 0.013196214051692755
+        },
+        {
+          "name": "The Trollshaws",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/lotrr/map-9.08-trollshaws.jpg",
+          "tokenScale": 0.024243140964995264
+        },
+        {
+          "name": "The Trollshaws",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/lotrr/map-9.08-trollshaws-Player.jpg",
+          "tokenScale": 0.024243140964995264
+        },
+        {
+          "name": "Tharbad",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/lotrr/map-9.09-cardolan-tharbad.jpg",
+          "tokenScale": 0.014685485844823362
+        },
+        {
+          "name": "Tharbad",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/lotrr/map-9.09-cardolan-tharbad-Player.jpg",
+          "tokenScale": 0.014685485844823362
+        },
+        {
+          "name": "Lindon",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/lotrr/map-9.10-lindon.jpg",
+          "tokenScale": 0.012666666666666666
+        },
+        {
+          "name": "Lindon",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/lotrr/map-9.10-lindon-Player.jpg",
+          "tokenScale": 0.012666666666666666
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Appendix",
+      "order": 4,
+      "maps": [
+        {
+          "name": "The Flooded Chambers",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/lotrr/map-10.01-the-flooded-chambers.jpg",
+          "tokenScale": 0.012743362831858408
+        },
+        {
+          "name": "The Accursed Halls",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/lotrr/map-10.02-accursed-halls.jpg",
+          "tokenScale": 0.015399900645802286
+        },
+        {
+          "name": "The Tower of the Star",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/lotrr/map-10.03-tower-of-the-star.jpg",
+          "tokenScale": 0.015105740181268883
+        }
+      ]
+    }
+  ]
+}

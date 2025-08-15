@@ -1,0 +1,504 @@
+{
+    "type": "mappack",
+    "name": "CZMP1",
+    "description": "Czepeku: Archaeological Dig",
+    "backgroundImageKey": "official/covers/czmp1.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Archaeological Dig",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Amber",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp1/map-01.01-g-archaeological-dig-amber.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Amber",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp1/map-01.01-gl-archaeological-dig-amber.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Blood Pit",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp1/map-01.02-g-archaeological-dig-bloodpit.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Blood Pit",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp1/map-01.02-gl-archaeological-dig-bloodpit.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Fireflies",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp1/map-01.03-g-archaeological-dig-fireflies.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Fireflies",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp1/map-01.03-gl-archaeological-dig-fireflies.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Gold Dragon",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp1/map-01.04-g-archaeological-dig-golddragon.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Gold Dragon",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp1/map-01.04-gl-archaeological-dig-golddragon.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Lava",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp1/map-01.05-g-archaeological-dig-lava.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Lava",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp1/map-01.05-g-archaeological-dig-lava.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp1/map-01.06-g-archaeological-dig-massacre.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp1/map-01.06-gl-archaeological-dig-massacre.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Natural Day",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp1/map-01.07-g-archaeological-dig-natural-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Natural Day",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp1/map-01.07-gl-archaeological-dig-natural-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Natural Night",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp1/map-01.08-g-archaeological-dig-natural-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Natural Night",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp1/map-01.08-gl-archaeological-dig-natural-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Necro Dragon",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp1/map-01.09-g-archaeological-dig-necrodragon.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Necro Dragon",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp1/map-01.09-gl-archaeological-dig-necrodragon.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Necro Dragon Night",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp1/map-01.10-g-archaeological-dig-necrodragon-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Necro Dragon Night",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp1/map-01.10-gl-archaeological-dig-necrodragon-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Night Light",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp1/map-01.11-g-archaeological-dig-nightlight.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Night Light",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp1/map-01.11-gl-archaeological-dig-nightlight.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Camp Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp1/map-01.12-g-archaeological-dig-nocamp-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Camp Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp1/map-01.12-gl-archaeological-dig-nocamp-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Camp Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp1/map-01.13-g-archaeological-dig-nocamp-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Camp Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp1/map-01.13-gl-archaeological-dig-nocamp-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+         {
+            "name": "No Dragon Bones Day",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp1/map-01.14-g-archaeological-dig-nodragonbones-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Bones Day",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp1/map-01.14-gl-archaeological-dig-nodragonbones-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Bones Night",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp1/map-01.15-g-archaeological-dig-nodragonbones-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Bones Night",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp1/map-01.15-gl-archaeological-dig-nodragonbones-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Head Day",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp1/map-01.16-g-archaeological-dig-nodragonhead-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Head Day",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp1/map-01.16-gl-archaeological-dig-nodragonhead-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Head Night",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp1/map-01.17-g-archaeological-dig-nodragonhead-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "No Dragon Head Night",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp1/map-01.17-gl-archaeological-dig-nodragonhead-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp1/map-01.18-g-archaeological-dig-original-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp1/map-01.18-gl-archaeological-dig-original-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp1/map-01.19-g-archaeological-dig-original-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp1/map-01.19-gl-archaeological-dig-original-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp1/map-01.20-g-archaeological-dig-rain.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp1/map-01.20-gl-archaeological-dig-rain.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Sandstorm",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp1/map-01.21-g-archaeological-dig-sandstorm.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Sandstorm",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp1/map-01.21-gl-archaeological-dig-sandstorm.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 1 Day",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp1/map-01.22-g-archaeological-dig-stage1-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 1 Day",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp1/map-01.22-gl-archaeological-dig-stage1-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 1 Night",
+            "description": "(with grid)",
+            "order": 45,
+            "imageKey": "official/maps/czmp/czmp1/map-01.23-g-archaeological-dig-stage1-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 1 Night",
+            "description": "(without grid)",
+            "order": 46,
+            "imageKey": "official/maps/czmp/czmp1/map-01.23-gl-archaeological-dig-stage1-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },          {
+            "name": "Stage 2 Day",
+            "description": "(with grid)",
+            "order": 47,
+            "imageKey": "official/maps/czmp/czmp1/map-01.24-g-archaeological-dig-stage2-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 2 Day",
+            "description": "(without grid)",
+            "order": 48,
+            "imageKey": "official/maps/czmp/czmp1/map-01.24-gl-archaeological-dig-stage2-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 2 Night",
+            "description": "(with grid)",
+            "order": 49,
+            "imageKey": "official/maps/czmp/czmp1/map-01.25-g-archaeological-dig-stage2-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 2 Night",
+            "description": "(without grid)",
+            "order": 50,
+            "imageKey": "official/maps/czmp/czmp1/map-01.25-gl-archaeological-dig-stage2-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 3 Day",
+            "description": "(with grid)",
+            "order": 51,
+            "imageKey": "official/maps/czmp/czmp1/map-01.26-g-archaeological-dig-stage3-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 3 Day",
+            "description": "(without grid)",
+            "order": 52,
+            "imageKey": "official/maps/czmp/czmp1/map-01.26-gl-archaeological-dig-stage3-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 3 Night",
+            "description": "(with grid)",
+            "order": 53,
+            "imageKey": "official/maps/czmp/czmp1/map-01.27-g-archaeological-dig-stage3-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 3 Night",
+            "description": "(without grid)",
+            "order": 54,
+            "imageKey": "official/maps/czmp/czmp1/map-01.27-gl-archaeological-dig-stage3-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 4 Day",
+            "description": "(with grid)",
+            "order": 55,
+            "imageKey": "official/maps/czmp/czmp1/map-01.28-g-archaeological-dig-stage4-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 4 Day",
+            "description": "(without grid)",
+            "order": 56,
+            "imageKey": "official/maps/czmp/czmp1/map-01.28-gl-archaeological-dig-stage4-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 4 Night",
+            "description": "(with grid)",
+            "order": 57,
+            "imageKey": "official/maps/czmp/czmp1/map-01.29-g-archaeological-dig-stage4-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Stage 4 Night",
+            "description": "(without grid)",
+            "order": 58,
+            "imageKey": "official/maps/czmp/czmp1/map-01.29-gl-archaeological-dig-stage4-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Tarpit",
+            "description": "(with grid)",
+            "order": 59,
+            "imageKey": "official/maps/czmp/czmp1/map-01.30-g-archaeological-dig-tarpit.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Tarpit",
+            "description": "(without grid)",
+            "order": 60,
+            "imageKey": "official/maps/czmp/czmp1/map-01.30-gl-archaeological-dig-tarpit.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 61,
+            "imageKey": "official/maps/czmp/czmp1/map-01.31-g-archaeological-dig-toxic.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 62,
+            "imageKey": "official/maps/czmp/czmp1/map-01.31-gl-archaeological-dig-toxic.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter Day",
+            "description": "(with grid)",
+            "order": 63,
+            "imageKey": "official/maps/czmp/czmp1/map-01.32-g-archaeological-dig-winter-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter Day",
+            "description": "(without grid)",
+            "order": 64,
+            "imageKey": "official/maps/czmp/czmp1/map-01.32-gl-archaeological-dig-winter-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+         {
+            "name": "Winter Night",
+            "description": "(with grid)",
+            "order": 65,
+            "imageKey": "official/maps/czmp/czmp1/map-01.33-g-archaeological-dig-winter-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter Night",
+            "description": "(without grid)",
+            "order": 66,
+            "imageKey": "official/maps/czmp/czmp1/map-01.33-gl-archaeological-dig-winter-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter No Dragon Day",
+            "description": "(with grid)",
+            "order": 67,
+            "imageKey": "official/maps/czmp/czmp1/map-01.34-g-archaeological-dig-winter-nodragon-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter No Dragon Day",
+            "description": "(without grid)",
+            "order": 68,
+            "imageKey": "official/maps/czmp/czmp1/map-01.34-gl-archaeological-dig-winter-nodragon-day.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter No Dragon Night",
+            "description": "(with grid)",
+            "order": 69,
+            "imageKey": "official/maps/czmp/czmp1/map-01.35-g-archaeological-dig-winter-nodragon-night.jpg",
+            "tokenScale": 0.03458605664488016
+          },
+          {
+            "name": "Winter No Dragon Night",
+            "description": "(without grid)",
+            "order": 70,
+            "imageKey": "official/maps/czmp/czmp1/map-01.35-gl-archaeological-dig-winter-nodragon-night.jpg",
+            "tokenScale": 0.03458605664488016
+          }
+        ]
+      }
+    ]
+  }

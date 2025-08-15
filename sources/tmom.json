@@ -1,0 +1,71 @@
+{
+    "type": "adventure",
+    "name": "tmom",
+    "description": "The Malady of Minarrh",
+    "backgroundImageKey": "official/covers/tmom.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "The Malady of Minarrah",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Minarrh",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tmom/map-00.01-minarrh.jpg",
+            "tokenScale": 0.016197975253093362
+          },
+          {
+            "name": "Minarrh",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tmom/map-00.01-minarrh-player.jpg",
+            "tokenScale": 0.016197975253093362
+          },
+          {
+            "name": "Temple of Damathur",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tmom/map-00.02-temple-of-damathur.jpg",
+            "tokenScale": 0.02557374132716598
+          },
+          {
+            "name": "Temple of Damathur",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tmom/map-00.02-temple-of-damathur-player.jpg",
+            "tokenScale": 0.02557374132716598
+          },
+          {
+            "name": "Thieves’ Den",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/tmom/map-00.03-thieves-den.jpg",
+            "tokenScale": 0.055584436357819796
+          },
+          {
+            "name": "Thieves’ Den",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/tmom/map-00.03-thieves-den-player.jpg",
+            "tokenScale": 0.055584436357819796
+          },
+          {
+            "name": "The Lovers’ Hideaway",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/tmom/map-00.04-the-lovers-hideaway.jpg",
+            "tokenScale": 0.04514435695538057
+          },
+          {
+            "name": "The Lovers’ Hideaway",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/tmom/map-00.04-the-lovers-hideaway-player.jpg",
+            "tokenScale": 0.04514435695538057
+          }
+        ]
+      }
+    ]
+  }

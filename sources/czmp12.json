@@ -1,0 +1,267 @@
+{
+    "type": "mappack",
+    "name": "CZMP12",
+    "description": "Czepeku: Medieval Jail",
+    "backgroundImageKey": "official/covers/czmp12.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Medieval Jail",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Abandoned",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp12/map-01.01-g-medieval-jail-abandoned.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Abandoned",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp12/map-01.01-gl-medieval-jail-abandoned.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Empty Day",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp12/map-01.02-g-medieval-jail-empty-day.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Empty Day",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp12/map-01.02-gl-medieval-jail-empty-day.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Empty Night",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp12/map-01.03-g-medieval-jail-empty-night.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Empty Night",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp12/map-01.03-gl-medieval-jail-empty-night.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Blue",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp12/map-01.04-g-medieval-jail-fire-blue.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Blue",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp12/map-01.04-gl-medieval-jail-fire-blue.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Green",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp12/map-01.05-g-medieval-jail-fire-green.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Green",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp12/map-01.05-gl-medieval-jail-fire-green.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Pink",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp12/map-01.06-g-medieval-jail-fire-pink.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Pink",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp12/map-01.06-gl-medieval-jail-fire-pink.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Purple",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp12/map-01.07-g-medieval-jail-fire-purple.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fire Purple",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp12/map-01.07-gl-medieval-jail-fire-purple.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Flooded",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp12/map-01.08-g-medieval-jail-flooded.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Flooded",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp12/map-01.08-gl-medieval-jail-flooded.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Frozen",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp12/map-01.09-g-medieval-jail-frozen.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Frozen",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp12/map-01.09-gl-medieval-jail-frozen.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fun Dungeon",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp12/map-01.10-g-medieval-jail-fundungeon.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Fun Dungeon",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp12/map-01.10-gl-medieval-jail-fundungeon.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Haunted",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp12/map-01.11-g-medieval-jail-haunted.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Haunted",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp12/map-01.11-gl-medieval-jail-haunted.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Humane",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp12/map-01.12-g-medieval-jail-humane.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Humane",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp12/map-01.12-gl-medieval-jail-humane.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp12/map-01.13-g-medieval-jail-massacre.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp12/map-01.13-gl-medieval-jail-massacre.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+         {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp12/map-01.14-g-medieval-jail-original- day.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp12/map-01.14-gl-medieval-jail-original- day.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp12/map-01.15-g-medieval-jail-original-night.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp12/map-01.15-gl-medieval-jail-original-night.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Spider",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp12/map-01.16-g-medieval-jail-spider.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Spider",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp12/map-01.16-gl-medieval-jail-spider.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Toxic Lime",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp12/map-01.17-g-medieval-jail-toxic-lime.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Toxic Lime",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp12/map-01.17-gl-medieval-jail-toxic-lime.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Toxic Pink",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp12/map-01.18-g-medieval-jail-toxic-pink.jpg",
+            "tokenScale": 0.024473026080743122
+          },
+          {
+            "name": "Toxic Pink",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp12/map-01.18-gl-medieval-jail-toxic-pink.jpg",
+            "tokenScale": 0.024473026080743122
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,267 @@
+{
+    "type": "mappack",
+    "name": "CZMP8",
+    "description": "Czepeku: Hanging Gardens",
+    "backgroundImageKey": "official/covers/czmp8.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Hanging Gardens",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp8/map-01.01-g-hanging-gardens-autumn.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp8/map-01.01-gl-hanging-gardens-autumn.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Empty",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp8/map-01.02-g-hanging-gardens-empty.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Empty",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp8/map-01.02-gl-hanging-gardens-empty.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Guardians of Night",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp8/map-01.03-g-hanging-gardens-guardiansofnight.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Guardians of Night",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp8/map-01.03-gl-hanging-gardens-guardiansofnight.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Jungle Palace",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp8/map-01.04-g-hanging-gardens-junglepalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Jungle Palace",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp8/map-01.04-gl-hanging-gardens-junglepalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Lava",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp8/map-01.05-g-hanging-gardens-lava.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Lava",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp8/map-01.05-gl-hanging-gardens-lava.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Moonlight",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp8/map-01.06-g-hanging-gardens-moonlight.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Moonlight",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp8/map-01.06-gl-hanging-gardens-moonlight.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Animals",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp8/map-01.07-g-hanging-gardens-noanimals.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Animals",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp8/map-01.07-gl-hanging-gardens-noanimals.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Boats",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp8/map-01.08-g-hanging-gardens-noboats.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Boats",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp8/map-01.08-gl-hanging-gardens-noboats.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Plants",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp8/map-01.09-g-hanging-gardens-noplants.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Plants",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp8/map-01.09-gl-hanging-gardens-noplants.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Water",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp8/map-01.10-g-hanging-gardens-nowater.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "No Water",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp8/map-01.10-gl-hanging-gardens-nowater.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp8/map-01.11-g-hanging-gardens-original-day.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp8/map-01.11-gl-hanging-gardens-original-day.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp8/map-01.12-g-hanging-gardens-original-night.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp8/map-01.12-gl-hanging-gardens-original-night.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Rose Palace",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp8/map-01.13-g-hanging-gardens-rosepalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Rose Palace",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp8/map-01.13-gl-hanging-gardens-rosepalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+         {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp8/map-01.14-g-hanging-gardens-spring.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp8/map-01.14-gl-hanging-gardens-spring.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Verdant Palace",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp8/map-01.15-g-hanging-gardens-verdantpalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Verdant Palace",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp8/map-01.15-gl-hanging-gardens-verdantpalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Water Temple",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp8/map-01.16-g-hanging-gardens-watertemple.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Water Temple",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp8/map-01.16-gl-hanging-gardens-watertemple.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "White Palace",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp8/map-01.17-g-hanging-gardens-whitepalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "White Palace",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp8/map-01.17-gl-hanging-gardens-whitepalace.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp8/map-01.18-g-hanging-gardens-winter.jpg",
+            "tokenScale": 0.03475413602941175
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp8/map-01.18-gl-hanging-gardens-winter.jpg",
+            "tokenScale": 0.03475413602941175
+          }
+        ]
+      }
+    ]
+  }

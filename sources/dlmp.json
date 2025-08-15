@@ -1,0 +1,85 @@
+{
+    "type": "mappack",
+    "name": "DLMP",
+    "description": "Dragon Lairs",
+    "backgroundImageKey": "official/covers/dlmp.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Dragon Lairs",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Black Dragon Lair",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/dlmp/map-01.01-black-dragon-lair.jpg",
+            "tokenScale": 0.029894276339773963
+          },
+          {
+            "name": "Black Dragon Lair",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/dlmp/map-01.01-black-dragon-lair-player.jpg",
+            "tokenScale": 0.029894276339773963
+          },
+          {
+            "name": "Blue Dragon Lair",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/dlmp/map-01.02-blue-dragon-lair.jpg",
+            "tokenScale": 0.03044664656039063
+          },
+          {
+            "name": "Blue Dragon Lair",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/dlmp/map-01.02-blue-dragon-lair-player.jpg",
+            "tokenScale": 0.03044664656039063
+          },
+          {
+            "name": "Copper Dragon Lair",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/dlmp/map-01.03-copper-dragon-lair.jpg",
+            "tokenScale": 0.030390275111964172
+          },
+          {
+            "name": "Copper Dragon Lair",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/dlmp/map-01.03-copper-dragon-lair-player.jpg",
+            "tokenScale": 0.030390275111964172
+          },
+          {
+            "name": "Gold Dragon Lair",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/dlmp/map-01.04-gold-dragon-lair.jpg",
+            "tokenScale": 0.030015797788309637
+          },
+          {
+            "name": "Gold Dragon Lair",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/dlmp/map-01.04-gold-dragon-lair-player.jpg",
+            "tokenScale": 0.030015797788309637
+          },
+          {
+            "name": "Red Dragon Lair",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/dlmp/map-01.05-red-dragon-lair.jpg",
+            "tokenScale": 0.030015797788309637
+          },
+          {
+            "name": "Red Dragon Lair",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/dlmp/map-01.05-red-dragon-lair-player.jpg",
+            "tokenScale": 0.030015797788309637
+          }
+        ]
+      }
+    ]
+  }

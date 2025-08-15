@@ -1,0 +1,407 @@
+{
+  "type": "adventure",
+  "name": "ToA",
+  "description": "Tomb of Annihilation",
+  "backgroundImageKey": "official/covers/toa.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Port Nyanzaru",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Port Nyanzaru",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/toa/map-1.01-port-nyanzaru.jpg",
+          "tokenScale": 0.0084375
+        },
+        {
+          "name": "Port Nyanzaru",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/toa/map-1.01-port-nyanzaru-player.jpg",
+          "tokenScale": 0.0084375
+        },
+        {
+          "name": "Merchant Prince's Villa",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/toa/map-1.02-merchant-princes-villa.jpg",
+          "tokenScale": 0.01425
+        },
+        {
+          "name": "Merchant Prince's Villa",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/toa/map-1.02-merchant-princes-villa-player.jpg",
+          "tokenScale": 0.01425
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: The Land of Chult",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Chult",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/toa/map-2.01-chult.jpg",
+          "tokenScale": 0.005875
+        },
+        {
+            "name": "Chult",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/toa/map-2.01-chult-player.jpg",
+            "tokenScale": 0.005625
+        },
+        {
+            "name": "Ataaz Muhahah",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/toa/map-2.02-ataaz-muhahah.jpg",
+            "tokenScale": 0.02361111111111111
+        },
+        {
+            "name": "Camp Righteous",
+            "description": "(DM version)",
+            "order": 4,
+            "imageKey": "official/maps/toa/map-2.03-camp-righteous.jpg",
+            "tokenScale": 0.02159090909090909
+        },
+        {
+            "name": "Camp Righteous",
+            "description": "(Player version)",
+            "order": 5,
+            "imageKey": "official/maps/toa/map-2.03-camp-righteous-player.jpg",
+            "tokenScale": 0.02159090909090909
+        },
+        {
+            "name": "Camp Vengeance",
+            "description": "(DM version)",
+            "order": 6,
+            "imageKey": "official/maps/toa/map-2.04-camp-vengeance.jpg",
+            "tokenScale": 0.021428571428571422
+        },
+        {
+            "name": "Camp Vengeance",
+            "description": "(Player version)",
+            "order": 7,
+            "imageKey": "official/maps/toa/map-2.04-camp-vengeance-player.jpg",
+            "tokenScale": 0.021428571428571422
+        },
+        {
+            "name": "Dungrunglung",
+            "description": "(DM version)",
+            "order": 8,
+            "imageKey": "official/maps/toa/map-2.05-dungrunglung.jpg",
+            "tokenScale": 0.008611111111111108
+        },
+        {
+            "name": "Dungrunglung",
+            "description": "(Player version)",
+            "order": 9,
+            "imageKey": "official/maps/toa/map-2.05-dungrunglung-player.jpg",
+            "tokenScale": 0.008611111111111108
+        },
+        {
+            "name": "Firefinger",
+            "description": "",
+            "order": 10,
+            "imageKey": "official/maps/toa/map-2.06-firefinger.jpg",
+            "tokenScale": 0.019333333333333327
+        },
+        {
+            "name": "Fort Beluarian",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/toa/map-2.07-fort-beluarian.jpg",
+            "tokenScale": 0.007833333333333331
+        },
+        {
+            "name": "Fort Beluarian",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/toa/map-2.07-fort-beluarian-player.jpg",
+            "tokenScale": 0.007833333333333331
+        },
+        {
+            "name": "Heart of Ubtao",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/toa/map-2.08-heart-of-ubtao.jpg",
+            "tokenScale": 0.015882352941176466
+        },
+        {
+            "name": "Heart of Ubtao",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/toa/map-2.08-heart-of-ubtao-player.jpg",
+            "tokenScale": 0.015882352941176466
+        },
+        {
+            "name": "Hrakhamar",
+            "description": "(DM version)",
+            "order": 15,
+            "imageKey": "official/maps/toa/map-2.09-hrakhamar.jpg",
+            "tokenScale": 0.01735294117647058
+        },
+        {
+            "name": "Hrakhamar",
+            "description": "(Player version)",
+            "order": 16,
+            "imageKey": "official/maps/toa/map-2.09-hrakhamar-player.jpg",
+            "tokenScale": 0.01735294117647058
+        },
+        {
+            "name": "Jahaka Anchorage",
+            "description": "(DM version)",
+            "order": 17,
+            "imageKey": "official/maps/toa/map-2.10-jahaka-anchorage.jpg",
+            "tokenScale": 0.009615384615384614
+        },
+        {
+            "name": "Jahaka Anchorage",
+            "description": "(Player version)",
+            "order": 18,
+            "imageKey": "official/maps/toa/map-2.10-jahaka-anchorage-player.jpg",
+            "tokenScale": 0.009615384615384614
+        },
+        {
+            "name": "Kir Sabal",
+            "description": "(DM version)",
+            "order": 19,
+            "imageKey": "official/maps/toa/map-2.11-kir-sabal.jpg",
+            "tokenScale": 0.019666666666666662
+        },
+        {
+            "name": "Kir Sabal",
+            "description": "(Player version)",
+            "order": 20,
+            "imageKey": "official/maps/toa/map-2.11-kir-sabal-player.jpg",
+            "tokenScale": 0.019666666666666662
+        },
+        {
+            "name": "Nangalore",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/toa/map-2.12-nangalore.jpg",
+            "tokenScale": 0.018823529411764697
+        },
+        {
+            "name": "Nangalore",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/toa/map-2.12-nangalore-player.jpg",
+            "tokenScale": 0.018823529411764697
+        },
+        {
+            "name": "Wreck of the Star Goddess",
+            "description": "",
+            "order": 23,
+            "imageKey": "official/maps/toa/map-2.13-wreck-of-the-star-goddess.jpg",
+            "tokenScale": 0.019558823529411757
+        },
+        {
+            "name": "Wyrmheart Mine",
+            "description": "(DM version)",
+            "order": 24,
+            "imageKey": "official/maps/toa/map-2.14-wyrmheart-mine.jpg",
+            "tokenScale": 0.01680555555555555
+        },
+        {
+            "name": "Wyrmheart Mine",
+            "description": "(Player version)",
+            "order": 25,
+            "imageKey": "official/maps/toa/map-2.14-wyrmheart-mine-player.jpg",
+            "tokenScale": 0.01680555555555555
+        },
+        {
+            "name": "Yellyark",
+            "description": "(DM version)",
+            "order": 26,
+            "imageKey": "official/maps/toa/map-2.15-yellyark.jpg",
+            "tokenScale": 0.02166666666666666
+        },
+        {
+            "name": "Yellyark",
+            "description": "(Player version)",
+            "order": 27,
+            "imageKey": "official/maps/toa/map-2.15-yellyark-player.jpg",
+            "tokenScale": 0.02166666666666666
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Dwellers of the Forbidden City",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Omu",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/toa/map-3.01-omu.jpg",
+          "tokenScale": 0.010416666666666664
+        },
+        {
+          "name": "Omu",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/toa/map-3.01-omu-player.jpg",
+          "tokenScale": 0.010416666666666664
+        },
+        {
+            "name": "Nine Shrines",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/toa/map-3.02-nine-shrines.jpg",
+            "tokenScale": 0.017941176470588228
+        },
+        {
+            "name": "Nine Shrines",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/toa/map-3.02-nine-shrines-player.jpg",
+            "tokenScale": 0.017941176470588228
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: Fane of the Night Serpent",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Fane of the Night Serpent",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/toa/map-4.01-fane-of-the-night-serpent.jpg",
+          "tokenScale": 0.018833333333333327
+        },
+        {
+          "name": "Fane of the Night Serpent",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/toa/map-4.01-fane-of-the-night-serpent-player.jpg",
+          "tokenScale": 0.018833333333333327
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Tomb of the Nine Gods",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Level 1: Rotten Halls",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/toa/map-5.01-level-1-rotten-halls.jpg",
+          "tokenScale": 0.015526315789473676
+        },
+        {
+          "name": "Level 1: Rotten Halls",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/toa/map-5.01-level-1-rotten-halls-player.jpg",
+          "tokenScale": 0.015526315789473676
+        },
+        {
+            "name": "Level 2: Dungeon of Deception",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/toa/map-5.02-level-2-dungeon-of-deception.jpg",
+            "tokenScale": 0.01808823529411764
+        },
+        {
+            "name": "Level 2: Dungeon of Deception",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/toa/map-5.02-level-2-dungeon-of-deception-player.jpg",
+            "tokenScale": 0.01808823529411764
+        },
+        {
+            "name": "Level 3: Vault of Reflection",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/toa/map-5.03-level-3-vault-of-reflection.jpg",
+            "tokenScale": 0.018124999999999995
+        },
+        {
+            "name": "Level 3: Vault of Reflection",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/toa/map-5.03-level-3-vault-of-reflection-player.jpg",
+            "tokenScale": 0.018124999999999995
+        },
+        {
+            "name": "Level 4: Chambers of Horror",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/toa/map-5.04-level-4-chambers-of-horror.jpg",
+            "tokenScale": 0.015972222222222218
+        },
+        {
+            "name": "Level 4: Chambers of Horror",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/toa/map-5.04-level-4-chambers-of-horror-player.jpg",
+            "tokenScale": 0.015972222222222218
+        },
+        {
+            "name": "Level 5: Gears of Hate",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/toa/map-5.05-level-5-gears-of-hate.jpg",
+            "tokenScale": 0.01592105263157894
+        },
+        {
+            "name": "Level 5: Gears of Hate",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/toa/map-5.05-level-5-gears-of-hate-player.jpg",
+            "tokenScale": 0.01592105263157894
+        },
+        {
+            "name": "Level 6: Cradle of the Death God",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/toa/map-5.06-level-6-cradle-of-the-death-god.jpg",
+            "tokenScale": 0.01808823529411764
+        },
+        {
+            "name": "Level 6: Cradle of the Death God",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/toa/map-5.06-level-6-cradle-of-the-death-god-player.jpg",
+            "tokenScale": 0.01808823529411764
+        }
+      ]
+    },
+    {
+        "id": "5",
+        "name": "Appendix E: Player Handouts",
+        "order": 6,
+        "maps": [
+          {
+            "name": "I’jin’s Puzzle Floor",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/toa/map-10.01-ijins-puzzle-floor.jpg",
+            "tokenScale": 0.12124999999999998
+          },
+          {
+            "name": "Hieroglyphic Floor",
+            "description": "",
+            "order": 2,
+            "imageKey": "official/maps/toa/map-10.02-hieroglyphic-floor.jpg",
+            "tokenScale": 0.0805
+          }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+    "type": "mappack",
+    "name": "CZMP11",
+    "description": "Czepeku: Market City Walls",
+    "backgroundImageKey": "official/covers/czmp11.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Market City Walls",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp11/map-01.01-g-market-city-walls-autumn.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp11/map-01.01-gl-market-city-walls-autumn.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Blood River",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp11/map-01.02-g-market-city-walls-bloodriver.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Blood River",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp11/map-01.02-gl-market-city-walls-bloodriver.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "City Streets Day",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp11/map-01.03-g-market-city-walls-citystreets-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "City Streets Day",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp11/map-01.03-gl-market-city-walls-citystreets-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "City Streets Night",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp11/map-01.04-g-market-city-walls-citystreets-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "City Streets Night",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp11/map-01.04-gl-market-city-walls-citystreets-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Dark",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp11/map-01.05-g-market-city-walls-dark.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Dark",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp11/map-01.05-gl-market-city-walls-dark.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp11/map-01.06-g-market-city-walls-desert.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp11/map-01.06-gl-market-city-walls-desert.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Drought",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp11/map-01.07-g-market-city-walls-drought.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Drought",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp11/map-01.07-gl-market-city-walls-drought.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Empty Day",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp11/map-01.08-g-market-city-walls-empty-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Empty Day",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp11/map-01.08-gl-market-city-walls-empty-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Empty Night",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp11/map-01.09-g-market-city-walls-empty-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Empty Night",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp11/map-01.09-gl-market-city-walls-empty-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Flood Day",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp11/map-01.10-g-market-city-walls-flood-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Flood Day",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp11/map-01.10-gl-market-city-walls-flood-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Flood Night",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp11/map-01.11-g-market-city-walls-flood-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Flood Night",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp11/map-01.11-gl-market-city-walls-flood-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp11/map-01.12-g-market-city-walls-fog.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp11/map-01.12-gl-market-city-walls-fog.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "No Market Day",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp11/map-01.13-g-market-city-walls-nomarket-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "No Market Day",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp11/map-01.13-gl-market-city-walls-nomarket-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+         {
+            "name": "No Market Night",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp11/map-01.14-g-market-city-walls-nomarket-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "No Market Night",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp11/map-01.14-gl-market-city-walls-nomarket-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp11/map-01.15-g-market-city-walls-original-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp11/map-01.15-gl-market-city-walls-original-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp11/map-01.16-g-market-city-walls-original-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp11/map-01.16-gl-market-city-walls-original-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp11/map-01.17-g-market-city-walls-rain.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp11/map-01.17-gl-market-city-walls-rain.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Siege Day",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp11/map-01.18-g-market-city-walls-siege-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Siege Day",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp11/map-01.18-gl-market-city-walls-siege-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Siege Night",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp11/map-01.19-g-market-city-walls-siege-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Siege Night",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp11/map-01.19-gl-market-city-walls-siege-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp11/map-01.20-g-market-city-walls-spring.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp11/map-01.20-gl-market-city-walls-spring.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp11/map-01.21-g-market-city-walls-toxic.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp11/map-01.21-gl-market-city-walls-toxic.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Village Market Day",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp11/map-01.22-g-market-city-walls-villagemarket-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Village Market Day",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp11/map-01.22-gl-market-city-walls-villagemarket-day.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Village Market Night",
+            "description": "(with grid)",
+            "order": 45,
+            "imageKey": "official/maps/czmp/czmp11/map-01.23-g-market-city-walls-villagemarket-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Village Market Night",
+            "description": "(without grid)",
+            "order": 46,
+            "imageKey": "official/maps/czmp/czmp11/map-01.23-gl-market-city-walls-villagemarket-night.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 47,
+            "imageKey": "official/maps/czmp/czmp11/map-01.24-g-market-city-walls-winter.jpg",
+            "tokenScale": 0.03105263157894737
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 48,
+            "imageKey": "official/maps/czmp/czmp11/map-01.24-gl-market-city-walls-winter.jpg",
+            "tokenScale": 0.03105263157894737
+          }
+        ]
+      }
+    ]
+  }

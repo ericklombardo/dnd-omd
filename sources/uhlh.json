@@ -1,0 +1,43 @@
+{
+  "type": "adventure",
+  "name": "UHLH",
+  "description": "Uni and the Hunt for the Lost Horn",
+  "backgroundImageKey": "official/covers/uhlh.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Uni and the Hunt for the Lost Horn",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Woodland Pool",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/uhlh/Woodland-Pool-DM.jpg",
+          "tokenScale": 0.01611328125
+        },
+        {
+          "name": "Woodland Pool",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/uhlh/Woodland-Pool-Player.jpg",
+          "tokenScale": 0.01611328125
+        },
+        {
+          "name": "The Crystal Ball",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/uhlh/The-Crystal-Ball-DM.jpg",
+          "tokenScale": 0.01622393354676819
+        },
+        {
+          "name": "The Crystal Ball",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/uhlh/The-Crystal-Ball-Player.jpg",
+          "tokenScale": 0.01622393354676819
+        }
+      ]
+    }
+  ]
+}

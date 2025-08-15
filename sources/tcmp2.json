@@ -1,0 +1,722 @@
+{
+  "type": "adventure",
+  "name": "tcmp2",
+  "description": "The Crooked Moon Part Two: Monsters & Adventure Campaign",
+  "backgroundImageKey": "official/covers/TCMP2.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Druskenvald",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Druskenvald",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tcmp2/map-1.01-druskenvald.png",
+          "tokenScale": 0.0037560096153846146
+        },
+        {
+          "name": "Druskenvald",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tcmp2/map-1.01-druskenvald-player.png",
+          "tokenScale": 0.0037560096153846146
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "The Ghostlight Express",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Passenger Car",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/tcmp2/map-03.01-passenger-car.png",
+          "tokenScale": 0.044555664062499986
+        },
+        {
+          "name": "Sleeper Car",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/tcmp2/map-03.02-sleeper-car.png",
+          "tokenScale": 0.0444878472222222
+        },
+        {
+          "name": "Lounge Car",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/tcmp2/map-03.03-lounge-car.png",
+          "tokenScale": 0.044921875
+        },
+        {
+          "name": "Dining Car",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/tcmp2/map-03.04-dining-car.png",
+          "tokenScale": 0.04443359375
+        },
+        {
+          "name": "Mail Car",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/tcmp2/map-03.05-mail-car.png",
+          "tokenScale": 0.044677734375
+        },
+        {
+          "name": "Baggage Car",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/tcmp2/map-03.06-baggage-car.png",
+          "tokenScale": 0.044677734375
+        },
+        {
+          "name": "Circus Car",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/tcmp2/map-03.07-circus-car.png",
+          "tokenScale": 0.044189453125
+        },
+        {
+          "name": "Tender",
+          "description": "",
+          "order": 8,
+          "imageKey": "official/maps/tcmp2/map-03.08-tender.png",
+          "tokenScale": 0.044921875
+        },
+        {
+          "name": "Ghostlight Wreckage",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/tcmp2/map-03.09-ghostlight-wreckage.png",
+          "tokenScale": 0.032784598214285705
+        },
+        {
+          "name": "Ghostlight Wreckage",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/tcmp2/map-03.09-ghostlight-wreckage-player.png",
+          "tokenScale": 0.032784598214285705
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Wickermoor Village",
+      "order": 3,
+      "maps": [
+        {
+            "name": "The Founder’s Round",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-04.01-the-founders-round.png",
+            "tokenScale": 0.049072265625
+          },
+          {
+            "name": "Wickermoor Village",
+            "description": "(DM version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-04.02-wickermoor-village.png",
+            "tokenScale": 0.014204545454545454
+          },
+          {
+            "name": "Wickermoor Village",
+            "description": "(Player version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-04.02-wickermoor-village-player.png",
+            "tokenScale": 0.014204545454545454
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "The Crooked House",
+      "order": 4,
+      "maps": [
+        {
+            "name": "The Crooked House (First Floor)",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-05.01-crooked-house-first-floor.png",
+            "tokenScale": 0.051060267857142856
+          },
+          {
+            "name": "The Crooked House (First Floor)",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-05.01-crooked-house-first-floor-player.png",
+            "tokenScale": 0.051060267857142856
+          },
+          {
+            "name": "The Crooked House (Second Floor)",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-05.02-crooked-house-second-floor.png",
+            "tokenScale": 0.05078125
+          },
+          {
+            "name": "The Crooked House (Second Floor)",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-05.02-crooked-house-second-floor-player.png",
+            "tokenScale": 0.05078125
+          },
+          {
+            "name": "The Crooked House (Third Floor)",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/tcmp2/map-05.03-crooked-house-third-floor.png",
+            "tokenScale": 0.050502232142857144
+          },
+          {
+            "name": "The Crooked House (Third Floor)",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/tcmp2/map-05.03-crooked-house-third-floor-player.png",
+            "tokenScale": 0.050502232142857144
+          },
+          {
+            "name": "The Crooked House (Attic)",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/tcmp2/map-05.04-crooked-house-attic.png",
+            "tokenScale": 0.051060267857142856
+          },
+          {
+            "name": "The Crooked House (Attic)",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/tcmp2/map-05.04-crooked-house-attic-player.png",
+            "tokenScale": 0.051060267857142856
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Fields of the Crow",
+      "order": 5,
+      "maps": [
+        {
+            "name": "Foxwillow",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-06.01-foxwillow.png",
+            "tokenScale": 0.009987571022727272
+          },
+          {
+            "name": "Foxwillow",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-06.01-foxwillow-player.png",
+            "tokenScale": 0.009987571022727272
+          },
+          {
+            "name": "Windmill",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-06.02-windmill.png",
+            "tokenScale": 0.03125
+          },
+          {
+            "name": "Windmill",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-06.02-windmill.png",
+            "tokenScale": 0.03125
+          },
+          {
+            "name": "Circle of Secrets",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/tcmp2/map-06.03-circle-of-secrets.png",
+            "tokenScale": 0.0498046875
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "The Crimson Monastery",
+      "order": 6,
+      "maps": [
+        {
+            "name": "The Crimson Monastery",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-07.01-the-crimson-monastery.png",
+            "tokenScale": 0.014527027027027028
+          },
+          {
+            "name": "The Crimson Monastery",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-07.01-the-crimson-monastery.png",
+            "tokenScale": 0.014527027027027028
+          },
+          {
+            "name": "The Bloody Sanctum",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-07.02-bloody-sanctum.png",
+            "tokenScale": 0.0994873046875
+          },
+          {
+            "name": "Sanguine Cathedral",
+            "description": "",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-07.03-sanquine-cathedral.png",
+            "tokenScale": 0.050048828125
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "The Drowned Crossroads",
+      "order": 7,
+      "maps": [
+        {
+            "name": "Swamp Encounters",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-08.01-swamp-encounters.png",
+            "tokenScale": 0.04345703125
+          },
+          {
+            "name": "Dead Man’s Hand",
+            "description": "(DM version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-08.02-dead-mans-hand.png",
+            "tokenScale": 0.034490904795653185
+          },
+          {
+            "name": "Dead Man’s Hand",
+            "description": "(Player version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-08.02-dead-mans-hand-player.png",
+            "tokenScale": 0.034490904795653185
+          },
+          {
+            "name": "Jinxcraft Casino",
+            "description": "",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-08.03-jinxcraft-casino.png",
+            "tokenScale": 0.05029296875
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Skitterdeep Mine",
+      "order": 8,
+      "maps": [
+        {
+            "name": "Skitterdeep Mine (Side)",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-09.01-skitterdeep-mine-side.png",
+            "tokenScale": 0.01611328125
+          },
+          {
+            "name": "Skitterdeep Mine (Side)",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-09.01-skitterdeep-mine-side-player.png",
+            "tokenScale": 0.01611328125
+          },
+          {
+            "name": "Mining Camp",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-09.02-mining-camp.png",
+            "tokenScale": 0.026104266826923073
+          },
+          {
+            "name": "Mining Camp",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-09.02-mining-camp-player.png",
+            "tokenScale": 0.026104266826923073
+          },
+          {
+            "name": "Old Drift",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/tcmp2/map-09.03-old-drift.png",
+            "tokenScale": 0.0234375
+          },
+          {
+            "name": "Old Drift",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/tcmp2/map-09.03-old-drift-player.png",
+            "tokenScale": 0.0234375
+          },
+          {
+            "name": "Crosscut",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/tcmp2/map-09.04-crosscut.png",
+            "tokenScale": 0.03076171875
+          },
+          {
+            "name": "Crosscut",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/tcmp2/map-09.04-crosscut-player.png",
+            "tokenScale": 0.03076171875
+          },
+          {
+            "name": "Deep Drift & Stronoga’s Laboratory",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/tcmp2/map-09.05-deep-drift.png",
+            "tokenScale": 0.03515625
+          },
+          {
+            "name": "Deep Drift & Stronoga’s Laboratory",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/tcmp2/map-09.05-deep-drift-player.png",
+            "tokenScale": 0.03515625
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Memory’s Rest",
+      "order": 9,
+      "maps": [
+        {
+            "name": "Memory’s Rest Sanatorium (First Floor)",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-10.01-sanatorium-first-floor.png",
+            "tokenScale": 0.03497164461247637
+          },
+          {
+            "name": "Memory’s Rest Sanatorium (First Floor)",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-10.01-sanatorium-first-floor-player.png",
+            "tokenScale": 0.03497164461247637
+          },
+          {
+            "name": "Memory’s Rest Sanatorium (Second Floor)",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-10.02-sanatorium-second-floor.png",
+            "tokenScale": 0.034341524889729046
+          },
+          {
+            "name": "Memory’s Rest Sanatorium (Second Floor)",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-10.02-sanatorium-second-floor-player.png",
+            "tokenScale": 0.034341524889729046
+          },
+          {
+            "name": "Grotto of Tears",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/tcmp2/map-10.03-grotto-of-tears.png",
+            "tokenScale": 0.04931640625
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Hartsblight Forest",
+      "order": 10,
+      "maps": [
+        {
+            "name": "Hartsblight Forest",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-11.01-hartsblight-forest.png",
+            "tokenScale": 0.00927734375
+          },
+          {
+            "name": "Hartsblight Forest",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-11.01-hartsblight-forest-player.png",
+            "tokenScale": 0.00927734375
+          },
+          {
+            "name": "Blighted Woods & Festering Wilds Encounters",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-11.02-blighted-woods.png",
+            "tokenScale": 0.057133311059137985
+          },
+          {
+            "name": "Befouled Wellspring",
+            "description": "",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-11.03-befoulded-wellspring.png",
+            "tokenScale": 0.056130972268626796
+          },
+          {
+            "name": "Den of the Blighted One",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/tcmp2/map-11.04-den-of-the-blighted-one.png",
+            "tokenScale": 0.049560546875
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Maidenmist Cemetary",
+      "order": 11,
+      "maps": [
+        {
+            "name": "Maidenmist Cemetary",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-12.01-maidenmist-cemetary.png",
+            "tokenScale": 0.0107421875
+          },
+          {
+            "name": "Maidenmist Cemetary",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-12.01-maidenmist-cemetary-player.png",
+            "tokenScale": 0.0107421875
+          },
+          {
+            "name": "Highborn Crypts",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-12.02-highborn-crypts.png",
+            "tokenScale": 0.08952644313861044
+          },
+          {
+            "name": "Highborn Crypts",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-12.02-highborn-crypts-player.png",
+            "tokenScale": 0.08952644313861044
+          },
+          {
+            "name": "Cremation Gardens",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/tcmp2/map-12.03-cremation-gardens.png",
+            "tokenScale": 0.08987210508123056
+          },
+          {
+            "name": "Cremation Gardens",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/tcmp2/map-12.03-cremation-gardens-player.png",
+            "tokenScale": 0.08987210508123056
+          },
+          {
+            "name": "Potter’s Field",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/tcmp2/map-12.04-potters-field.png",
+            "tokenScale": 0.08987210508123056
+          },
+          {
+            "name": "Potter’s Field",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/tcmp2/map-12.04-potters-field-player.png",
+            "tokenScale": 0.08987210508123056
+          },
+          {
+            "name": "Mausoleum Lanes",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/tcmp2/map-12.05-mausoleum-lanes.png",
+            "tokenScale": 0.08987210508123056
+          },
+          {
+            "name": "Mausoleum Lanes",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/tcmp2/map-12.05-mausoleum-lanes-player.png",
+            "tokenScale": 0.08987210508123056
+          },
+          {
+            "name": "Burial Mounds",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/tcmp2/map-12.06-burial-mounds.png",
+            "tokenScale": 0.0888351192533702
+          },
+          {
+            "name": "Burial Mounds",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/tcmp2/map-12.06-burial-mounds-player.png",
+            "tokenScale": 0.0888351192533702
+          },
+          {
+            "name": "Tomb of the Shrouded",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/tcmp2/map-12.07-tomb-of-the-shrouded.png",
+            "tokenScale": 0.06814367237327962
+          },
+          {
+            "name": "Tomb of the Shrouded",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/tcmp2/map-12.07-tomb-of-the-shrouded-player.png",
+            "tokenScale": 0.06814367237327962
+          }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "The Roving Rookery",
+      "order": 12,
+      "maps": [
+        {
+            "name": "Walking Dovecote (Side)",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-13.01-walking-dovecote-side.png",
+            "tokenScale": 0.04007561436672968
+          },
+          {
+            "name": "Walking Dovecote (Side)",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-13.01-walking-dovecote-side-player.png",
+            "tokenScale": 0.04007561436672968
+          },
+          {
+            "name": "Walking Dovecote",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-13.02-walking-dovecote.png",
+            "tokenScale": 0.07151221144195381
+          },
+          {
+            "name": "Walking Dovecote",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-13.02-walking-dovecote-player.png",
+            "tokenScale": 0.07151221144195381
+          }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Fool’s Day",
+      "order": 13,
+      "maps": [
+        {
+            "name": "Festival of Fools",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-14.01-festival-of-fools.png",
+            "tokenScale": 0.025634765625
+          },
+          {
+            "name": "Festival of Fools",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-14.01-festival-of-fools-player.png",
+            "tokenScale": 0.025634765625
+          },
+          {
+            "name": "Ring of Fools",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-14.02-ring-of-fools.png",
+            "tokenScale": 0.0498046875
+          }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "The Crooked Nightmare",
+      "order": 14,
+      "maps": [
+        {
+            "name": "Dark Wood",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-15.01-dark-wood.png",
+            "tokenScale": 0.0634765625
+          },
+          {
+            "name": "Smoking Crater",
+            "description": "",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-15.02-smoking-crater.png",
+            "tokenScale": 0.04296875
+          },
+          {
+            "name": "Wedding Feast",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-15.03-wedding-feast.png",
+            "tokenScale": 0.05345956384532051
+          },
+          {
+            "name": "Crooked Attic",
+            "description": "",
+            "order": 4,
+            "imageKey": "official/maps/tcmp2/map-15.04-crooked-attic.png",
+            "tokenScale": 0.10010649627263046
+          }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Wicker’s Vigil",
+      "order": 15,
+      "maps": [
+        {
+            "name": "Moors Encounters",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-16.01-moors-encounters.png",
+            "tokenScale": 0.04150390624999999
+          },
+          {
+            "name": "Rowan’s Rise",
+            "description": "",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-16.02-rowans-rise.png",
+            "tokenScale": 0.05431720345286122
+          },
+          {
+            "name": "Wicker’s Vigil",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/tcmp2/map-16.03-wickers-vigil.png",
+            "tokenScale": 0.06948640483383686
+          }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "The Crooked Tree",
+      "order": 16,
+      "maps": [
+        {
+            "name": "Wytchwood Encounters",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/tcmp2/map-17.01-wytchwood-encounters.png",
+            "tokenScale": 0.043212890625
+          },
+          {
+            "name": "The Crooked Tree",
+            "description": "",
+            "order": 2,
+            "imageKey": "official/maps/tcmp2/map-17.02-the-crooked-tree.png",
+            "tokenScale": 0.046142578125
+          }
+      ]
+    }
+  ]
+}

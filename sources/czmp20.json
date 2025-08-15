@@ -1,0 +1,295 @@
+{
+    "type": "mappack",
+    "name": "CZMP20",
+    "description": "Czepeku: Village Hunting Guild",
+    "backgroundImageKey": "official/covers/czmp20.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Village Hunting Guild",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp20/map-01.01-g-village-hunting-guild-autumn.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp20/map-01.01-gl-village-hunting-guild-autumn.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Burgled",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp20/map-01.02-g-village-hunting-guild-burgled.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Burgled",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp20/map-01.02-gl-village-hunting-guild-burgled.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Dark",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp20/map-01.03-g-village-hunting-guild-dark.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Dark",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp20/map-01.03-gl-village-hunting-guild-dark.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Desert Day",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp20/map-01.04-g-village-hunting-guild-desert-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Desert Day",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp20/map-01.04-gl-village-hunting-guild-desert-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Desert Night",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp20/map-01.05-g-village-hunting-guild-desert-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Desert Night",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp20/map-01.05-gl-village-hunting-guild-desert-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Empty Day",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp20/map-01.06-g-village-hunting-guild-empty-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Empty Day",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp20/map-01.06-gl-village-hunting-guild-empty-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Empty Night",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp20/map-01.07-g-village-hunting-guild-empty-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Empty Night",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp20/map-01.07-gl-village-hunting-guild-empty-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Field Day",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp20/map-01.08-g-village-hunting-guild-field-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Field Day",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp20/map-01.08-gl-village-hunting-guild-field-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Field Night",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp20/map-01.09-g-village-hunting-guild-field-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Field Night",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp20/map-01.09-gl-village-hunting-guild-field-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Fireflies",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp20/map-01.10-g-village-hunting-guild-fireflies.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Fireflies",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp20/map-01.10-gl-village-hunting-guild-fireflies.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp20/map-01.11-g-village-hunting-guild-fog.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp20/map-01.11-gl-village-hunting-guild-fog.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Grasslands Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp20/map-01.12-g-village-hunting-guild-grasslands-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Grasslands Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp20/map-01.12-gl-village-hunting-guild-grasslands-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Grasslands Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp20/map-01.13-g-village-hunting-guild-grasslands-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Grasslands Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp20/map-01.13-gl-village-hunting-guild-grasslands-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+         {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp20/map-01.14-g-village-hunting-guild-massacre.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp20/map-01.14-gl-village-hunting-guild-massacre.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp20/map-01.15-g-village-hunting-guild-original-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp20/map-01.15-gl-village-hunting-guild-original-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp20/map-01.16-g-village-hunting-guild-original-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp20/map-01.16-gl-village-hunting-guild-original-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp20/map-01.17-g-village-hunting-guild-rain.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp20/map-01.17-gl-village-hunting-guild-rain.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp20/map-01.18-g-village-hunting-guild-spring.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp20/map-01.18-gl-village-hunting-guild-spring.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Winter Day",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp20/map-01.19-g-village-hunting-guild-winter-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Winter Day",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp20/map-01.19-gl-village-hunting-guild-winter-day.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Winter Night",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp20/map-01.20-g-village-hunting-guild-winter-night.jpg",
+            "tokenScale": 0.03330592105263157
+          },
+          {
+            "name": "Winter Night",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp20/map-01.20-gl-village-hunting-guild-winter-night.jpg",
+            "tokenScale": 0.03330592105263157
+          }
+        ]
+      }
+    ]
+  }

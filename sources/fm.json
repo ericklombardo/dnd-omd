@@ -1,0 +1,78 @@
+{
+  "type": "sourcebook",
+  "name": "FM",
+  "description": "Flee, Mortals!",
+  "backgroundImageKey": "official/covers/fm.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 2: Environments",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Cave Map",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/fm/map-1.01-cave-map.jpg",
+          "tokenScale": 0.035
+        },
+        {
+          "name": "Enchanted Forest Map",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/fm/map-1.02-enchanted-forest-map.jpg",
+          "tokenScale": 0.05575
+        },
+        {
+          "name": "Graveyard and Tomb Map",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/fm/map-1.03-graveyard-and-tomb-map.jpg",
+          "tokenScale": 0.04386363636363636
+        },
+        {
+          "name": "Road Map",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/fm/map-1.04-road-map.jpg",
+          "tokenScale": 0.034772727272727275
+        },
+        {
+          "name": "Ruined Keep: Map 1",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/fm/map-1.05-ruined-keep-1.jpg",
+          "tokenScale": 0.03475
+        },
+        {
+          "name": "Ruined Keep: Map 2",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/fm/map-1.06-ruined-keep-map-2.jpg",
+          "tokenScale": 0.0375
+        },
+        {
+          "name": "Sewer Map",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/fm/map-1.07-sewer-map.jpg",
+          "tokenScale": 0.03475
+        },
+        {
+          "name": "Swamp Map",
+          "description": "",
+          "order": 8,
+          "imageKey": "official/maps/fm/map-1.08-swamp-map.jpg",
+          "tokenScale": 0.03475
+        },
+        {
+          "name": "Underground Map",
+          "description": "",
+          "order": 9,
+          "imageKey": "official/maps/fm/map-1.09-underground-map.jpg",
+          "tokenScale": 0.035
+        }
+      ]
+    }
+  ]
+}

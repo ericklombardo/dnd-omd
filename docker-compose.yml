@@ -1,0 +1,35 @@
+version: "3.8"
+
+services:
+  localstack:
+    container_name: "omd-localstack"
+    image: localstack/localstack
+    restart: unless-stopped
+    environment:
+      - BUCKET_MARKER_LOCAL=hot-reload
+      - LAMBDA_RUNTIME_EXECUTOR=docker
+      - LAMBDA_REMOTE_DOCKER=0
+      - DOCKER_HOST=unix:///var/run/docker.sock
+      - DEBUG=1
+      - DYNAMODB_SHARE_DB=1
+      - DISABLE_CORS_CHECKS=1
+      - DISABLE_CUSTOM_CORS_S3=1
+    ports:
+      - "4566:4566" # LocalStack Gateway
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+    extra_hosts:
+      - host.docker.internal:host-gateway
+
+  terraform:
+    container_name: omd.terraform
+    image: hashicorp/terraform:latest
+    restart: unless-stopped
+    volumes:
+      - ./_infrastructure/localstack:/tf
+    working_dir: /tf
+    entrypoint: sh
+    command: runner.sh
+    environment:
+      LOCALSTACK_HOST: host.docker.internal
+      LOCALSTACK_PORT: 4566

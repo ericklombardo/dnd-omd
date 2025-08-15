@@ -1,0 +1,274 @@
+{
+    "type": "sourcebook",
+    "name": "AV",
+    "description": "Abomination Vaults",
+    "backgroundImageKey": "official/covers/av.jpg",
+    "chapters": [
+{
+        "id": "0",
+        "name": "Abomination Vaults",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Abomination Vaults",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/av/map-00.01-av-side-view-dm.jpg",
+            "tokenScale": 0.01215686274509804
+          },
+          {
+            "name": "Abomination Vaults",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/av/map-00.01-av-side-view-player.jpg",
+            "tokenScale": 0.01215686274509804
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "name": "Otari",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Otari",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/av/map-01.01-otari-map-dm.jpg",
+            "tokenScale": 0.00819964349376114
+          },
+          {
+            "name": "Otari",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/av/map-01.01-otari-map-player.jpg",
+            "tokenScale": 0.00819964349376114
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Level 1: Gauntlight Ruins",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Level 1: Gauntlight Ruins",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/av/map-02.01-map-level-01-dm.jpg",
+            "tokenScale": 0.022549019607843133
+          },
+          {
+            "name": "Level 1: Gauntlight Ruins",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/av/map-02.01-map-level-01-player.jpg",
+            "tokenScale": 0.022549019607843133
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Level 2: Servants’ Quarters",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Level 2: Servants’ Quarters",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/av/map-03.01-map-level-02-dm.jpg",
+            "tokenScale": 0.030392156862745094
+          },
+          {
+            "name": "Level 2: Servants’ Quarters",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/av/map-03.01-map-level-02-player.jpg",
+            "tokenScale": 0.030392156862745094
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Level 3: Library",
+        "order": 5,
+        "maps": [
+          {
+            "name": "Level 3: Library",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/av/map-04.01-map-level-03-dm.jpg",
+            "tokenScale": 0.027777777777777773
+          },
+          {
+            "name": "Level 3: Library",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/av/map-04.01-map-level-03-player.jpg",
+            "tokenScale": 0.027777777777777773
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Level 4: Belcorra’s Retreat",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Level 4: Belcorra’s Retreat",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/av/map-05.01-map-level-04-dm.jpg",
+            "tokenScale": 0.029084967320261435
+          },
+          {
+            "name": "Level 4: Belcorra’s Retreat",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/av/map-05.01-map-level-04-player.jpg",
+            "tokenScale": 0.029084967320261435
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Level 5: Arena",
+        "order": 7,
+        "maps": [
+          {
+            "name": "Level 5: Arena",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/av/map-06.01-map-arena-dm.jpg",
+            "tokenScale": 0.021008403361344533
+          },
+          {
+            "name": "Level 5: Arena",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/av/map-06.01-map-arena-player.jpg",
+            "tokenScale": 0.021008403361344533
+          },
+          {
+            "name": "Smuggler’s Refuge",
+            "description": "(DM version)",
+            "order": 15,
+            "imageKey": "official/maps/av/map-06.02-map-smugglers-refuge-dm.jpg",
+            "tokenScale": 0.044444444444444446
+          },
+          {
+            "name": "Smuggler’s Refuge",
+            "description": "(Player version)",
+            "order": 16,
+            "imageKey": "official/maps/av/map-06.02-map-smugglers-refuge-player.jpg",
+            "tokenScale": 0.044444444444444446
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Level 6: Laboratories",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Level 6: Laboratories",
+            "description": "(DM version)",
+            "order": 17,
+            "imageKey": "official/maps/av/map-07.01-map-level-06-dm.jpg",
+            "tokenScale": 0.021008403361344533
+          },
+          {
+            "name": "Level 6: Laboratories",
+            "description": "(Player version)",
+            "order": 18,
+            "imageKey": "official/maps/av/map-07.01-map-level-06-player.jpg",
+            "tokenScale": 0.021008403361344533
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Level 7: Prison",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Level 7: Prison",
+            "description": "(DM version)",
+            "order": 19,
+            "imageKey": "official/maps/av/map-08.01-map-level-07-dm.jpg",
+            "tokenScale": 0.026797385620915028
+          },
+          {
+            "name": "Level 7: Prison",
+            "description": "(Player version)",
+            "order": 20,
+            "imageKey": "official/maps/av/map-08.01-map-level-07-player.jpg",
+            "tokenScale": 0.026797385620915028
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Level 8: Farm",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Level 8: Farm",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/av/map-09.01-map-level-08-dm.jpg",
+            "tokenScale": 0.021719457013574656
+          },
+          {
+            "name": "Level 8: Farm",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/av/map-09.01-map-level-08-player.jpg",
+            "tokenScale": 0.021719457013574656
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Level 9: Hunting Grounds",
+        "order": 11,
+        "maps": [
+          {
+            "name": "Level 9: Hunting Grounds",
+            "description": "(DM version)",
+            "order": 23,
+            "imageKey": "official/maps/av/map-10.01-map-level-09-dm.jpg",
+            "tokenScale": 0.010196078431372546
+          },
+          {
+            "name": "Level 9: Hunting Grounds",
+            "description": "(Player version)",
+            "order": 24,
+            "imageKey": "official/maps/av/map-10.01-map-level-09-player.jpg",
+            "tokenScale": 0.010196078431372546
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "Level 10: Temple",
+        "order": 12,
+        "maps": [
+          {
+            "name": "Level 10: Temple",
+            "description": "(DM version)",
+            "order":25,
+            "imageKey": "official/maps/av/map-11.01-map-level-10-dm.jpg",
+            "tokenScale": 0.02128851540616246
+          },
+          {
+            "name": "Level 10: Temple",
+            "description": "(Player version)",
+            "order": 26,
+            "imageKey": "official/maps/av/map-11.01-map-level-10-player.jpg",
+            "tokenScale": 0.02128851540616246
+          }
+        ]
+      }
+    ]
+  }

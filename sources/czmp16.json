@@ -1,0 +1,281 @@
+{
+    "type": "mappack",
+    "name": "CZMP16",
+    "description": "Czepeku: Ropebridge Chasm",
+    "backgroundImageKey": "official/covers/czmp16.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Ropebridge Chasm",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp16/map-01.01-g-rope-bridge-chasm-autumn.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp16/map-01.01-gl-rope-bridge-chasm-autumn.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Bloodlands",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp16/map-01.02-g-rope-bridge-chasm-bloodlands.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Bloodlands",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp16/map-01.02-gl-rope-bridge-chasm-bloodlands.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Bridge",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp16/map-01.03-g-rope-bridge-chasm-bridge.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Bridge",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp16/map-01.03-gl-rope-bridge-chasm-bridge.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Crossing",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp16/map-01.04-g-rope-bridge-chasm-crossing.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Crossing",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp16/map-01.04-gl-rope-bridge-chasm-crossing.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp16/map-01.05-g-rope-bridge-chasm-desert.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp16/map-01.05-gl-rope-bridge-chasm-desert.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp16/map-01.06-g-rope-bridge-chasm-fog.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp16/map-01.06-gl-rope-bridge-chasm-fog.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Griffon Nest",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp16/map-01.07-g-rope-bridge-chasm-griffonnest.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Griffon Nest",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp16/map-01.07-gl-rope-bridge-chasm-griffonnest.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "High Tide",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp16/map-01.08-g-rope-bridge-chasm-hightide.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "High Tide",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp16/map-01.08-gl-rope-bridge-chasm-hightide.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Low Tide",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp16/map-01.09-g-rope-bridge-chasm-lowtide.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Low Tide",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp16/map-01.09-gl-rope-bridge-chasm-lowtide.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Natural",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp16/map-01.10-g-rope-bridge-chasm-natural.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Natural",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp16/map-01.10-gl-rope-bridge-chasm-natural.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp16/map-01.11-g-rope-bridge-chasm-original-day.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp16/map-01.11-gl-rope-bridge-chasm-original-day.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp16/map-01.12-g-rope-bridge-chasm-original-night.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp16/map-01.12-gl-rope-bridge-chasm-original-night.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp16/map-01.13-g-rope-bridge-chasm-rain.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp16/map-01.13-gl-rope-bridge-chasm-rain.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+         {
+            "name": "Sea of Flame",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp16/map-01.14-g-rope-bridge-chasm-seaofflame.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Sea of Flame",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp16/map-01.14-gl-rope-bridge-chasm-seaofflame.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Shipwreck",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp16/map-01.15-g-rope-bridge-chasm-shipwreck.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Shipwreck",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp16/map-01.15-gl-rope-bridge-chasm-shipwreck.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Snow",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp16/map-01.16-g-rope-bridge-chasm-snow.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Snow",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp16/map-01.16-gl-rope-bridge-chasm-snow.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp16/map-01.17-g-rope-bridge-chasm-spring.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp16/map-01.17-gl-rope-bridge-chasm-spring.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Storm",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp16/map-01.18-g-rope-bridge-chasm-storm.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Storm",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp16/map-01.18-gl-rope-bridge-chasm-storm.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp16/map-01.19-g-rope-bridge-chasm-toxic.jpg",
+            "tokenScale": 0.03142042776668087
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp16/map-01.19-gl-rope-bridge-chasm-toxic.jpg",
+            "tokenScale": 0.03142042776668087
+          }
+        ]
+      }
+    ]
+  }

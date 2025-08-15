@@ -1,0 +1,238 @@
+{
+  "type": "sourcebook",
+  "name": "FToD",
+  "description": "Fizban’s Treasury of Dragons",
+  "backgroundImageKey": "official/covers/ftod.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 5: Draconomicon",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Amethyst Dragon Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/ftod/map-5.01-amethyst-dragon-lair-DM.jpg",
+          "tokenScale": 0.010680500457735734
+        },
+        {
+          "name": "Amethyst Dragon Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/ftod/map-5.01-amethyst-dragon-lair-Player.jpg",
+          "tokenScale": 0.010680500457735734
+        },
+        {
+          "name": "Black Dragon Lair",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/ftod/map-5.02-black-dragon-lair-DM.jpg",
+          "tokenScale": 0.010231739934301456
+        },
+        {
+          "name": "Black Dragon Lair",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/ftod/map-5.02-black-dragon-lair-Player.jpg",
+          "tokenScale": 0.010231739934301456
+        },
+        {
+          "name": "Blue Dragon Lair",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/ftod/map-5.03-blue-dragon-lair-DM.jpg",
+          "tokenScale": 0.010222764723832774
+        },
+        {
+          "name": "Blue Dragon Lair",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/ftod/map-5.03-blue-dragon-lair-Player.jpg",
+          "tokenScale": 0.010222764723832774
+        },
+        {
+          "name": "Brass Dragon Lair (Canyon)",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/ftod/map-5.04-brass-dragon-lair-canyon-DM.jpg",
+          "tokenScale": 0.005098966300468176
+        },
+        {
+          "name": "Brass Dragon Lair (Canyon)",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/ftod/map-5.04-brass-dragon-lair-canyon-Player.jpg",
+          "tokenScale": 0.005098966300468176
+        },{
+          "name": "Brass Dragon Lair (Chambers)",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/ftod/map-5.04-brass-dragon-lair-chamber-DM.jpg",
+          "tokenScale": 0.01694819574888779
+        },
+        {
+          "name": "Brass Dragon Lair (Chambers)",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/ftod/map-5.04-brass-dragon-lair-chamber-Player.jpg",
+          "tokenScale": 0.01694819574888779
+        },
+        {
+          "name": "Bronze Dragon Lair",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/ftod/map-5.05-bronze-dragon-lair-DM.jpg",
+          "tokenScale": 0.01520527921879768
+        },
+        {
+          "name": "Bronze Dragon Lair",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/ftod/map-5.05-bronze-dragon-lair-Player.jpg",
+          "tokenScale": 0.01520527921879768
+        },
+        {
+          "name": "Copper Dragon Lair",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/ftod/map-5.06-copper-dragon-lair-DM.jpg",
+          "tokenScale": 0.01052792187976808
+        },
+        {
+          "name": "Copper Dragon Lair",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/ftod/map-5.06-copper-dragon-lair-Player.jpg",
+          "tokenScale": 0.01052792187976808
+        },
+        {
+          "name": "Crystal Dragon Lair",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/ftod/map-5.07-crystal-dragon-lair-DM.jpg",
+          "tokenScale": 0.02065679209408229
+        },
+        {
+          "name": "Crystal Dragon Lair",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/ftod/map-5.07-crystal-dragon-lair-Player.jpg",
+          "tokenScale": 0.02065679209408229
+        },
+        {
+          "name": "Emerald Dragon Lair",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/ftod/map-5.08-emerald-dragon-lair-DM.jpg",
+          "tokenScale": 0.01052792187976808
+        },
+        {
+          "name": "Emerald Dragon Lair",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/ftod/map-5.08-emerald-dragon-lair-Player.jpg",
+          "tokenScale": 0.01052792187976808
+        },
+        {
+          "name": "Gold Dragon Lair",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/ftod/map-5.09-gold-dragon-lair-DM.jpg",
+          "tokenScale": 0.021126264641675073
+        },
+        {
+          "name": "Gold Dragon Lair",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/ftod/map-5.09-gold-dragon-lair-Player.jpg",
+          "tokenScale": 0.021126264641675073
+        },
+        {
+          "name": "Green Dragon Lair",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/ftod/map-5.10-green-dragon-lair-DM.jpg",
+          "tokenScale": 0.01556301495270064
+        },
+        {
+          "name": "Green Dragon Lair",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/ftod/map-5.10-green-dragon-lair-Player.jpg",
+          "tokenScale": 0.01556301495270064
+        },
+        {
+          "name": "Red Dragon Lair",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/ftod/map-5.11-red-dragon-lair-DM.jpg",
+          "tokenScale": 0.01007018614586512
+        },
+        {
+          "name": "Red Dragon Lair",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/ftod/map-5.11-red-dragon-lair-Player.jpg",
+          "tokenScale": 0.01007018614586512
+        },
+        {
+          "name": "Sapphire Dragon Lair",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/ftod/map-5.12-sapphire-dragon-lair-DM.jpg",
+          "tokenScale": 0.00773924321025328
+        },
+        {
+          "name": "Sapphire Dragon Lair",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/ftod/map-5.12-sapphire-dragon-lair-Player.jpg",
+          "tokenScale": 0.00773924321025328
+        },
+        {
+          "name": "Silver Dragon Lair",
+          "description": "(DM version)",
+          "order": 27,
+          "imageKey": "official/maps/ftod/map-5.13-silver-dragon-lair-DM.jpg",
+          "tokenScale": 0.03145466068871622
+        },
+        {
+          "name": "Silver Dragon Lair",
+          "description": "(Player version)",
+          "order": 28,
+          "imageKey": "official/maps/ftod/map-5.13-silver-dragon-lair-Player.jpg",
+          "tokenScale": 0.03145466068871622
+        },
+        {
+          "name": "Topaz Dragon Lair",
+          "description": "(DM version)",
+          "order": 29,
+          "imageKey": "official/maps/ftod/map-5.14-topaz-dragon-lair-DM.jpg",
+          "tokenScale": 0.010375343301800427
+        },
+        {
+          "name": "Topaz Dragon Lair",
+          "description": "(Player version)",
+          "order": 30,
+          "imageKey": "official/maps/ftod/map-5.14-topaz-dragon-lair-Player.jpg",
+          "tokenScale": 0.010375343301800427
+        },
+        {
+          "name": "White Dragon Lair",
+          "description": "(DM version)",
+          "order": 31,
+          "imageKey": "official/maps/ftod/map-5.15-white-dragon-lair-DM.jpg",
+          "tokenScale": 0.010680500457735734
+        },
+        {
+          "name": "White Dragon Lair",
+          "description": "(Player version)",
+          "order": 32,
+          "imageKey": "official/maps/ftod/map-5.15-white-dragon-lair-Player.jpg",
+          "tokenScale": 0.010680500457735734
+        }
+      ]
+    }
+  ]
+}

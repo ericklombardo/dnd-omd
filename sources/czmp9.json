@@ -1,0 +1,295 @@
+{
+    "type": "mappack",
+    "name": "CZMP9",
+    "description": "Czepeku: Hell’s Cocktail Lounge",
+    "backgroundImageKey": "official/covers/czmp9.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Hell’s Cocktail Lounge",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Arcane",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp9/map-01.01-g-hells-cocktail-lounge-arcane.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Arcane",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp9/map-01.01-gl-hells-cocktail-lounge-arcane.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Demonic Captive",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp9/map-01.02-g-hells-cocktail-lounge-demoniccaptive.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Demonic Captive",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp9/map-01.02-gl-hells-cocktail-lounge-demoniccaptive.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Empty Lights Off",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp9/map-01.03-g-hells-cocktail-lounge-empty-lightsoff.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Empty Lights Off",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp9/map-01.03-gl-hells-cocktail-lounge-empty-lightsoff.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Empty Lights On",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp9/map-01.04-g-hells-cocktail-lounge-empty-lightson.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Empty Lights On",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp9/map-01.04-gl-hells-cocktail-lounge-empty-lightson.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Frozen",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp9/map-01.05-g-hells-cocktail-lounge-frozen.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Frozen",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp9/map-01.05-gl-hells-cocktail-lounge-frozen.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Haunted",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp9/map-01.06-g-hells-cocktail-lounge-haunted.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Haunted",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp9/map-01.06-gl-hells-cocktail-lounge-haunted.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Hell Rift",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp9/map-01.07-g-hells-cocktail-lounge-hellrift.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Hell Rift",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp9/map-01.07-gl-hells-cocktail-lounge-hellrift.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Lava River",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp9/map-01.08-g-hells-cocktail-lounge-lavariver.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Lava River",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp9/map-01.08-gl-hells-cocktail-lounge-lavariver.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp9/map-01.09-g-hells-cocktail-lounge-massacre.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp9/map-01.09-gl-hells-cocktail-lounge-massacre.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Maw",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp9/map-01.10-g-hells-cocktail-lounge-maw.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Maw",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp9/map-01.10-gl-hells-cocktail-lounge-maw.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "No Demon Head",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp9/map-01.11-g-hells-cocktail-lounge-nodemonhead.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "No Demon Head",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp9/map-01.11-gl-hells-cocktail-lounge-nodemonhead.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp9/map-01.12-g-hells-cocktail-lounge-original-day.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp9/map-01.12-gl-hells-cocktail-lounge-original-day.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp9/map-01.13-g-hells-cocktail-lounge-original-night.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp9/map-01.13-gl-hells-cocktail-lounge-original-night.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+         {
+            "name": "Pit",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp9/map-01.14-g-hells-cocktail-lounge-pit.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Pit",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp9/map-01.14-gl-hells-cocktail-lounge-pit.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "River Styx",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp9/map-01.15-g-hells-cocktail-lounge-riverstyx.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "River Styx",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp9/map-01.15-gl-hells-cocktail-lounge-riverstyx.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Spotlight",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp9/map-01.16-g-hells-cocktail-lounge-spotlight.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Spotlight",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp9/map-01.16-gl-hells-cocktail-lounge-spotlight.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Steam",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp9/map-01.17-g-hells-cocktail-lounge-steam.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Steam",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp9/map-01.17-gl-hells-cocktail-lounge-steam.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp9/map-01.18-g-hells-cocktail-lounge-toxic.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp9/map-01.18-gl-hells-cocktail-lounge-toxic.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Undead",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp9/map-01.19-g-hells-cocktail-lounge-undead.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Undead",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp9/map-01.19-gl-hells-cocktail-lounge-undead.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Vampire",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp9/map-01.20-g-hells-cocktail-lounge-vampire.jpg",
+            "tokenScale": 0.030776515151515138
+          },
+          {
+            "name": "Vampire",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp9/map-01.20-gl-hells-cocktail-lounge-vampire.jpg",
+            "tokenScale": 0.030776515151515138
+          }
+        ]
+      }
+    ]
+  }

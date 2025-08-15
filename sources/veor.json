@@ -1,0 +1,498 @@
+{
+  "type": "adventure",
+  "name": "VEoR",
+  "description": "Vecna: Eve of Ruin",
+  "backgroundImageKey": "official/covers/veor.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Return from Neverdeath Graveyard",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Neverdeath Catacombs",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-1.01-neverdeath-catacombs.jpg",
+          "tokenScale": 0.0190625
+        },
+        {
+          "name": "Neverdeath Catacombs",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-1.01-neverdeath-catacombs-player.jpg",
+          "tokenScale": 0.01875
+        },
+        {
+          "name": "Dolindar Tomb",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-1.02-dolindar-tomb.jpg",
+          "tokenScale": 0.0296875
+        },
+        {
+          "name": "Dolindar Tomb",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-1.02-dolindar-tomb-player.jpg",
+          "tokenScale": 0.030625
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: The Wizards Three",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Sanctum",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-2.01-the-sanctum.jpg",
+          "tokenScale": 0.030625
+        },
+        {
+          "name": "Web’s Edge",
+          "description": "(DM version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-2.02-webs-edge.jpg",
+          "tokenScale": 0.0271875
+        },
+        {
+          "name": "Web’s Edge",
+          "description": "(Player version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-2.02-webs-edge-player.jpg",
+          "tokenScale": 0.0271875
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: The Lambent Zenith’s Last Voyage",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Lambent Zenith",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-3.01-lambent-zenith.jpg",
+          "tokenScale": 0.0225
+        },
+        {
+          "name": "Lambent Zenith",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-3.01-lambent-zenith-player.jpg",
+          "tokenScale": 0.0225
+        },
+        {
+          "name": "Heart of Havock",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-3.02-heart-of-havock.jpg",
+          "tokenScale": 0.026875
+        },
+        {
+          "name": "Heart of Havock",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-3.02-heart-of-havock-player.jpg",
+          "tokenScale": 0.026875
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: The Ruined Colossus",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Mount Ironrot Outskirts",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-4.01-mount-ironrot-outskirts.jpg",
+          "tokenScale": 0.00625
+        },
+        {
+          "name": "Mount Ironrot Outskirts",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-4.01-mount-ironrot-outskirts-player.jpg",
+          "tokenScale": 0.00625
+        },
+        {
+          "name": "Ialos",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-4.02-ialos.jpg",
+          "tokenScale": 0.0409375
+        },
+        {
+          "name": "Ialos",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-4.02-ialos-player.jpg",
+          "tokenScale": 0.0409375
+        },
+        {
+          "name": "Landro",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/veor/map-4.03-landro.jpg",
+          "tokenScale": 0.0175
+        },
+        {
+          "name": "Landro",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/veor/map-4.03-landro-player.jpg",
+          "tokenScale": 0.01775
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Death House",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Death House",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-5.01-death-house.jpg",
+          "tokenScale": 0.0315625
+        },
+        {
+          "name": "Death House",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-5.01-death-house-player.jpg",
+          "tokenScale": 0.0315625
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 6: Night of Blue Fire",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Peylon Tree",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-6.01-peylon-tree.jpg",
+          "tokenScale": 0.01475
+        },
+        {
+          "name": "Peylon Tree",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-6.01-peylon-tree-player.jpg",
+          "tokenScale": 0.01475
+        },
+        {
+          "name": "Bittergrass Fen",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-6.02-bittergrass-fen.jpg",
+          "tokenScale": 0.02
+        },
+        {
+          "name": "Bittergrass Fen",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-6.02-bittergrass-fen-player.jpg",
+          "tokenScale": 0.02
+        },
+        {
+          "name": "Three Moons Vault",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/veor/map-6.03-three-moons-vault.jpg",
+          "tokenScale": 0.01475
+        },
+        {
+          "name": "Three Moons Vault",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/veor/map-6.03-three-moons-vault-player.jpg",
+          "tokenScale": 0.01475
+        },
+        {
+          "name": "Three Moons Vault Upper Level",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/veor/map-6.04-three-moons-vault-upper-level.jpg",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Three Moons Vault Upper Level",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/veor/map-6.04-three-moons-vault-upper-level-player.jpg",
+          "tokenScale": 0.025
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 7: Tomb of Wayward Souls",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Isle of Serpents Lagoon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-7.01-isle-of-serpents-lagoon.jpg",
+          "tokenScale": 0.06175
+        },
+        {
+          "name": "Isle of Serpents Lagoon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-7.01-isle-of-serpents-lagoon-player.jpg",
+          "tokenScale": 0.06187
+        },
+        {
+          "name": "Tomb Complex",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-7.02-tomb-complex.png",
+          "tokenScale": 0.03124999999999999
+        },
+        {
+          "name": "Tomb of Wayward Souls",
+          "description": "(DM version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-7.03-tomb-of-wayward-souls.jpg",
+          "tokenScale": 0.0228125
+        },
+        {
+          "name": "Tomb of Wayward Souls",
+          "description": "(Player version)",
+          "order": 5,
+          "imageKey": "official/maps/veor/map-7.03-tomb-of-wayward-souls-player.jpg",
+          "tokenScale": 0.0228125
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 8: The Dragon Queen’s Pride",
+      "order": 8,
+      "maps": [
+        {
+          "name": "The Red Belvedere",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-8.01-the-red-belvedere.jpg",
+          "tokenScale": 0.0075
+        },
+        {
+          "name": "The Red Belvedere",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-8.01-the-red-belvedere-player.jpg",
+          "tokenScale": 0.0075
+        },
+        {
+          "name": "Alabaster Racetrack Stables",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-8.02-alabaster-racetrack-stables.jpg",
+          "tokenScale": 0.05125
+        },
+        {
+          "name": "Alabaster Racetrack Stables",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-8.02-alabaster-racetrack-stables-player.jpg",
+          "tokenScale": 0.05125
+        },
+        {
+          "name": "Scarlet Coliseum",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/veor/map-8.03-scarlet-coliseum.jpg",
+          "tokenScale": 0.0553125
+        },
+        {
+          "name": "Scarlet Coliseum",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/veor/map-8.03-scarlet-coliseum-player.jpg",
+          "tokenScale": 0.0553125
+        },
+        {
+          "name": "Dragon’s Pride",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/veor/map-8.04-dragons-pride.jpg",
+          "tokenScale": 0.0365625
+        },
+        {
+          "name": "Dragon’s Pride",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/veor/map-8.04-dragons-pride-player.jpg",
+          "tokenScale": 0.0365625
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 9: The Betrayer Revealed",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Pandesmos Outlook",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-9.01-pandesmos-outlook.jpg",
+          "tokenScale": 0.0653125
+        },
+        {
+          "name": "Pandesmos Outlook",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-9.01-pandesmos-outlook-player.jpg",
+          "tokenScale": 0.0653125
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Chapter 10: The War of Pandesmos",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Pandesmos Battlefield",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-10.01-pandesmos-battlefield.jpg",
+          "tokenScale": 0.0134375
+        },
+        {
+          "name": "Pandesmos Battlefield",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-10.01-pandesmos-battlefield-player.jpg",
+          "tokenScale": 0.0134375
+        },
+        {
+          "name": "Hurricane Tower",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-10.02-hurricane-tower.jpg",
+          "tokenScale": 0.0415625
+        },
+        {
+          "name": "Hurricane Tower",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-10.02-hurricane-tower-player.jpg",
+          "tokenScale": 0.0415625
+        },
+        {
+          "name": "Ruinous Citadel",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/veor/map-10.03-ruinous-citadel.jpg",
+          "tokenScale": 0.01875
+        },
+        {
+          "name": "Ruinous Citadel",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/veor/map-10.03-ruinous-citadel-player.jpg",
+          "tokenScale": 0.01875
+        },
+        {
+          "name": "Cliffside Redoubt",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/veor/map-10.04-cliffside-redoubt.jpg",
+          "tokenScale": 0.0303125
+        },
+        {
+          "name": "Cliffside Redoubt",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/veor/map-10.04-cliffside-redoubt-player.jpg",
+          "tokenScale": 0.0303125
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Chapter 11: Eve of Ruin",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Vecna’s Grasp",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/veor/map-11.01-vecnas-grasp.jpg",
+          "tokenScale": 0.0503125
+        },
+        {
+          "name": "Vecna’s Grasp",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/veor/map-11.01-vecnas-grasp-player.jpg",
+          "tokenScale": 0.0503125
+        },
+        {
+          "name": "Torment of Kas",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/veor/map-11.02-torment-of-kas.jpg",
+          "tokenScale": 0.051875
+        },
+        {
+          "name": "Torment of Kas",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/veor/map-11.02-torment-of-kas-player.jpg",
+          "tokenScale": 0.051875
+        },
+        {
+          "name": "Neverwinter Square",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/veor/map-11.03-neverwinter-square.jpg",
+          "tokenScale": 0.0471875
+        },
+        {
+          "name": "Arekanz’s Donjon",
+          "description": "(DM version)",
+          "order": 6,
+          "imageKey": "official/maps/veor/map-11.04-arekanzs-donjon.jpg",
+          "tokenScale": 0.0271875
+        },
+        {
+          "name": "Arekanz’s Donjon",
+          "description": "(Player version)",
+          "order": 7,
+          "imageKey": "official/maps/veor/map-11.04-arekanzs-donjon-player.jpg",
+          "tokenScale": 0.0271875
+        },
+        {
+          "name": "Cave of Shattered Reflection",
+          "description": "(DM version)",
+          "order": 8,
+          "imageKey": "official/maps/veor/map-11.05-cave-of-shattered-reflection.jpg",
+          "tokenScale": 0.025625
+        },
+        {
+          "name": "Cave of Shattered Reflection",
+          "description": "(Player version)",
+          "order": 9,
+          "imageKey": "official/maps/veor/map-11.05-cave-of-shattered-reflection-player.jpg",
+          "tokenScale": 0.025625
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+service: omd-thumbnailer
+frameworkVersion: "3"
+useDotenv: true # in theory this should JustWork:tm: in pipelines with no .env file supplied
+
+plugins:
+  - serverless-bundle
+  - serverless-localstack
+  - serverless-plugin-datadog
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  stage: ${self:custom.stage}
+  timeout: 30
+  region: ${opt:region, env:AWS_REGION, 'us-east-1'}
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - s3:*
+          Resource:
+            - "arn:aws:s3:::${self:custom.s3BucketName}/*"
+        - Effect: Allow
+          Action:
+            - sqs:*
+          Resource:
+            - "arn:aws:sqs:${self:provider.region}:*:omd-thumbnailer-${self:custom.env}-queue"
+  environment:
+    S3_BUCKET_NAME: ${self:custom.s3BucketName}
+    MIN_LOG_LEVEL: ${self:custom.logLevel}
+
+functions:
+  OMDQueueEvent:
+    handler: handler.createThumbnail
+    memorySize: 2048
+    events:
+      - sqs:
+          arn: arn:aws:sqs:${self:provider.region}:${aws:accountId}:omd-thumbnailer-${self:custom.env}-queue
+          batchSize: 5
+
+package:
+  individually: true
+  excludeDevDependencies: true
+
+custom:
+  env: ${opt:env, env:STAGE, 'dev'}
+  stage: ${opt:stage, env:STAGE, 'stg'}
+  logLevel: ${env:MIN_LOG_LEVEL, 'warn'}
+  s3BucketName: ${opt:s3BucketName, env:S3_BUCKET_NAME, 'h7ktnb-dndbeyond-feywild-maps-stg'}
+  queueName: omd-thumbnailer-${self:custom.env}-queue
+  ddApiKey: ${ssm:/aws/reference/secretsmanager/monitoring/datadog/apikey, ''}
+  stageVars:
+    local:
+      dd_enabled: false
+    default:
+      dd_enabled: true
+  staged: ${self:custom.stageVars.${self:custom.stage}, self:custom.stageVars.default}
+  bundle:
+    sourceMaps: true
+    caching: true
+    stats: false
+    linting: false
+    packagerOptions:
+      scripts:
+        - rm -rf node_modules/sharp && npm install --arch=x64 --platform=linux sharp
+  localstack:
+    stages:
+      - local
+    host: "http://localhost"
+    edgePort: 4566
+    lambda:
+      mountCode: false
+    docker:
+      sudo: false
+  datadog:
+    enabled: ${self:custom.staged.dd_enabled, true}
+    addLayers: ${self:custom.staged.dd_enabled, true}
+    addExtension: ${self:custom.staged.dd_enabled, true}
+    apiKey: ${self:custom.ddApiKey}
+    env: ${env:DD_ENV, 'dev'}
+    service: ${self:service}
+    version: ${self:provider.stage}

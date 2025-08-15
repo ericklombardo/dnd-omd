@@ -1,0 +1,64 @@
+{
+    "type": "adventure",
+    "name": "HBTD",
+    "description": "Hold Back The Dead",
+    "backgroundImageKey": "official/covers/hbtd.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Hold Back The Dead",
+        "order": 1,
+        "maps": [
+            {
+              "name": "Ironspine Keep",
+              "description": "(Full Version)",
+              "order": 1,
+              "imageKey": "official/maps/hbtd/map-0.01-Ironspine-Keep.jpg",
+              "tokenScale": 0.015211838942307689
+            },
+            {
+              "name": "Ironspine Keep",
+              "description": "(Unlabeled version)",
+              "order": 2,
+              "imageKey": "official/maps/hbtd/map-0.01-Ironspine-Keep-player.jpg",
+              "tokenScale": 0.015211838942307689
+            },
+            {
+              "name": "Baldur’s Gate Defense Zone",
+              "description": "",
+              "order": 3,
+              "imageKey": "official/maps/hbtd/map-0.02-Baldurs-Gate-Defense-Zone.jpg",
+              "tokenScale": 0.03466796875
+            },
+            {
+              "name": "Mithral Hall Defense Zone",
+              "description": "",
+              "order": 4,
+              "imageKey": "official/maps/hbtd/map-0.03-Mithral-Hall-Defense-Zone.jpg",
+              "tokenScale": 0.048583984375
+            },
+            {
+              "name": "Neverwinter Defense Zone",
+              "description": "",
+              "order": 5,
+              "imageKey": "official/maps/hbtd/map-0.04-Neverwinter-Defense-Zone.jpg",
+              "tokenScale": 0.03564453125
+            },
+            {
+              "name": "Silverymoon Defense Zone",
+              "description": "",
+              "order": 6,
+              "imageKey": "official/maps/hbtd/map-0.05-Silverymoon-Defense-Zone.jpg",
+              "tokenScale": 0.03515625
+            },
+            {
+              "name": "Waterdeep Defense Zone",
+              "description": "",
+              "order": 7,
+              "imageKey": "official/maps/hbtd/map-0.06-Waterdeep-Defense-Zone.jpg",
+              "tokenScale": 0.048095703125
+            }
+        ]
+      }
+    ]
+  }

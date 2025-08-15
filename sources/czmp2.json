@@ -1,0 +1,379 @@
+{
+    "type": "mappack",
+    "name": "CZMP2",
+    "description": "Czepeku: Burial Barrow",
+    "backgroundImageKey": "official/covers/czmp2.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Burial Barrow",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp2/map-01.01-g-burial-barrow-autumn.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp2/map-01.01-gl-burial-barrow-autumn.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Blood Lands",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp2/map-01.02-g-burial-barrow-bloodlands.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Blood Lands",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp2/map-01.02-gl-burial-barrow-bloodlands.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Blood River",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp2/map-01.03-g-burial-barrow-bloodriver.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Blood River",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp2/map-01.03-gl-burial-barrow-bloodriver.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Broken Bridge Day",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp2/map-01.04-g-burial-barrow-brokenbridge-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Broken Bridge Day",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp2/map-01.04-gl-burial-barrow-brokenbridge-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Broken Bridge Night",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp2/map-01.05-g-burial-barrow-brokenbridge-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Broken Bridge Night",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp2/map-01.05-gl-burial-barrow-brokenbridge-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Desert Day",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp2/map-01.06-g-burial-barrow-desert-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Desert Day",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp2/map-01.06-gl-burial-barrow-desert-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Desert Night",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp2/map-01.07-g-burial-barrow-desert-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Desert Night",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp2/map-01.07-gl-burial-barrow-desert-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Fey",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp2/map-01.08-g-burial-barrow-fey.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Fey",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp2/map-01.08-gl-burial-barrow-fey.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Fireflies",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp2/map-01.09-g-burial-barrow-fireflies.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Fireflies",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp2/map-01.09-gl-burial-barrow-fireflies.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Flood Day",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp2/map-01.10-g-burial-barrow-flood-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Flood Day",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp2/map-01.10-gl-burial-barrow-flood-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Flood Night",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp2/map-01.11-g-burial-barrow-flood-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Flood Night",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp2/map-01.11-gl-burial-barrow-flood-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp2/map-01.12-g-burial-barrow-fog.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp2/map-01.12-gl-burial-barrow-fog.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Magic Shield",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp2/map-01.13-g-burial-barrow-magicshield.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Magic Shield",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp2/map-01.13-gl-burial-barrow-magicshield.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+         {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp2/map-01.14-g-burial-barrow-massacre.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp2/map-01.14-gl-burial-barrow-massacre.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Natural Day",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp2/map-01.15-g-burial-barrow-natural-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Natural Day",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp2/map-01.15-gl-burial-barrow-natural-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Natural Night",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp2/map-01.16-g-burial-barrow-natural-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Natural Night",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp2/map-01.16-gl-burial-barrow-natural-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "No Bridge Day",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp2/map-01.17-g-burial-barrow-nobridge-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "No Bridge Day",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp2/map-01.17-gl-burial-barrow-nobridge-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "No Bridge Night",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp2/map-01.18-g-burial-barrow-nobridge-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "No Bridge Night",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp2/map-01.18-gl-burial-barrow-nobridge-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp2/map-01.19-g-burial-barrow-original-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp2/map-01.19-gl-burial-barrow-original-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp2/map-01.20-g-burial-barrow-original-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp2/map-01.20-gl-burial-barrow-original-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp2/map-01.21-g-burial-barrow-rain.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp2/map-01.21-gl-burial-barrow-rain.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp2/map-01.22-g-burial-barrow-spring.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp2/map-01.22-gl-burial-barrow-spring.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Sunset",
+            "description": "(with grid)",
+            "order": 45,
+            "imageKey": "official/maps/czmp/czmp2/map-01.23-g-burial-barrow-sunset.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Sunset",
+            "description": "(without grid)",
+            "order": 46,
+            "imageKey": "official/maps/czmp/czmp2/map-01.23-gl-burial-barrow-sunset.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Well",
+            "description": "(with grid)",
+            "order": 47,
+            "imageKey": "official/maps/czmp/czmp2/map-01.24-g-burial-barrow-well.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Well",
+            "description": "(without grid)",
+            "order": 48,
+            "imageKey": "official/maps/czmp/czmp2/map-01.24-gl-burial-barrow-well.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Winter Day",
+            "description": "(with grid)",
+            "order": 49,
+            "imageKey": "official/maps/czmp/czmp2/map-01.25-g-burial-barrow-winter-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Winter Day",
+            "description": "(without grid)",
+            "order": 50,
+            "imageKey": "official/maps/czmp/czmp2/map-01.25-gl-burial-barrow-winter-day.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Winter Night",
+            "description": "(with grid)",
+            "order": 51,
+            "imageKey": "official/maps/czmp/czmp2/map-01.26-g-burial-barrow-winter-night.jpg",
+            "tokenScale": 0.031074459184893023
+          },
+          {
+            "name": "Winter Night",
+            "description": "(without grid)",
+            "order": 52,
+            "imageKey": "official/maps/czmp/czmp2/map-01.26-gl-burial-barrow-winter-night.jpg",
+            "tokenScale": 0.031074459184893023
+          }
+        ]
+      }
+    ]
+  }

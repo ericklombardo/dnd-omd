@@ -1,0 +1,547 @@
+{
+  "type": "adventure",
+  "name": "JttRC",
+  "description": "Journeys Through the Radiant Citadel",
+  "backgroundImageKey": "official/covers/jttrc.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "The Radiant Citadel",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Radiant Citadel",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/jttrc/map-1.1-radiant-citadel.jpg",
+          "tokenScale": 0.008333333333333333
+        },
+        {
+          "name": "Radiant Citadel",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/jttrc/map-1.1-radiant-citadel-player.jpg",
+          "tokenScale": 0.008333333333333333
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Salted Legacy",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Dyn Singh Night Market",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/jttrc/map-2.1-dyn-singh-night-market.jpg",
+          "tokenScale": 0.011666666666666667
+        },
+        {
+          "name": "Dyn Singh Night Market",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/jttrc/map-2.1-dyn-singh-night-market-player.jpg",
+          "tokenScale": 0.011666666666666667
+        },
+        {
+          "name": "Battle Arena",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/jttrc/map-2.2-market-challenges.jpg",
+          "tokenScale": 0.024444444444444446
+        },
+        {
+          "name": "Battle Arena",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/jttrc/map-2.2-market-challenges-player.jpg",
+          "tokenScale": 0.024444444444444446
+        },
+        {
+          "name": "Siabsungkoh",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/jttrc/map-2.3-siabsungkoh.jpg",
+          "tokenScale": 0.008333333333333333
+        }
+      ]
+    },
+    {
+        "id": "2",
+        "name": "Written in Blood",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Kianna’s Farmhouse",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-3.1-kianas-farmhouse.jpg",
+            "tokenScale": 0.0461111111111111
+          },
+          {
+            "name": "Kianna’s Farmhouse",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-3.1-kianas-farmhouse-player.jpg",
+            "tokenScale": 0.0461111111111111
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "The Fiend of Hollow Mine",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Hollow Mine",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-4.1-hollow-mine.jpg",
+            "tokenScale": 0.014
+          },
+          {
+            "name": "Hollow Mine",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-4.1-hollow-mine-player.jpg",
+            "tokenScale": 0.014
+          },
+          {
+            "name": "Abandoned Metalworks",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-4.2-abandoned-metalworks.jpg",
+            "tokenScale": 0.04944444444444444
+          },
+          {
+            "name": "Abandoned Metalworks",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-4.2-abandoned-metalworks-player.jpg",
+            "tokenScale": 0.04944444444444444
+          },
+          {
+            "name": "San Citlán & Borderlands",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/jttrc/map-4.3-san-citlán-and-borderlands.jpg",
+            "tokenScale": 0.014444444444444442
+          },
+          {
+            "name": "San Citlán & Borderlands",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/jttrc/map-4.3-san-citlán-and-borderlands-player.jpg",
+            "tokenScale": 0.014444444444444442
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Wages of Vice",
+        "order": 5,
+        "maps": [
+          {
+            "name": "Parade Route",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-5.1-parade-route.jpg",
+            "tokenScale": 0.05833333333333331
+          },
+          {
+            "name": "Parade Route",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-5.1-parade-route-player.jpg",
+            "tokenScale": 0.05833333333333331
+          },
+          {
+            "name": "Zinda",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-5.2-zinda.jpg",
+            "tokenScale": 0.011
+          },
+          {
+            "name": "Zinda",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-5.2-zinda-player.jpg",
+            "tokenScale": 0.011
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sins of Our Elders",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Yeonido",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-6.1-yeonido.jpg",
+            "tokenScale": 0.006666666666666667
+          },
+          {
+            "name": "Yeonido",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-6.1-yeonido-player.jpg",
+            "tokenScale": 0.006666666666666667
+          },
+          {
+            "name": "Park of the Elders",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-6.2-park-of-the-elders.jpg",
+            "tokenScale": 0.048
+          },
+          {
+            "name": "Park of the Elders",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-6.2-park-of-the-elders-player.jpg",
+            "tokenScale": 0.048
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Gold for Fools and Princes",
+        "order": 7,
+        "maps": [
+          {
+            "name": "The Goldwarren",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-7.1-the-goldwarren.jpg",
+            "tokenScale": 0.017333333333333333
+          },
+          {
+            "name": "The Goldwarren",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-7.1-the-goldwarren-player.jpg",
+            "tokenScale": 0.017333333333333333
+          },
+          {
+            "name": "Sensa Empire",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-7.2-sensa-empire.jpg",
+            "tokenScale": 0.019
+          },
+          {
+            "name": "Sensa Empire",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-7.2-sensa-empire-player.jpg",
+            "tokenScale": 0.019
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Trail of Destruction",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Gate of Illumination",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-8.1-gate-of-illumination.jpg",
+            "tokenScale": 0.04285714285714286
+          },
+          {
+            "name": "Gate of Illumination",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-8.1-gate-of-illumination-player.jpg",
+            "tokenScale": 0.04285714285714286
+          },
+          {
+            "name": "Tletepec",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-8.2-tletepec.jpg",
+            "tokenScale": 0.010333333333333333
+          },
+          {
+            "name": "Tletepec",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-8.2-tletepec-player.jpg",
+            "tokenScale": 0.010333333333333333
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "In the Mists of Manivarsha",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Forest Heart",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-9.1-forest-heart.jpg",
+            "tokenScale": 0.039999999999999994
+          },
+          {
+            "name": "Forest Heart",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-9.1-forest-heart-player.jpg",
+            "tokenScale": 0.039999999999999994
+          },
+          {
+            "name": "Shankhabhumi",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-9.2-shankhabhumi.jpg",
+            "tokenScale": 0.008666666666666666
+          },
+          {
+            "name": "Shankhabhumi",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-9.2-shankhabhumi-player.jpg",
+            "tokenScale": 0.008666666666666666
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Between Tangled Roots",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Lambakluha",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-10.1-lambakluha.jpg",
+            "tokenScale": 0.010476190476190476
+          },
+          {
+            "name": "Lambakluha",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-10.1-lambakluha-player.jpg",
+            "tokenScale": 0.010476190476190476
+          },
+          {
+            "name": "Roots of Bathalang Puno",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-10.2-roots-of-bathalang-puno.jpg",
+            "tokenScale": 0.051904761904761905
+          },
+          {
+            "name": "Roots of Bathalang Puno",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-10.2-roots-of-bathalang-puno-player.jpg",
+            "tokenScale": 0.051904761904761905
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Shadow of the Sun",
+        "order": 11,
+        "maps": [
+          {
+            "name": "Three Sun Square",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-11.1-three-sun-square.jpg",
+            "tokenScale": 0.02666666666666666
+          },
+          {
+            "name": "Three Sun Square",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-11.1-three-sun-square-player.jpg",
+            "tokenScale": 0.02666666666666666
+          },
+          {
+            "name": "Ashen Heir Hideout",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-11.2-ashen-heir-hideout.jpg",
+            "tokenScale": 0.03142857142857143
+          },
+          {
+            "name": "Ashen Heir Hideout",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-11.2-ashen-heir-hideout-player.jpg",
+            "tokenScale": 0.03142857142857143
+          },
+          {
+            "name": " Pedestal of Judgment",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/jttrc/map-11.3-pedestal-of-judgment.jpg",
+            "tokenScale": 0.0461111111111111
+          },
+          {
+            "name": " Pedestal of Judgment",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/jttrc/map-11.3-pedestal-of-judgment-player.jpg",
+            "tokenScale": 0.0461111111111111
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "The Nightsea’s Succor",
+        "order": 12,
+        "maps": [
+          {
+            "name": "Central Djaynai",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-12.1-central-djaynai.jpg",
+            "tokenScale": 0.007666666666666666
+          },
+          {
+            "name": "Central Djaynai",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-12.1-central-djaynai-player.jpg",
+            "tokenScale": 0.007666666666666666
+          },
+          {
+            "name": "Trench of Love Lost",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-12.2-trench-of-love-lost.jpg",
+            "tokenScale": 0.05133333333333333
+          },
+          {
+            "name": "Trench of Love Lost",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-12.2-trench-of-love-lost-player.jpg",
+            "tokenScale": 0.05133333333333333
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "Buried Dynasty",
+        "order": 13,
+        "maps": [
+          {
+            "name": "Yun Dynasty Ruins",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-13.1-yun-dynasty-ruins.jpg",
+            "tokenScale": 0.02266666666666667
+          },
+          {
+            "name": "Yun Dynasty Ruins",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-13.1-yun-dynasty-ruins-player.jpg",
+            "tokenScale": 0.02266666666666667
+          },
+          {
+            "name": "Secret Grotto",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-13.2-secret-grotto.jpg",
+            "tokenScale": 0.0141025641025641
+          },
+          {
+            "name": "Secret Grotto",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-13.2-secret-grotto-player.jpg",
+            "tokenScale": 0.0141025641025641
+          },
+          {
+            "name": "Yongjing",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/jttrc/map-13.3-yongjing.jpg",
+            "tokenScale": 0.008333333333333333
+          },
+          {
+            "name": "Yongjing",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/jttrc/map-13.3-yongjing-player.jpg",
+            "tokenScale": 0.008333333333333333
+          }
+        ]
+      }, 
+      {
+        "id": "13",
+        "name": "Buried Dynasty",
+        "order": 14,
+        "maps": [
+          {
+            "name": "Ghost Orchid Tepui",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/jttrc/map-14.1-ghost-orchid-tepui.jpg",
+            "tokenScale": 0.04666666666666666
+          },
+          {
+            "name": "Ghost Orchid Tepui",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/jttrc/map-14.1-ghost-orchid-tepui-player.jpg",
+            "tokenScale": 0.04666666666666666
+          },
+          {
+            "name": "Crystal Caves",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/jttrc/map-14.2-crystal-caves.jpg",
+            "tokenScale": 0.018717948717948713
+          },
+          {
+            "name": "Crystal Caves",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/jttrc/map-14.2-crystal-caves-player.jpg",
+            "tokenScale": 0.018717948717948713
+          },
+          {
+            "name": "The Drought Elder",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/jttrc/map-14.3-the-drought-elder.jpg",
+            "tokenScale": 0.017333333333333333
+          },
+          {
+            "name": "The Drought Elder",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/jttrc/map-14.3-the-drought-elder-player.jpg",
+            "tokenScale": 0.017333333333333333
+          },
+          {
+            "name": "Atagua",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/jttrc/map-14.4-atagua.jpg",
+            "tokenScale": 0.007333333333333333
+          },
+          {
+            "name": "Atagua",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/jttrc/map-14.4-atagua-player.jpg",
+            "tokenScale": 0.007333333333333333
+          }
+        ]
+      }
+  ]
+}

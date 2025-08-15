@@ -1,0 +1,407 @@
+{
+  "type": "sourcebook",
+  "name": "SaCoC",
+  "description": "Strixhaven: A Curriculum of Chaos",
+  "backgroundImageKey": "official/covers/sacoc.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Life at Strixhaven",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Central Campus",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sacoc/map-1-01.central-campus.jpg",
+          "tokenScale": 0.006975446428571428
+        },
+        {
+          "name": "Central Campus",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sacoc/map-1-01.central-campus-player.jpg",
+          "tokenScale": 0.006975446428571428
+        },
+        {
+          "name": "Lorehold Campus",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sacoc/map-1-02.lorehold-campus.jpg",
+          "tokenScale": 0.00701904296875
+        },
+        {
+          "name": "Lorehold Campus",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sacoc/map-1-02.lorehold-campus-player.jpg",
+          "tokenScale": 0.00701904296875
+        },
+        {
+          "name": "Prismari Campus",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sacoc/map-1-03.prismari-campus.jpg",
+          "tokenScale": 0.01068115234375
+        },
+        {
+          "name": "Prismari Campus",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sacoc/map-1-03.prismari-campus-player.jpg",
+          "tokenScale": 0.01068115234375
+        },
+        {
+          "name": "Quandrix Campus",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/sacoc/map-1-04.quandrix-campus.jpg",
+          "tokenScale": 0.01068115234375
+        },
+        {
+          "name": "Quandrix Campus",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/sacoc/map-1-04.quandrix-campus-player.jpg",
+          "tokenScale": 0.01068115234375
+        },
+        {
+          "name": "Silverquill Campus",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/sacoc/map-1-05.silverquill-campus.jpg",
+          "tokenScale": 0.01011439732142857
+        },
+        {
+          "name": "Silverquill Campus",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/sacoc/map-1-05.silverquill-campus-player.jpg",
+          "tokenScale": 0.01011439732142857
+        },
+        {
+          "name": "Witherbloom Campus",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/sacoc/map-1-06.witherbloom-campus.jpg",
+          "tokenScale": 0.006975446428571428
+        },
+        {
+          "name": "Witherbloom Campus",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/sacoc/map-1-06.witherbloom-campus-player.jpg",
+          "tokenScale": 0.006975446428571428
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 3: School is in Session",
+      "order": 2,
+      "maps": [
+        {
+            "name": "The Biblioplex",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/sacoc/map-3-01.the-biblioplex.jpg",
+            "tokenScale": 0.013902681231380335
+          },
+          {
+            "name": "The Biblioplex",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/sacoc/map-3-01.the-biblioplex-player.jpg",
+            "tokenScale": 0.0139026812313803358
+          },
+          {
+            "name": "Firejolt Cafe",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/sacoc/map-3-02.firejolt-cafe.jpg",
+            "tokenScale": 0.03125
+          },
+          {
+            "name": "Firejolt Cafe",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/sacoc/map-3-02.firejolt-cafe-player.jpg",
+            "tokenScale": 0.03125
+          },
+          {
+            "name": "Bow’s End Tavern",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/sacoc/map-3-03.bows-end-tavern.jpg",
+            "tokenScale": 0.031494140625
+          },
+          {
+            "name": "Bow’s End Tavern",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/sacoc/map-3-03.bows-end-tavern-player.jpg",
+            "tokenScale": 0.031494140625
+          },
+          {
+            "name": "Captain Dapplewing’s Manor",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/sacoc/map-3-04.captain-dapplewings-manor.jpg",
+            "tokenScale": 0.031477799867461895
+          },
+          {
+            "name": "Captain Dapplewing’s Manor",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/sacoc/map-3-04.captain-dapplewings-manor-player.jpg",
+            "tokenScale": 0.031477799867461895
+          },
+          {
+            "name": "The Rose Stage",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/sacoc/map-3-05.the-rose-stage.jpg",
+            "tokenScale": 0.031982421875
+          },
+          {
+            "name": "The Rose Stage",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/sacoc/map-3-05.the-rose-stage-player.jpg",
+            "tokenScale": 0.031982421875
+          },
+          {
+            "name": "Sedgemoor",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/sacoc/map-3-06.sedgemoor.jpg",
+            "tokenScale": 0.03508185766789175
+          },
+          {
+            "name": "Sedgemoor",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/sacoc/map-3-06.sedgemoor-player.jpg",
+            "tokenScale": 0.03508185766789175
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 4: Hunt for Mage Tower",
+      "order": 3,
+      "maps": [
+        {
+            "name": "Wiltroot Hall and Outer Grounds",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/sacoc/map-4-01.wiltroot-hall-and-outer-grounds.jpg",
+            "tokenScale": 0.012013536379018613
+          },
+          {
+            "name": "Wiltroot Hall and Outer Grounds",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/sacoc/map-4-01.wiltroot-hall-and-outer-grounds-player.jpg",
+            "tokenScale": 0.012013536379018613
+          },
+          {
+            "name": "Aerojaunt Field",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/sacoc/map-4-02.aerojaunt-field.jpg",
+            "tokenScale": 0.028495692511597084
+          },
+          {
+            "name": "Aerojaunt Field",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/sacoc/map-4-02.aerojaunt-field-player.jpg",
+            "tokenScale": 0.028495692511597084
+          },
+          {
+            "name": "Scriptoria Collections",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/sacoc/map-4-03.scriptoria-collections.jpg",
+            "tokenScale": 0.060302734375
+          },
+          {
+            "name": "Scriptoria Collections",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/sacoc/map-4-03.scriptoria-collections-player.jpg",
+            "tokenScale": 0.060302734375
+          },
+          {
+            "name": "Strixhaven Stadium",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/sacoc/map-4-04.strixhaven-stadium.jpg",
+            "tokenScale": 0.03174072836618777
+          },
+          {
+            "name": "Strixhaven Stadium",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/sacoc/map-4-04.strixhaven-stadium-player.jpg",
+            "tokenScale": 0.03174072836618777
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 5: The Magister’s Masquerade",
+      "order": 4,
+      "maps": [
+        {
+            "name": "Furygale Repository",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/sacoc/map-5-01.furygale-repository.jpg",
+            "tokenScale": 0.03664223850766156
+          },
+          {
+            "name": "Furygale Repository",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/sacoc/map-5-01.furygale-repository-player.jpg",
+            "tokenScale": 0.03664223850766156
+          },
+          {
+            "name": "Kollema Hall",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/sacoc/map-5-02.kollema-hall.jpg",
+            "tokenScale": 0.028291787735127687
+          },
+          {
+            "name": "Kollema Hall",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/sacoc/map-5-02.kollema-hall-player.jpg",
+            "tokenScale": 0.028291787735127687
+          },
+          {
+            "name": "Lorehold Dean’s Wing",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/sacoc/map-5-03.lorehold-deans-wing.jpg",
+            "tokenScale": 0.03125
+          },
+          {
+            "name": "Lorehold Dean’s Wing",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/sacoc/map-5-03.lorehold-deans-wing-player.jpg",
+            "tokenScale": 0.03125
+          },
+          {
+            "name": "Deans’ Repository",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/sacoc/map-5-04.deans-repository.jpg",
+            "tokenScale": 0.062292909211398274
+          },
+          {
+            "name": "Deans’ Repository",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/sacoc/map-5-04.deans-repository-player.jpg",
+            "tokenScale": 0.062292909211398274
+          }
+      ]
+    },
+    {
+        "id": "4",
+        "name": "Chapter 6: A Reckoning in Ruins",
+        "order": 5,
+        "maps": [
+          {
+              "name": "The Detention Bog",
+              "description": "(DM version)",
+              "order": 1,
+              "imageKey": "official/maps/sacoc/map-6-01.the-detention-bog.jpg",
+              "tokenScale": 0.03274306715669897
+            },
+            {
+              "name": "The Detention Bog",
+              "description": "(Player version)",
+              "order": 2,
+              "imageKey": "official/maps/sacoc/map-6-01.the-detention-bog-player.jpg",
+              "tokenScale": 0.03274306715669897
+            },
+            {
+              "name": "Fortress Badlands",
+              "description": "(DM version)",
+              "order": 3,
+              "imageKey": "official/maps/sacoc/map-6-02.fortress-badlands.jpg",
+              "tokenScale": 0.03232323232323232
+            },
+            {
+              "name": "Fortress Badlands",
+              "description": "(Player version)",
+              "order": 4,
+              "imageKey": "official/maps/sacoc/map-6-02.fortress-badlands-player.jpg",
+              "tokenScale": 0.03232323232323232
+            },
+            {
+                "name": "Underground Cave",
+                "description": "(DM version)",
+                "order": 5,
+                "imageKey": "official/maps/sacoc/map-6-03.underground-cave.jpg",
+                "tokenScale": 0.06925115970841617
+              },
+              {
+                "name": "Underground Cave",
+                "description": "(Player version)",
+                "order": 6,
+                "imageKey": "official/maps/sacoc/map-6-03.underground-cave-player.jpg",
+                "tokenScale": 0.06925115970841617
+              },
+              {
+                "name": "Ruins of Caerdoon",
+                "description": "(DM version)",
+                "order": 7,
+                "imageKey": "official/maps/sacoc/map-6-04.ruins-of-caerdoon.jpg",
+                "tokenScale": 0.03341129301703976
+              },
+              {
+                "name": "Ruins of Caerdoon",
+                "description": "(Player version)",
+                "order": 8,
+                "imageKey": "official/maps/sacoc/map-6-04.ruins-of-caerdoon-player.jpg",
+                "tokenScale": 0.03341129301703976
+              },
+              {
+                "name": "Fortress of Caerdoon Basement",
+                "description": "(DM version)",
+                "order": 9,
+                "imageKey": "official/maps/sacoc/map-6-05.fortress-of-caerdoon-basement.jpg",
+                "tokenScale": 0.035400390625
+              },
+              {
+                "name": "Fortress of Caerdoon Basement",
+                "description": "(Player version)",
+                "order": 10,
+                "imageKey": "official/maps/sacoc/map-6-05.fortress-of-caerdoon-basement-player.jpg",
+                "tokenScale": 0.035400390625
+              }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Appendix",
+        "order": 6,
+        "maps": [
+          {
+              "name": "Campus Map",
+              "description": "",
+              "order": 1,
+              "imageKey": "official/maps/sacoc/map-8-01.campus-map.jpg",
+              "tokenScale": 0.018835019183815832
+            }
+        ]
+       }
+    ]
+}

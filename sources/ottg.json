@@ -1,0 +1,92 @@
+{
+    "type": "sourcebook",
+    "name": "OTTG",
+    "description": "Obojima: Tales from the Tall Grass",
+    "backgroundImageKey": "official/covers/ottg.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "The Island",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Obojima",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ottg/map-02.01-obojima.png",
+            "tokenScale": 0.016361416361416362
+          },
+          {
+            "name": "Obojima",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ottg/map-02.01-obojima-player.png",
+            "tokenScale": 0.016361416361416362
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "name": "The Curious World Within",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Cellar",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/ottg/map-11.01-the-workshop.png",
+            "tokenScale": 0.3405761718749997
+          },
+          {
+            "name": "Workshop",
+            "description": "",
+            "order": 2,
+            "imageKey": "official/maps/ottg/map-11.02-the-cellar.png",
+            "tokenScale": 0.25146484374999983
+          },
+          {
+            "name": "Witch’s Work Table",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/ottg/map-11.03-witchs-work-table.png",
+            "tokenScale": 0.030029296875
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Below The Shallows",
+        "order": 3,
+        "maps": [
+          {
+            "name": "The Sunken Town",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ottg/map-11.04-sunken-town.png",
+            "tokenScale": 0.02978515625
+          },
+          {
+            "name": "The Sunken Town",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ottg/map-11.04-sunken-town-player.png",
+            "tokenScale": 0.02978515625
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Lost Within The Crawling Canopy",
+        "order": 4,
+        "maps": [
+          {
+            "name": "The Crawling Canopy",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/ottg/map-11.05-crawling-canopy.png",
+            "tokenScale": 0.0302734375
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,246 @@
+{
+  "type": "adventure",
+  "name": "CotN",
+  "description": "Critical Role: Call of the Netherdeep",
+  "backgroundImageKey": "official/covers/cotn.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: A Fateful Competition",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Jigow",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-1.1-Jigow.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Jigow",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-1.1-Jigow-player.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Emerald Grotto",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cotn/map-1.2-Emerald-Grotto.jpg",
+          "tokenScale": 0.026388888888888885
+        },
+        {
+          "name": "Emerald Grotto",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cotn/map-1.2-Emerald-Grotto-player.jpg",
+          "tokenScale": 0.026388888888888885
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: The Leave-Taking",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Emerald Gulch",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-2.1-The-Emerald-Gulch.jpg",
+          "tokenScale": 0.010333333333333333
+        },
+        {
+          "name": "The Emerald Gulch",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-2.1-The-Emerald-Gulch-player.jpg",
+          "tokenScale": 0.010333333333333333
+        },
+        {
+          "name": "Emerald Loop Caravan Stop",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cotn/map-2.2-Emerald-Loop-Caravan-Stop.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "Emerald Loop Caravan Stop",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cotn/map-2.2-Emerald-Loop-Caravan-Stop-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Bazzoxan",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Bazzoxan",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-3.1-Bazzoxan.jpg",
+          "tokenScale": 0.013333333333333334
+        },
+        {
+          "name": "Bazzoxan",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-3.1-Bazzoxan-player.jpg",
+          "tokenScale": 0.013333333333333334
+        },
+        {
+          "name": "Betrayers’ Rise",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cotn/map-3.2-Betrayers-Rise.jpg",
+          "tokenScale": 0.01333333333333333
+        },
+        {
+          "name": "Betrayers’ Rise",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cotn/map-3.2-Betrayers-Rise-player.jpg",
+          "tokenScale": 0.01333333333333333
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: The Jewel of Hope",
+      "order": 4,
+      "maps": [
+        {
+          "name": "The Jewel of Hope Ank`Harel",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-4.1-Ank_Harel.jpg",
+          "tokenScale": 0.004117647058823528
+        },
+        {
+          "name": "The Jewel of Hope Ank`Harel",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-4.1-Ank_Harel-player.jpg",
+          "tokenScale": 0.004117647058823528
+        },
+        {
+          "name": "Streets of the Sigil District",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cotn/map-4.2-Streets-of-the-Sigil-District.jpg",
+          "tokenScale": 0.033
+        },
+        {
+          "name": "Streets of the Sigil District",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cotn/map-4.2-Streets-of-the-Sigil-District-player.jpg",
+          "tokenScale": 0.033
+        },
+        {
+          "name": "Streets of the Suncut Bazaar",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/cotn/map-4.3-Streets-of-the-Suncut-Bazaar.jpg",
+          "tokenScale": 0.034333333333333334
+        },
+        {
+          "name": "Streets of the Suncut Bazaar",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/cotn/map-4.3-Streets-of-the-Suncut-Bazaar-player.jpg",
+          "tokenScale": 0.034333333333333334
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Faction Story Tracks",
+      "order": 5,
+      "maps": [
+        {
+          "name": "River District Canal",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-4.4-River-District-Canal.jpg",
+          "tokenScale": 0.03333333333333333
+        },
+        {
+          "name": "River District Canal",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-4.4-River-District-Canal-player.jpg",
+          "tokenScale": 0.03333333333333333
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 5: The Drowned City",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Cael Morrow",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-5.1-Cael-Morrow.jpg",
+          "tokenScale": 0.01533333333333333
+        },
+        {
+          "name": "Cael Morrow",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-5.1-Cael-Morrow-player.jpg",
+          "tokenScale": 0.01533333333333333
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 6: The Netherdeep",
+      "order": 7,
+      "maps": [
+        {
+          "name": "The Netherdeep",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-6.1-The-Netherdeep.jpg",
+          "tokenScale": 0.011944444444444443
+        },
+        {
+          "name": "The Netherdeep",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-6.1-The-Netherdeep-player.jpg",
+          "tokenScale": 0.011944444444444443
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 7: The Heart of Despair",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Heart of Despair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cotn/map-7.1-Heart-of-Despair.jpg",
+          "tokenScale": 0.0066666666666666645
+        },
+        {
+          "name": "Heart of Despair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cotn/map-7.1-Heart-of-Despair-player.jpg",
+          "tokenScale": 0.0066666666666666645
+        }
+      ]
+    }
+  ]
+}

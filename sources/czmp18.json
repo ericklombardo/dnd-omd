@@ -1,0 +1,323 @@
+{
+    "type": "mappack",
+    "name": "CZMP18",
+    "description": "Czepeku: Sewer Tunnels",
+    "backgroundImageKey": "official/covers/czmp18.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Sewer Tunnels",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Arcane Runoff",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp18/map-01.01-g-sewer-tunnels-arcanerunoff.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Arcane Runoff",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp18/map-01.01-gl-sewer-tunnels-arcanerunoff.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Blood River",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp18/map-01.02-g-sewer-tunnels-bloodriver.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Blood River",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp18/map-01.02-gl-sewer-tunnels-bloodriver.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Clean",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp18/map-01.03-g-sewer-tunnels-clean.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Clean",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp18/map-01.03-gl-sewer-tunnels-clean.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Dark",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp18/map-01.04-g-sewer-tunnels-dark.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Dark",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp18/map-01.04-gl-sewer-tunnels-dark.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp18/map-01.05-g-sewer-tunnels-desert.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp18/map-01.05-gl-sewer-tunnels-desert.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Drought",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp18/map-01.06-g-sewer-tunnels-drought.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Drought",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp18/map-01.06-gl-sewer-tunnels-drought.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Empty",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp18/map-01.07-g-sewer-tunnels-empty.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Empty",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp18/map-01.07-gl-sewer-tunnels-empty.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Flooded",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp18/map-01.08-g-sewer-tunnels-flooded.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Flooded",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp18/map-01.08-gl-sewer-tunnels-flooded.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp18/map-01.09-g-sewer-tunnels-fog.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp18/map-01.09-gl-sewer-tunnels-fog.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Hidden Cavern",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp18/map-01.10-g-sewer-tunnels-hiddencavern.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Hidden Cavern",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp18/map-01.10-gl-sewer-tunnels-hiddencavern.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Lava",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp18/map-01.11-g-sewer-tunnels-lava.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Lava",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp18/map-01.11-gl-sewer-tunnels-lava.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp18/map-01.12-g-sewer-tunnels-massacre.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp18/map-01.12-gl-sewer-tunnels-massacre.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp18/map-01.13-g-sewer-tunnels-original-day.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp18/map-01.13-gl-sewer-tunnels-original-day.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+         {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp18/map-01.14-g-sewer-tunnels-original-night.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp18/map-01.14-gl-sewer-tunnels-original-night.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Rainbow",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp18/map-01.15-g-sewer-tunnels-rainbow.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Rainbow",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp18/map-01.15-gl-sewer-tunnels-rainbow.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Rainfall",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp18/map-01.16-g-sewer-tunnels-rainfall.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Rainfall",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp18/map-01.16-gl-sewer-tunnels-rainfall.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout Day",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp18/map-01.17-g-sewer-tunnels-skypirateshideout-day.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout Day",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp18/map-01.17-gl-sewer-tunnels-skypirateshideout-day.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout Night",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp18/map-01.18-g-sewer-tunnels-skypirateshideout-night.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout Night",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp18/map-01.18-gl-sewer-tunnels-skypirateshideout-night.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout No Airships Day",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp18/map-01.19-g-sewer-tunnels-skypirateshideoutnoairships-day.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout No Airships Day",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp18/map-01.19-gl-sewer-tunnels-skypirateshideoutnoairships-day.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout No Airships Night",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp18/map-01.20-g-sewer-tunnels-skypirateshideoutnoairships-night.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Sky Pirates Hideout No Airships Night",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp18/map-01.20-gl-sewer-tunnels-skypirateshideoutnoairships-night.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp18/map-01.21-g-sewer-tunnels-toxic.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp18/map-01.21-gl-sewer-tunnels-toxic.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp18/map-01.22-g-sewer-tunnels-winter.jpg",
+            "tokenScale": 0.030741769139230463
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp18/map-01.22-gl-sewer-tunnels-winter.jpg",
+            "tokenScale": 0.030741769139230463
+          }
+        ]
+      }
+    ]
+  }

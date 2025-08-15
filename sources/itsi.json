@@ -1,0 +1,50 @@
+{
+  "type": "adventure",
+  "name": "ItSI",
+  "description": "Intro to Stormwreck Isle",
+  "backgroundImageKey": "official/covers/itsi.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Chapter 1",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Merrow Attack",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/itsi/08-Boat.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Merrow Attack",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/itsi/08-Boat.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Drowned Sailors",
+          "description": "(Player version)",
+          "order": 3,
+          "imageKey": "official/maps/itsi/05-drowned-sailors.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Stormwreck Isle",
+          "description": "(DM version)",
+          "order": 4,
+          "imageKey": "official/maps/itsi/map-0.01-stormwreck-isle.jpg",
+          "tokenScale": 0.010504201680672266
+        },
+        {
+          "name": "Stormwreck Isle",
+          "description": "(Player version)",
+          "order": 5,
+          "imageKey": "official/maps/itsi/map-0.01-stormwreck-isle-player.jpg",
+          "tokenScale": 0.010504201680672266
+        }
+      ]
+    }
+  ]
+}

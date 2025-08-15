@@ -1,0 +1,449 @@
+{
+  "type": "adventure",
+  "name": "GoS",
+  "description": "Ghosts of Saltmarsh",
+  "backgroundImageKey": "official/covers/gos.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Saltmarsh",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Village of Saltmarsh",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-1.1-saltmarsh.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Village of Saltmarsh",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-1.1-saltmarsh-player.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Saltmarsh and Environs",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-1.2-region.jpg",
+          "tokenScale": 0.01633333333333333
+        },
+        {
+          "name": "Saltmarsh and Environs",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-1.2-region-player.jpg",
+          "tokenScale": 0.01633333333333333
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: The Sinister Secret of Saltmarsh",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Haunted House",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-2.1-ground-floor.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Haunted House",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-2.1-ground-floor-player.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Haunted House Cellar and Caverns",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-2.2-cellar.jpg",
+          "tokenScale": 0.035925925925925924
+        },
+        {
+          "name": "Haunted House Cellar and Caverns",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-2.2-cellar-player.jpg",
+          "tokenScale": 0.035925925925925924
+        },
+        {
+          "name": "Sea Ghost",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/gos/map-2.3-sea-ghost.jpg",
+          "tokenScale": 0.039523809523809524
+        },
+        {
+          "name": "Sea Ghost",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/gos/map-2.3-sea-ghost-player.jpg",
+          "tokenScale": 0.039523809523809524
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Danger at Dunwater",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Lizardfolk Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-3.1-lizardfolk-lair.jpg",
+          "tokenScale": 0.0070175438596491195
+        },
+        {
+          "name": "Lizardfolk Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-3.1-lizardfolk-lair-player.jpg",
+          "tokenScale": 0.0070175438596491195
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: Salvage Operation",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Emperor of the Waves",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-4.1-emperor.jpg",
+          "tokenScale": 0.022619047619047615
+        },
+        {
+          "name": "Emperor of the Waves",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-4.1-emperor-player.jpg",
+          "tokenScale": 0.022619047619047615
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Isle of the Abbey",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Abbey Isle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-5.1-abbey.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Abbey Isle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-5.1-abbey-player.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Skull Dunes",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-5.2-skull-dunes.jpg",
+          "tokenScale": 0.009333333333333334
+        },
+        {
+          "name": "Skull Dunes",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-5.2-skull-dunes-player.jpg",
+          "tokenScale": 0.009333333333333334
+        },
+        {
+          "name": "Abbey Ruins",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/gos/map-5.3-abbey-ruins.jpg",
+          "tokenScale": 0.024
+        },
+        {
+          "name": "Abbey Ruins",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/gos/map-5.3-abbey-ruins-player.jpg",
+          "tokenScale": 0.024
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 6: The Final Enemy",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Sahuagin Lair Level 1",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-6.1-sahuagin-lair-level-one.jpg",
+          "tokenScale": 0.011777777777777776
+        },
+        {
+          "name": "Sahuagin Lair Level 1",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-6.1-sahuagin-lair-level-one-player.jpg",
+          "tokenScale": 0.011777777777777776
+        },
+        {
+          "name": "Sahuagin Lair Level 2",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-6.2-sahuagin-lair-level-two.jpg",
+          "tokenScale": 0.011666666666666667
+        },
+        {
+          "name": "Sahuagin Lair Level 2",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-6.2-sahuagin-lair-level-two-player.jpg",
+          "tokenScale": 0.011666666666666667
+        },
+        {
+          "name": "Sahuagin Lair Level 3",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/gos/map-6.3-sahuagin-lair-level-three.jpg",
+          "tokenScale": 0.010333333333333333
+        },
+        {
+          "name": "Sahuagin Lair Level 3",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/gos/map-6.3-sahuagin-lair-level-three-player.jpg",
+          "tokenScale": 0.010333333333333333
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 7: Tammeraut’s Fate",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Firewatch Island",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-7.1-firewatch.jpg",
+          "tokenScale": 0.011666666666666667
+        },
+        {
+          "name": "Firewatch Island",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-7.1-firewatch-player.jpg",
+          "tokenScale": 0.011666666666666667
+        },
+        {
+          "name": "Hermitage First Floor",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-7.2-firewatch-hermitage.jpg",
+          "tokenScale": 0.014814814814814815
+        },
+        {
+          "name": "Hermitage First Floor",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-7.2-firewatch-hermitage-player.jpg",
+          "tokenScale": 0.014814814814814815
+        },
+        {
+          "name": "Hermitage Second Floor",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/gos/map-7.3-firewatch-hermitage-second-floor.jpg",
+          "tokenScale": 0.015333333333333332
+        },
+        {
+          "name": "Hermitage Second Floor",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/gos/map-7.3-firewatch-hermitage-second-floor-player.jpg",
+          "tokenScale": 0.015333333333333332
+        },
+        {
+          "name": "Hermitage Upper Floors and Cellar",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/gos/map-7.4-firewatch-hermitage-upper-and-cellar.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Hermitage Upper Floors and Cellar",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/gos/map-7.4-firewatch-hermitage-upper-and-cellar-player.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "The Pit of Hatred",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/gos/map-7.5-dragons-maw.jpg",
+          "tokenScale": 0.034
+        },
+        {
+          "name": "The Pit of Hatred",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/gos/map-7.5-dragons-maw-player.jpg",
+          "tokenScale": 0.034
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 8: The Styes",
+      "order": 9,
+      "maps": [
+        {
+          "name": "The Styes",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-8.1-styes.jpg",
+          "tokenScale": 0.009666666666666667
+        },
+        {
+          "name": "The Styes",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-8.1-styes-player.jpg",
+          "tokenScale": 0.009666666666666667
+        },
+        {
+          "name": "Mr. Dory's Warehouse",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-8.2-dorys.jpg",
+          "tokenScale": 0.019666666666666666
+        },
+        {
+          "name": "Mr. Dory's Warehouse",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-8.2-dorys-player.jpg",
+          "tokenScale": 0.019666666666666666
+        },
+        {
+          "name": "Temple of Tharizdun",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/gos/map-8.3-temple.jpg",
+          "tokenScale": 0.025333333333333333
+        },
+        {
+          "name": "Temple of Tharizdun",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/gos/map-8.3-temple-player.jpg",
+          "tokenScale": 0.025333333333333333
+        },
+        {
+          "name": "Landgrave's Folly",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/gos/map-8.4-langrave.jpg",
+          "tokenScale": 0.028
+        },
+        {
+          "name": "Landgrave's Folly",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/gos/map-8.4-langrave-player.jpg",
+          "tokenScale": 0.028
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Appendix A: Of Ships and the Sea",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Galley Ship",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/gos/map-9.1-galley-ship.jpg",
+          "tokenScale": 0.04
+        },
+        {
+          "name": "Smaller Ships",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/gos/map-9.2.smaller-ships.jpg",
+          "tokenScale": 0.036333333333333336
+        },
+        {
+          "name": "Sailing Ship",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/gos/map-9.3.sailing-ship.jpg",
+          "tokenScale": 0.038
+        },
+        {
+          "name": "Warship",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/gos/map-9.4-warship.jpg",
+          "tokenScale": 0.03766666666666667
+        },
+        {
+          "name": "Cove Reef",
+          "description": "(Player version)",
+          "order": 5,
+          "imageKey": "official/maps/gos/map-9.5-cove-reef.jpg",
+          "tokenScale": 0.014666666666666666
+        },
+        {
+          "name": "Cove Reef",
+          "description": "(DM version)",
+          "order": 6,
+          "imageKey": "official/maps/gos/map-9.5-cove-reef-player.jpg",
+          "tokenScale": 0.014666666666666666
+        },
+        {
+          "name": "Wreck of the Marshal",
+          "description": "(Player version)",
+          "order": 7,
+          "imageKey": "official/maps/gos/map-9.6-wreck-marshal.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Wreck of the Marshal",
+          "description": "(DM version)",
+          "order": 8,
+          "imageKey": "official/maps/gos/map-9.6-wreck-marshal-player.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Warthalkeel Ruins",
+          "description": "(Player version)",
+          "order": 9,
+          "imageKey": "official/maps/gos/map-9.7-warthalkeel.jpg",
+          "tokenScale": 0.013939393939393937
+        },
+        {
+          "name": "Warthalkeel Ruins",
+          "description": "(DM version)",
+          "order": 10,
+          "imageKey": "official/maps/gos/map-9.7-warthalkeel-player.jpg",
+          "tokenScale": 0.013939393939393937
+        }
+      ]
+    }
+  ]
+}

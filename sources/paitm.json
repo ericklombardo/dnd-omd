@@ -1,0 +1,274 @@
+{
+  "type": "sourcebook",
+  "name": "PAitM",
+  "description": "Planescape: Adventures in the Multiverse",
+  "backgroundImageKey": "official/covers/PAitM-Avatar.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Turn of Fortune’s Wheel: Chapter 1",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Mortuary Basement",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-1.01-Mortuary-Basement.jpg",
+          "tokenScale": 0.02602495543672014
+        },
+        {
+          "name": "Mortuary Basement",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-1.01-Mortuary-Basement-Player.jpg",
+          "tokenScale": 0.02602495543672014
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Turn of Fortune’s Wheel: Chapter 2",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Caker Tea Party",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/PAitM/map-1.02-Caker-Tea-Party.jpg",
+          "tokenScale": 0.05208333333333332
+        },
+        {
+          "name": "Caker Tea Party",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/PAitM/map-1.02-Caker-Tea-Party-Player.jpg",
+          "tokenScale": 0.05208333333333332
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Turn of Fortune’s Wheel: Chapter 3",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Fortune’s Wheel",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/PAitM/map-1.03-Fortunes-Wheel.jpg",
+          "tokenScale": 0.02248366013071895
+        },
+        {
+          "name": "Fortune’s Wheel",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/PAitM/map-1.03-Fortunes-Wheel-Player.jpg",
+          "tokenScale": 0.02248366013071895
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Turn of Fortune’s Wheel: Chapter 4",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Walking Castle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-2.01-Walking-Castle.jpg",
+          "tokenScale": 0.027450980392156862
+        },
+        {
+          "name": "Walking Castle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-2.01-Walking-Castle-Player.jpg",
+          "tokenScale": 0.027450980392156862
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Turn of Fortune’s Wheel: Chapter 5",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Inverse Hideout",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-2.02-Inverse-Hideout.jpg",
+          "tokenScale": 0.04416666666666667
+        },
+        {
+          "name": "Inverse Hideout",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-2.02-Inverse-Hideout-Player.jpg",
+          "tokenScale": 0.04416666666666667
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Turn of Fortune’s Wheel: Chapter 6",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Curst Escape",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-2.02-Curst-Escape-player.jpg",
+          "tokenScale": 0.04083333333333333
+        },
+        {
+          "name": "Curst Escape",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-2.02-Curst-Escape-player.jpg",
+          "tokenScale": 0.04083333333333333
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Turn of Fortune’s Wheel: Chapter 8",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Vile Hunt Camp",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-2.03-Vile-Hunt-Camp.jpg",
+          "tokenScale": 0.04
+        },
+        {
+          "name": "Vile Hunt Camp",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-2.03-Vile-Hunt-Camp.jpg",
+          "tokenScale": 0.04
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Turn of Fortune’s Wheel: Chapter 9",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Courier",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-2.04-courier.jpg",
+          "tokenScale": 0.045
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Turn of Fortune’s Wheel: Chapter 10",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Gate to Acheron",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-02.05-Gate-to-Acheron.jpg",
+          "tokenScale": 0.05
+        },
+        {
+          "name": "Gate to Acheron",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-02.05-Gate-to-Acheron-player.jpg",
+          "tokenScale": 0.05
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Turn of Fortune’s Wheel: Chapter 14",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Platinum Rooms",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-03.01-Platinum-Rooms.jpg",
+          "tokenScale": 0.01215686274509804
+        },
+        {
+          "name": "Platinum Rooms",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-03.01-Platinum-Rooms-Player.jpg",
+          "tokenScale": 0.01215686274509804
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Turn of Fortune’s Wheel: Chapter 15",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Tyrant’s Spiral",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-03.02-Tyrants-Spiral.jpg",
+          "tokenScale": 0.028877005347593583
+        },
+        {
+          "name": "Tyrant’s Spiral",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-03.02-Tyrants-Spiral-Player.jpg",
+          "tokenScale": 0.028877005347593583
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Sigil and the Outlands: Chapter 2",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Elloweth Theater in the Civic Festhall",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/PAitM/map-2.01-Elloweth-Theater.jpg",
+          "tokenScale": 0.009411764705882352
+        },
+        {
+          "name": "Hall of Vigils in the Mortuary",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/PAitM/map-2.02-Hall-of-Vigils.jpg",
+          "tokenScale": 0.0058823529411764705
+        },
+        {
+          "name": "Spire of the Grixitt in the Prison",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/PAitM/map-2.03-Spire-of-Grixitt.jpg",
+          "tokenScale": 0.008
+        },
+        {
+          "name": "Mithral Tower in the Great Foundry",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/PAitM/map-2.04-Mithral-Tower.jpg",
+          "tokenScale": 0.007764705882352941
+        },
+        {
+          "name": "Grounds of the Great Gymnasium",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/PAitM/map-2.05-Great-Gymnasium.jpg",
+          "tokenScale": 0.005411764705882353
+        }
+      ]
+    }
+  ]
+}

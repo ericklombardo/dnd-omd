@@ -1,0 +1,295 @@
+{
+    "type": "sourcebook",
+    "name": "EGtW",
+    "description": "Explorer's Guide to Wildemount",
+    "backgroundImageKey": "official/covers/egtw.jpg",
+    "chapters": [
+    {
+        "id": "0",
+        "name": "Welcome to Wildemount",
+        "order": 1,
+        "maps": [
+          {
+            "name": "The Continent of Wildemount",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/egtw/map-1.01-continent-of-wildemount-DM.jpg",
+            "tokenScale": 0.0033333333333333335
+          },
+          {
+            "name": "The Continent of Wildemount",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/egtw/map-1.01-continent-of-wildemount-Player.jpg",
+            "tokenScale": 0.0033333333333333335
+          } 
+        ]
+      },     
+      {
+        "id": "1",
+        "name": "Chapter 3: Wildemount Gazetteer",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Menagerie Coast",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/egtw/map-3.01-menagerie-coast.png",
+            "tokenScale": 0.00784313725490196
+          },
+          {
+            "name": "Port Damali",
+            "description": "(DM version)",
+            "order": 2,
+            "imageKey": "official/maps/egtw/map-3.02-port-damali-DM.jpg",
+            "tokenScale": 0.006459054209919259
+          },
+          {
+            "name": "Port Damali",
+            "description": "(Player version)",
+            "order": 3,
+            "imageKey": "official/maps/egtw/map-3.02-port-damali-Player.jpg",
+            "tokenScale": 0.006459054209919259
+          },
+          {
+            "name": "Marrow Valley",
+            "description": "",
+            "order": 4,
+            "imageKey": "official/maps/egtw/map-3.03-marrow-valley.png",
+            "tokenScale": 0.005602240896358542
+          },
+          {
+            "name": "Zemni Fields",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/egtw/map-3.04-zemni-fields.png",
+            "tokenScale": 0.00784313725490196
+          },
+          {
+            "name": "Rexxentrum",
+            "description": "(DM version)",
+            "order": 6,
+            "imageKey": "official/maps/egtw/map-3.05-rexxentrum-DM.png",
+            "tokenScale": 0.0043572984749455325
+          },
+          {
+            "name": "Rexxentrum",
+            "description": "(Player version)",
+            "order": 7,
+            "imageKey": "official/maps/egtw/map-3.05-rexxentrum-Player.png",
+            "tokenScale": 0.0043572984749455325
+          },
+          {
+            "name": "Greying Wildlands",
+            "description": "",
+            "order": 8,
+            "imageKey": "official/maps/egtw/map-3.06-greying-wildlands.png",
+            "tokenScale": 0.00784313725490196
+          },
+          {
+            "name": "Eiselcross",
+            "description": "",
+            "order": 9,
+            "imageKey": "official/maps/egtw/map-3.07-eiselcross.png",
+            "tokenScale": 0.00823529411764706
+          },
+          {
+            "name": "Wastes of Xhorhas",
+            "description": "",
+            "order": 10,
+            "imageKey": "official/maps/egtw/map-3.08-wastes-of-xhorhas.png",
+            "tokenScale": 0.00784313725490196
+          },
+          {
+            "name": "Rosohna",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/egtw/map-3.09-rosohna-DM.jpg",
+            "tokenScale": 0.00803921568627451
+          },
+          {
+            "name": "Rosohna",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/egtw/map-3.09-rosohna-Player.jpg",
+            "tokenScale": 0.00803921568627451
+          },
+          {
+            "name": "Blightshore",
+            "description": "",
+            "order": 13,
+            "imageKey": "official/maps/egtw/map-3.10-blightshore.png",
+            "tokenScale": 0.005751633986928103
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Chapter 5: Adventures in Wildemount",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Palma Flora",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/egtw/map-5.01-palma-flora-DM.png",
+            "tokenScale": 0.014901960784313726
+          },
+          {
+            "name": "Palma Flora",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/egtw/map-5.01-palma-flora-Player.png",
+            "tokenScale": 0.014901960784313726
+          },
+          {
+            "name": "Wavechaser",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/egtw/map-5.02-wavechaser.png",
+            "tokenScale": 0.03529411764705882
+          },
+          {
+            "name": "Ruined Palma Flora",
+            "description": "(DM version)",
+            "order": 4,
+            "imageKey": "official/maps/egtw/map-5.03-ruined-palma-flora-DM.png",
+            "tokenScale": 0.015098039215686275
+          },
+          {
+            "name": "Ruined Palma Flora",
+            "description": "(Player version)",
+            "order": 5,
+            "imageKey": "official/maps/egtw/map-5.03-ruined-palma-flora-Player.png",
+            "tokenScale": 0.015098039215686275
+          },
+          {
+            "name": "Lower Hupperdook",
+            "description": "(DM version)",
+            "order": 6,
+            "imageKey": "official/maps/egtw/map-5.04-lower-hupperdook-DM.jpg",
+            "tokenScale": 0.007058823529411763
+          },
+          {
+            "name": "Lower Hupperdook",
+            "description": "(Player version)",
+            "order": 7,
+            "imageKey": "official/maps/egtw/map-5.04-lower-hupperdook-Player.jpg",
+            "tokenScale": 0.007058823529411763
+          },
+          {
+            "name": "Ironlot Streets",
+            "description": "(DM version)",
+            "order": 8,
+            "imageKey": "official/maps/egtw/map-5.05-ironlot-streets-DM.png",
+            "tokenScale": 0.03058823529411765
+          },
+          {
+            "name": "Ironlot Streets",
+            "description": "(Player version)",
+            "order": 9,
+            "imageKey": "official/maps/egtw/map-5.05-ironlot-streets-Player.png",
+            "tokenScale": 0.03058823529411765
+          },
+          {
+            "name": "Nima Cinnarid's House",
+            "description": "(DM version)",
+            "order": 10,
+            "imageKey": "official/maps/egtw/map-5.06-nima-cinnarids-house-DM.png",
+            "tokenScale": 0.18437499999999993
+          },
+          {
+            "name": "Nima Cinnarid's House",
+            "description": "(Player version)",
+            "order": 11,
+            "imageKey": "official/maps/egtw/map-5.06-nima-cinnarids-house-Player.png",
+            "tokenScale": 0.18437499999999993
+          },
+          {
+            "name": "Silver Falls Cavern",
+            "description": "(DM version)",
+            "order": 12,
+            "imageKey": "official/maps/egtw/map-5.07-silver-falls-cavern-DM.png",
+            "tokenScale": 0.04357298474945532
+          },
+          {
+            "name": "Silver Falls Cavern",
+            "description": "(Player version)",
+            "order": 13,
+            "imageKey": "official/maps/egtw/map-5.07-silver-falls-cavern-Player.png",
+            "tokenScale": 0.04357298474945532
+          },
+          {
+            "name": "Stahlmast's Lair",
+            "description": "(DM version)",
+            "order": 14,
+            "imageKey": "official/maps/egtw/map-5.08-stahlmasts-lair-DM.jpg",
+            "tokenScale": 0.01588235294117647
+          },
+          {
+            "name": "Stahlmast's Lair",
+            "description": "(Player version)",
+            "order": 15,
+            "imageKey": "official/maps/egtw/map-5.08-stahlmasts-lair-Player.jpg",
+            "tokenScale": 0.01588235294117647
+          },
+          {
+            "name": "Croaker Cave",
+            "description": "(DM version)",
+            "order": 16,
+            "imageKey": "official/maps/egtw/map-5.09-croaker-cave-DM.png",
+            "tokenScale": 0.029215686274509805
+          },
+          {
+            "name": "Croaker Cave",
+            "description": "(Player version)",
+            "order": 17,
+            "imageKey": "official/maps/egtw/map-5.09-croaker-cave-Player.png",
+            "tokenScale": 0.029215686274509805
+          },
+          {
+            "name": "Salsvault",
+            "description": "(DM version)",
+            "order": 18,
+            "imageKey": "official/maps/egtw/map-5.10-salsvault-DM.png",
+            "tokenScale": 0.01980392156862745
+          },
+          {
+            "name": "Salsvault",
+            "description": "(Player version)",
+            "order": 19,
+            "imageKey": "official/maps/egtw/map-5.10-salsvault-Player.png",
+            "tokenScale": 0.01980392156862745
+          },
+          {
+            "name": "Brokenveil Marsh",
+            "description": "(DM version)",
+            "order": 20,
+            "imageKey": "official/maps/egtw/map-5.11-brokenveil-marsh-DM.png",
+            "tokenScale": 0.012549019607843137
+          },
+          {
+            "name": "Brokenveil Marsh",
+            "description": "(Player version)",
+            "order": 21,
+            "imageKey": "official/maps/egtw/map-5.11-brokenveil-marsh-Player.png",
+            "tokenScale": 0.012549019607843137
+          },
+          {
+            "name": "Fort Venture",
+            "description": "(DM version)",
+            "order": 22,
+            "imageKey": "official/maps/egtw/map-5.12-fort-venture-DM.png",
+            "tokenScale": 0.011568627450980392
+          },
+          {
+            "name": "Fort Venture",
+            "description": "(Player version)",
+            "order": 23,
+            "imageKey": "official/maps/egtw/map-5.12-fort-venture-Player.png",
+            "tokenScale": 0.011568627450980392
+          }
+        ]
+      }
+    ]
+  }

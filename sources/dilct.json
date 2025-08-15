@@ -1,0 +1,29 @@
+{
+  "type": "adventure",
+  "name": "DiLCT",
+  "description": "Descent into the Lost Caverns of Tsojcanth",
+  "backgroundImageKey": "official/covers/dilct.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Descent into the Lost Caverns of Tsojcanth",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Lesser Caverns",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dilct/map-0.01-caverns.jpg",
+          "tokenScale": 0.01318359375
+        },
+        {
+          "name": "Lesser Caverns",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dilct/map-0.01-lesser-caverns-player.jpg",
+          "tokenScale": 0.01318359375
+        }
+      ]
+    }
+  ]
+}

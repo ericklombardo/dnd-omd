@@ -1,0 +1,477 @@
+{
+    "type": "adventure",
+    "name": "DrDe",
+    "description": "Dragon Delves",
+    "backgroundImageKey": "official/covers/drde.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Chapter 1: Death at Sunset",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Red Wood Grove",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/drde/map-01.01-redwood-grove-DM.jpg",
+            "tokenScale": 0.0302734375
+          },
+          {
+            "name": "Red Wood Grove",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/drde/map-01.01-redwood-grove-player.jpg",
+            "tokenScale": 0.0302734375
+          },
+          {
+            "name": "Death at Sunset’s Lair",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/drde/map-01.02-death-at-sunsets-lair-DM.jpg",
+            "tokenScale": 0.03076171875
+          },
+          {
+            "name": "Death at Sunset’s Lair",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/drde/map-01.02-death-at-sunsets-lair-player.jpg",
+            "tokenScale": 0.03076171875
+          }
+        ]
+      },
+{
+        "id": "1",
+        "name": "Chapter 2: Baker’s Doesn’t",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Confectionary Conflagration",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/drde/map-02.01-confectionery-conflagration-DM.png",
+            "tokenScale": 0.06503360069369174
+          },
+          {
+            "name": "Confectionary Conflagration",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/drde/map-02.01-confectionery-conflagration-player.png",
+            "tokenScale": 0.06503360069369174
+          },
+          {
+            "name": "Fill’s Bakery",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/drde/map-02.02-fills-bakery-DM.png",
+            "tokenScale": 0.0637329286798179
+          },
+          {
+            "name": "Fill’s Bakery",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/drde/map-02.02-fills-bakery-player.png",
+            "tokenScale": 0.0637329286798179
+          },
+          {
+            "name": "Candy Cottage",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/drde/map-02.03-candy-cottage-DM.png",
+            "tokenScale": 0.026041666666666664
+          },
+          {
+            "name": "Candy Cottage",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/drde/map-02.03-candy-cottage-player.png",
+            "tokenScale": 0.026041666666666664
+          }
+        ]
+      },
+{
+        "id": "2",
+        "name": "Chapter 3: The Will of Orcus",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Handout: Temple Map",
+            "description": "",
+            "order": 11,
+            "imageKey": "official/maps/drde/map-03-01.temple-handout.png",
+            "tokenScale": 0.026334519572953737
+          },
+          {
+            "name": "Temple of Orcus",
+            "description": "(DM version)",
+            "order": 12,
+            "imageKey": "official/maps/drde/map-03.02-temple-of-orcus-DM.jpg",
+            "tokenScale": 0.027251184834123213
+          },
+          {
+            "name": "Temple of Orcus",
+            "description": "(Player version)",
+            "order": 13,
+            "imageKey": "official/maps/drde/map-03.02-temple-of-orcus-player.jpg",
+            "tokenScale": 0.027251184834123213
+          }
+        ]
+      },
+{
+        "id": "3",
+        "name": "Chapter 4: For Whom the Void Calls",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Starglass Waypoint Lower Level",
+            "description": "(DM version)",
+            "order":14,
+            "imageKey": "official/maps/drde/map-04.01-starglass-waypoint-lower-level-DM.jpg",
+            "tokenScale": 0.027053218121618337
+          },
+          {
+            "name": "Starglass Waypoint Lower Level",
+            "description": "(Player version)",
+            "order": 15,
+            "imageKey": "official/maps/drde/map-04.01-starglass-waypoint-lower-level-player.jpg",
+            "tokenScale": 0.027053218121618337
+          },
+          {
+            "name": "Starglass Waypoint Lower Level Color",
+            "description": "(DM version)",
+            "order":16,
+            "imageKey": "official/maps/drde/map-04.01-starglass-waypoint-lower-level-color-DM.jpg",
+            "tokenScale": 0.026119010005265918
+          },
+          {
+            "name": "Starglass Waypoint Lower Level Color",
+            "description": "(Player version)",
+            "order": 17,
+            "imageKey": "official/maps/drde/map-04.01-starglass-waypoint-lower-level-color-player.jpg",
+            "tokenScale": 0.026119010005265918
+          },
+          {
+            "name": "Starglass Waypoint Upper Level",
+            "description": "(DM version)",
+            "order": 18,
+            "imageKey": "official/maps/drde/map-04.02-starglass-waypoint-upper-level_DM.jpg",
+            "tokenScale": 0.0286774628879892
+          },
+          {
+            "name": "Starglass Waypoint Upper Level",
+            "description": "(Player version)",
+            "order": 19,
+            "imageKey": "official/maps/drde/map-04.02-starglass-waypoint-upper-level-player.jpg",
+            "tokenScale": 0.0286774628879892
+          },
+          {
+            "name": "Starglass Waypoint Upper Level Color",
+            "description": "(DM version)",
+            "order": 20,
+            "imageKey": "official/maps/drde/map-04.02-starglass-waypoint-upper-level-color-DM.jpg",
+            "tokenScale": 0.02572782667569397
+          },
+          {
+            "name": "Starglass Waypoint Upper Level Color",
+            "description": "(Player version)",
+            "order": 21,
+            "imageKey": "official/maps/drde/map-04.02-starglass-waypoint-upper-level-color-player.jpg",
+            "tokenScale": 0.02572782667569397
+          }
+        ]
+      },
+{
+        "id": "4",
+        "name": "Chapter 5: The Dragon of Najkir",
+        "order": 5,
+        "maps": [
+          {
+            "name": "Monastery Upper Level",
+            "description": "(DM version)",
+            "order": 22,
+            "imageKey": "official/maps/drde/map-05.01-monastery-upper-level-DM.png",
+            "tokenScale": 0.028489379159449348
+          },
+          {
+            "name": "Monastery Upper Level",
+            "description": "(Player version)",
+            "order": 23,
+            "imageKey": "official/maps/drde/map-05.01-monastery-upper-level-player.png",
+            "tokenScale": 0.028489379159449348
+          },
+          {
+            "name": "Monastery Lower Level",
+            "description": "(DM version)",
+            "order": 24,
+            "imageKey": "official/maps/drde/map-05.02.monastery-lower-level-DM.png",
+            "tokenScale": 0.02887151041193052
+          },
+          {
+            "name": "Monastery Lower Level",
+            "description": "(Player version)",
+            "order": 25,
+            "imageKey": "official/maps/drde/map-05.02.monastery-lower-level-player.png",
+            "tokenScale": 0.02887151041193052
+          }
+        ]
+      },
+{
+        "id": "5",
+        "name": "Chapter 6: The Forbidden Vale",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Overland Map",
+            "description": "(DM version)",
+            "order": 26,
+            "imageKey": "official/maps/drde/map-06.01-overland-map-DM.jpg",
+            "tokenScale": 0.01805461521101331
+          },
+          {
+            "name": "Overland Map",
+            "description": "(Player version)",
+            "order": 27,
+            "imageKey": "official/maps/drde/map-06.01-overland-map-player.jpg",
+            "tokenScale": 0.01805461521101331
+          },
+          {
+            "name": "Overland Map Color",
+            "description": "(DM version)",
+            "order": 28,
+            "imageKey": "official/maps/drde/map-06.01-overland-map-color-DM.jpg",
+            "tokenScale": 0.017203628401626526
+          },
+          {
+            "name": "Overland Map Color",
+            "description": "(Player version)",
+            "order": 29,
+            "imageKey": "official/maps/drde/map-06.01-overland-map-color-player.jpg",
+            "tokenScale": 0.017203628401626526
+          },
+          {
+            "name": "Garden of Sacred Repose",
+            "description": "(DM version)",
+            "order": 30,
+            "imageKey": "official/maps/drde/map-06.02-garden-of-sacred-repose-DM.jpg",
+            "tokenScale": 0.018780048076923073
+          },
+          {
+            "name": "Garden of Sacred Repose",
+            "description": "(Player version)",
+            "order": 31,
+            "imageKey": "official/maps/drde/map-06.02-garden-of-sacred-repose-player.jpg",
+            "tokenScale": 0.018780048076923073
+          },
+          {
+            "name": "Garden of Sacred Repose Color",
+            "description": "(DM version)",
+            "order": 32,
+            "imageKey": "official/maps/drde/map-06.02-garden-of-sacred-repose-color-DM.jpg",
+            "tokenScale": 0.018114797261716685
+          },
+          {
+            "name": "Garden of Sacred Repose Color",
+            "description": "(Player version)",
+            "order": 33,
+            "imageKey": "official/maps/drde/map-06.02-garden-of-sacred-repose-color-player.jpg",
+            "tokenScale": 0.018114797261716685
+          },
+          {
+            "name": "Garden of the Dragon",
+            "description": "(DM version)",
+            "order": 34,
+            "imageKey": "official/maps/drde/map-06.03-garden-of-the-dragon-DM.jpg",
+            "tokenScale": 0.037615740740740734
+          },
+          {
+            "name": "Garden of the Dragon",
+            "description": "(Player version)",
+            "order": 35,
+            "imageKey": "official/maps/drde/map-06.03-garden-of-the-dragon-player.jpg",
+            "tokenScale": 0.037615740740740734
+          },
+          {
+            "name": "Garden of the Dragon Color",
+            "description": "(DM version)",
+            "order": 36,
+            "imageKey": "official/maps/drde/map-06.03-garden-of-the-dragon-color-DM.jpg",
+            "tokenScale": 0.03138950892857142
+          },
+          {
+            "name": "Garden of the Dragon Color",
+            "description": "(Player version)",
+            "order": 37,
+            "imageKey": "official/maps/drde/map-06.03-garden-of-the-dragon-color-player.jpg",
+            "tokenScale": 0.03138950892857142
+          },
+          {
+            "name": "Garden of Unearthly Delights",
+            "description": "(DM version)",
+            "order": 38,
+            "imageKey": "official/maps/drde/map-06.04-garden-of-unearthly-delights-DM.jpg",
+            "tokenScale": 0.02554086538461538
+          },
+          {
+            "name": "Garden of Unearthly Delights",
+            "description": "(Player version)",
+            "order": 39,
+            "imageKey": "official/maps/drde/map-06.04-garden-of-unearthly-delights-player.jpg",
+            "tokenScale": 0.02554086538461538
+          },
+          {
+            "name": "Garden of Unearthly Delights Color",
+            "description": "(DM version)",
+            "order": 40,
+            "imageKey": "official/maps/drde/map-06.04-garden-of-unearthly-delights-color-DM.jpg",
+            "tokenScale": 0.016784667968749993
+          },
+          {
+            "name": "Garden of Unearthly Delights Color",
+            "description": "(Player version)",
+            "order": 41,
+            "imageKey": "official/maps/drde/map-06.04-garden-of-unearthly-delights-color-player.jpg",
+            "tokenScale": 0.016784667968749993
+          },
+          {
+            "name": "The Garden of Everflowing Springs",
+            "description": "(DM version)",
+            "order": 42,
+            "imageKey": "official/maps/drde/map-06.05-the-garden-of-everflowing-springs-DM.jpg",
+            "tokenScale": 0.03251008064516129
+          },
+          {
+            "name": "The Garden of Everflowing Springs",
+            "description": "(Player version)",
+            "order": 43,
+            "imageKey": "official/maps/drde/map-06.05-the-garden-of-everflowing-springs-player.jpg",
+            "tokenScale": 0.03251008064516129
+          },
+          {
+            "name": "The Garden of Everflowing Springs Color",
+            "description": "(DM version)",
+            "order": 44,
+            "imageKey": "official/maps/drde/map-06.05-the-garden-of-everflowing-springs-color-DM.jpg",
+            "tokenScale": 0.0283203125
+          },
+          {
+            "name": "The Garden of Everflowing Springs Color",
+            "description": "(Player version)",
+            "order": 45,
+            "imageKey": "official/maps/drde/map-06.05-the-garden-of-everflowing-springs-color-player.jpg",
+            "tokenScale": 0.0283203125
+          }
+        ]
+      },
+{
+        "id": "6",
+        "name": "Chapter 7: Before the Storm",
+        "order": 7,
+        "maps": [
+          {
+            "name": "The Village of Respite",
+            "description": "(DM version)",
+            "order": 46,
+            "imageKey": "official/maps/drde/map-07.01-the-village-of-respite-DM.png",
+            "tokenScale": 0.009154714678059199
+          },
+          {
+            "name": "The Village of Respite",
+            "description": "(Player version)",
+            "order": 47,
+            "imageKey": "official/maps/drde/map-07.01-the-village-of-respite-player.png",
+            "tokenScale": 0.009154714678059199
+          },
+          {
+            "name": "Cobblehook Cove",
+            "description": "(DM version)",
+            "order": 48,
+            "imageKey": "official/maps/drde/map-07.02-cobblehook-cove-DM.jpg",
+            "tokenScale": 0.011690363349131122
+          },
+          {
+            "name": "Cobblehook Cove",
+            "description": "(Player version)",
+            "order": 49,
+            "imageKey": "official/maps/drde/map-07.02-cobblehook-cove-player.jpg",
+            "tokenScale": 0.011690363349131122
+          }
+        ]
+      },
+{
+        "id": "7",
+        "name": "Chapter 8: Shivering Death",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Shivering Death’s Lair",
+            "description": "(DM version)",
+            "order": 50,
+            "imageKey": "official/maps/drde/map-08.01-shivering-deaths-lair-DM.jpg",
+            "tokenScale": 0.011058451816745656
+          },
+          {
+            "name": "Shivering Death’s Lair",
+            "description": "(Player version)",
+            "order": 51,
+            "imageKey": "official/maps/drde/map-08.01-shivering-deaths-lair-player.jpg",
+            "tokenScale": 0.011058451816745656
+          }
+        ]
+      },
+{
+        "id": "8",
+        "name": "Chapter 9: A Copper for a Song",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Godsbreath",
+            "description": "(DM version)",
+            "order": 52,
+            "imageKey": "official/maps/drde/map-09.01-godsbreath-DM.jpg",
+            "tokenScale": 0.008138020833333332
+          },
+          {
+            "name": "Godsbreath",
+            "description": "(Player version)",
+            "order": 53,
+            "imageKey": "official/maps/drde/map-09.01-godsbreath-player.jpg",
+            "tokenScale": 0.008138020833333332
+          },
+          {
+            "name": "Nakari’s Lair",
+            "description": "(DM version)",
+            "order": 54,
+            "imageKey": "official/maps/drde/map-09.02-nakaris-lair-DM.jpg",
+            "tokenScale": 0.009871954937429225
+          },
+          {
+            "name": "Nakari’s Lair",
+            "description": "(Player version)",
+            "order": 55,
+            "imageKey": "official/maps/drde/map-09.02-nakaris-lair-player.jpg",
+            "tokenScale": 0.009871954937429225
+          }
+        ]
+      },
+{
+        "id": "9",
+        "name": "Chapter 10: Dragons of the Sandstone City",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Hakasori",
+            "description": "(DM version)",
+            "order": 56,
+            "imageKey": "official/maps/drde/map-10.01-haskasori-DM.jpg",
+            "tokenScale": 0.01042654028436019
+          },
+          {
+            "name": "Hakasori",
+            "description": "(Player version)",
+            "order": 57,
+            "imageKey": "official/maps/drde/map-10.01-haskasori-player.jpg",
+            "tokenScale": 0.01042654028436019
+          }
+        ]
+      }
+    ]
+  }

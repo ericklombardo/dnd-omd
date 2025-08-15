@@ -1,0 +1,99 @@
+{
+  "type": "sourcebook",
+  "name": "TCSR",
+  "description": "Tal’dorei Campaign Setting: Reborn",
+  "backgroundImageKey": "official/covers/tcsr.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Ch. 3: Tal’Dorei Gazetteer",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Stilben",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tcsr/map-03.01-stilben.jpg",
+          "tokenScale": 0.012666666666666666
+        },
+        {
+          "name": "Stilben",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tcsr/map-03.01-stilben-player.jpg",
+          "tokenScale": 0.012666666666666666
+        },
+        {
+          "name": "Whitestone",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tcsr/map-03.02-whitestone.jpg",
+          "tokenScale": 0.011515151515151513
+        },
+        {
+          "name": "Whitestone",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tcsr/map-03.02-whitestone-player.jpg",
+          "tokenScale": 0.011515151515151513
+        },
+        {
+          "name": "Westruun",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/tcsr/map-03.03-westruun.jpg",
+          "tokenScale": 0.00606060606060606
+        },
+        {
+          "name": "Westruun",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/tcsr/map-03.03-westruun-player.jpg",
+          "tokenScale": 0.00606060606060606
+        },
+        {
+          "name": "Kraghammer",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/tcsr/map-03.04-kraghammer.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Kraghammer",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/tcsr/map-03.04-kraghammer-player.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Syngorn",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/tcsr/map-03.05-syngorn.jpg",
+          "tokenScale": 0.005555555555555555
+        },
+        {
+          "name": "Syngorn",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/tcsr/map-03.05-syngorn-player.jpg",
+          "tokenScale": 0.005555555555555555
+        },
+        {
+          "name": "Emon",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/tcsr/map-03.06-emon.jpg",
+          "tokenScale": 0.007333333333333333
+        },
+        {
+          "name": "Emon",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/tcsr/map-03.06-emon-player.jpg",
+          "tokenScale": 0.007333333333333333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "type": "adventure",
+  "name": "BGDiA",
+  "description": "Baldur’s Gate: Descent into Avernus",
+  "backgroundImageKey": "official/covers/bgdia.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: A Tale of Two Cities",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Baldur’s Gate",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/bgdia/map-1.1-baldurs-gate.jpg",
+          "tokenScale": 0.007333333333333333
+        },
+        {
+          "name": "Baldur’s Gate",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/bgdia/map-1.1-baldurs-gate-player.jpg",
+          "tokenScale": 0.007333333333333333
+        },
+        {
+          "name": "Elfsong Tavern",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/bgdia/map-1.2-elfsong-dm.jpg",
+          "tokenScale": 0.027666666666666666
+        },
+        {
+          "name": "Elfsong Tavern",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/bgdia/map-1.2-elfsong.jpg",
+          "tokenScale": 0.027666666666666666
+        },
+        {
+          "name": "Dungeon of the Dead Three",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/bgdia/map-1.3-dungeon-of-the-dead-three.jpg",
+          "tokenScale": 0.015476190476190473
+        },
+        {
+          "name": "Dungeon of the Dead Three",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/bgdia/map-1.3-dungeon-of-the-dead-three-player.jpg",
+          "tokenScale": 0.015476190476190473
+        },
+        {
+          "name": "The Low Lantern",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/bgdia/map-1.4-low-lantern.jpg",
+          "tokenScale": 0.028
+        },
+        {
+          "name": "The Low Lantern",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/bgdia/map-1.4-low-lantern-player.jpg",
+          "tokenScale": 0.028
+        },
+        {
+          "name": "Vanthampur Villa",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/bgdia/map-1.5-vanthampur-villa.jpg",
+          "tokenScale": 0.01948717948717948
+        },
+        {
+          "name": "Vanthampur Villa",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/bgdia/map-1.5-vanthampur-villa-player.jpg",
+          "tokenScale": 0.01948717948717948
+        },
+        {
+          "name": "Under the Villa",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/bgdia/map-1.6-under.jpg",
+          "tokenScale": 0.01533333333333333
+        },
+        {
+          "name": "Under the Villa",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/bgdia/map-1.6-under-player.jpg",
+          "tokenScale": 0.01533333333333333
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: Elturel Has Fallen",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Elturel",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/bgdia/map-2.1-elturel.jpg",
+          "tokenScale": 0.004761904761904761
+        },
+        {
+          "name": "Elturel",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/bgdia/map-2.1-elturel-player.jpg",
+          "tokenScale": 0.004761904761904761
+        },
+        {
+          "name": "High Hall Cathedral",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/bgdia/map-2.2-high-hall.jpg",
+          "tokenScale": 0.010888888888888887
+        },
+        {
+          "name": "High Hall Cathedral",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/bgdia/map-2.2-high-hall-player.jpg",
+          "tokenScale": 0.010888888888888887
+        },
+        {
+          "name": "High Hall Cathedral, Choir Level",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/bgdia/map-2.3-choir.jpg",
+          "tokenScale": 0.024
+        },
+        {
+          "name": "High Hall Cathedral, Choir Level",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/bgdia/map-2.3-choir-player.jpg",
+          "tokenScale": 0.024
+        },
+        {
+          "name": "High Hall Catacombs",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/bgdia/map-2.4-crypt.jpg",
+          "tokenScale": 0.009999999999999998
+        },
+        {
+          "name": "High Hall Catacombs",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/bgdia/map-2.4-crypt-player.jpg",
+          "tokenScale": 0.009999999999999998
+        },
+        {
+          "name": "Grand Cemetery Chapel",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/bgdia/map-2.5-chapel.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Grand Cemetery Chapel",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/bgdia/map-2.5-chapel-player.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Grand Cemetery, Ossuary level",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/bgdia/map-2.6-boneyard.jpg",
+          "tokenScale": 0.029333333333333333
+        },
+        {
+          "name": "Grand Cemetery, Ossuary level",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/bgdia/map-2.6-boneyard-player.jpg",
+          "tokenScale": 0.029333333333333333
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Avernus",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Avernus",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/bgdia/map-3.1-avernus.jpg",
+          "tokenScale": 0.008333333333333333
+        },
+        {
+          "name": "Avernus",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/bgdia/map-3.1-avernus-player.jpg",
+          "tokenScale": 0.008333333333333333
+        },
+        {
+          "name": "Hellwasp Nest",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/bgdia/map-3.2-hellwasp.jpg",
+          "tokenScale": 0.021666666666666667
+        },
+        {
+          "name": "Hellwasp Nest",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/bgdia/map-3.2-hellwasp-player.jpg",
+          "tokenScale": 0.021666666666666667
+        },
+        {
+          "name": "Crypt of the Hellriders",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/bgdia/map-3.3-hellriders.jpg",
+          "tokenScale": 0.023333333333333334
+        },
+        {
+          "name": "Crypt of the Hellriders",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/bgdia/map-3.3-hellriders-player.jpg",
+          "tokenScale": 0.023333333333333334
+        },
+        {
+          "name": "Bone Brambles",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/bgdia/map-3.4-bone.jpg",
+          "tokenScale": 0.023333333333333334
+        },
+        {
+          "name": "Bone Brambles",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/bgdia/map-3.4-bone-player.jpg",
+          "tokenScale": 0.023333333333333334
+        },
+        {
+          "name": "Bel’s Forge",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/bgdia/map-3.5-bells.jpg",
+          "tokenScale": 0.021333333333333333
+        },
+        {
+          "name": "Bel’s Forge",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/bgdia/map-3.5-bells-player.jpg",
+          "tokenScale": 0.021333333333333333
+        },
+        {
+          "name": "Wrecked Flying Fortress, Command Deck",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/bgdia/map-3.6-command.jpg",
+          "tokenScale": 0.026
+        },
+        {
+          "name": "Wrecked Flying Fortress, Command Deck",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/bgdia/map-3.6-command-player.jpg",
+          "tokenScale": 0.026
+        },
+        {
+          "name": "Styx Watchtower",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/bgdia/map-3.7-watchtower.jpg",
+          "tokenScale": 0.025333333333333333
+        },
+        {
+          "name": "Styx Watchtower",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/bgdia/map-3.7-watchtower-player.jpg",
+          "tokenScale": 0.025333333333333333
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: Sword of Zariel",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Side View of the Scab",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/bgdia/map-4.1-scab.jpg",
+          "tokenScale": 0.01212121212121212
+        },
+        {
+          "name": "Side View of the Scab",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/bgdia/map-4.1-scab-player.jpg",
+          "tokenScale": 0.01212121212121212
+        },
+        {
+          "name": "Idyllglen",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/bgdia/map-4.2-idyllglen.jpg",
+          "tokenScale": 0.009444444444444443
+        },
+        {
+          "name": "Idyllglen",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/bgdia/map-4.2-idyllglen-player.jpg",
+          "tokenScale": 0.009444444444444443
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Baldur’s Gate Gazetteer",
+      "order": 5,
+      "maps": [
+        {
+          "name": "The Sword Coast",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/bgdia/map-6.1-sword.jpg",
+          "tokenScale": 0.009
+        }
+      ]
+    }
+  ]
+}

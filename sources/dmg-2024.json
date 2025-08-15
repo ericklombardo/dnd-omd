@@ -1,0 +1,449 @@
+{
+    "type": "sourcebook",
+    "name": "DMG-2024",
+    "description": "Dungeon Master’s Guide (2024)",
+    "backgroundImageKey": "official/covers/dmg.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Ch. 5: Greyhawk",
+        "order": 1,
+        "maps": [
+          {
+            "name": "The Free City of Greyhawk",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/dmg/map-5.01-city-of-greyhawk.jpg",
+            "tokenScale": 0.005501187098268572
+          },
+          {
+            "name": "The Free City of Greyhawk",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/dmg/map-5.01-city-of-greyhawk-player.jpg",
+            "tokenScale": 0.005501187098268572
+          },
+          {
+            "name": "City of Greyhawk and Evirons",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/dmg/map-5.02-greyhawk-and-environs.jpg",
+            "tokenScale": 0.012362057528794546
+          },
+          {
+            "name": "City of Greyhawk and Evirons",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/dmg/map-5.02-greyhawk-and-environs-player.jpg",
+            "tokenScale": 0.012362057528794546
+          },
+          {
+            "name": "Flanaess",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/dmg/map-5.03-flanaess.jpg",
+            "tokenScale": 0.00657894736842105
+          },
+          {
+            "name": "Flanaess",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/dmg/map-5.03-flanaess-player.jpg",
+            "tokenScale": 0.00657894736842105
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "name": "Color Maps",
+        "order": 2,
+        "maps": [
+            {
+              "name": "Barrow Crypt",
+              "description": "(DM version)",
+              "order": 1,
+              "imageKey": "official/maps/dmg/map-12.16-color-barrow-crypt.jpg",
+              "tokenScale": 0.025
+            },
+            {
+              "name": "Barrow Crypt",
+              "description": "(Player version)",
+              "order": 2,
+              "imageKey": "official/maps/dmg/map-12.16-color-barrow-crypt-player.jpg",
+              "tokenScale": 0.025
+            },
+            {
+              "name": "Caravan Encampment",
+              "description": "",
+              "order": 3,
+              "imageKey": "official/maps/dmg/map-12.17-color-caravan-encampment.jpg",
+              "tokenScale": 0.031154684095860568
+            },
+            {
+              "name": "Crossroads Village",
+              "description": "",
+              "order": 4,
+              "imageKey": "official/maps/dmg/map-12.18-color-crossroads-village.jpg",
+              "tokenScale": 0.011241830065359474
+            },
+            {
+              "name": "Dragon’s Lair",
+              "description": "(DM version)",
+              "order": 5,
+              "imageKey": "official/maps/dmg/map-12.19-color-dragons-lair.jpg",
+              "tokenScale": 0.024999999999999998
+            },
+            {
+              "name": "Dragon’s Lair",
+              "description": "(Player version)",
+              "order": 6,
+              "imageKey": "official/maps/dmg/map-12.19-color-dragons-lair-player.jpg",
+              "tokenScale": 0.024999999999999998
+            },
+            {
+              "name": "Dungeon Hideout",
+              "description": "(DM version)",
+              "order": 7,
+              "imageKey": "official/maps/dmg/map-12.20-color-dungeon-hideout.jpg",
+              "tokenScale": 0.025163398692810455
+            },
+            {
+              "name": "Dungeon Hideout",
+              "description": "(Player version)",
+              "order": 8,
+              "imageKey": "official/maps/dmg/map-12.20-color-dungeon-hideout-player.jpg",
+              "tokenScale": 0.025163398692810455
+            },
+            {
+              "name": "Farmstead",
+              "description": "",
+              "order": 9,
+              "imageKey": "official/maps/dmg/map-12.21-color-farmstead.jpg",
+              "tokenScale": 0.025228758169934636
+            },
+            {
+              "name": "Keep",
+              "description": "(DM version)",
+              "order": 10,
+              "imageKey": "official/maps/dmg/map-12.22-color-keep.jpg",
+              "tokenScale": 0.02470588235294117
+            },
+            {
+              "name": "Keep",
+              "description": "(Player version)",
+              "order": 11,
+              "imageKey": "official/maps/dmg/map-12.22-color-keep-player.jpg",
+              "tokenScale": 0.02470588235294117
+            },
+            {
+              "name": "Manor",
+              "description": "(DM version)",
+              "order": 12,
+              "imageKey": "official/maps/dmg/map-12.23-color-manor.jpg",
+              "tokenScale": 0.024736048265460026
+            },
+            {
+              "name": "Manor",
+              "description": "(Player version)",
+              "order": 13,
+              "imageKey": "official/maps/dmg/map-12.23-color-manor-player.jpg",
+              "tokenScale": 0.024736048265460026
+            },
+            {
+              "name": "Mine",
+              "description": "(DM version)",
+              "order": 14,
+              "imageKey": "official/maps/dmg/map-12.24-color-mine.jpg",
+              "tokenScale": 0.025070028011204476
+            },
+            {
+              "name": "Mine",
+              "description": "(Player version)",
+              "order": 15,
+              "imageKey": "official/maps/dmg/map-12.24-color-mine-player.jpg",
+              "tokenScale": 0.025070028011204476
+            },
+            {
+              "name": "Roadside Inn",
+              "description": "(DM version)",
+              "order": 16,
+              "imageKey": "official/maps/dmg/map-12.25-color-roadside-inn.jpg",
+              "tokenScale": 0.02509803921568627
+            },
+            {
+              "name": "Roadside Inn",
+              "description": "(Player version)",
+              "order": 17,
+              "imageKey": "official/maps/dmg/map-12.25-color-roadside-inn-player.jpg",
+              "tokenScale": 0.02509803921568627
+            },
+            {
+              "name": "Ship",
+              "description": "(DM version)",
+              "order": 18,
+              "imageKey": "official/maps/dmg/map-12.26-color-ship.jpg",
+              "tokenScale": 0.050490196078431374
+            },
+            {
+              "name": "Ship",
+              "description": "(Player version)",
+              "order": 19,
+              "imageKey": "official/maps/dmg/map-12.26-color-ship-player.jpg",
+              "tokenScale": 0.050490196078431374
+            },
+            {
+              "name": "Spooky House",
+              "description": "(DM version)",
+              "order": 20,
+              "imageKey": "official/maps/dmg/map-12.27-color-spooky-house.jpg",
+              "tokenScale": 0.025228758169934636
+            },
+            {
+              "name": "Spooky House",
+              "description": "(Player version)",
+              "order": 21,
+              "imageKey": "official/maps/dmg/map-12.27-color-spooky-house-player.jpg",
+              "tokenScale": 0.025228758169934636
+            },
+            {
+              "name": "Underdark Warren",
+              "description": "(DM version)",
+              "order": 22,
+              "imageKey": "official/maps/dmg/map-12.28-color-underdark-warren.jpg",
+              "tokenScale": 0.024967320261437904
+            },
+            {
+              "name": "Underdark Warren",
+              "description": "(Player version)",
+              "order": 23,
+              "imageKey": "official/maps/dmg/map-12.28-color-underdark-warren-player.jpg",
+              "tokenScale": 0.024967320261437904
+            },
+            {
+              "name": "Volcanic Caves",
+              "description": "(DM version)",
+              "order": 24,
+              "imageKey": "official/maps/dmg/map-12.29-color-volcanic-caves.jpg",
+              "tokenScale": 0.025350140056022402
+            },
+            {
+              "name": "Volcanic Caves",
+              "description": "(Player version)",
+              "order": 25,
+              "imageKey": "official/maps/dmg/map-12.29-color-volcanic-caves-player.jpg",
+              "tokenScale": 0.025350140056022402
+            },
+            {
+              "name": "Wizard’s Tower",
+              "description": "(DM version)",
+              "order": 26,
+              "imageKey": "official/maps/dmg/map-12.30-color-wizards-tower.jpg",
+              "tokenScale": 0.024967320261437904
+            },
+            {
+              "name": "Wizard’s Tower",
+              "description": "(Player version)",
+              "order": 27,
+              "imageKey": "official/maps/dmg/map-12.30-color-wizards-tower-player.jpg",
+              "tokenScale": 0.024967320261437904
+            }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Appendix B: Maps",
+        "order": 3,
+        "maps": [
+          {
+              "name": "Barrow Crypt",
+              "description": "(DM version)",
+              "order": 1,
+              "imageKey": "official/maps/dmg/map-12.01-barrow-crypt.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Barrow Crypt",
+              "description": "(Player version)",
+              "order": 2,
+              "imageKey": "official/maps/dmg/map-12.01-barrow-crypt-player.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Caravan Encampment",
+              "description": "",
+              "order": 3,
+              "imageKey": "official/maps/dmg/map-12.02-caravan-encampment.jpg",
+              "tokenScale": 0.030980392156862744
+            },
+            {
+              "name": "Crossroads Village",
+              "description": "",
+              "order": 4,
+              "imageKey": "official/maps/dmg/map-12.03-crossroads-village.jpg",
+              "tokenScale": 0.011143410852713174
+            },
+            {
+              "name": "Dragon’s Lair",
+              "description": "(DM version)",
+              "order": 5,
+              "imageKey": "official/maps/dmg/map-12.04-dragons-lair.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Dragon’s Lair",
+              "description": "(Player version)",
+              "order": 6,
+              "imageKey": "official/maps/dmg/map-12.04-dragons-lair-player.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Dungeon Hideout",
+              "description": "(DM version)",
+              "order": 7,
+              "imageKey": "official/maps/dmg/map-12.05-dungeon-hideout.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Dungeon Hideout",
+              "description": "(Player version)",
+              "order": 8,
+              "imageKey": "official/maps/dmg/map-12.05-dungeon-hideout-player.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Farmstead",
+              "description": "",
+              "order": 9,
+              "imageKey": "official/maps/dmg/map-12.06-farmstead.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Keep",
+              "description": "(DM version)",
+              "order": 10,
+              "imageKey": "official/maps/dmg/map-12.07-keep.jpg",
+              "tokenScale": 0.024612403100775195
+            },
+            {
+              "name": "Keep",
+              "description": "(Player version)",
+              "order": 11,
+              "imageKey": "official/maps/dmg/map-12.07-keep-player.jpg",
+              "tokenScale": 0.024612403100775195
+            },
+            {
+              "name": "Manor",
+              "description": "(DM version)",
+              "order": 12,
+              "imageKey": "official/maps/dmg/map-12.08-manor.jpg",
+              "tokenScale": 0.024031007751937984
+            },
+            {
+              "name": "Manor",
+              "description": "(Player version)",
+              "order": 13,
+              "imageKey": "official/maps/dmg/map-12.08-manor-player.jpg",
+              "tokenScale": 0.024031007751937984
+            },
+            {
+              "name": "Mine",
+              "description": "(DM version)",
+              "order": 14,
+              "imageKey": "official/maps/dmg/map-12.09-mine.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Mine",
+              "description": "(Player version)",
+              "order": 15,
+              "imageKey": "official/maps/dmg/map-12.09-mine-player.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Roadside Inn",
+              "description": "(DM version)",
+              "order": 16,
+              "imageKey": "official/maps/dmg/map-12.10-roadside-inn.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Roadside Inn",
+              "description": "(Player version)",
+              "order": 17,
+              "imageKey": "official/maps/dmg/map-12.10-roadside-inn-player.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Ship",
+              "description": "(DM version)",
+              "order": 18,
+              "imageKey": "official/maps/dmg/map-12.11-ship.jpg",
+              "tokenScale": 0.04844961240310078
+            },
+            {
+              "name": "Ship",
+              "description": "(Player version)",
+              "order": 19,
+              "imageKey": "official/maps/dmg/map-12.11-ship-player.jpg",
+              "tokenScale": 0.04844961240310078
+            },
+            {
+              "name": "Spooky House",
+              "description": "(DM version)",
+              "order": 20,
+              "imageKey": "official/maps/dmg/map-12.12-spooky-house.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Spooky House",
+              "description": "(Player version)",
+              "order": 21,
+              "imageKey": "official/maps/dmg/map-12.12-spooky-house-player.jpg",
+              "tokenScale": 0.02441860465116279
+            },
+            {
+              "name": "Underdark Warren",
+              "description": "(DM version)",
+              "order": 22,
+              "imageKey": "official/maps/dmg/map-12.13-underdark-warren.jpg",
+              "tokenScale": 0.024136715997181108
+            },
+            {
+              "name": "Underdark Warren",
+              "description": "(Player version)",
+              "order": 23,
+              "imageKey": "official/maps/dmg/map-12.13-underdark-warren-player.jpg",
+              "tokenScale": 0.024136715997181108
+            },
+            {
+              "name": "Volcanic Caves",
+              "description": "(DM version)",
+              "order": 24,
+              "imageKey": "official/maps/dmg/map-12.14-volcanic-caves.jpg",
+              "tokenScale": 0.02470930232558139
+            },
+            {
+              "name": "Volcanic Caves",
+              "description": "(Player version)",
+              "order": 25,
+              "imageKey": "official/maps/dmg/map-12.14-volcanic-caves-player.jpg",
+              "tokenScale": 0.02470930232558139
+            },
+            {
+              "name": "Wizard’s Tower",
+              "description": "(DM version)",
+              "order": 26,
+              "imageKey": "official/maps/dmg/map-12.15-wizards-tower.jpg",
+              "tokenScale": 0.02438630490956072
+            },
+            {
+              "name": "Wizard’s Tower",
+              "description": "(Player version)",
+              "order": 27,
+              "imageKey": "official/maps/dmg/map-12.15-wizards-tower-player.jpg",
+              "tokenScale": 0.02438630490956072
+            }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,281 @@
+{
+  "type": "adventure",
+  "name": "KftGV",
+  "description": "Keys from the Golden Vault",
+  "backgroundImageKey": "official/covers/KftGV Maps Cover2.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "The Murkmire Malevolence",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Varkenbluff Museum of Natural History",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-1.02-Varkenbluff-Museum-of-Natural-History.jpg",
+          "tokenScale": 0.027310924369747892
+        },
+        {
+          "name": "Varkenbluff Museum of Natural History",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-1.02-Varkenbluff-Museum-of-Natural-History-player.jpg",
+          "tokenScale": 0.027310924369747892
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "The Stygian Gambit",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Afterlife Casino",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-2.02-Afterlife-Casino.jpg",
+          "tokenScale": 0.015479876160990705
+        },
+        {
+          "name": "The Afterlife Casino",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-2.02-Afterlife-Casino-player.jpg",
+          "tokenScale": 0.015479876160990705
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Reach for the Stars",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Delphi Mansion",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-3.02-Delphi-Mansion.jpg",
+          "tokenScale": 0.019281045751633977
+        },
+        {
+          "name": "Delphi Mansion",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-3.02-Delphi-Mansion-player.jpg",
+          "tokenScale": 0.019281045751633977
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Prisoner 13",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Revel’s End",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-4.02-Revels-End.jpg",
+          "tokenScale": 0.011764705882352941
+        },
+        {
+          "name": "Revel’s End",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-4.02-Revels-End-player.jpg",
+          "tokenScale": 0.011764705882352941
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Tockworth’s Clockworks",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Little Lockford",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-5.02-Little-Lockford.jpg",
+          "tokenScale": 0.028506787330316738
+        },
+        {
+          "name": "Little Lockford",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-5.02-Little-Lockford-player.jpg",
+          "tokenScale": 0.028506787330316738
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Masterpiece Imbroglio",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Agile Hand Guildhouse",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-6.02-Agile-Hand-Guildhouse.jpg",
+          "tokenScale": 0.019705882352941177
+        },
+        {
+          "name": "Agile Hand Guildhouse",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-6.02-Agile-Hand-Guildhouse-player.jpg",
+          "tokenScale": 0.019705882352941177
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Axe from the Grave",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Skalderang Conservatory",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-7.02-Skalderang-Conservatory.jpg",
+          "tokenScale": 0.02980392156862744
+        },
+        {
+          "name": "Skalderang Conservatory",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-7.02-Skalderang-Conservatory-player.jpg",
+          "tokenScale": 0.02980392156862744
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Vidorant’s Vault",
+      "order": 8,
+      "maps": [
+        {
+          "name": "The Vault",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-8.02-Vidorants-Vault.jpg",
+          "tokenScale": 0.033529411764705884
+        },
+        {
+          "name": "The Vault",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-8.02-Vidorants-Vault-player.jpg",
+          "tokenScale": 0.033529411764705884
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Shard of the Accursed",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Xeluan’s Tomb",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-9.02-Xeluans-Tomb.jpg",
+          "tokenScale": 0.011418685121107263
+        },
+        {
+          "name": "Xeluan’s Tomb",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-9.02-Xeluans-Tomb-player.jpg",
+          "tokenScale": 0.011418685121107263
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Heart of Ashes",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Castle Cinis",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-10.02-Castle-Cinis.png",
+          "tokenScale": 0.026470588235294114
+        },
+        {
+          "name": "Castle Cinis",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-10.02-Castle-Cinis-player.png",
+          "tokenScale": 0.026470588235294114
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Affair on the Concordant Express",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Concordant Express",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-11.02-Concordant-Express.jpg",
+          "tokenScale": 0.024913494809688574
+        },
+        {
+          "name": "Concordant Express",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-11.02-Concordant-Express-player.jpg",
+          "tokenScale": 0.024913494809688574
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Party at Paliset Hall",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Paliset Hall",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-12.02-Paliset-Hall.jpg",
+          "tokenScale": 0.022794117647058815
+        },
+        {
+          "name": "Paliset Hall",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-12.02-Paliset-Hall-player.jpg",
+          "tokenScale": 0.022794117647058815
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Fire and Darkness",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Brimstone Hold",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/kftgv/map-13.02-Brimstone-Hall.jpg",
+          "tokenScale": 0.0058823529411764705
+        },
+        {
+          "name": "Brimstone Hold",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/kftgv/map-13.02-Brimstone-Hall-player.jpg",
+          "tokenScale": 0.0058823529411764705
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "adventure",
+  "name": "LKE",
+  "description": "Lightning Keep",
+  "backgroundImageKey": "official/covers/lke.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Lightning Keep",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Lightning Keep",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/lke/map-0.01-lightning-keep.jpg",
+          "tokenScale": 0.023177083333333334
+        },
+        {
+          "name": "Lightning Keep",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/lke/map-0.01-lightning-keep-player.jpg",
+          "tokenScale": 0.023177083333333334
+        }
+      ]
+    }
+  ]
+}

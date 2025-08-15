@@ -1,0 +1,295 @@
+{
+    "type": "mappack",
+    "name": "CZMP5",
+    "description": "Czepeku: Desert Caravanserai",
+    "backgroundImageKey": "official/covers/czmp5.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Desert Caravanserai",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Abandoned Day",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp5/map-01.01-g-desert-caravanserai-abandoned-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Abandoned Day",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp5/map-01.01-gl-desert-caravanserai-abandoned-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Abandoned Night",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp5/map-01.02-g-desert-caravanserai-abandoned-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Abandoned Night",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp5/map-01.02-gl-desert-caravanserai-abandoned-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Barricade Day",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp5/map-01.03-g-desert-caravanserai-barricade-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Barricade Day",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp5/map-01.03-gl-desert-caravanserai-barricade-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Barricade Night",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp5/map-01.04-g-desert-caravanserai-barricade-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Barricade Night",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp5/map-01.04-gl-desert-caravanserai-barricade-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Hill Castle",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp5/map-01.05-g-desert-caravanserai-hillcastle.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Hill Castle",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp5/map-01.05-gl-desert-caravanserai-hillcastle.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Lotus Bazaar Day",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp5/map-01.06-g-desert-caravanserai-lotusbazaar-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Lotus Bazaar Day",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp5/map-01.06-gl-desert-caravanserai-lotusbazaar-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Lotus Bazaar Night",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp5/map-01.07-g-desert-caravanserai-lotusbazaar-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Lotus Bazaar Night",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp5/map-01.07-gl-desert-caravanserai-lotusbazaar-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp5/map-01.08-g-desert-caravanserai-massacre.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp5/map-01.08-gl-desert-caravanserai-massacre.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "No Market Day",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp5/map-01.09-g-desert-caravanserai-nomarket-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "No Market Day",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp5/map-01.09-gl-desert-caravanserai-nomarket-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "No Market Night",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp5/map-01.10-g-desert-caravanserai-nomarket-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "No Market Night",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp5/map-01.10-gl-desert-caravanserai-nomarket-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp5/map-01.11-g-desert-caravanserai-original-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp5/map-01.11-gl-desert-caravanserai-original-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp5/map-01.12-g-desert-caravanserai-original-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp5/map-01.12-gl-desert-caravanserai-original-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Original Night Torches",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp5/map-01.13-g-desert-caravanserai-original-nighttorches.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Original Night Torches",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp5/map-01.13-gl-desert-caravanserai-original-nighttorches.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+         {
+            "name": "Outpost Day",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp5/map-01.14-g-desert-caravanserai-outpost-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Outpost Day",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp5/map-01.14-gl-desert-caravanserai-outpost-day.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Outpost Night",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp5/map-01.15-g-desert-caravanserai-outpost-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Outpost Night",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp5/map-01.15-gl-desert-caravanserai-outpost-night.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Red Fort",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp5/map-01.16-g-desert-caravanserai-redfort.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Red Fort",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp5/map-01.16-gl-desert-caravanserai-redfort.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "River",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp5/map-01.17-g-desert-caravanserai-river.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "River",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp5/map-01.17-gl-desert-caravanserai-river.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Sandstorm",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp5/map-01.18-g-desert-caravanserai-sandstorm.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Sandstorm",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp5/map-01.18-gl-desert-caravanserai-sandstorm.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Silent Night",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp5/map-01.19-g-desert-caravanserai-silentnight.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Silent Night",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp5/map-01.19-gl-desert-caravanserai-silentnight.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Toxic River",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp5/map-01.20-g-desert-caravanserai-toxicriver.jpg",
+            "tokenScale": 0.021652832912306026
+          },
+          {
+            "name": "Toxic River",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp5/map-01.20-gl-desert-caravanserai-toxicriver.jpg",
+            "tokenScale": 0.021652832912306026
+          }
+        ]
+      }
+    ]
+  }

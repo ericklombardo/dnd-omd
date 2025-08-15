@@ -1,0 +1,309 @@
+{
+    "type": "mappack",
+    "name": "CZMP6",
+    "description": "Czepeku: Dragon’s Hoard",
+    "backgroundImageKey": "official/covers/czmp6.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Dragon’s Hoard",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Underwater",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp6/map-01.01-g-dragons-hoard-underwater.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Underwater",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp6/map-01.01-gl-dragons-hoard-underwater.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Big Pit",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp6/map-01.02-g-dragons-hoard-bigpit.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Big Pit",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp6/map-01.02-gl-dragons-hoard-bigpit.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Crystal Lair",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp6/map-01.03-g-dragons-hoard-crystallair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Crystal Lair",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp6/map-01.03-gl-dragons-hoard-crystallair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Flooded",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp6/map-01.04-g-dragons-hoard-flooded.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Flooded",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp6/map-01.04-gl-dragons-hoard-flooded.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Gold Lair",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp6/map-01.05-g-dragons-hoard-goldlair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Gold Lair",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp6/map-01.05-gl-dragons-hoard-goldlair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Ice Temple",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp6/map-01.06-g-dragons-hoard-icetemple.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Ice Temple",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp6/map-01.06-gl-dragons-hoard-icetemple.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Illuminated Ruins",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp6/map-01.07-g-dragons-hoard-illuminatedruins.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Illuminated Ruins",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp6/map-01.07-gl-dragons-hoard-illuminatedruins.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Lava",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp6/map-01.08-g-dragons-hoard-lava.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Lava",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp6/map-01.08-gl-dragons-hoard-lava.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp6/map-01.09-g-dragons-hoard-massacre.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp6/map-01.09-gl-dragons-hoard-massacre.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Massacre Altar",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp6/map-01.10-g-dragons-hoard-massacrealtar.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Massacre Altar",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp6/map-01.10-gl-dragons-hoard-massacrealtar.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Moss Lair",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp6/map-01.11-g-dragons-hoard-mosslair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Moss Lair",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp6/map-01.11-gl-dragons-hoard-mosslair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "No Gold Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp6/map-01.12-g-dragons-hoard-nogold-day.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "No Gold Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp6/map-01.12-gl-dragons-hoard-nogold-day.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "No Gold Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp6/map-01.13-g-dragons-hoard-nogold-night.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "No Gold Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp6/map-01.13-gl-dragons-hoard-nogold-night.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+         {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp6/map-01.14-g-dragons-hoard-original-day.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp6/map-01.14-gl-dragons-hoard-original-day.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp6/map-01.15-g-dragons-hoard-original-night.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp6/map-01.15-gl-dragons-hoard-original-night.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Pit",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp6/map-01.16-g-dragons-hoard-pit.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Pit",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp6/map-01.16-gl-dragons-hoard-pit.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp6/map-01.17-g-dragons-hoard-rain.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp6/map-01.17-gl-dragons-hoard-rain.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Shadowfell",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp6/map-01.18-g-dragons-hoard-shadowfell.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Shadowfell",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp6/map-01.18-gl-dragons-hoard-shadowfell.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Sunset Lair",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp6/map-01.19-g-dragons-hoard-sunsetlair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Sunset Lair",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp6/map-01.19-gl-dragons-hoard-sunsetlair.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Temple Day",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp6/map-01.20-g-dragons-hoard-temple-day.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Temple Day",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp6/map-01.20-gl-dragons-hoard-temple-day.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Temple Night",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp6/map-01.21-g-dragons-hoard-temple-night.jpg",
+            "tokenScale": 0.03477396920019871
+          },
+          {
+            "name": "Temple Night",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp6/map-01.21-gl-dragons-hoard-temple-night.jpg",
+            "tokenScale": 0.03477396920019871
+          }
+        ]
+      }
+    ]
+  }

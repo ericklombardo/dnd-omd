@@ -1,0 +1,22 @@
+{
+  "type": "mappack",
+  "name": "FRAoF",
+  "description": "Forgotten Realms: Atlas of Faerûn",
+  "backgroundImageKey": "official/covers/fraof.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Atlas of Faerûn",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Faerûn",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/fraof/faerun-8k.webp",
+          "tokenScale": 0.0015869140625
+        }
+      ]
+    }
+  ]
+}

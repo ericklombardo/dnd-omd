@@ -1,0 +1,540 @@
+{
+  "type": "adventure",
+  "name": "TftS",
+  "description": "Tales from the Shadows",
+  "backgroundImageKey": "official/covers/tfts.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "The Night Messengers",
+      "order": 1,
+      "maps": [
+        {
+          "name": "The Witchlight Trail",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-1.01-the-witchlight-trail-DM.jpg",
+          "tokenScale": 0.0159912109375
+        },
+        {
+          "name": "The Witchlight Trail",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-1.01-the-witchlight-trail-Player.jpg",
+          "tokenScale": 0.0159912109375
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Hunters of the Tenebrous Plain",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Mery's Hedge Maze",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-2.01-merys-hedge-maze-DM.jpg",
+          "tokenScale": 0.04771839488636363
+        },
+        {
+          "name": "Mery's Hedge Maze",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-2.01-merys-hedge-maze-Player.jpg",
+          "tokenScale": 0.04771839488636363
+        },
+        {
+          "name": "Shadow Goblin Village",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-2.02-shadow-goblin-village-DM.jpg",
+          "tokenScale": 0.0484793526785714
+        },
+        {
+          "name": "Shadow Goblin Village",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-2.02-shadow-goblin-village-Player.jpg",
+          "tokenScale": 0.0484793526785714
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "The Weeper in Shadow",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Wombweald",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-3.01-wombweald-DM.jpg",
+          "tokenScale": 0.028371278458844133
+        },
+        {
+          "name": "Wombweald",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-3.01-wombweald-Player.jpg",
+          "tokenScale": 0.028371278458844133
+        },
+        {
+          "name": "The Scarecrow Grove",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-3.02-the-scarecrow-grove-DM.jpg",
+          "tokenScale": 0.021484375
+        },
+        {
+          "name": "The Scarecrow Grove",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-3.02-the-scarecrow-grove-Player.jpg",
+          "tokenScale": 0.021484375
+        },
+        {
+          "name": "The Old Ruined Bridge",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/tfts/map-3.03-the-old-ruined-bridge-DM.jpg",
+          "tokenScale": 0.03250925164473683
+        },
+        {
+          "name": "The Old Ruined Bridge",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/tfts/map-3.03-the-old-ruined-bridge-Player.jpg",
+          "tokenScale": 0.03250925164473683
+        },
+        {
+          "name": "The Crooked Spire",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/tfts/map-3.04-the-great-spire-DM.jpg",
+          "tokenScale": 0.05202073317307691
+        },
+        {
+          "name": "The Crooked Spire",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/tfts/map-3.04-the-great-spire-Player.jpg",
+          "tokenScale": 0.05202073317307691
+        },
+        {
+          "name": "The Great Midden",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/tfts/map-3.05-the-great-midden-DM.jpg",
+          "tokenScale": 0.05270565257352942
+        },
+        {
+            "name": "The Great Midden",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/tfts/map-3.05-the-great-midden-Player.jpg",
+            "tokenScale": 0.05270565257352942
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "A Death Among the Pale Roses",
+      "order": 4,
+      "maps": [
+        {
+          "name": "The Rose Palace (Ground Level)",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-4.01-rose-palace-ground-level-DM.jpg",
+          "tokenScale": 0.02120168585526315
+        },
+        {
+          "name": "The Rose Palace (Ground Level)",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-4.01-rose-palace-ground-level-Player.jpg",
+          "tokenScale": 0.02120168585526315
+        },
+        {
+          "name": "The Rose Palace (Upper Level)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-4.02-rose-palace-upper-level-DM.jpg",
+          "tokenScale": 0.0211181640625
+        },
+        {
+          "name": "The Rose Palace (Upper Level)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-4.02-rose-palace-upper-level-Player.jpg",
+          "tokenScale": 0.0211181640625
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Reflections and Remembrance",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Brightsigh Tower Environs",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-5.01-brightsigh-tower-environs-DM.jpg",
+          "tokenScale": 0.015645805592543277
+        },
+        {
+          "name": "Brightsigh Tower Environs",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-5.01-brightsigh-tower-environs-Player.jpg",
+          "tokenScale": 0.015645805592543277
+        },
+        {
+          "name": "Brightsigh Tower",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-5.02-brightsigh-tower-DM.jpg",
+          "tokenScale": 0.03645139813581891
+        },
+        {
+          "name": "Brightsigh Tower",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-5.02-brightsigh-tower-Player.jpg",
+          "tokenScale": 0.03645139813581891
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Big Briar's Blessings",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Leer Village",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-6.01-leer-village-outer-DM.jpg",
+          "tokenScale": 0.009986684420772303
+        },
+        {
+          "name": "Leer Village",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-6.01-leer-village-outer-Player.jpg",
+          "tokenScale": 0.009986684420772303
+        },
+        {
+          "name": "Leer Village (Grotto)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-6.02-leer-village-inner-DM.jpg",
+          "tokenScale": 0.05580693815987932
+        },
+        {
+          "name": "Leer Village (Grotto)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-6.02-leer-village-inner-Player.jpg",
+          "tokenScale": 0.05580693815987932
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "The Lost Treasure of Paletree Rise",
+      "order": 7,
+      "maps": [
+        {
+          "name": "The Overflowing Well",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-7.01-the-overflowing-well-DM.jpg",
+          "tokenScale": 0.07303921568627449
+        },
+        {
+          "name": "The Overflowing Well",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-7.01-the-overflowing-well-Player.jpg",
+          "tokenScale": 0.07303921568627449
+        },
+        {
+          "name": "The Hunting Lodge",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-7.02-the-hunting-lodge-DM.jpg",
+          "tokenScale": 0.05436197916666665
+        },
+        {
+          "name": "The Hunting Lodge",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-7.02-the-hunting-lodge-Player.jpg",
+          "tokenScale": 0.05436197916666665
+        },
+        {
+          "name": "Lair of C'Naazo",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/tfts/map-7.03-lair-of-cnaazo-DM.jpg",
+          "tokenScale": 0.07239819004524886
+        },
+        {
+          "name": "Lair of C'Naazo",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/tfts/map-7.03-lair-of-cnaazo-Player.jpg",
+          "tokenScale": 0.07239819004524886
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "The Horn of Revels",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Court of Wine and Roses (Ground Floor)",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-8.01-court-of-wine-and-roses-ground-floor-DM.jpg",
+          "tokenScale": 0.018554687499999993
+        },
+        {
+          "name": "Court of Wine and Roses (Ground Floor)",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-8.01-court-of-wine-and-roses-ground-floor-Player.jpg",
+          "tokenScale": 0.018554687499999993
+        },
+        {
+          "name": "Court of Wine and Roses (Upper Floor)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-8.02-court-of-wine-and-roses-upper-floor-DM.jpg",
+          "tokenScale": 0.01953125
+        },
+        {
+          "name": "Court of Wine and Roses (Upper Floor)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-8.02-court-of-wine-and-roses-upper-floor-Player.jpg",
+          "tokenScale": 0.01953125
+        },
+        {
+          "name": "Court of Wine and Roses (Hedge Maze)",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/tfts/map-8.03-court-of-wine-and-roses-hedge-maze-DM.jpg",
+          "tokenScale": 0.02956474130851355
+        },
+        {
+          "name": "Court of Wine and Roses (Hedge Maze)",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/tfts/map-8.03-court-of-wine-and-roses-hedge-maze-Player.jpg",
+          "tokenScale": 0.02956474130851355
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "The Sodality of Silent Rites",
+      "order": 9,
+      "maps": [
+        {
+          "name": "The Sodality of Silent Rites Monastery",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-9.01-sodality-of-silent-rites-monastery-DM.jpg",
+          "tokenScale": 0.019287109375
+        },
+        {
+          "name": "The Sodality of Silent Rites Monastery",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-9.01-sodality-of-silent-rites-monastery-Player.jpg",
+          "tokenScale": 0.019287109375
+        },
+        {
+          "name": "The Sodality of Silent Rites Archives",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-9.02-sodality-of-silent-rites-archives-DM.jpg",
+          "tokenScale": 0.019287109375
+        },
+        {
+          "name": "The Sodality of Silent Rites Archives",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-9.02-sodality-of-silent-rites-archives-Player.jpg",
+          "tokenScale": 0.019287109375
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "The House of Reciprocities",
+      "order": 10,
+      "maps": [
+        {
+          "name": "The House of Reciprocities",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-10.01-house-of-reciprocities-DM.jpg",
+          "tokenScale": 0.01953125
+        },
+        {
+          "name": "The House of Reciprocities",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-10.01-house-of-reciprocities-Player.jpg",
+          "tokenScale": 0.01953125
+        },
+        {
+          "name": "Tick Tock Tower",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-10.02-tick-tock-tower-DM.jpg",
+          "tokenScale": 0.03245672436750999
+        },
+        {
+          "name": "Tick Tock Tower",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-10.02-tick-tock-tower-Player.jpg",
+          "tokenScale": 0.03245672436750999
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Among the Shades and Shadows",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Inkblot Manor",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-11.01-inkblot-manor-DM.jpg",
+          "tokenScale": 0.03271484375
+        },
+        {
+          "name": "Inkblot Manor",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-11.01-inkblot-manor-Player.jpg",
+          "tokenScale": 0.03271484375
+        },
+        {
+          "name": "Andarian and Duella's Rooms",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-11.02-andarian-and-duellas-rooms-DM.jpg",
+          "tokenScale": 0.06372549019607841
+        },
+        {
+          "name": "Andarian and Duella's Rooms",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-11.02-andarian-and-duellas-rooms-Player.jpg",
+          "tokenScale": 0.06372549019607841
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "The Time-Twister's Daughter",
+      "order": 12,
+      "maps": [
+        {
+          "name": "The Kairious Complex",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-12.01-the-kairious-complex-DM.jpg",
+          "tokenScale": 0.0262982689747004
+        },
+        {
+          "name": "The Kairious Complex",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-12.01-the-kairious-complex-Player.jpg",
+          "tokenScale": 0.0262982689747004
+        },
+        {
+          "name": "The Impossible Vault",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-12.02-the-impossible-vault-DM.jpg",
+          "tokenScale": 0.04012246213341927
+        },
+        {
+          "name": "The Impossible Vault",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-12.02-the-impossible-vault-Player.jpg",
+          "tokenScale": 0.04012246213341927
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Radiance Lost",
+      "order": 13,
+      "maps": [
+        {
+          "name": "The Sunken House of Dawn",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-13.01-the-sunken-house-of-dawn-DM.jpg",
+          "tokenScale": 0.0164780292942743
+        },
+        {
+          "name": "The Sunken House of Dawn",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-13.01-the-sunken-house-of-dawn-Player.jpg",
+          "tokenScale": 0.0164780292942743
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Shadows of the Dusk Queen",
+      "order": 14,
+      "maps": [
+        {
+          "name": "The Shadow Forest",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tfts/map-14.01-the-shadow-forest-DM.jpg",
+          "tokenScale": 0.006060606060606061
+        },
+        {
+          "name": "The Shadow Forest",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tfts/map-14.01-the-shadow-forest-Player.jpg",
+          "tokenScale": 0.006060606060606061
+        },
+        {
+          "name": "The Dusk Queen's Tower (Interior)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tfts/map-14.02-the-dusk-queens-tower-interior-DM.jpg",
+          "tokenScale": 0.0637908496732026
+        },
+        {
+          "name": "The Dusk Queen's Tower (Side)",
+          "description": "(DM version)",
+          "order": 4,
+          "imageKey": "official/maps/tfts/map-14.03-the-dusk-queens-tower-side-DM.jpg",
+          "tokenScale": 0.07166666666666667
+        }
+      ]
+    }
+  ]
+}

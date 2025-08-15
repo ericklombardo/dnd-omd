@@ -1,0 +1,281 @@
+{
+  "type": "sourcebook",
+  "name": "TBoMT",
+  "description": "The Book of Many Things",
+  "backgroundImageKey": "official/covers/tbomt.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 10: Sun",
+      "order": 1,
+      "maps": [
+        {
+          "name": "The Solar Bastion",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-9.01-solar-bastion.png",
+          "tokenScale": 0.015294117647058824
+        },
+        {
+          "name": "The Solar Bastion",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-9.01-solar-bastion-player.png",
+          "tokenScale": 0.015294117647058824
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 11: Moon",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Moonstalker Guildhall",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tbomt/map-10.01-moonstalker-guildhall.png",
+          "tokenScale": 0.02620320855614973
+        },
+        {
+          "name": "Moonstalker Guildhall",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tbomt/map-10.01-moonstalker-guildhall-player.png",
+          "tokenScale": 0.02620320855614973
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 12: Comet",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Cult Hideout",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/tbomt/map-11.01-cult-hideout.png",
+          "tokenScale": 0.03294117647058824
+        },
+        {
+          "name": "Cult Hideout",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/tbomt/map-11.01-cult-hideout-player.png",
+          "tokenScale": 0.03294117647058824
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 13: Star",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Observatory",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-12.01-observatory.png",
+          "tokenScale": 0.016386554621848737
+        },
+        {
+          "name": "Observatory",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-12.01-observatory-player.png",
+          "tokenScale": 0.016386554621848737
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 14: Jester",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Seelie Market",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-13.01-seelie-market.png",
+          "tokenScale": 0.022941176470588236
+        },
+        {
+          "name": "Seelie Market",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-13.01-seelie-market-player.png",
+          "tokenScale": 0.022941176470588236
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 15: Throne",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Harrowhall",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-14.01-harrowhall.png",
+          "tokenScale": 0.01357466063348416
+        },
+        {
+          "name": "Harrowhall",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-14.01-harrowhall-player.png",
+          "tokenScale": 0.01357466063348416
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 16: Ruin",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Ruins of Gardmore Abbey",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tbomt/map-14.01-ruins-of-gardmore-abbey.png",
+          "tokenScale": 0.018235294117647058
+        },
+        {
+          "name": "Ruins of Gardmore Abbey",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tbomt/map-14.01-ruins-of-gardmore-abbey-player.png",
+          "tokenScale": 0.018235294117647058
+        },
+        {
+          "name": "Dragon’s Roost",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-15.01-dragons-roost.png",
+          "tokenScale": 0.010924369747899157
+        },
+        {
+          "name": "Dragon’s Roost",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-15.01-dragons-roost-player.png",
+          "tokenScale": 0.010924369747899157
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 17: Donjon",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Donjon Sphere",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-16.01-donjon-sphere.png",
+          "tokenScale": 0.01411764705882353
+        },
+        {
+          "name": "Donjon Core",
+          "description": "(DM version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-16.02-sphere-of-the-donjon.png",
+          "tokenScale": 0.009243697478991595
+        },
+        {
+          "name": "Donjon Core",
+          "description": "(Player version)",
+          "order": 3,
+          "imageKey": "official/maps/tbomt/map-16.02-sphere-of-the-donjon-player.png",
+          "tokenScale": 0.009243697478991595
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 18: Void",
+      "order": 9,
+      "maps": [
+        {
+          "name": "House of Cards",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-17.01-the-house-of-cards.png",
+          "tokenScale": 0.015126050420168064
+        },
+        {
+          "name": "House of Cards",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-17.01-the-house-of-cards-player.png",
+          "tokenScale": 0.015126050420168064
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Chapter 19: Skull",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Gardens of Decay",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-18.01-gardens-of-decay.png",
+          "tokenScale": 0.018823529411764704
+        },
+        {
+          "name": "Gardens of Decay",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-18.01-gardens-of-decay-player.png",
+          "tokenScale": 0.02
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Chapter 20: Flames",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Xulregg",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-19.01-xulregg.png",
+          "tokenScale": 0.020588235294117647
+        },
+        {
+          "name": "Xulregg",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-19.01-xulregg-player-rev.png",
+          "tokenScale": 0.020588235294117647
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Chapter 22: Euryale",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Cair Ophidian",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tbomt/map-21.01-cair-ophidian.png",
+          "tokenScale": 0.019117647058823527
+        },
+        {
+          "name": "Cair Ophidian",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tbomt/map-21.01-cair-ophidian-player.png",
+          "tokenScale": 0.019117647058823527
+        }
+      ]
+    }
+  ]
+}

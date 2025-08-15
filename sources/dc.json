@@ -1,0 +1,155 @@
+{
+  "type": "adventure",
+  "name": "DC",
+  "description": "Divine Contention",
+  "backgroundImageKey": "official/covers/dc.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Sword Coast",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-1.01-sword-coast.jpg",
+          "tokenScale": 0.014625850340136054
+        },
+        {
+          "name": "Sword Coast",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-1.01-sword-coast-player.jpg",
+          "tokenScale": 0.014625850340136054
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Welcome to Leilon",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Leilon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-2.01-leilon.jpg",
+          "tokenScale": 0.01129150390625
+        },
+        {
+          "name": "Leilon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-2.01-leilon-player.jpg",
+          "tokenScale": 0.01129150390625
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dumathoin’s Gulch",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Dumathoin’s Gulch",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-3.01-dumathoins-gulch.jpg",
+          "tokenScale": 0.048047117172969625
+        },
+        {
+          "name": "Dumathoin’s Gulch",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-3.01-dumathoins-gulch-player.jpg",
+          "tokenScale": 0.048047117172969625
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ebondeath's Mausoleum",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Ebondeath's Mausoleum",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-4.01-ebondeaths-mausoleum.jpg",
+          "tokenScale": 0.01220703125
+        },
+        {
+          "name": "Ebondeath's Mausoleum",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-4.01-ebondeaths-mausoleum-player.jpg",
+          "tokenScale": 0.01220703125
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Icingdeath and Twinkle",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Icingdeath and Twinkle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-5.01-icingdeath-and-twinkle.jpg",
+          "tokenScale": 0.023600260416666664
+        },
+        {
+          "name": "Icingdeath and Twinkle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-5.01-icingdeath-and-twinkle-player.jpg",
+          "tokenScale": 0.023600260416666664
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Storm Lord's Hideout",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Death Knight Dreadnaught",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-6.01-death-knight-dreadnaught.jpg",
+          "tokenScale": 0.024210611979166664
+        },
+        {
+          "name": "Death Knight Dreadnaught",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-6.01-death-knight-dreadnaught-player.jpg",
+          "tokenScale": 0.024210611979166664
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Thalivar's Beacon",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Thalivar's Beacon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dc/map-7.01-thalivars-beacon.jpg",
+          "tokenScale": 0.02400716145833333
+        },
+        {
+          "name": "Thalivar's Beacon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dc/map-7.01-thalivars-beacon-player.jpg",
+          "tokenScale": 0.02400716145833333
+        }
+      ]
+    }
+  ]
+}

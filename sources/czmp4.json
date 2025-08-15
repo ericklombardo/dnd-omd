@@ -1,0 +1,225 @@
+{
+    "type": "mappack",
+    "name": "CZMP4",
+    "description": "Czepeku: Colosseum of Challenges",
+    "backgroundImageKey": "official/covers/czmp4.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Colosseum of Challenges",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Blue Flame Night",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp4/map-01.01-g-colosseum-blueflame-night.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Blue Flame Night",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp4/map-01.01-gl-colosseum-blueflame-night.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Columns Day",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp4/map-01.02-g-colosseum-columns-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Columns Day",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp4/map-01.02-gl-colosseum-columns-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Column Temple Day",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp4/map-01.03-g-colosseum-columntemple-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Column Temple Day",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp4/map-01.03-gl-colosseum-columntemple-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Cult Summoning Night",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp4/map-01.04-g-colosseum-cultsummoning-night.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Cult Summoning Night",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp4/map-01.04-gl-colosseum-cultsummoning-night.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Earth Trial Day",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp4/map-01.05-g-colosseum-earthtrial-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Earth Trial Day",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp4/map-01.05-gl-colosseum-earthtrial-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Fire Trial Day",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp4/map-01.06-g-colosseum-firetrial-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Fire Trial Day",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp4/map-01.06-gl-colosseum-firetrial-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "King of the Hill Day",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp4/map-01.07-g-colosseum-kingofthehill-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "King of the Hill Day",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp4/map-01.07-gl-colosseum-kingofthehill-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Kraken Day",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp4/map-01.08-g-colosseum-kraken-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Kraken Day",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp4/map-01.08-gl-colosseum-kraken-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Maelstrom Day",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp4/map-01.09-g-colosseum-maelstrom-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Maelstrom Day",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp4/map-01.09-gl-colosseum-maelstrom-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Monster Pit Day",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp4/map-01.10-g-colosseum-monsterpit-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Monster Pit Day",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp4/map-01.10-gl-colosseum-monsterpit-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Multiple Water Stages Day",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp4/map-01.11-g-colosseum-multiplewaterstages-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Multiple Water Stages Day",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp4/map-01.11-gl-colosseum-multiplewaterstages-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp4/map-01.12-g-colosseum-original-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp4/map-01.12-gl-colosseum-original-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp4/map-01.13-g-colosseum-original-night.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp4/map-01.13-gl-colosseum-original-night.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+         {
+            "name": "Water Trial Day",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp4/map-01.14-g-colosseum-watertrial-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Water Trial Day",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp4/map-01.14-gl-colosseum-watertrial-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Whirlwind Day",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp4/map-01.15-g-colosseum-whirlwind-day.jpg",
+            "tokenScale": 0.023437499999999993
+          },
+          {
+            "name": "Whirlwind Day",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp4/map-01.15-gl-colosseum-whirlwind-day.jpg",
+            "tokenScale": 0.023437499999999993
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,414 @@
+{
+  "type": "adventure",
+  "name": "SotDQ",
+  "description": "Dragonlance: Shadow of the Dragon Queen",
+  "backgroundImageKey": "official/covers/sotdq.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 3: When Home Burns",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Vogler",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sotdq/map-3.01-vogler.png",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Vogler",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sotdq/map-3.01-vogler-player.png",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Battle of High Hill",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sotdq/map-3.02-battle-of-high-hill.png",
+          "tokenScale": 0.046
+        },
+        {
+          "name": "Battle of High Hill",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sotdq/map-3.02-battle-of-high-hill-player.png",
+          "tokenScale": 0.046
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 4: Shadow of War",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Kalaman",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sotdq/map-4.01-kalaman.png",
+          "tokenScale": 0.010333333333333333
+        },
+        {
+          "name": "Kalaman",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sotdq/map-4.01-kalaman-player.png",
+          "tokenScale": 0.010333333333333333
+        },
+        {
+          "name": "Wheelwatch Outpost",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sotdq/map-4.02-wheelhouse-outpost.png",
+          "tokenScale": 0.020277777777777777
+        },
+        {
+          "name": "Wheelwatch Outpost",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sotdq/map-4.02-wheelhouse-outpost-player.png",
+          "tokenScale": 0.020277777777777777
+        },
+        {
+          "name": "Retreat from Steel Springs",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sotdq/map-4.03-retreat-from-steel-springs.png",
+          "tokenScale": 0.045925925925925926
+        },
+        {
+          "name": "Retreat from Steel Springs",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sotdq/map-4.03-retreat-from-steel-springs-player.png",
+          "tokenScale": 0.045925925925925926
+        },
+        {
+          "name": "Raided Catacombs",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/sotdq/map-4.04-raided-catacombs.png",
+          "tokenScale": 0.021538461538461534
+        },
+        {
+          "name": "Raided Catacombs",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/sotdq/map-4.04-raided-catacombs-player.png",
+          "tokenScale": 0.021538461538461534
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 5: The Northern Wastes",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Kalaman Region and Northern Wastes",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sotdq/map-5.01-kalaman-and-northern-wastes.png",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Kalaman Region and Northern Wastes",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sotdq/map-5.01-kalaman-and-northern-wastes-player.png",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Blue Phoenix Shrine",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sotdq/map-5.02-blue-phoenix-shrine.png",
+          "tokenScale": 0.055714285714285716
+        },
+        {
+          "name": "Blue Phoenix Shrine",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sotdq/map-5.02-blue-phoenix-shrine-player.png",
+          "tokenScale": 0.055714285714285716
+        },
+        {
+          "name": "Sunward Fortress",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sotdq/map-5.03-sunward-fortress.png",
+          "tokenScale": 0.021666666666666664
+        },
+        {
+          "name": "Sunward Fortress",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sotdq/map-5.03-sunward-fortress-player.png",
+          "tokenScale": 0.021666666666666664
+        },
+        {
+          "name": "Wakenreth",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/sotdq/map-5.04-wakenreth.png",
+          "tokenScale": 0.039047619047619046
+        },
+        {
+          "name": "Wakenreth",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/sotdq/map-5.04-wakenreth-player.png",
+          "tokenScale": 0.039047619047619046
+        },
+        {
+          "name": "Bluemaw Cave",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/sotdq/map-5.05-bluemaw-cave.png",
+          "tokenScale": 0.04444444444444444
+        },
+        {
+          "name": "Bluemaw Cave",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/sotdq/map-5.05-bluemaw-cave-player.png",
+          "tokenScale": 0.04444444444444444
+        },
+        {
+          "name": "Heart’s Hollow",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/sotdq/map-5.06-hearts-hollow.png",
+          "tokenScale": 0.01722222222222222
+        },
+        {
+          "name": "Heart’s Hollow",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/sotdq/map-5.06-hearts-hollow-player.png",
+          "tokenScale": 0.01722222222222222
+        },
+        {
+          "name": "Camp Carrionclay",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/sotdq/map-5.07-camp-carrionclay.png",
+          "tokenScale": 0.029047619047619048
+        },
+        {
+          "name": "Camp Carrionclay",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/sotdq/map-5.07-camp-carrionclay-player.png",
+          "tokenScale": 0.029047619047619048
+        },
+        {
+          "name": "Attack on Wind's End",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/sotdq/map-5.08-attack-on-winds-end.png",
+          "tokenScale": 0.046296296296296294
+        },
+        {
+          "name": "Attack on Wind's End",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/sotdq/map-5.08-attack-on-winds-end-player.png",
+          "tokenScale": 0.046296296296296294
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 6: City of Lost Names",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Path of Memories",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sotdq/map-6.01-path-of-memories.png",
+          "tokenScale": 0.023
+        },
+        {
+          "name": "Path of Memories",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sotdq/map-6.01-path-of-memories-player.png",
+          "tokenScale": 0.023
+        },
+        {
+          "name": " City of Lost Names",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sotdq/map-6.02-city-of-last-names.png",
+          "tokenScale": 0.007
+        },
+        {
+          "name": " City of Lost Names",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sotdq/map-6.02-city-of-last-names-player.png",
+          "tokenScale": 0.007
+        },
+        {
+          "name": "Occupied Mansion",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sotdq/map-6.03-occupied-mansion.png",
+          "tokenScale": 0.022333333333333334
+        },
+        {
+          "name": "Occupied Mansion",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sotdq/map-6.03-occupied-mansion-player.png",
+          "tokenScale": 0.022333333333333334
+        },
+        {
+          "name": "Temple of Paladine",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/sotdq/map-6.04-temple-of-paladine.png",
+          "tokenScale": 0.022
+        },
+        {
+          "name": "Temple of Paladine",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/sotdq/map-6.04-temple-of-paladine-player.png",
+          "tokenScale": 0.022
+        },
+        {
+          "name": "Threshold of the Heavens",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/sotdq/map-6.05-threshold-of-the-heavens.png",
+          "tokenScale": 0.024
+        },
+        {
+          "name": "Threshold of the Heavens",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/sotdq/map-6.05-threshold-of-the-heavens-player.png",
+          "tokenScale": 0.024
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 7: Siege of Kalaman",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Assault on Hawker's Grove",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sotdq/map-7.01-assault-on-hawkers-grove.png",
+          "tokenScale": 0.04566666666666667
+        },
+        {
+          "name": "Assault on Hawker's Grove",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sotdq/map-7.01-assault-on-hawkers-grove-player.png",
+          "tokenScale": 0.04566666666666667
+        },
+        {
+          "name": "Flying Citadel Sublevels",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sotdq/map-7.02-flying-citadel-sublevels.png",
+          "tokenScale": 0.023333333333333334
+        },
+        {
+          "name": "Flying Citadel Sublevels",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sotdq/map-7.02-flying-citadel-sublevels-player.png",
+          "tokenScale": 0.023333333333333334
+        },
+        {
+          "name": "Bastion of Takhisis",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sotdq/map-7.03-bastion-of-takhisis.png",
+          "tokenScale": 0.01472222222222222
+        },
+        {
+          "name": "Bastion of Takhisis",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sotdq/map-7.03-bastion-of-takhisis-player.png",
+          "tokenScale": 0.01472222222222222
+        },
+        {
+          "name": "Flying Citadel Surface",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/sotdq/map-7.04-flying-citadel-surface.png",
+          "tokenScale": 0.016666666666666663
+        },
+        {
+          "name": "Flying Citadel Surface",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/sotdq/map-7.04-flying-citadel-surface-player.png",
+          "tokenScale": 0.016666666666666663
+        },
+        {
+          "name": "Clash of Fallen Flames",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/sotdq/map-7.05-clash-of-fallen-flames.png",
+          "tokenScale": 0.047
+        },
+        {
+          "name": "Clash of Fallen Flames",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/sotdq/map-7.05-clash-of-fallen-flames-player.png",
+          "tokenScale": 0.047
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Appendix E: Maps",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Kalaman Region and Northern Wastes",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sotdq/map-12.01-kalaman-northern-wastes.png",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Kalaman Region and Northern Wastes",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sotdq/map-12.01-kalaman-northern-wastes-player.png",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "The Continent of Ansalon",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sotdq/map-12.02-ansalon-continent.png",
+          "tokenScale": 0.007142857142857141
+        },
+        {
+          "name": "The Continent of Ansalon",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sotdq/map-12.02-ansalon-continent-player.png",
+          "tokenScale": 0.007142857142857141
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name: Deploy Map Data to Staging
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ddb-arc-stg
+    container:
+      image: ghcr.io/catthehacker/ubuntu:act-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate and Sign JWT
+        id: jwt
+        uses: ./.github/actions/generate-jwt
+        with:
+          jwt_secret_key: ${{ secrets.JWT_SECRET_KEY_STG }}
+
+      - name: Deploy to Staging
+        uses: ./.github/actions/deploy-json
+        with:
+          api-url: "https://stg.dndbeyond.com/games/api"
+          bearer-token: ${{ steps.jwt.outputs.signed_jwt }}

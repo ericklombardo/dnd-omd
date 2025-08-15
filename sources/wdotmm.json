@@ -1,0 +1,540 @@
+{
+  "type": "adventure",
+  "name": "WDotMM",
+  "description": "Waterdeep: Dungeon Of The Mad Mage",
+  "backgroundImageKey": "official/covers/wdotmm.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Level 1: Dungeon Level",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Map 1: Dungeon Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-1.01-dungeon-level.jpg",
+          "tokenScale": 0.005999999999999998
+        },
+        {
+          "name": "Map 1: Dungeon Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-1.01-dungeon-level-player.jpg",
+          "tokenScale": 0.005999999999999998
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Level 2: Arcane Chambers",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Map 2: Arcane Chambers",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-2.01-arcane-chambers.jpg",
+          "tokenScale": 0.0075
+        },
+        {
+          "name": "Map 2: Arcane Chambers",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-2.01-arcane-chambers-player.jpg",
+          "tokenScale": 0.0075
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Level 3: Sargauth Level",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Map 3: Sargauth Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-3.01-sargauth-level.jpg",
+          "tokenScale": 0.004999999999999998
+        },
+        {
+          "name": "Map 3: Sargauth Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-3.01-sargauth-level-player.jpg",
+          "tokenScale": 0.004999999999999998
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Level 4: Twisted Caverns",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Map 4: Twisted Caverns",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-4.01-twisted-caverns.jpg",
+          "tokenScale": 0.009375
+        },
+        {
+          "name": "Map 4: Twisted Caverns",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-4.01-twisted-caverns-player.jpg",
+          "tokenScale": 0.009375
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Level 5: Wyllowwood",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Map 5: Wyllowwood",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-5.01-wyllowwood.jpg",
+          "tokenScale": 0.0055
+        },
+        {
+          "name": "Map 5: Wyllowwood",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-5.01-wyllowwood-player.jpg",
+          "tokenScale": 0.0055
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Level 6: Lost Level",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Map 6: Lost Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-6.01-lost-level.jpg",
+          "tokenScale": 0.009375
+        },
+        {
+          "name": "Map 6: Lost Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-6.01-lost-level-player.jpg",
+          "tokenScale": 0.009375
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Level 7: Maddgoth’s Castle",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Map 7: Maddgoth's Castle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-7.01-maddgoths-castle.jpg",
+          "tokenScale": 0.00875
+        },
+        {
+          "name": "Map 7: Maddgoth's Castle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-7.01-maddgoths-castle-player.jpg",
+          "tokenScale": 0.00875
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Level 8: Slitherswamp",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Map 8: Slitherswamp",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-8.01-slitherswamp.jpg",
+          "tokenScale": 0.00875
+        },
+        {
+          "name": "Map 8: Slitherswamp",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-8.01-slitherswamp-player.jpg",
+          "tokenScale": 0.00875
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Level 9: Dweomercore",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Map 9: Dweomercore",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-9.01-dweomercore.jpg",
+          "tokenScale": 0.0096875
+        },
+        {
+          "name": "Map 9: Dweomercore",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-9.01-dweomercore-player.jpg",
+          "tokenScale": 0.0096875
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Level 10: Muiral’s Gauntlet",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Map 10: Muiral's Gauntlet",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-10.01-muirals-gauntlet.jpg",
+          "tokenScale": 0.005666666666666665
+        },
+        {
+          "name": "Map 10: Muiral's Gauntlet",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-10.01-muirals-gauntlet-player.jpg",
+          "tokenScale": 0.005666666666666665
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Level 11: Troglodyte Warrens",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Map 11: Troglodyte Warrens",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-11.01-troglodyte-warrens.jpg",
+          "tokenScale": 0.00875
+        },
+        {
+          "name": "Map 11: Troglodyte Warrens",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-11.01-troglodyte-warrens-player.jpg",
+          "tokenScale": 0.00875
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Level 12: Maze Level",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Map 12: Maze Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-12.01-maze-level.jpg",
+          "tokenScale": 0.009
+        },
+        {
+          "name": "Map 12: Maze Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-12.01-maze-level-player.jpg",
+          "tokenScale": 0.009
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Level 13: Trobriand’s Graveyard",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Map 13: Trobriand's Graveyard",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-13.01-trobriands-graveyard.jpg",
+          "tokenScale": 0.0075
+        },
+        {
+          "name": "Map 13: Trobriand's Graveyard",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-13.01-trobriands-graveyard-player.jpg",
+          "tokenScale": 0.0075
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Level 14: Arcturiadoom",
+      "order": 14,
+      "maps": [
+        {
+          "name": "Map 14: Arcturiadoom",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-14.01-arcturiadoom.jpg",
+          "tokenScale": 0.008
+        },
+        {
+          "name": "Map 14: Arcturiadoom",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-14.01-arcturiadoom-player.jpg",
+          "tokenScale": 0.008
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Level 15: Obstacle Course",
+      "order": 15,
+      "maps": [
+        {
+          "name": "Map 15: Obstacle Course",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-15.01-obstacle-course.jpg",
+          "tokenScale": 0.00825
+        },
+        {
+          "name": "Map 15: Obstacle Course",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-15.01-obstacle-course-player.jpg",
+          "tokenScale": 0.00825
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Level 16: Crystal Labyrinth",
+      "order": 16,
+      "maps": [
+        {
+          "name": "Map 16: Crystal Labyrinth",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-16.01-crystal-labyrinth.jpg",
+          "tokenScale": 0.008
+        },
+        {
+          "name": "Map 16: Crystal Labyrinth",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-16.01-crystal-labyrinth-player.jpg",
+          "tokenScale": 0.008
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Level 17: Seadeeps",
+      "order": 17,
+      "maps": [
+        {
+          "name": "Map 17: Seadeeps",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-17.01-seadeeps.jpg",
+          "tokenScale": 0.009375
+        },
+        {
+          "name": "Map 17: Seadeeps",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-17.01-seadeeps-player.jpg",
+          "tokenScale": 0.009375
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Level 18: Vanrakdoom",
+      "order": 18,
+      "maps": [
+        {
+          "name": "Map 18: Vanrakdoom",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-18.01-vanrakdoom.jpg",
+          "tokenScale": 0.0095
+        },
+        {
+          "name": "Map 18: Vanrakdoom",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-18.01-vanrakdoom-player.jpg",
+          "tokenScale": 0.0095
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Level 19: Caverns of Ooze",
+      "order": 19,
+      "maps": [
+        {
+          "name": "Map 19: Caverns of Ooze",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-19.01-caverns-of-ooze.jpg",
+          "tokenScale": 0.00975
+        },
+        {
+          "name": "Map 19: Caverns of Ooze",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-19.01-caverns-of-ooze-player.jpg",
+          "tokenScale": 0.00975
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Level 20: Runestone Caverns",
+      "order": 20,
+      "maps": [
+        {
+          "name": "Map 20: Runestone Caverns",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-20.01-runestone-caverns.jpg",
+          "tokenScale": 0.00975
+        },
+        {
+          "name": "Map 20: Runestone Caverns",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-20.01-runestone-caverns-player.jpg",
+          "tokenScale": 0.00975
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Level 21: Terminus Level",
+      "order": 21,
+      "maps": [
+        {
+          "name": "Map 21: Terminus Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-21.01-terminus-level.jpg",
+          "tokenScale": 0.009375
+        },
+        {
+          "name": "Map 21: Terminus Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-21.01-terminus-level-player.jpg",
+          "tokenScale": 0.009375
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Level 22: Shadowdusk Hold",
+      "order": 22,
+      "maps": [
+        {
+          "name": "Map 22: Shadowdusk Hold",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-22.01-shadowdusk-hold.jpg",
+          "tokenScale": 0.0085
+        },
+        {
+          "name": "Map 22: Shadowdusk Hold",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-22.01-shadowdusk-hold-player.jpg",
+          "tokenScale": 0.0085
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Level 23: Mad Wizard’s Lair",
+      "order": 23,
+      "maps": [
+        {
+          "name": "Map 23: Mad Wizard's Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-23.01-mad-wizards-lair.jpg",
+          "tokenScale": 0.00825
+        },
+        {
+          "name": "Map 23: Mad Wizard's Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-23.01-mad-wizards-lair-player.jpg",
+          "tokenScale": 0.00825
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Skullport",
+      "order": 24,
+      "maps": [
+        {
+          "name": "Map 24: Skull Island",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdotmm/map-24.01-skull-island.jpg",
+          "tokenScale": 0.00825
+        },
+        {
+          "name": "Map 24: Skull Island",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdotmm/map-24.01-skull-island-player.jpg",
+          "tokenScale": 0.00825
+        },
+        {
+          "name": "Map 25: Skull Island, Lower and Middle Levels",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/wdotmm/map-24.02-skullport-lower-and-middle-levels.jpg",
+          "tokenScale": 0.00525
+        },
+        {
+          "name": "Map 25: Skull Island, Lower and Middle Levels",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/wdotmm/map-24.02-skullport-lower-and-middle-levels-player.jpg",
+          "tokenScale": 0.00525
+        },
+        {
+          "name": "Map 26: Skull Island, Upper Level",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/wdotmm/map-24.03-skullport-upper-level.jpg",
+          "tokenScale": 0.005
+        },
+        {
+          "name": "Map 26: Skull Island, Upper Level",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/wdotmm/map-24.03-skullport-upper-level-player.jpg",
+          "tokenScale": 0.005
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+    "type": "adventure",
+    "name": "oswcst",
+    "description": "One-Shot Wonders: 10 Coastal One-Shot Adventures",
+    "backgroundImageKey": "official/covers/oswcst.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Down at the Docks",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Docked Ship",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/oswcst/map-01.01-down-at-the-docs-docked-ship-grid.jpg",
+            "tokenScale": 0.06003159557661927
+          },
+          {
+            "name": "Docked Ship",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/oswcst/map-01.01-down-at-the-docs-docked-ship-no-grid.jpg",
+            "tokenScale": 0.06003159557661927
+          }
+        ]
+      },
+{
+        "id": "1",
+        "name": "Wave of Destruction",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Open Water",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/oswcst/map-02.01-wave-of-destruction-open-water-grid.jpg",
+            "tokenScale": 0.059169898032457265
+          },
+          {
+            "name": "Open Water",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/oswcst/map-02.01-wave-of-destruction-open-water-no-grid.jpg",
+            "tokenScale": 0.059169898032457265
+          }
+        ]
+      },
+{
+        "id": "2",
+        "name": "Troubled Waters",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Elemental Temple",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/oswcst/map-03.01-troubled-waters-elemental-temple-grid.jpg",
+            "tokenScale": 0.06029489204844654
+          },
+          {
+            "name": "Elemental Temple",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/oswcst/map-03.01-troubled-waters-elemental-temple-no-grid.jpg",
+            "tokenScale": 0.06029489204844654
+          }
+        ]
+      },
+{
+        "id": "3",
+        "name": "Fishy Business",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Seaside Restaurant",
+            "description": "(with grid)",
+            "order":7,
+            "imageKey": "official/maps/oswcst/map-04.01-fishy-buisness-seaside-restaurant-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          },
+          {
+            "name": "Seaside Restaurant",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/oswcst/map-04.01-fishy-buisness-seaside-restaurant-no-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          }
+        ]
+      },
+{
+        "id": "4",
+        "name": "Haunted Horizon",
+        "order": 5,
+        "maps": [
+          {
+            "name": "Battling Vessels",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/oswcst/map-05.01-haunted-horizon-battling-vessels-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          },
+          {
+            "name": "Battling Vessels",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/oswcst/map-05.01-haunted-horizon-battling-vessels-no-grid.jpg",
+            "tokenScale": 0.059399684044233805
+          }
+        ]
+      },
+{
+        "id": "5",
+        "name": "Wedding Crashers",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Beach Tavern",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/oswcst/map-06.01-wedding-crashers-beach-tavern-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          },
+          {
+            "name": "Beach Tavern",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/oswcst/map-06.01-wedding-crashers-beach-tavern-no-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          }
+        ]
+      },
+{
+        "id": "6",
+        "name": "The Sunken Crown",
+        "order": 7,
+        "maps": [
+          {
+            "name": "Shipwreck",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/oswcst/map-07.01-the-sunken-crown-shipwreck-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          },
+          {
+            "name": "Shipwreck",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/oswcst/map-07.01-the-sunken-crown-shipwreck-no-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          }
+        ]
+      },
+{
+        "id": "7",
+        "name": "Hatch and Release",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Sandy Beach",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/oswcst/map-08.01-hatch-and-release-sandy-beach-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          },
+          {
+            "name": "Sandy Beach",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/oswcst/map-08.01-hatch-and-release-sandy-beach-no-grid.jpg",
+            "tokenScale": 0.05908372827804107
+          }
+        ]
+      },
+{
+        "id": "8",
+        "name": "Truth or Scare",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Sea Cave",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/oswcst/map-09.01-truth-or-scare-sea-cave-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          },
+          {
+            "name": "Sea Cave",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/oswcst/map-09.01-truth-or-scare-sea-cave-no-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          }
+        ]
+      },
+{
+        "id": "9",
+        "name": "Everden",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Lighthouse Cliff",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/oswcst/map-10.01-blackout-bay-lighthouse-cliff-grid.jpg",
+            "tokenScale": 0.05918003565062389
+          },
+          {
+            "name": "Lighthouse Cliff",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/oswcst/map-10.01-blackout-bay-lighthouse-cliff-no-grid.jpg",
+            "tokenScale": 0.05918003565062389
+          },
+          {
+            "name": "Lighthouse Full",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/oswcst/map-10.02-blackout-bay-lighthouse-full-grid.jpg",
+            "tokenScale": 0.05918003565062389
+          },
+          {
+            "name": "Lighthouse Full",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/oswcst/map-10.02-blackout-bay-lighthouse-full-no-grid.jpg",
+            "tokenScale": 0.05918003565062389
+          }
+        ]
+      },
+{
+        "id": "10",
+        "name": "Continuing the Adventure",
+        "order": 11,
+        "maps": [
+          {
+            "name": "Mirabilis World",
+            "description": "(DM version)",
+            "order": 23,
+            "imageKey": "official/maps/oswcst/map-11.01-mirabilis-world-cst.jpg",
+            "tokenScale": 0.025017135023989032
+          },
+          {
+            "name": "Mirabilis World",
+            "description": "(Player version)",
+            "order": 24,
+            "imageKey": "official/maps/oswcst/map-11.01-mirabilis-world-cst-player.jpg",
+            "tokenScale": 0.025017135023989032
+          }
+        ]
+      }
+    ]
+  }

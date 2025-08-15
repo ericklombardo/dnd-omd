@@ -1,0 +1,36 @@
+{
+  "type": "adventure",
+  "name": "SoEE",
+  "description": "Scions of Elemental Evil",
+  "backgroundImageKey": "official/covers/soee.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Scions of Elemental Evil",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Temple of Elemental Evil",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/soee/map-1.01-temple-of-elemental-evil.jpg",
+          "tokenScale": 0.017855827994992995
+        },
+        {
+          "name": "Temple of Elemental Evil",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/soee/map-1.01-temple-of-elemental-evil-player.jpg",
+          "tokenScale": 0.017520680147058817
+        },
+        {
+          "name": "Primordial Nexus",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/soee/map-1.02-primordial-nexus.jpg",
+          "tokenScale": 0.032958984375
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "type": "adventure",
+  "name": "PBTSO",
+  "description": "Phandelver and Below: The Shattered Obelisk",
+  "backgroundImageKey": "official/covers/PBTSO Maps Cover2.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Phandalin Region",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-0.01-Phandalin-Region.png",
+          "tokenScale": 0.013122171945701354
+        },
+        {
+          "name": "Phandalin Region",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-0.01-Phandalin-Region-player.png",
+          "tokenScale": 0.013122171945701354
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 1: A Dangerous Journey",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Goblin Ambush",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-1.01-Goblin-Ambush.png",
+          "tokenScale": 0.05189620758483034
+        },
+        {
+          "name": "Goblin Ambush",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-1.01-Goblin-Ambush-player.png",
+          "tokenScale": 0.05189620758483034
+        },
+        {
+          "name": "Cragmaw Hideout",
+          "description": "(DM Version)",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-1.02-Cragmaw-Hideout.png",
+          "tokenScale": 0.03548546081813701
+        },
+        {
+          "name": "Cragmaw Hideout",
+          "description": "(Player Version)",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-1.02-Cragmaw-Hideout-player.png",
+          "tokenScale": 0.03548546081813701
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 2: Trouble in Phandalin",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Phandalin",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-2.01-Phandalin.png",
+          "tokenScale": 0.007320644216691066
+        },
+        {
+          "name": "Phandalin",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-2.01-Phandalin-player.png",
+          "tokenScale": 0.007320644216691066
+        },
+        {
+          "name": "Redbrand Hideout",
+          "description": "(DM Version)",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-2.02-Redbrand-Hideout.png",
+          "tokenScale": 0.034968431277319086
+        },
+        {
+          "name": "Redbrand Hideout",
+          "description": "(Player Version)",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-2.02-Redbrand-Hideout-player.png",
+          "tokenScale": 0.034968431277319086
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 3: The Spider’s Web",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Old Owl Well",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-3.01-Old-Owl-Well.png",
+          "tokenScale": 0.05588822355289421
+        },
+        {
+          "name": "Ruins of Thundertree",
+          "description": "(DM Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-3.02-Ruins-of-Thundertree.png",
+          "tokenScale": 0.01750700280112044
+        },
+        {
+          "name": "Ruins of Thundertree",
+          "description": "(Player Version)",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-3.02-Ruins-of-Thundertree-player.png",
+          "tokenScale": 0.01750700280112044
+        },
+        {
+          "name": "Wyvern Tor",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-3.03-Wyvern-Tor.png",
+          "tokenScale": 0.05247524752475247
+        },
+        {
+          "name": "Cragmaw Castle",
+          "description": "(DM Version)",
+          "order": 5,
+          "imageKey": "official/maps/pbtso/map-3.04-Cragmaw-Castle.png",
+          "tokenScale": 0.03400689995071464
+        },
+        {
+          "name": "Cragmaw Castle",
+          "description": "(Player Version)",
+          "order": 6,
+          "imageKey": "official/maps/pbtso/map-3.04-Cragmaw-Castle-player.png",
+          "tokenScale": 0.03400689995071464
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 4: Wave Echo Cave",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Wave Echo Cave",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-4.01-Wave-Echo-Cave.png",
+          "tokenScale": 0.013863682193990718
+        },
+        {
+          "name": "Wave Echo Cave",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-4.01-Wave-Echo-Cave-player.png",
+          "tokenScale": 0.013863682193990718
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 5: Paths of Peril",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Well Cavern",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-5.01-Well-Cavern.png",
+          "tokenScale": 0.06487025948103792
+        },
+        {
+          "name": "Well Cavern",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-5.01-Well-Cavern-player.png",
+          "tokenScale": 0.06487025948103792
+        },
+        {
+          "name": "Goblin Camp",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-5.02-Goblin-Camp.png",
+          "tokenScale": 0.05148514851485148
+        },
+        {
+          "name": "Phandalin Alleys",
+          "description": "(DM Version)",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-5.03-Phandalin-Alleys.png",
+          "tokenScale": 0.06295102103485335
+        },
+        {
+          "name": "Phandalin Alleys",
+          "description": "(Player Version)",
+          "order": 5,
+          "imageKey": "official/maps/pbtso/map-5.03-Phandalin-Alleys-player.png",
+          "tokenScale": 0.06295102103485335
+        },
+        {
+          "name": "Rooftop Stash",
+          "description": "(DM Version)",
+          "order": 6,
+          "imageKey": "official/maps/pbtso/map-5.04-Rooftop-Stash.png",
+          "tokenScale": 0.05588822355289421
+        },
+        {
+          "name": "Rooftop Stash",
+          "description": "(Player Version)",
+          "order": 7,
+          "imageKey": "official/maps/pbtso/map-5.04-Rooftop-Stash-player.png",
+          "tokenScale": 0.05588822355289421
+        },
+        {
+          "name": "Zorzulas Rest",
+          "description": "(DM Version)",
+          "order": 8,
+          "imageKey": "official/maps/pbtso/map-5.05-Zorzulas-Rest.png",
+          "tokenScale": 0.029038112522686024
+        },
+        {
+          "name": "Zorzulas Rest",
+          "description": "(Player Version)",
+          "order": 9,
+          "imageKey": "official/maps/pbtso/map-5.05-Zorzulas-Rest-player.png",
+          "tokenScale": 0.029038112522686024
+        },
+        {
+          "name": "Indigo Sanctum",
+          "description": "(DM Version)",
+          "order": 10,
+          "imageKey": "official/maps/pbtso/map-5.06-Indigo-Sanctum.png",
+          "tokenScale": 0.04950495049504949
+        },
+        {
+          "name": "Indigo Sanctum",
+          "description": "(Player Version)",
+          "order": 11,
+          "imageKey": "official/maps/pbtso/map-5.06-Indigo-Sanctum-player.png",
+          "tokenScale": 0.04950495049504949
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 6: The Shattered Obelisk",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Marthungrims Home",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-6.01-Marthungrims-Home.png",
+          "tokenScale": 0.1073558648111332
+        },
+        {
+          "name": "Marthungrims Home",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-6.01-Marthungrims-Home-player.png",
+          "tokenScale": 0.1073558648111332
+        },
+        {
+          "name": "Hardyhammer Mine",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-6.02-Hardyhammer-Mine.png",
+          "tokenScale": 0.045614762595894656
+        },
+        {
+          "name": "Talhundereth",
+          "description": "(DM Version)",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-6.03-Talhundereth.png",
+          "tokenScale": 0.03036323424672939
+        },
+        {
+          "name": "Talhundereth",
+          "description": "(Player Version)",
+          "order": 5,
+          "imageKey": "official/maps/pbtso/map-6.03-Talhundereth-player.png",
+          "tokenScale": 0.03036323424672939
+        },
+        {
+          "name": "Crypt of the Talhund",
+          "description": "(DM Version)",
+          "order": 6,
+          "imageKey": "official/maps/pbtso/map-6.04-Crypt-of-the-Talhund.png",
+          "tokenScale": 0.020617783775678508
+        },
+        {
+          "name": "Crypt of the Talhund",
+          "description": "(Player Version)",
+          "order": 7,
+          "imageKey": "official/maps/pbtso/map-6.04-Crypt-of-the-Talhund-player.png",
+          "tokenScale": 0.020617783775678508
+        },
+        {
+          "name": "Gibbet Crossing",
+          "description": "(DM Version)",
+          "order": 8,
+          "imageKey": "official/maps/pbtso/map-6.05-Gibbet-Crossing.png",
+          "tokenScale": 0.013758037984148343
+        },
+        {
+          "name": "Gibbet Crossing",
+          "description": "(Player Version)",
+          "order": 9,
+          "imageKey": "official/maps/pbtso/map-6.05-Gibbet-Crossing-player.png",
+          "tokenScale": 0.013758037984148343
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 7: Rifts in Reality",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Tunnels of the Deep",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-7.01-Tunnels-of-the-Deep.png",
+          "tokenScale": 0.020631067961165043
+        },
+        {
+          "name": "Tunnels of the Deep",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-7.01-Tunnels-of-the-Deep-player.png",
+          "tokenScale": 0.020631067961165043
+        },
+        {
+          "name": "Illithinoch",
+          "description": "(DM Version)",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-7.02-Illithinoch.png",
+          "tokenScale": 0.028130671506352088
+        },
+        {
+          "name": "Illithinoch",
+          "description": "(Player Version)",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-7.02-Illithinoch-player.png",
+          "tokenScale": 0.028130671506352088
+        },
+        {
+          "name": "Feeder Trenches",
+          "description": "(DM Version)",
+          "order": 5,
+          "imageKey": "official/maps/pbtso/map-7.03-Feeder-Trenches.png",
+          "tokenScale": 0.0331869204489995
+        },
+        {
+          "name": "Feeder Trenches",
+          "description": "(Player Version)",
+          "order": 6,
+          "imageKey": "official/maps/pbtso/map-7.03-Feeder-Trenches-player.png",
+          "tokenScale": 0.0331869204489995
+        },
+        {
+          "name": "Spawn Hollow",
+          "description": "(DM Version)",
+          "order": 7,
+          "imageKey": "official/maps/pbtso/map-7.04-Spawn-Hollow.png",
+          "tokenScale": 0.02977061981454368
+        },
+        {
+          "name": "Spawn Hollow",
+          "description": "(Player Version)",
+          "order": 8,
+          "imageKey": "official/maps/pbtso/map-7.04-Spawn-Hollow-player.png",
+          "tokenScale": 0.02977061981454368
+        },
+        {
+          "name": "Labyrinth of Eyes",
+          "description": "(DM Version)",
+          "order": 9,
+          "imageKey": "official/maps/pbtso/map-7.05-Labyrinth-of-Eyes.png",
+          "tokenScale": 0.0168858580938464
+        },
+        {
+          "name": "Labyrinth of Eyes",
+          "description": "(Player Version)",
+          "order": 10,
+          "imageKey": "official/maps/pbtso/map-7.05-Labyrinth-of-Eyes-player.png",
+          "tokenScale": 0.0168858580938464
+        },
+        {
+          "name": "Labyrinth of Eyes (Alt)",
+          "description": "(DM Version)",
+          "order": 11,
+          "imageKey": "official/maps/pbtso/map-7.06-Labyrinth-of-Eyes-Alternate-Configuration.png",
+          "tokenScale": 0.0168858580938464
+        },
+        {
+          "name": "Labyrinth of Eyes (Alt)",
+          "description": "(Player Version)",
+          "order": 12,
+          "imageKey": "official/maps/pbtso/map-7.06-Labyrinth-of-Eyes-Alternate-Configuration-player.png",
+          "tokenScale": 0.0168858580938464
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 8: Beyond a Lightless Star",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Briny Maze",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/pbtso/map-8.01-Briny-Maze.png",
+          "tokenScale": 0.014519056261343009
+        },
+        {
+          "name": "Briny Maze",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/pbtso/map-8.01-Briny-Maze-player.png",
+          "tokenScale": 0.014519056261343009
+        },
+        {
+          "name": "Crystal Dome",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/pbtso/map-8.02-Crystal-Dome.png",
+          "tokenScale": 0.029940119760479028
+        },
+        {
+          "name": "Empty Bridge",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/pbtso/map-8.03-Empty-Bridge.png",
+          "tokenScale": 0.02970297029702969
+        },
+        {
+          "name": "Mire of Doubt",
+          "description": "(DM Version)",
+          "order": 5,
+          "imageKey": "official/maps/pbtso/map-8.04-Mire-of-Doubt.png",
+          "tokenScale": 0.028692614770459073
+        },
+        {
+          "name": "Mire of Doubt",
+          "description": "(Player Version)",
+          "order": 6,
+          "imageKey": "official/maps/pbtso/map-8.04-Mire-of-Doubt-player.png",
+          "tokenScale": 0.028692614770459073
+        },
+        {
+          "name": "The Nematode",
+          "description": "(DM Version)",
+          "order": 7,
+          "imageKey": "official/maps/pbtso/map-8.05-The-Nematode.png",
+          "tokenScale": 0.029120559114734993
+        },
+        {
+          "name": "The Nematode",
+          "description": "(Player Version)",
+          "order": 8,
+          "imageKey": "official/maps/pbtso/map-8.05-The-Nematode-player.png",
+          "tokenScale": 0.029120559114734993
+        },
+        {
+          "name": "Occluding Miasma",
+          "description": "",
+          "order": 9,
+          "imageKey": "official/maps/pbtso/map-8.06-Occluding-Miasma.png",
+          "tokenScale": 0.028068862275449094
+        },
+        {
+          "name": "Toppled Statue",
+          "description": "",
+          "order": 10,
+          "imageKey": "official/maps/pbtso/map-8.07-Toppled-Statue.png",
+          "tokenScale": 0.030940594059405933
+        },
+        {
+          "name": "Wailing Battlefield",
+          "description": "(DM Version)",
+          "order": 11,
+          "imageKey": "official/maps/pbtso/map-8.08-Wailing-Battlefield.png",
+          "tokenScale": 0.028433945756780394
+        },
+        {
+          "name": "Wailing Battlefield",
+          "description": "(Player Version)",
+          "order": 12,
+          "imageKey": "official/maps/pbtso/map-8.08-Wailing-Battlefield-player.png",
+          "tokenScale": 0.028433945756780394
+        },
+        {
+          "name": "Ilvaashs Anima",
+          "description": "(DM Version)",
+          "order": 13,
+          "imageKey": "official/maps/pbtso/map-8.09-Ilvaashs-Anima.png",
+          "tokenScale": 0.02048780487804878
+        },
+        {
+          "name": "Ilvaashs Anima",
+          "description": "(Player Version)",
+          "order": 14,
+          "imageKey": "official/maps/pbtso/map-8.09-Ilvaashs-Anima-player.png",
+          "tokenScale": 0.02048780487804878
+        }
+      ]
+    }
+  ]
+}

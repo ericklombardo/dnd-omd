@@ -1,0 +1,267 @@
+{
+    "type": "mappack",
+    "name": "CZMP7",
+    "description": "Czepeku: Dwarven Throne Hall",
+    "backgroundImageKey": "official/covers/czmp7.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Dwarven Throne Hall",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Abandoned",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp7/map-01.01-g-dwarven-throne-hall-abandoned.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Abandoned",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp7/map-01.01-gl-dwarven-throne-hall-abandoned.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Astral Palace",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp7/map-01.02-g-dwarven-throne-hall-astralpalace.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Astral Palace",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp7/map-01.02-gl-dwarven-throne-hall-astralpalace.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Blood Palace",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp7/map-01.03-g-dwarven-throne-hall-bloodpalace.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Blood Palace",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp7/map-01.03-gl-dwarven-throne-hall-bloodpalace.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Blue Fire",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp7/map-01.04-g-dwarven-throne-hall-bluefire.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Blue Fire",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp7/map-01.04-gl-dwarven-throne-hall-bluefire.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Crossway",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp7/map-01.05-g-dwarven-throne-hall-crossway.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Crossway",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp7/map-01.05-gl-dwarven-throne-hall-crossway.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Depths",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp7/map-01.06-g-dwarven-throne-hall-depths.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Depths",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp7/map-01.06-gl-dwarven-throne-hall-depths.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Desert Palace",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp7/map-01.07-g-dwarven-throne-hall-desertpalace.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Desert Palace",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp7/map-01.07-gl-dwarven-throne-hall-desertpalace.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Giants Forge",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp7/map-01.08-g-dwarven-throne-hall-giantsforge.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Giants Forge",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp7/map-01.08-gl-dwarven-throne-hall-giantsforge.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Infernal",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp7/map-01.09-g-dwarven-throne-hall-infernal.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Infernal",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp7/map-01.09-gl-dwarven-throne-hall-infernal.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "King Slayer",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp7/map-01.10-g-dwarven-throne-hall-kingslayer.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "King Slayer",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp7/map-01.10-gl-dwarven-throne-hall-kingslayer.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp7/map-01.11-g-dwarven-throne-hall-massacre.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp7/map-01.11-gl-dwarven-throne-hall-massacre.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Molten",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp7/map-01.12-g-dwarven-throne-hall-molten.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Molten",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp7/map-01.12-gl-dwarven-throne-hall-molten.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "No Bridge",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp7/map-01.13-g-dwarven-throne-hall-nobridge.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "No Bridge",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp7/map-01.13-gl-dwarven-throne-hall-nobridge.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+         {
+            "name": "No Golems",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp7/map-01.14-g-dwarven-throne-hall-nogolems.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "No Golems",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp7/map-01.14-gl-dwarven-throne-hall-nogolems.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Original",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp7/map-01.15-g-dwarven-throne-hall-original.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Original",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp7/map-01.15-gl-dwarven-throne-hall-original.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Spider Egg",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp7/map-01.16-g-dwarven-throne-hall-spideregg.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Spider Egg",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp7/map-01.16-gl-dwarven-throne-hall-spideregg.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp7/map-01.17-g-dwarven-throne-hall-toxic.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp7/map-01.17-gl-dwarven-throne-hall-toxic.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Walkway",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp7/map-01.18-g-dwarven-throne-hall-walkway.jpg",
+            "tokenScale": 0.03469366776315788
+          },
+          {
+            "name": "Walkway",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp7/map-01.18-gl-dwarven-throne-hall-walkway.jpg",
+            "tokenScale": 0.03469366776315788
+          }
+        ]
+      }
+    ]
+  }

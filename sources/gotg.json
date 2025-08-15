@@ -1,0 +1,190 @@
+{
+  "type": "sourcebook",
+  "name": "GotG",
+  "description": "Bigby Presents: Glory of the Giants",
+  "backgroundImageKey": "official/covers/GotG Maps Cover2.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Chapter 4: Giant Enclaves",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Annam’s Cradle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gotg/map-4.01-annams-cradle.jpg",
+          "tokenScale": 0.016666666666666663
+        },
+        {
+          "name": "Annam’s Cradle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gotg/map-4.01-annams-cradle-player.jpg",
+          "tokenScale": 0.016666666666666663
+        },
+        {
+          "name": "Ashen Grotto",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/gotg/map-4.02-ashen-grotto.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Ashen Grotto",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/gotg/map-4.02-ashen-grotto-player.jpg",
+          "tokenScale": 0.01
+        },
+        {
+          "name": "Dreamer’s Reach",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/gotg/map-4.03-dreamers-reach.jpg",
+          "tokenScale": 0.00957625089777352
+        },
+        {
+          "name": "Endless Rockslide",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/gotg/map-4.04-endless-rockslide.jpg",
+          "tokenScale": 0.00957166786312515
+        },
+        {
+          "name": "Forest Crystal",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/gotg/map-4.05-forest-crystal.jpg",
+          "tokenScale": 0.00866167109821932
+        },
+        {
+          "name": "Forsaken Deep",
+          "description": "(DM version)",
+          "order": 8,
+          "imageKey": "official/maps/gotg/map-4.06-forsaken-deep.jpg",
+          "tokenScale": 0.00957166786312515
+        },
+        {
+          "name": "Forsaken Deep",
+          "description": "(Player version)",
+          "order": 9,
+          "imageKey": "official/maps/gotg/map-4.06-forsaken-deep-player.jpg",
+          "tokenScale": 0.00957166786312515
+        },
+        {
+          "name": "Gale’s Eye Tower",
+          "description": "",
+          "order": 10,
+          "imageKey": "official/maps/gotg/map-4.07-gales-eye-tower.jpg",
+          "tokenScale": 0.0096688421561518
+        },
+        {
+          "name": "Grolantor’s Larder",
+          "description": "",
+          "order": 11,
+          "imageKey": "official/maps/gotg/map-4.08-grolantors-larder.jpg",
+          "tokenScale": 0.00957166786312515
+        },
+        {
+          "name": "Hiatea’s Hearth",
+          "description": "(DM version)",
+          "order": 12,
+          "imageKey": "official/maps/gotg/map-4.09-hiateas-hearth.jpg",
+          "tokenScale": 0.011306230454654799
+        },
+        {
+          "name": "Hiatea’s Hearth",
+          "description": "(Player version)",
+          "order": 13,
+          "imageKey": "official/maps/gotg/map-4.09-hiateas-hearth-player.jpg",
+          "tokenScale": 0.011306230454654799
+        },
+        {
+          "name": "Horizon’s Edge",
+          "description": "",
+          "order": 14,
+          "imageKey": "official/maps/gotg/map-4.10-horizons-edge.jpg",
+          "tokenScale": 0.007142857142857143
+        },
+        {
+          "name": "Howling Iceberg",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/gotg/map-4.11-howling-iceberg.jpg",
+          "tokenScale": 0.00876773473617089
+        },
+        {
+          "name": "Howling Iceberg",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/gotg/map-4.11-howling-iceberg-player.jpg",
+          "tokenScale": 0.00876773473617089
+        },
+        {
+          "name": "Karontor’s Hold",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/gotg/map-4.12-karontors-hold.jpg",
+          "tokenScale": 0.010476190476190476
+        },
+        {
+          "name": "Karontor’s Hold",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/gotg/map-4.12-karontors-hold-player.jpg",
+          "tokenScale": 0.010476190476190476
+        },
+        {
+          "name": "Misty Vale",
+          "description": "",
+          "order": 19,
+          "imageKey": "official/maps/gotg/map-4.13-misty-vale.jpg",
+          "tokenScale": 0.010476190476190476
+        },
+        {
+          "name": "Runic Circle",
+          "description": "",
+          "order": 20,
+          "imageKey": "official/maps/gotg/map-4.14-runic-circle.jpg",
+          "tokenScale": 0.009913513143951048
+        },
+        {
+          "name": "Singing Sands",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/gotg/map-4.15-singing-sands.jpg",
+          "tokenScale": 0.00962000962000962
+        },
+        {
+          "name": "Singing Sands",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/gotg/map-4.15-singing-sands-player.jpg",
+          "tokenScale": 0.00962000962000962
+        },
+        {
+          "name": "Star Forge",
+          "description": "",
+          "order": 23,
+          "imageKey": "official/maps/gotg/map-4.16-star-forge.jpg",
+          "tokenScale": 0.007380952380952381
+        },
+        {
+          "name": "Thundering Observatory",
+          "description": "",
+          "order": 24,
+          "imageKey": "official/maps/gotg/map-4.17-thundering-observatory.jpg",
+          "tokenScale": 0.012330754352030947
+        },
+        {
+          "name": "Worldroot Sapling",
+          "description": "",
+          "order": 25,
+          "imageKey": "official/maps/gotg/map-4.18-worldroot-sapling.jpg",
+          "tokenScale": 0.010289542952859537
+        }
+      ]
+    }
+  ]
+}

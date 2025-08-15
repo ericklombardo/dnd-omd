@@ -1,0 +1,456 @@
+{
+  "type": "sourcebook",
+  "name": "SAiS",
+  "description": "Spelljammer: Adventures in Space",
+  "backgroundImageKey": "official/covers/sais.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Astral Adventurer’s Guide: Chapter 2",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Bombard Deck Plans",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sais/map-3.01-bombard-DM.jpg",
+          "tokenScale": 0.030882352941176472
+        },
+        {
+          "name": "Bombard Deck Plans",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sais/map-3.01-bombard-Player.jpg",
+          "tokenScale": 0.030882352941176472
+        },
+        {
+          "name": "Damselfly Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sais/map-3.02-damselfly-ship-DM.jpg",
+          "tokenScale": 0.04823529411764706
+        },
+        {
+          "name": "Damselfly Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sais/map-3.02-damselfly-ship-Player.jpg",
+          "tokenScale": 0.04823529411764706
+        },
+        {
+          "name": "Flying Fish Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sais/map-3.03-flying-fish-ship-DM.jpg",
+          "tokenScale": 0.029705882352941176
+        },
+        {
+          "name": "Flying Fish Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sais/map-3.03-flying-fish-ship-Player.jpg",
+          "tokenScale": 0.029705882352941176
+        },
+        {
+          "name": "Hammerhead Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/sais/map-3.04-hammerhead-ship-DM.jpg",
+          "tokenScale": 0.02441176470588235
+        },
+        {
+          "name": "Hammerhead Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/sais/map-3.04-hammerhead-ship-Player.jpg",
+          "tokenScale": 0.02441176470588235
+        },
+        {
+          "name": "Lamprey Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/sais/map-3.05-lamprey-ship-DM.jpg",
+          "tokenScale": 0.037941176470588235
+        },
+        {
+          "name": "Lamprey Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/sais/map-3.05-lamprey-ship-Player.jpg",
+          "tokenScale": 0.037941176470588235
+        },
+        {
+          "name": "Living Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/sais/map-3.06-living-ship-DM.jpg",
+          "tokenScale": 0.04058823529411765
+        },
+        {
+          "name": "Living Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/sais/map-3.06-living-ship-Player.jpg",
+          "tokenScale": 0.04058823529411765
+        },
+        {
+          "name": "Nautiloid Deck Plans",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/sais/map-3.07-nautiloid-DM.jpg",
+          "tokenScale": 0.027941176470588237
+        },
+        {
+          "name": "Nautiloid Deck Plans",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/sais/map-3.07-nautiloid-Player.jpg",
+          "tokenScale": 0.027941176470588237
+        },
+        {
+          "name": "Nightspider Deck Plans",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/sais/map-3.08-nightspider-DM.jpg",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Nightspider Deck Plans",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/sais/map-3.08-nightspider-Player.jpg",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Scorpion Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/sais/map-3.09-scorpion-DM.jpg",
+          "tokenScale": 0.04878892733564012
+        },
+        {
+          "name": "Scorpion Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/sais/map-3.09-scorpion-Player.jpg",
+          "tokenScale": 0.04878892733564012
+        },
+        {
+          "name": "Shrike Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/sais/map-3.10-shrike-ship-DM.jpg",
+          "tokenScale": 0.03588235294117647
+        },
+        {
+          "name": "Shrike Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/sais/map-3.10-shrike-ship-Player.jpg",
+          "tokenScale": 0.03588235294117647
+        },
+        {
+          "name": "Space Galleon Deck Plans",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/sais/map-3.11-space-galleon-DM.jpg",
+          "tokenScale": 0.032058823529411765
+        },
+        {
+          "name": "Space Galleon Deck Plans",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/sais/map-3.11-space-galleon-Player.jpg",
+          "tokenScale": 0.032058823529411765
+        },
+        {
+          "name": "Squid Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/sais/map-3.12-squid-ship-DM.jpg",
+          "tokenScale": 0.03294117647058824
+        },
+        {
+          "name": "Squid Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/sais/map-3.12-squid-ship-Player.jpg",
+          "tokenScale": 0.03294117647058824
+        },
+        {
+          "name": "Star Moth Deck Plans",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/sais/map-3.13-star-moth-DM.jpg",
+          "tokenScale": 0.036470588235294116
+        },
+        {
+          "name": "Star Moth Deck Plans",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/sais/map-3.13-star-moth-Player.jpg",
+          "tokenScale": 0.036470588235294116
+        },
+        {
+          "name": "Turtle Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 27,
+          "imageKey": "official/maps/sais/map-3.13-turtle-ship-DM.jpg",
+          "tokenScale": 0.039705882352941174
+        },
+        {
+          "name": "Turtle Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 28,
+          "imageKey": "official/maps/sais/map-3.13-turtle-ship-Player.jpg",
+          "tokenScale": 0.039705882352941174
+        },
+        {
+          "name": "Tyrant Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 29,
+          "imageKey": "official/maps/sais/map-3.14-tyrant-ship-DM.jpg",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Tyrant Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 30,
+          "imageKey": "official/maps/sais/map-3.14-tyrant-ship-Player.jpg",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Wasp Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 31,
+          "imageKey": "official/maps/sais/map-3.15-wasp-ship-DM.jpg",
+          "tokenScale": 0.033823529411764704
+        },
+        {
+          "name": "Wasp Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 32,
+          "imageKey": "official/maps/sais/map-3.15-wasp-ship-Player.jpg",
+          "tokenScale": 0.033823529411764704
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Astral Adventurer’s Guide: Chapter 3",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Rock of Bral: Topside",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sais/map-4.01-rock-of-bral-topside-DM.jpg",
+          "tokenScale": 0.0044519761029411745
+        },
+        {
+          "name": "The Rock of Bral: Topside",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sais/map-4.01-rock-of-bral-topside-Player.jpg",
+          "tokenScale": 0.0044519761029411745
+        },
+        {
+          "name": "The Rock of Bral: Underside",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sais/map-4.02-rock-of-bral-underside-DM.jpg",
+          "tokenScale": 0.0028722426470588224
+        },
+        {
+          "name": "The Rock of Bral: Underside",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sais/map-4.02-rock-of-bral-underside-Player.jpg",
+          "tokenScale": 0.0028722426470588224
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Light of Xaryxis: Part 1",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Space Galleon Deck Plans",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sais/map-10.01-space-galleon-DM.jpg",
+          "tokenScale": 0.032058823529411765
+        },
+        {
+          "name": "Space Galleon Deck Plans",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sais/map-10.01-space-galleon-Player.jpg",
+          "tokenScale": 0.032058823529411765
+        },
+        {
+          "name": "Nautiloid Deck Plans",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sais/map-10.02-nautiloid-DM.jpg",
+          "tokenScale": 0.027941176470588237
+        },
+        {
+          "name": "Nautiloid Deck Plans",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sais/map-10.02-nautiloid-Player.jpg",
+          "tokenScale": 0.027941176470588237
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Light of Xaryxis: Part 2",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Living Ship Deck Plans",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sais/map-11.01-living-ship-DM.jpg",
+          "tokenScale": 0.04058823529411765
+        },
+        {
+          "name": "Living Ship Deck Plans",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sais/map-11.01-living-ship-Player.jpg",
+          "tokenScale": 0.04058823529411765
+        },
+        {
+          "name": "Topalah's Tower (Side View)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sais/map-11.02-topalahs-tower-side-DM.jpg",
+          "tokenScale": 0.013844515441959531
+        },
+        {
+          "name": "Topalah's Tower (Side View)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sais/map-11.02-topalahs-tower-side-Player.jpg",
+          "tokenScale": 0.013844515441959531
+        },
+        {
+          "name": "Topalah's Tower (Top View)",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sais/map-11.03-topalahs-tower-top-DM.jpg",
+          "tokenScale": 0.03482260183968462
+        },
+        {
+          "name": "Topalah's Tower (Top View)",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sais/map-11.03-topalahs-tower-top-Player.jpg",
+          "tokenScale": 0.03482260183968462
+        },
+        {
+          "name": "Space Galleon Deck Plans",
+          "description": "(Player version)",
+          "order": 7,
+          "imageKey": "official/maps/sais/map-11.04-space-galleon-DM.jpg",
+          "tokenScale": 0.032058823529411765
+        },
+        {
+          "name": "Space Galleon Deck Plans",
+          "description": "(DM version)",
+          "order": 8,
+          "imageKey": "official/maps/sais/map-11.04-space-galleon-Player.jpg",
+          "tokenScale": 0.032058823529411765
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Light of Xaryxis: Part 3",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Doomspace",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sais/map-12.01-doomspace-system-DM.jpg",
+          "tokenScale": 0.00784313725490196
+        },
+        {
+          "name": "Doomspace",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sais/map-12.01-doomspace-system-Player.jpg",
+          "tokenScale": 0.00784313725490196
+        },
+        {
+          "name": "Vocath's Base",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sais/map-12.02-vocaths-base-DM.jpg",
+          "tokenScale": 0.0058823529411764705
+        },
+        {
+          "name": "Vocath's Base",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sais/map-12.02-vocaths-base-Player.jpg",
+          "tokenScale": 0.0058823529411764705
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Light of Xaryxis: Part 4",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Xaryxispace",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sais/map-13.01-xaryxis-space-DM.jpg",
+          "tokenScale": 0.016666666666666666
+        },
+        {
+          "name": "Xaryxispace",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sais/map-13.01-xaryxis-space-Player.jpg",
+          "tokenScale": 0.016666666666666666
+        },
+        {
+          "name": "Imperial Citadel",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/sais/map-13.02-imperial-citadel-DM.jpg",
+          "tokenScale": 0.007058823529411765
+        },
+        {
+          "name": "Imperial Citadel",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/sais/map-13.02-imperial-citadel-Player.jpg",
+          "tokenScale": 0.007058823529411765
+        },
+        {
+          "name": "Temple of Light",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/sais/map-13.03-temple-of-light-DM.jpg",
+          "tokenScale": 0.0058823529411764705
+        },
+        {
+          "name": "Temple of Light",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/sais/map-13.03-temple-of-light-Player.jpg",
+          "tokenScale": 0.0058823529411764705
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+    "type": "mappack",
+    "name": "CZMP14",
+    "description": "Czepeku: Port Bastion",
+    "backgroundImageKey": "official/covers/czmp14.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Port Bastion",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Blood Ocean",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp14/map-01.01-g-port-bastion-bloodocean.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Blood Ocean",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp14/map-01.01-gl-port-bastion-bloodocean.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Dark",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp14/map-01.02-g-port-bastion-dark.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Dark",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp14/map-01.02-gl-port-bastion-dark.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp14/map-01.03-g-port-bastion-desert.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp14/map-01.03-gl-port-bastion-desert.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Empty Day",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp14/map-01.04-g-port-bastion-empty-day.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Empty Day",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp14/map-01.04-gl-port-bastion-empty-day.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Empty Night",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp14/map-01.05-g-port-bastion-empty-night.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Empty Night",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp14/map-01.05-gl-port-bastion-empty-night.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Fire!",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp14/map-01.06-g-port-bastion-fire.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Fire!",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp14/map-01.06-gl-port-bastion-fire.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Fog",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp14/map-01.07-g-port-bastion-fog.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Fog",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp14/map-01.07-gl-port-bastion-fog.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Lava",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp14/map-01.08-g-port-bastion-lava.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Lava",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp14/map-01.08-gl-port-bastion-lava.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Massacre",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp14/map-01.09-g-port-bastion-massacre.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Massacre",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp14/map-01.09-gl-port-bastion-massacre.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "No Cannons Day",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp14/map-01.10-g-port-bastion-nocannons-day.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "No Cannons Day",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp14/map-01.10-gl-port-bastion-nocannons-day.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "No Cannons Night",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp14/map-01.11-g-port-bastion-nocannons-night.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "No Cannons Night",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp14/map-01.11-gl-port-bastion-nocannons-night.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "No Dragon Cannons",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp14/map-01.12-g-port-bastion-nodragoncannons.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "No Dragon Cannons",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp14/map-01.12-gl-port-bastion-nodragoncannons.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Oil",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp14/map-01.13-g-port-bastion-oil.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Oil",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp14/map-01.13-gl-port-bastion-oil.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+         {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp14/map-01.14-g-port-bastion-original-day.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp14/map-01.14-gl-port-bastion-original-day.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp14/map-01.15-g-port-bastion-original-night.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp14/map-01.15-gl-port-bastion-original-night.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp14/map-01.16-g-port-bastion-rain.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp14/map-01.16-gl-port-bastion-rain.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp14/map-01.17-g-port-bastion-spring.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp14/map-01.17-gl-port-bastion-spring.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "The Big Guns",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp14/map-01.18-g-port-bastion-thebigguns.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "The Big Guns",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp14/map-01.18-gl-port-bastion-thebigguns.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Toxic",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp14/map-01.19-g-port-bastion-toxic.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Toxic",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp14/map-01.19-gl-port-bastion-toxic.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp14/map-01.20-g-port-bastion-winter.jpg",
+            "tokenScale": 0.021972656249999993
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp14/map-01.20-gl-port-bastion-winter.jpg",
+            "tokenScale": 0.021972656249999993
+          }
+        ]
+      }
+    ]
+  }

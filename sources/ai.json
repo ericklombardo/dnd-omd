@@ -1,0 +1,281 @@
+{
+  "type": "sourcebook",
+    "name": "AI",
+    "description": "Acquisitions Incorporated",
+    "backgroundImageKey": "official/covers/ai.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Campaign Area",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Campaign Area",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/ai/map-4-01.campaign-area.jpg",
+            "tokenScale": 0.007619047619047617
+          },
+          {
+            "name": "Area 1: Rats",
+            "description": "(DM version)",
+            "order": 2,
+            "imageKey": "official/maps/ai/map-4-02.area-1.jpg",
+            "tokenScale": 0.04325699745547072
+          },
+          {
+            "name": "Area 1: Rats",
+            "description": "(Player version)",
+            "order": 3,
+            "imageKey": "official/maps/ai/map-4-02.area-1-player.jpg",
+            "tokenScale": 0.04325699745547072
+          },
+          {
+            "name": "Area 2: Trials",
+            "description": "(DM version)",
+            "order": 4,
+            "imageKey": "official/maps/ai/map-4-03.area-2.jpg",
+            "tokenScale": 0.04592901878914404
+          },
+          {
+            "name": "Area 2: Trials",
+            "description": "(Player version)",
+            "order": 5,
+            "imageKey": "official/maps/ai/map-4-03.area-2-player.jpg",
+            "tokenScale": 0.04592901878914404
+          },
+          {
+            "name": "Area 3: Traps",
+            "description": "(DM version)",
+            "order": 6,
+            "imageKey": "official/maps/ai/map-4-04.area-3.jpg",
+            "tokenScale": 0.03184165232358003
+          },
+          {
+            "name": "Area 3: Traps",
+            "description": "(Player version)",
+            "order": 7,
+            "imageKey": "official/maps/ai/map-4-04.area-3-player.jpg",
+            "tokenScale": 0.03184165232358003
+          },
+          {
+            "name": "Area 5: Death",
+            "description": "(DM version)",
+            "order": 8,
+            "imageKey": "official/maps/ai/map-4-05.area-5.jpg",
+            "tokenScale": 0.028909329829172135
+          },
+          {
+            "name": "Area 5: Death",
+            "description": "(Player version)",
+            "order": 9,
+            "imageKey": "official/maps/ai/map-4-05.area-5-player.jpg",
+            "tokenScale": 0.028909329829172135
+          },
+          {
+            "name": "Area 6: Goblin",
+            "description": "(DM version)",
+            "order": 10,
+            "imageKey": "official/maps/ai/map-4-06.area-6.jpg",
+            "tokenScale": 0.035778175313059025
+          },
+          {
+            "name": "Area 6: Goblin",
+            "description": "(Player version)",
+            "order": 11,
+            "imageKey": "official/maps/ai/map-4-06.area-6-player.jpg",
+            "tokenScale": 0.035778175313059025
+          },
+          {
+            "name": "Area 7: Stomp",
+            "description": "(DM version)",
+            "order": 12,
+            "imageKey": "official/maps/ai/map-4-07.area-7.jpg",
+            "tokenScale": 0.03420398009950247
+          },
+          {
+            "name": "Area 7: Stomp",
+            "description": "(Player version)",
+            "order": 13,
+            "imageKey": "official/maps/ai/map-4-07.area-7-player.jpg",
+            "tokenScale": 0.03420398009950247
+          },
+          {
+            "name": "Area 8: Tentacle",
+            "description": "(DM version)",
+            "order": 14,
+            "imageKey": "official/maps/ai/map-4-08.area-8.jpg",
+            "tokenScale": 0.030864197530864182
+          },
+          {
+            "name": "Area 8: Tentacle",
+            "description": "(Player version)",
+            "order": 15,
+            "imageKey": "official/maps/ai/map-4-08.area-8-player.jpg",
+            "tokenScale": 0.030864197530864182
+          },
+          {
+            "name": "Area 9: Dragon",
+            "description": "(DM version)",
+            "order": 16,
+            "imageKey": "official/maps/ai/map-4-09.area-9.jpg",
+            "tokenScale": 0.03183762809670678
+          },
+          {
+            "name": "Area 9: Dragon",
+            "description": "(Player version)",
+            "order": 17,
+            "imageKey": "official/maps/ai/map-4-09.area-9-player.jpg",
+            "tokenScale": 0.03183762809670678
+          },
+          {
+            "name": "Area 10: Shrine of Destruction",
+            "description": "(DM version)",
+            "order": 18,
+            "imageKey": "official/maps/ai/map-4-10.area-10.jpg",
+            "tokenScale": 0.026774296675191805
+          },
+          {
+            "name": "Area 10: Shrine of Destruction",
+            "description": "(Player version)",
+            "order": 19,
+            "imageKey": "official/maps/ai/map-4-10.area-10-player.jpg",
+            "tokenScale": 0.026774296675191805
+          },
+          {
+            "name": "The Town of Phandalin",
+            "description": "",
+            "order": 20,
+            "imageKey": "official/maps/ai/map-4-11.the-town-of-phandalin.jpg",
+            "tokenScale": 0.008888888888888885
+          },
+          {
+            "name": "Treasendar Manor Dungeons",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/ai/map-4-12.treasendar-manor-dungeons.jpg",
+            "tokenScale": 0.031746031746031744
+          },
+          {
+            "name": "Treasendar Manor Dungeons",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/ai/map-4-12.treasendar-manor-dungeons-player.jpg",
+            "tokenScale": 0.031746031746031744
+          },
+          {
+            "name": "Silent Sound Lighthouse",
+            "description": "(DM version)",
+            "order": 23,
+            "imageKey": "official/maps/ai/map-4-13.silent-sound-lighthouse.jpg",
+            "tokenScale": 0.02376543209876543
+          },
+          {
+            "name": "Silent Sound Lighthouse",
+            "description": "(Player version)",
+            "order": 24,
+            "imageKey": "official/maps/ai/map-4-13.silent-sound-lighthouse-player.jpg",
+            "tokenScale": 0.02376543209876543
+          },
+          {
+            "name": "Lighthouse Basement",
+            "description": "(DM version)",
+            "order": 25,
+            "imageKey": "official/maps/ai/map-4-14.lighthouse-basement.jpg",
+            "tokenScale": 0.03472222222222221
+          },
+          {
+            "name": "Lighthouse Basement",
+            "description": "(Player version)",
+            "order": 26,
+            "imageKey": "official/maps/ai/map-4-14.lighthouse-basement-player.jpg",
+            "tokenScale": 0.03472222222222221
+          },
+          {
+            "name": "The Docks",
+            "description": "(DM version)",
+            "order": 27,
+            "imageKey": "official/maps/ai/map-4-15.the-docks.jpg",
+            "tokenScale": 0.055952380952380934
+          },
+          {
+            "name": "The Docks",
+            "description": "(Player version)",
+            "order": 28,
+            "imageKey": "official/maps/ai/map-4-15.the-docks-player.jpg",
+            "tokenScale": 0.055952380952380934
+          },
+          {
+            "name": "Pirate Fight",
+            "description": "",
+            "order": 29,
+            "imageKey": "official/maps/ai/map-4-16.pirate-fight.jpg",
+            "tokenScale": 0.04883401920438956
+          },
+          {
+            "name": "River Barge Crossings",
+            "description": "",
+            "order": 30,
+            "imageKey": "official/maps/ai/map-4-17.river-barge-crossing.jpg",
+            "tokenScale": 0.05634694523583412
+          },
+          {
+            "name": "Horn Enclave",
+            "description": "(DM version)",
+            "order": 31,
+            "imageKey": "official/maps/ai/map-4-18.horn-enclave.jpg",
+            "tokenScale": 0.01728395061728395
+          },
+          {
+            "name": "Horn Enclave",
+            "description": "(Player version)",
+            "order": 32,
+            "imageKey": "official/maps/ai/map-4-18.horn-enclave-player.jpg",
+            "tokenScale": 0.01728395061728395
+          },
+          {
+            "name": "Lottie’s Palace",
+            "description": "(DM version)",
+            "order": 33,
+            "imageKey": "official/maps/ai/map-4-19.lotties-palace.jpg",
+            "tokenScale": 0.04518728222996514
+          },
+          {
+            "name": "Lottie’s Palace",
+            "description": "(Player version)",
+            "order": 34,
+            "imageKey": "official/maps/ai/map-4-19.lotties-palace-player.jpg",
+            "tokenScale": 0.04518728222996514
+          },
+          {
+            "name": "The Dran & Courtier",
+            "description": "(DM version)",
+            "order": 35,
+            "imageKey": "official/maps/ai/map-4-20.the-dran-and-coutier.jpg",
+            "tokenScale": 0.034632034632034625
+          },
+          {
+            "name": "The Dran & Courtier",
+            "description": "(Player version)",
+            "order": 36,
+            "imageKey": "official/maps/ai/map-4-20.the-dran-and-coutier-player.jpg",
+            "tokenScale": 0.034632034632034625
+          },
+          {
+            "name": "Ritual Site",
+            "description": "(DM version)",
+            "order": 37,
+            "imageKey": "official/maps/ai/map-4-21.ritual-site.jpg",
+            "tokenScale": 0.04603174603174602
+          },
+          {
+            "name": "Ritual Site",
+            "description": "(Player version)",
+            "order": 38,
+            "imageKey": "official/maps/ai/map-4-21.ritual-site-player.jpg",
+            "tokenScale": 0.04603174603174602
+          }
+        ]
+      }
+    ]
+  }

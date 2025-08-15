@@ -1,0 +1,351 @@
+{
+  "type": "adventure",
+  "name": "ToD",
+  "description": "Tyranny of Dragons",
+  "backgroundImageKey": "official/covers/tod.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction: Running the Adventure",
+      "order": 1,
+      "maps": [
+        {
+          "name": "The Sword Coast",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-0.01-the-sword-coast.jpg",
+          "tokenScale": 0.00775
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 1: Greenest in Flames",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Greenest",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-2.01-greenest.jpg",
+          "tokenScale": 0.00525
+        },
+        {
+          "name": "Greenest",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-2.01-greenest-player.jpg",
+          "tokenScale": 0.00525
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 2: Raiders’ Camp",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Raider Camp",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-3.01-raider-camp.jpg",
+          "tokenScale": 0.005
+        },
+        {
+          "name": "Raider Camp",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-3.01-raider-camp-player.jpg",
+          "tokenScale": 0.005
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 3: Dragon Hatchery",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Dragon Hatchery",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-4.01-dragon-hatchery.jpg",
+          "tokenScale": 0.01625
+        },
+        {
+          "name": "Dragon Hatchery",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-4.01-dragon-hatchery-player.jpg",
+          "tokenScale": 0.01625
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Construction Ahead",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Carnath Roadhouse",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-6.01-carnath-roadhouse.jpg",
+          "tokenScale": 0.0234375
+        },
+        {
+          "name": "Carnath Roadhouse",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-6.01-carnath-roadhouse-player.jpg",
+          "tokenScale": 0.0234375
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 6: Castle Naerytar",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Castle Naerytar - Ground Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-7.01-castle-naerytar-ground-level.jpg",
+          "tokenScale": 0.0077
+        },
+        {
+          "name": "Castle Naerytar - Ground Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-7.01-castle-naerytar-ground-level-player.jpg",
+          "tokenScale": 0.0077
+        },
+        {
+          "name": "Castle Naerytar - Level 2",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tod/map-7.02-castle-naerytar-level-2.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Castle Naerytar - Level 2",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tod/map-7.02-castle-naerytar-level-2-player.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Castle Naerytar - Level 3",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/tod/map-7.03-castle-naerytar-level-3.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Castle Naerytar - Level 3",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/tod/map-7.03-castle-naerytar-level-3-player.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Castle Naerytar - Dungeon",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/tod/map-7.04-castle-naerytar-dungeon.jpg",
+          "tokenScale": 0.011875
+        },
+        {
+          "name": "Castle Naerytar - Dungeon",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/tod/map-7.04-castle-naerytar-dungeon-player.jpg",
+          "tokenScale": 0.011875
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 7: Hunting Lodge",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Hunting Lodge Ground Floor",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-8.01-hunting-lodge-ground-floor.jpg",
+          "tokenScale": 0.02909090909090909
+        },
+        {
+          "name": "Hunting Lodge Ground Floor",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-8.01-hunting-lodge-ground-floor-player.jpg",
+          "tokenScale": 0.02909090909090909
+        },
+        {
+          "name": "Hunting Lodge Upper Floor",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tod/map-8.02-hunting-lodge-upper-floor.jpg",
+          "tokenScale": 0.03428571428571428
+        },
+        {
+          "name": "Hunting Lodge Upper Floor",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tod/map-8.02-hunting-lodge-upper-floor-player.jpg",
+          "tokenScale": 0.03347050754458162
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 8: Castle in the Clouds",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Parnast",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-9.01-parnast.jpg",
+          "tokenScale": 0.015555555555555555
+        },
+        {
+          "name": "Parnast",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-9.01-parnast-player.jpg",
+          "tokenScale": 0.015555555555555555
+        },
+        {
+          "name": "Skyreach Castle",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tod/map-9.02-skyreach-castle.jpg",
+          "tokenScale": 0.0075
+        },
+        {
+          "name": "Skyreach Castle",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tod/map-9.02-skyreach-castle-player.jpg",
+          "tokenScale": 0.0075
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 10: The Sea of Moving Ice",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Arauthator’s Iceberg ’Oyaviggaton’ - Arauthator’s Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-11.01-arauthators-iceberg-oyaviggaton-lair.jpg",
+          "tokenScale": 0.0069736842105263125
+        },
+        {
+          "name": "Arauthator’s Iceberg ’Oyaviggaton’ - Arauthator’s Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-11.01-arauthators-iceberg-oyaviggaton-lair-player.jpg",
+          "tokenScale": 0.0069736842105263125
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Chapters 11 and 12: Death to the Wyrmspeakers",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Tomb of Diderius",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-12.01-tomb-of-diderius.jpg",
+          "tokenScale": 0.01125
+        },
+        {
+          "name": "Tomb of Diderius",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-12.01-tomb-of-diderius-player.jpg",
+          "tokenScale": 0.011522633744855968
+        },
+        {
+          "name": "Neronvain’s Stronghold",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tod/map-12.02-neronvains-stronghold.jpg",
+          "tokenScale": 0.010277777777777778
+        },
+        {
+          "name": "Neronvain’s Stronghold",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tod/map-12.02-neronvains-stronghold-player.jpg",
+          "tokenScale": 0.010277777777777778
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Chapter 15: Xonthal’s Tower",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Xonthal’s Tower",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-15.01-xonthals-tower.jpg",
+          "tokenScale": 0.014374999999999997
+        },
+        {
+          "name": "Xonthal’s Tower",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-15.01-xonthals-tower-player.jpg",
+          "tokenScale": 0.014393939393939395
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Chapter 17: Tiamat’s Return",
+      "order": 12,
+      "maps": [
+        {
+          "name": "The Well of Dragons",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tod/map-17.01-the-well-of-dragons.jpg",
+          "tokenScale": 0.004
+        },
+        {
+          "name": "The Well of Dragons",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tod/map-17.01-the-well-of-dragons-player.jpg",
+          "tokenScale": 0.004
+        },
+        {
+          "name": "Tiamat’s Temple",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/tod/map-17.02-tiamats-temple.jpg",
+          "tokenScale": 0.007
+        },
+        {
+          "name": "Tiamat’s Temple",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/tod/map-17.02-tiamats-temple-player.jpg",
+          "tokenScale": 0.007
+        }
+      ]
+    }
+  ]
+}

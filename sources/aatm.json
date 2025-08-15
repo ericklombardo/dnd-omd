@@ -1,0 +1,78 @@
+{
+  "type": "sourcebook",
+  "name": "AATM",
+  "description": "Adventure Atlas: The Mortuary",
+  "backgroundImageKey": "official/covers/aatm.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Adventure Atlas: The Mortuary",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Corpse Receiving and Shipping",
+          "description": "(DM Version)",
+          "order": 1,
+          "imageKey": "official/maps/aatm/map-0.01.corpse-receiving-and-shipping.jpg",
+          "tokenScale": 0.020572916666666666
+        },
+        {
+          "name": "Corpse Receiving and Shipping",
+          "description": "(Player Version)",
+          "order": 2,
+          "imageKey": "official/maps/aatm/map-0.01.corpse-receiving-and-shipping-player.jpg",
+          "tokenScale": 0.020572916666666666
+        },
+        {
+          "name": "Spirit Sump",
+          "description": "(DM Version)",
+          "order": 3,
+          "imageKey": "official/maps/aatm/map-0.02.spirit-sump.jpg",
+          "tokenScale": 0.017941176470588235
+        },
+        {
+          "name": "Spirit Sump",
+          "description": "(Player Version)",
+          "order": 4,
+          "imageKey": "official/maps/aatm/map-0.02.spirit-sump-player.jpg",
+          "tokenScale": 0.017941176470588235
+        },
+        {
+          "name": "Nevervault",
+          "description": "(DM Version)",
+          "order": 5,
+          "imageKey": "official/maps/aatm/map-0.03.nevervault.jpg",
+          "tokenScale": 0.020572916666666666
+        },
+        {
+          "name": "Nevervault",
+          "description": "(Player Version)",
+          "order": 6,
+          "imageKey": "official/maps/aatm/map-0.03.nevervault-player.jpg",
+          "tokenScale": 0.020572916666666666
+        },
+        {
+          "name": "Factol Skall’s Orrery",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/aatm/map-0.04.factol-skalls-orrery.jpg",
+          "tokenScale": 0.016176470588235296
+        },
+        {
+          "name": "Path of Graves",
+          "description": "(DM Version)",
+          "order": 8,
+          "imageKey": "official/maps/aatm/map-0.05.path-of-graves.jpg",
+          "tokenScale": 0.012647058823529412
+        },
+        {
+          "name": "Path of Graves",
+          "description": "(Player Version)",
+          "order": 9,
+          "imageKey": "official/maps/aatm/map-0.05.path-of-graves-player.jpg",
+          "tokenScale": 0.012647058823529412
+        }
+      ]
+    }
+  ]
+}

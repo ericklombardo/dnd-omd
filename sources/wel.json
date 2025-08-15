@@ -1,0 +1,526 @@
+{
+  "type": "adventure",
+  "name": "WEL",
+  "description": "Where Evil Lives",
+  "backgroundImageKey": "official/covers/wel.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Jagged Edge Hideaway",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Jagged Edge Hideaway Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-2.01-jagged-edge-hideaway-map.jpg",
+          "tokenScale": 0.04325
+        },
+        {
+          "name": "Jagged Edge Hideaway Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-2.01-jagged-edge-hideaway-map-player.jpg",
+          "tokenScale": 0.04325
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Hanging Tree",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Hanging Tree Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-3.01-hanging-tree-map.jpg",
+          "tokenScale": 0.020694444444444435
+        },
+        {
+          "name": "Hanging Tree Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-3.01-hanging-tree-map-player.jpg",
+          "tokenScale": 0.020694444444444435
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Shtriga Nonna’s Hut",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Shtriga Nonna’s Hut Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-4.01-shtriga-nonnas-hut-map.jpg",
+          "tokenScale": 0.0295
+        },
+        {
+          "name": "Shtriga Nonna’s Hut Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-4.01-shtriga-nonnas-hut-map-player.jpg",
+          "tokenScale": 0.0295
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Burnock Mill",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Burnock Mill Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-5.01-burnock-mill-map.jpg",
+          "tokenScale": 0.023124999999999996
+        },
+        {
+          "name": "Burnock Mill Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-5.01-burnock-mill-map-player.jpg",
+          "tokenScale": 0.023124999999999996
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Camp Firefield",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Camp Firefield Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-6.01-camp-firefield-map.jpg",
+          "tokenScale": 0.019218749999999996
+        },
+        {
+          "name": "Camp Firefield Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-6.01-camp-firefield-map-player.jpg",
+          "tokenScale": 0.019218749999999996
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Shifting Library",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Shifting Library Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-7.01-shifting-library-map.jpg",
+          "tokenScale": 0.020499999999999994
+        },
+        {
+          "name": "Shifting Library Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-7.01-shifting-library-map-player.jpg",
+          "tokenScale": 0.020499999999999994
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Cloud Fang Keep",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Cloud Fang Keep Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-8.01-cloud-fang-keep-map.jpg",
+          "tokenScale": 0.03525
+        },
+        {
+          "name": "Cloud Fang Keep Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-8.01-cloud-fang-keep-map-player.jpg",
+          "tokenScale": 0.03525
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Molten Enclave",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Molten Enclave Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-9.01-molten-enclave-map.jpg",
+          "tokenScale": 0.013375
+        },
+        {
+          "name": "Molten Enclave Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-9.01-molten-enclave-map-player.jpg",
+          "tokenScale": 0.013375
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Ruins of Wrathrock",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Ruins of Wrathrock Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-10.01-ruins-of-wrathrock-map.jpg",
+          "tokenScale": 0.014625
+        },
+        {
+          "name": "Ruins of Wrathrock Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-10.01-ruins-of-wrathrock-map-player.jpg",
+          "tokenScale": 0.014625
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "The White Tower",
+      "order": 10,
+      "maps": [
+        {
+          "name": "The White Tower Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-11.01-the-white-tower-map.jpg",
+          "tokenScale": 0.020375
+        },
+        {
+          "name": "The White Tower Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-11.01-the-white-tower-map-player.jpg",
+          "tokenScale": 0.020375
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Canyon of the Tower Crown",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Canyon of the Tower Crown Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-12.01-canyon-of-the-tower-crown-map.jpg",
+          "tokenScale": 0.021718749999999995
+        },
+        {
+          "name": "Canyon of the Tower Crown Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-12.01-canyon-of-the-tower-crown-map-player.jpg",
+          "tokenScale": 0.021718749999999995
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Tomb of the Keeper",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Tomb of the Keeper Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-13.01-tomb-of-the-keeper-map.jpg",
+          "tokenScale": 0.018437499999999996
+        },
+        {
+          "name": "Tomb of the Keeper Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-13.01-tomb-of-the-keeper-map-player.jpg",
+          "tokenScale": 0.018437499999999996
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Terminal Excrescence",
+      "order": 13,
+      "maps": [
+        {
+          "name": "S1. Body Ball Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-14.01-s1-body-ball-map.jpg",
+          "tokenScale": 0.016578947368421044
+        },
+        {
+          "name": "S1. Body Ball Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-14.01-s1-body-ball-map-player.jpg",
+          "tokenScale": 0.016578947368421044
+        },
+        {
+          "name": "S2. Cold Storage Map",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/wel/map-14.02-s2-cold-storage-map.jpg",
+          "tokenScale": 0.0365
+        },
+        {
+          "name": "S2. Cold Storage Map",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/wel/map-14.02-s2-cold-storage-map-player.jpg",
+          "tokenScale": 0.0365
+        },
+        {
+          "name": "S3. Experimentation Chamber Map",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/wel/map-14.03-s3-experimentation-chamber-map.jpg",
+          "tokenScale": 0.02916666666666666
+        },
+        {
+          "name": "S3. Experimentation Chamber Map",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/wel/map-14.03-s3-experimentation-chamber-map-player.jpg",
+          "tokenScale": 0.02916666666666666
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Eighth City Advocacy Services",
+      "order": 14,
+      "maps": [
+        {
+          "name": "Eighth City Advocacy Services Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-15.01-eighth-city-advocacy-services-map.jpg",
+          "tokenScale": 0.016578947368421044
+        },
+        {
+          "name": "Eighth City Advocacy Services Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-15.01-eighth-city-advocacy-services-map-player.jpg",
+          "tokenScale": 0.016578947368421044
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Shadowkeep",
+      "order": 15,
+      "maps": [
+        {
+          "name": "Shadowkeep Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-16.01-shadowkeep-map.jpg",
+          "tokenScale": 0.015125
+        },
+        {
+           "name": "Shadowkeep Map",
+           "description": "(Player version)",
+           "order": 2,
+           "imageKey": "official/maps/wel/map-16.01-shadowkeep-map-player.jpg",
+           "tokenScale": 0.01960784313725489
+         }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Durixaviinox’s Rest",
+      "order": 16,
+      "maps": [
+        {
+          "name": "Durixaviinox’s Rest Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-17.01-durixaviinoxs-rest-map.jpg",
+          "tokenScale": 0.017375
+        },
+        {
+          "name": "Durixaviinox’s Rest Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-17.01-durixaviinoxs-rest-map-player.jpg",
+          "tokenScale": 0.017375
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Coronal Hollow",
+      "order": 17,
+      "maps": [
+        {
+          "name": "Coronal Hollow Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-18.01-coronal-hollow-map.jpg",
+          "tokenScale": 0.016375
+        },
+        {
+          "name": "Coronal Hollow Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-18.01-coronal-hollow-map-player.jpg",
+          "tokenScale": 0.016375
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Eyes of the Mountain",
+      "order": 18,
+      "maps": [
+        {
+          "name": "Eyes of the Mountain Levels 1 and 2 Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-19.01-eyes-of-the-mountain-levels-1-and-2-map.jpg",
+          "tokenScale": 0.01736842105263157
+        },
+        {
+          "name": "Eyes of the Mountain Levels 1 and 2 Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-19.01-eyes-of-the-mountain-levels-1-and-2-map-player.jpg",
+          "tokenScale": 0.01736842105263157
+        },
+        {
+          "name": "Eyes of the Mountain Level 3 Map",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/wel/map-19.02-eyes-of-the-mountain-level-3-map.jpg",
+          "tokenScale": 0.019861111111111104
+        },
+        {
+          "name": "Eyes of the Mountain Level 3 Map",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/wel/map-19.02-eyes-of-the-mountain-level-3-map-player.jpg",
+          "tokenScale": 0.019861111111111104
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Glass Cavern",
+      "order": 19,
+      "maps": [
+        {
+          "name": "Glass Cavern Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-20.01-glass-cavern-map.jpg",
+          "tokenScale": 0.016375
+        },
+        {
+          "name": "Glass Cavern Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-20.01-glass-cavern-map-player.jpg",
+          "tokenScale": 0.016375
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Mount Brazen",
+      "order": 20,
+      "maps": [
+        {
+          "name": "Mount Brazen Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-21.01-mount-brazen-map.jpg",
+          "tokenScale": 0.019999999999999993
+        },
+        {
+          "name": "Mount Brazen Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-21.01-mount-brazen-map-player.jpg",
+          "tokenScale": 0.019999999999999993
+        },
+        {
+          "name": "Volcanic Crater Map",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/wel/map-21.02-volcanic-crater-map.jpg",
+          "tokenScale": 0.01973684210526315
+        },
+        {
+          "name": "Volcanic Crater Map",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/wel/map-21.02-volcanic-crater-map-player.jpg",
+          "tokenScale": 0.01973684210526315
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Ash Queen’s Reliquary",
+      "order": 21,
+      "maps": [
+        {
+          "name": "Ash Queen’s Reliquary Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-22.01-ash-queens-reliquary-map.jpg",
+          "tokenScale": 0.022361111111111102
+        },
+        {
+          "name": "Ash Queen’s Reliquary Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-22.01-ash-queens-reliquary-map-player.jpg",
+          "tokenScale": 0.022361111111111102
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Boughs of Eternity",
+      "order": 22,
+      "maps": [
+        {
+          "name": "Boughs of Eternity Map",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wel/map-23.01-boughs-of-eternity-map.jpg",
+          "tokenScale": 0.01425
+        },
+        {
+          "name": "Boughs of Eternity Map",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wel/map-23.01-boughs-of-eternity-map-player.jpg",
+          "tokenScale": 0.01425
+        }
+      ]
+    }
+  ]
+}

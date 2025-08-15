@@ -1,0 +1,589 @@
+{
+  "type": "adventure",
+  "name": "CoS",
+  "description": "Curse of Strahd",
+  "backgroundImageKey": "official/covers/cos.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 2: The Lands of Barovia",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Barovia",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-2.02-barovia.jpg",
+          "tokenScale": 0.008650519031141866
+        },
+        {
+          "name": "Barovia ",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-2.02-barovia-player.jpg",
+          "tokenScale": 0.008650519031141866
+        },
+        {
+          "name": "Tser Pool Encampment",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-2.03-tser.jpg",
+          "tokenScale": 0.03411764705882353
+        },
+        {
+          "name": "Tser Pool Encampment",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-2.03-tser-player.jpg",
+          "tokenScale": 0.03411764705882353
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 3: The Village of Barovia",
+      "order": 2,
+      "maps": [
+        {
+          "name": "The Village of Barovia",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-3.01-barovia-village.jpg",
+          "tokenScale": 0.011764705882352941
+        },
+        {
+          "name": "The Village of Barovia",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-3.01-barovia-village-player.jpg",
+          "tokenScale": 0.011764705882352941
+        },
+        {
+          "name": "Church",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-3.02-church.jpg",
+          "tokenScale": 0.03019607843137254
+        },
+        {
+          "name": "Church",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-3.02-church-player.jpg",
+          "tokenScale": 0.03019607843137254
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 4: Castle Ravenloft",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Walls of Ravenloft",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-4.02-walls.jpg",
+          "tokenScale": 0.0109375
+        },
+        {
+          "name": "Walls of Ravenloft",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-4.02-walls-player.jpg",
+          "tokenScale": 0.0109375
+        },
+        {
+          "name": "Main Floor",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-4.03-main-floor.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Main Floor",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-4.03-main-floor-player.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Court of the Count",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/cos/map-4.04-court-revised.jpg",
+          "tokenScale": 0.014688249400479613
+        },
+        {
+          "name": "Court of the Count",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/cos/map-4.04-court-player-revised.jpg",
+          "tokenScale": 0.014688249400479613
+        },
+        {
+          "name": "Rooms of Weeping",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/cos/map-4.05-weeping.jpg",
+          "tokenScale": 0.01606060606060606
+        },
+        {
+          "name": "Rooms of Weeping",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/cos/map-4.05-weeping-player.jpg",
+          "tokenScale": 0.01606060606060606
+        },
+        {
+          "name": "Spires of Ravenloft",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/cos/map-4.06-spires12.jpg",
+          "tokenScale": 0.00925
+        },
+        {
+          "name": "Spires of Ravenloft",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/cos/map-4.06-spires12-player.jpg",
+          "tokenScale": 0.00925
+        },
+        {
+          "name": "Larders of Ill Omen",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/cos/map-4.08-larders.jpg",
+          "tokenScale": 0.018
+        },
+        {
+          "name": "Larders of Ill Omen",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/cos/map-4.08-larders-player.jpg",
+          "tokenScale": 0.018
+        },
+        {
+          "name": "Dungeon and Catacombs",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/cos/map-4.09-dungeons-and-catacombs.jpg",
+          "tokenScale": 0.014999999999999998
+        },
+        {
+          "name": "Dungeon and Catacombs",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/cos/map-4.09-dungeons-and-catacombs-player.jpg",
+          "tokenScale": 0.014999999999999998
+        },
+        {
+          "name": "Area K73",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/cos/map-4.09-K73.jpg",
+          "tokenScale": 0.072
+        },
+        {
+          "name": "Area K73",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/cos/map-4.09-K73-player.jpg",
+          "tokenScale": 0.072
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 5: The Town of Vallaki",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Vallaki",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-5.01-vallaki.jpg",
+          "tokenScale": 0.009333333333333334
+        },
+        {
+          "name": "Vallaki",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-5.01-vallaki-player.jpg",
+          "tokenScale": 0.009333333333333334
+        },
+        {
+          "name": "Blue Water Inn",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-5.02-inn.jpg",
+          "tokenScale": 0.031
+        },
+        {
+          "name": "Blue Water Inn",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-5.02-inn-player.jpg",
+          "tokenScale": 0.031
+        },
+        {
+          "name": "Burgomaster’s Mansion",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/cos/map-5.03-mansion.jpg",
+          "tokenScale": 0.02666666666666667
+        },
+        {
+          "name": "Burgomaster’s Mansion",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/cos/map-5.03-mansion-player.jpg",
+          "tokenScale": 0.02666666666666667
+        },
+        {
+          "name": "Wachterhaus",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/cos/map-5.04-wachterhaus.jpg",
+          "tokenScale": 0.032
+        },
+        {
+          "name": "Wachterhaus",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/cos/map-5.04-wachterhaus-player.jpg",
+          "tokenScale": 0.032
+        },
+        {
+          "name": "Coffin Maker’s Shop",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/cos/map-5.05-coffin-shop.jpg",
+          "tokenScale": 0.03761904761904762
+        },
+        {
+          "name": "Coffin Maker’s Shop",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/cos/map-5.05-coffin-shop-player.jpg",
+          "tokenScale": 0.03761904761904762
+        },
+        {
+          "name": "Vistani Camp",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/cos/map-5.06-vistani.jpg",
+          "tokenScale": 0.013333333333333334
+        },
+        {
+          "name": "Vistani Camp",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/cos/map-5.06-vistani-player.jpg",
+          "tokenScale": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 6: Old Bonegrinder",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Old Bonegrinder",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-6.01-bone.jpg",
+          "tokenScale": 0.03571428571428571
+        },
+        {
+          "name": "Old Bonegrinder",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-6.01-bone-player.jpg",
+          "tokenScale": 0.03571428571428571
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 7: Argynvostholt",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Argynvostholt (Ground and 1st Floor)",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-7.01-argynostholt1.jpg",
+          "tokenScale": 0.014583333333333334
+        },
+        {
+          "name": "Argynvostholt (Ground and 1st Floor)",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-7.01-argynostholt1-player.jpg",
+          "tokenScale": 0.014583333333333334
+        },
+        {
+          "name": "Argynvostholt (2nd and 3rd Floor)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-7.02-argynostholt2.jpg",
+          "tokenScale": 0.014583333333333334
+        },
+        {
+          "name": "Argynvostholt (2nd and 3rd Floor)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-7.02-argynostholt2-player.jpg",
+          "tokenScale": 0.014583333333333334
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chapter 8: The Village of Krezk",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Krezk",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-8.01-krezk.jpg",
+          "tokenScale": 0.009
+        },
+        {
+          "name": "Krezk",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-8.01-krezk-player.jpg",
+          "tokenScale": 0.009
+        },
+        {
+          "name": "Abbey of Saint Markovia (Ground Floor)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-8.02-abby-ground.jpg",
+          "tokenScale": 0.014074074074074074
+        },
+        {
+          "name": "Abbey of Saint Markovia (Ground Floor)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-8.02-abby-ground-player.jpg",
+          "tokenScale": 0.014074074074074074
+        },
+        {
+          "name": "Abbey of Saint Markovia (Upper Floor and Cellar)",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/cos/map-8.02-abby-upper-cellar.jpg",
+          "tokenScale": 0.014
+        },
+        {
+          "name": "Abbey of Saint Markovia (Upper Floor and Cellar)",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/cos/map-8.02-abby-upper-cellar-player.jpg",
+          "tokenScale": 0.014
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chapter 9: Tsolenka Pass",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Tsolenka Pass",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-9.01-tsolenka.jpg",
+          "tokenScale": 0.014285714285714285
+        },
+        {
+          "name": "Tsolenka Pass",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-9.01-tsolenka-player.jpg",
+          "tokenScale": 0.014285714285714285
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chapter 10: The Ruins of Berez",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Ruins of Berez",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-10.01-berez.jpg",
+          "tokenScale": 0.013888888888888886
+        },
+        {
+          "name": "Ruins of Berez",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-10.01-berez-player.jpg",
+          "tokenScale": 0.013888888888888886
+        },
+        {
+          "name": "Baba Lysaga’s Creeping Hut",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-10.02-hut.jpg",
+          "tokenScale": 0.07999999999999996
+        },
+        {
+          "name": "Baba Lysaga’s Creeping Hut",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-10.02-hut-player.jpg",
+          "tokenScale": 0.07999999999999996
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Chapter 11: Van Richten’s Tower",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Van Richten’s Tower",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-11.01-tower.jpg",
+          "tokenScale": 0.06222222222222219
+        },
+        {
+          "name": "Van Richten’s Tower",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-11.01-tower-player.jpg",
+          "tokenScale": 0.06222222222222219
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Chapter 12: The Wizard of Wines",
+      "order": 11,
+      "maps": [
+        {
+          "name": "Wizard of Wines Winery",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-12.01-winery.jpg",
+          "tokenScale": 0.028666666666666667
+        },
+        {
+          "name": "Wizard of Wines Winery",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-12.01-winery-player.jpg",
+          "tokenScale": 0.028666666666666667
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Chapter 13: The Amber Temple",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Amber Temple (Upper)",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-13.01-amber-temple-upper.jpg",
+          "tokenScale": 0.01611111111111111
+        },
+        {
+          "name": "Amber Temple (Upper)",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-13.01-amber-temple-upper-player.jpg",
+          "tokenScale": 0.01611111111111111
+        },
+        {
+          "name": "Amber Temple (Lower)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cos/map-13.02-amber-temple-lower.jpg",
+          "tokenScale": 0.015
+        },
+        {
+          "name": "Amber Temple (Lower)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cos/map-13.02-amber-temple-lower-player.jpg",
+          "tokenScale": 0.015
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Chapter 14: Yester Hill",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Yester Hill",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-14.01-yester.jpg",
+          "tokenScale": 0.009166666666666665
+        },
+        {
+          "name": "Yester Hill",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-14.01-yester-player.jpg",
+          "tokenScale": 0.009166666666666665
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Chapter 15: Werewolf Den",
+      "order": 14,
+      "maps": [
+        {
+          "name": "Werewolf Den",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-15.01-werewolf.jpg",
+          "tokenScale": 0.015555555555555555
+        },
+        {
+          "name": "Werewolf Den",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-15.01-werewolf-player.jpg",
+          "tokenScale": 0.015555555555555555
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Appendix B: Death House",
+      "order": 15,
+      "maps": [
+        {
+          "name": "Death House",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cos/map-16.01-death-house.jpg",
+          "tokenScale": 0.030666666666666665
+        },
+        {
+          "name": "Death House",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cos/map-16.01-death-house-player.jpg",
+          "tokenScale": 0.030666666666666665
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+    "type": "mappack",
+    "name": "CZMP3",
+    "description": "Czepeku: Celestial Gate",
+    "backgroundImageKey": "official/covers/czmp3.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Celestial Gate",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Astral",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp3/map-01.01-g-celestial-gate-astral.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Astral",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp3/map-01.01-gl-celestial-gate-astral.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Astral Well Day",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp3/map-01.02-g-celestial-gate-astralwell-day.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Astral Well Day",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp3/map-01.02-gl-celestial-gate-astralwell-day.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Astral Well Night",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp3/map-01.03-g-celestial-gate-astralwell-night.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Astral Well Night",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp3/map-01.03-gl-celestial-gate-astralwell-night.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Autumn",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp3/map-01.04-g-celestial-gate-autumn.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Autumn",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp3/map-01.04-gl-celestial-gate-autumn.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Constellation",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp3/map-01.05-g-celestial-gate-constellation.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Constellation",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp3/map-01.05-gl-celestial-gate-constellation.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Desert",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp3/map-01.06-g-celestial-gate-desert.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Desert",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp3/map-01.06-gl-celestial-gate-desert.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Desert Activated",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp3/map-01.07-g-celestial-gate-desert-activated.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Desert Activated",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp3/map-01.07-gl-celestial-gate-desert-activated.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Flooded",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp3/map-01.08-g-celestial-gate-flooded.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Flooded",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp3/map-01.08-gl-celestial-gate-flooded.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Frozen",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp3/map-01.09-g-celestial-gate-frozen.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Frozen",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp3/map-01.09-gl-celestial-gate-frozen.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Hell",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp3/map-01.10-g-celestial-gate-hell.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Hell",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp3/map-01.10-gl-celestial-gate-hell.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Neon",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp3/map-01.11-g-celestial-gate-neon.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Neon",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp3/map-01.11-gl-celestial-gate-neon.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp3/map-01.12-g-celestial-gate-original-day.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp3/map-01.12-gl-celestial-gate-original-day.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp3/map-01.13-g-celestial-gate-original-night.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp3/map-01.13-gl-celestial-gate-original-night.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+         {
+            "name": "Projection",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp3/map-01.14-g-celestial-gate-projection.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Projection",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp3/map-01.14-gl-celestial-gate-projection.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Rain",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp3/map-01.15-g-celestial-gate-rain.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Rain",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp3/map-01.15-gl-celestial-gate-rain.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sacrificial Altar",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp3/map-01.16-g-celestial-gate-sacrificialaltar.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sacrificial Altar",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp3/map-01.16-gl-celestial-gate-sacrificialaltar.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp3/map-01.17-g-celestial-gate-spring.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp3/map-01.17-gl-celestial-gate-spring.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Summer",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp3/map-01.18-g-celestial-gate-summer.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Summer",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp3/map-01.18-gl-celestial-gate-summer.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Coloured Portal",
+            "description": "(with grid)",
+            "order": 37,
+            "imageKey": "official/maps/czmp/czmp3/map-01.19-g-celestial-gate-sword-colouredportal.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Coloured Portal",
+            "description": "(without grid)",
+            "order": 38,
+            "imageKey": "official/maps/czmp/czmp3/map-01.19-gl-celestial-gate-sword-colouredportal.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Day",
+            "description": "(with grid)",
+            "order": 39,
+            "imageKey": "official/maps/czmp/czmp3/map-01.20-g-celestial-gate-sword-day.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Day",
+            "description": "(without grid)",
+            "order": 40,
+            "imageKey": "official/maps/czmp/czmp3/map-01.20-gl-celestial-gate-sword-day.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Night",
+            "description": "(with grid)",
+            "order": 41,
+            "imageKey": "official/maps/czmp/czmp3/map-01.21-g-celestial-gate-sword-night.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Night",
+            "description": "(without grid)",
+            "order": 42,
+            "imageKey": "official/maps/czmp/czmp3/map-01.21-gl-celestial-gate-sword-night.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Open Portal",
+            "description": "(with grid)",
+            "order": 43,
+            "imageKey": "official/maps/czmp/czmp3/map-01.22-g-celestial-gate-sword-openportal.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Sword Open Portal",
+            "description": "(without grid)",
+            "order": 44,
+            "imageKey": "official/maps/czmp/czmp3/map-01.22-gl-celestial-gate-sword-openportal.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "True Gate",
+            "description": "(with grid)",
+            "order": 45,
+            "imageKey": "official/maps/czmp/czmp3/map-01.23-g-celestial-gate-truegate.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "True Gate",
+            "description": "(without grid)",
+            "order": 46,
+            "imageKey": "official/maps/czmp/czmp3/map-01.23-gl-celestial-gate-truegate.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Void",
+            "description": "(with grid)",
+            "order": 47,
+            "imageKey": "official/maps/czmp/czmp3/map-01.24-g-celestial-gate-void.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Void",
+            "description": "(without grid)",
+            "order": 48,
+            "imageKey": "official/maps/czmp/czmp3/map-01.24-gl-celestial-gate-void.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Warp",
+            "description": "(with grid)",
+            "order": 49,
+            "imageKey": "official/maps/czmp/czmp3/map-01.25-g-celestial-gate-warp.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Warp",
+            "description": "(without grid)",
+            "order": 50,
+            "imageKey": "official/maps/czmp/czmp3/map-01.25-gl-celestial-gate-warp.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Winter",
+            "description": "(with grid)",
+            "order": 51,
+            "imageKey": "official/maps/czmp/czmp3/map-01.26-g-celestial-gate-winter.jpg",
+            "tokenScale": 0.02987145637803772
+          },
+          {
+            "name": "Winter",
+            "description": "(without grid)",
+            "order": 52,
+            "imageKey": "official/maps/czmp/czmp3/map-01.26-gl-celestial-gate-winter.jpg",
+            "tokenScale": 0.02987145637803772
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,198 @@
+{
+  "type": "sourcebook",
+  "name": "modr",
+  "description": "Monsters of Drakkenheim",
+  "backgroundImageKey": "official/covers/modr.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Drakkenheim City",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/modr/map-00.01-drakkenheim-city.jpg",
+          "tokenScale": 0.014438348252959856
+        },
+        {
+          "name": "Drakkenheim City",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/modr/map-00.02-drakkenheim-city-player.jpg",
+          "tokenScale": 0.014438348252959856
+        },
+        {
+            "name": "The Continent",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/modr/map-09.01-the-continent.jpg",
+            "tokenScale": 0.012475049900199599
+          },
+        {
+            "name": "The Continent",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/modr/map-09.02-the-continent-player.jpg",
+            "tokenScale": 0.012475049900199599
+          }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Horrors of Drakkenheim",
+      "order": 2,
+      "maps": [
+        {
+            "name": "Drann River Waterfront",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-01.01-drann-river-waterfront.jpg",
+            "tokenScale": 0.03173828125
+          },
+          {
+            "name": "Queen’s Park Garden",
+            "description": "(DM version)",
+            "order": 2,
+            "imageKey": "official/maps/modr/map-01.02-the-queens-park-garden.jpg",
+            "tokenScale": 0.01627604166666666
+          },
+          {
+            "name": "Queen’s Park Garden",
+            "description": "(Player version)",
+            "order": 3,
+            "imageKey": "official/maps/modr/map-01.03-the-queens-park-garden-player.jpg",
+            "tokenScale": 0.01627604166666666
+          },
+          {
+            "name": "Fountain of Beauty",
+            "description": "",
+            "order": 4,
+            "imageKey": "official/maps/modr/map-01.04-fountain-of-beauty.jpg",
+            "tokenScale": 0.04651988636363636
+          },
+          {
+            "name": "Living City Bottom Floor",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/modr/map-01.05-living-city-bottom-floor.jpg",
+            "tokenScale": 0.03173828125
+          },
+          {
+            "name": "Living City Top Floor",
+            "description": "",
+            "order": 6,
+            "imageKey": "official/maps/modr/map-01.06-living-city-top-floor.jpg",
+            "tokenScale": 0.03173828125
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Delerium Dregs",
+      "order": 3,
+      "maps": [
+        {
+            "name": "Inner City Street",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-02.01-inner-city-street.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ratlings",
+      "order": 4,
+      "maps": [
+        {
+            "name": "Ratling Sewer Burrows",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-03.01-ratling-sewer-burrows.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Predators of the Ruins",
+      "order": 5,
+      "maps": [
+        {
+            "name": "Garmyr War Camp",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-04.01-garmyr-war-camp.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Apothecary Abominations",
+      "order": 6,
+      "maps": [
+        {
+            "name": "Apothecary Lab",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-05.01-the-apothecary-lab.jpg",
+            "tokenScale": 0.04616477272727273
+          },
+        {
+            "name": "Apothecary Lab",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/modr/map-05.02-the-apothecary-lab-player.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Court of the Night",
+      "order": 7,
+      "maps": [
+        {
+            "name": "Crypt",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-06.01-crypt.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Trolls",
+      "order": 8,
+      "maps": [
+        {
+            "name": "Troll Hag Hut",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-07.01-troll-hag-hut.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Dwellers of the Space Between Worlds",
+      "order": 9,
+      "maps": [
+        {
+            "name": "Space Between Worlds",
+            "description": "",
+            "order": 1,
+            "imageKey": "official/maps/modr/map-08.01-space-between-worlds.jpg",
+            "tokenScale": 0.04616477272727273
+          }
+      ]
+    }
+  ]
+}

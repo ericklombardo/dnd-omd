@@ -1,0 +1,29 @@
+{
+  "type": "adventure",
+  "name": "GotSF",
+  "description": "Giants of the Star Forge",
+  "backgroundImageKey": "official/covers/GotSF Maps Cover2.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Giants of the Star Forge",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Star Forge",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/gotsf/map-0.01-star-forge.jpg",
+          "tokenScale": 0.006904761904761905
+        },
+        {
+          "name": "Star Forge",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/gotsf/map-0.01-star-forge-player.jpg",
+          "tokenScale": 0.006904761904761905
+        }
+      ]
+    }
+  ]
+}

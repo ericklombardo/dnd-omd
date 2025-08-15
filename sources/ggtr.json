@@ -1,0 +1,225 @@
+{
+  "type": "sourcebook",
+  "name": "GGtR",
+  "description": "Guildmasters’ Guide to Ravnica",
+  "backgroundImageKey": "official/covers/ggtr.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "The Tenth District",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Tenth District",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/ggtr/map-3-01.tenth-district.png",
+          "tokenScale": 0.0068653376729048005
+        },
+        {
+          "name": "Precinct One",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/ggtr/map-3-02.precinct-one.png",
+          "tokenScale": 0.009733753220727169
+        },
+        {
+          "name": "Precinct Two",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/ggtr/map-3-04.precinct-two.png",
+          "tokenScale": 0.009733753220727169
+        },
+        {
+          "name": "Precinct Three",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/ggtr/map-3-03.precinct-three.png",
+          "tokenScale": 0.009733753220727169
+        },
+        {
+          "name": "Precinct Four",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/ggtr/map-3-05.precinct-four.png",
+          "tokenScale": 0.009733753220727169
+        },
+        {
+          "name": "Precinct Five",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/ggtr/map-3-06.precinct-five.png",
+          "tokenScale": 0.009733753220727169
+        },
+        {
+          "name": "Precinct Six",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/ggtr/map-3-07.precinct-six.png",
+          "tokenScale": 0.009733753220727169
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Creating Adventures",
+      "order": 2,
+      "maps": [
+        {
+            "name": "Arrester Station",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ggtr/map-4-01.arrester-station.jpg",
+            "tokenScale": 0.014755684567005321
+          },
+          {
+            "name": "Arrester Station",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ggtr/map-4-01.arrester-station-player.jpg",
+            "tokenScale": 0.014755684567005321
+          },
+          {
+            "name": "Legion Garrison",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/ggtr/map-4-02.legion-garrison.jpg",
+            "tokenScale": 0.01748529645525353
+          },
+          {
+            "name": "Legion Garrison",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/ggtr/map-4-02.legion-garrison-player.jpg",
+            "tokenScale": 0.01748529645525353
+          },
+          {
+            "name": "Safe House",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/ggtr/map-4-03.safe-house.jpg",
+            "tokenScale": 0.021196581196581195
+          },
+          {
+            "name": "Safe House",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/ggtr/map-4-03.safe-house-player.jpg",
+            "tokenScale": 0.021196581196581195
+          },
+          {
+            "name": "Undercity Mansion",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/ggtr/map-4-04.undercity-mansion.jpg",
+            "tokenScale": 0.01700260523789935
+          },
+          {
+            "name": "Undercity Mansion",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/ggtr/map-4-04.undercity-mansion-player.jpg",
+            "tokenScale": 0.01700260523789935
+          },
+          {
+            "name": "Rubblebelt Encampment",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/ggtr/map-4-05.rubblebelt.jpg",
+            "tokenScale": 0.01896296296296296
+          },
+          {
+            "name": "Rubblebelt Encampment",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/ggtr/map-4-05.rubblebelt-player.jpg",
+            "tokenScale": 0.01896296296296296
+          },
+          {
+            "name": "Experimental Workshop",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/ggtr/map-4-06.experimental-workshop.jpg",
+            "tokenScale": 0.0206478255258743
+          },
+          {
+            "name": "Experimental Workshop",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/ggtr/map-4-06.experimental-workshop-player.jpg",
+            "tokenScale": 0.0206478255258743
+          },
+          {
+            "name": "Grand Basilica",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/ggtr/map-4-07.grand-basilica.jpg",
+            "tokenScale": 0.022222222222222216
+          },
+          {
+            "name": "Grand Basilica",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/ggtr/map-4-07.grand-basilica-player.jpg",
+            "tokenScale": 0.022222222222222216
+          },
+          {
+            "name": "Notorious Nightclub",
+            "description": "(DM version)",
+            "order": 15,
+            "imageKey": "official/maps/ggtr/map-4-08.notorious-nightclub.jpg",
+            "tokenScale": 0.021704814522494075
+          },
+          {
+            "name": "Notorious Nightclub",
+            "description": "(Player version)",
+            "order": 16,
+            "imageKey": "official/maps/ggtr/map-4-08.notorious-nightclub-player.jpg",
+            "tokenScale": 0.021704814522494075
+          },
+          {
+            "name": "Vernadi Center",
+            "description": "(DM version)",
+            "order": 17,
+            "imageKey": "official/maps/ggtr/map-4-09.verandi-center.jpg",
+            "tokenScale": 0.01866666666666666
+          },
+          {
+            "name": "Vernadi Center",
+            "description": "(Player version)",
+            "order": 18,
+            "imageKey": "official/maps/ggtr/map-4-09.verandi-center-player.jpg",
+            "tokenScale": 0.01866666666666666
+          },
+          {
+            "name": "Growth Chambers",
+            "description": "(DM version)",
+            "order": 19,
+            "imageKey": "official/maps/ggtr/map-4-10.growth-chamber.jpg",
+            "tokenScale": 0.02044444444444444
+          },
+          {
+            "name": "Growth Chambers",
+            "description": "(Player version)",
+            "order": 20,
+            "imageKey": "official/maps/ggtr/map-4-10.growth-chamber-player.jpg",
+            "tokenScale": 0.02044444444444444
+          },
+          {
+            "name": "Krenko’s Hideout",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/ggtr/map-4-11.krenkos-hideout.jpg",
+            "tokenScale": 0.030666666666666665
+          },
+          {
+            "name": "Krenko’s Hideout",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/ggtr/map-4-11.krenkos-hideout-player.jpg",
+            "tokenScale": 0.030666666666666665
+          }
+      ]
+    }
+  ]
+}

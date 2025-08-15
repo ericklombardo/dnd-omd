@@ -1,0 +1,596 @@
+{
+  "type": "adventure",
+  "name": "IDRotF",
+  "description": "Icewind Dale: Rime of the Frostmaiden",
+  "backgroundImageKey": "official/covers/idrotf.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: Ten-Towns",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Icewind Dale",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/idrotf/map-2.1-icewind-dale.png",
+          "tokenScale": 0.00980392156862745
+        },
+        {
+          "name": "Icewind Dale",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/idrotf/map-2.1-icewind-dale-player.jpg",
+          "tokenScale": 0.00980392156862745
+        },
+        {
+          "name": "Bremen",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/idrotf/map-1.1-bremen.jpg",
+          "tokenScale": 0.015625
+        },
+        {
+          "name": "Bremen",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/idrotf/map-1.1-bremen-player.jpg",
+          "tokenScale": 0.015625
+        },
+        {
+          "name": "Bryn Shander",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/idrotf/map-1.2-bryn-shander.jpg",
+          "tokenScale": 0.004999999999999998
+        },
+        {
+          "name": "Bryn Shander",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/idrotf/map-1.2-bryn-shander-player.jpg",
+          "tokenScale": 0.004999999999999998
+        },
+        {
+          "name": "Caer-Dineval",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/idrotf/map-1.3-caer-dineval.jpg",
+          "tokenScale": 0.01226158038147139
+        },
+        {
+          "name": "Caer-Dineval",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/idrotf/map-1.3-caer-dineval-player.jpg",
+          "tokenScale": 0.01226158038147139
+        },
+        {
+          "name": "Keep at Caer-Dineval",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/idrotf/map-1.4-caer-dineval-keep.jpg",
+          "tokenScale": 0.011071428571428567
+        },
+        {
+          "name": "Keep at Caer-Dineval",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/idrotf/map-1.4-caer-dineval-keep-player.jpg",
+          "tokenScale": 0.011071428571428567
+        },
+        {
+          "name": "Caer-Konig",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/idrotf/map-1.5-caer-konig.jpg",
+          "tokenScale": 0.01056763285024154
+        },
+        {
+          "name": "Caer-Konig",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/idrotf/map-1.5-caer-konig-player.jpg",
+          "tokenScale": 0.01056763285024154
+        },
+        {
+          "name": "Duergar Outpost",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/idrotf/map-1.6-duergar-outpost.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Duergar Outpost",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/idrotf/map-1.6-duergar-outpost-player.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Dougan’s Hole",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/idrotf/map-1.7-dougan.jpg",
+          "tokenScale": 0.017711171662125342
+        },
+        {
+          "name": "Dougan’s Hole",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/idrotf/map-1.7-dougan-player.jpg",
+          "tokenScale": 0.017711171662125342
+        },
+        {
+          "name": "Frost Giant Ice Lodge",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/idrotf/map-1.8-frost-giant.jpg",
+          "tokenScale": 0.01325
+        },
+        {
+          "name": "Frost Giant Ice Lodge",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/idrotf/map-1.8-frost-giant-player.jpg",
+          "tokenScale": 0.01325
+        },
+        {
+          "name": "Easthaven",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/idrotf/map-1.9-easthaven.jpg",
+          "tokenScale": 0.00511111111111111
+        },
+        {
+          "name": "Easthaven",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/idrotf/map-1.9-easthaven-player.jpg",
+          "tokenScale": 0.00511111111111111
+        },
+        {
+          "name": "Cauldron Caves",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/idrotf/map-1.10-cauldron.jpg",
+          "tokenScale": 0.01325
+        },
+        {
+          "name": "Cauldron Caves",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/idrotf/map-1.10-cauldron-player.jpg",
+          "tokenScale": 0.01325
+        },
+        {
+          "name": "Easthaven Town Hall",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/idrotf/map-1.11-easthaven-town-hall.jpg",
+          "tokenScale": 0.02125
+        },
+        {
+          "name": "Easthaven Town Hall",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/idrotf/map-1.11-easthaven-town-hall-player.jpg",
+          "tokenScale": 0.02125
+        },
+        {
+          "name": "Good Mead",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/idrotf/map-1.12-good-mead.jpg",
+          "tokenScale": 0.013205828779599272
+        },
+        {
+          "name": "Good Mead",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/idrotf/map-1.12-good-mead-player.jpg",
+          "tokenScale": 0.013205828779599272
+        },
+        {
+          "name": "Verbeeg Lair",
+          "description": "(DM version)",
+          "order": 27,
+          "imageKey": "official/maps/idrotf/map-1.13-verbeeg-lair.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "Verbeeg Lair",
+          "description": "(Player version)",
+          "order": 28,
+          "imageKey": "official/maps/idrotf/map-1.13-verbeeg-lair-player.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "Lonelywood",
+          "description": "(DM version)",
+          "order": 29,
+          "imageKey": "official/maps/idrotf/map-1.14-lonelywood.jpg",
+          "tokenScale": 0.010914051841746248
+        },
+        {
+          "name": "Lonelywood",
+          "description": "(Player version)",
+          "order": 30,
+          "imageKey": "official/maps/idrotf/map-1.14-lonelywood-player.jpg",
+          "tokenScale": 0.010914051841746248
+        },
+        {
+          "name": "Elven Tomb",
+          "description": "(DM version)",
+          "order": 31,
+          "imageKey": "official/maps/idrotf/map-1.15-elven-tomb.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "Elven Tomb",
+          "description": "(Player version)",
+          "order": 32,
+          "imageKey": "official/maps/idrotf/map-1.15-elven-tomb-player.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "Targos",
+          "description": "(DM version)",
+          "order": 33,
+          "imageKey": "official/maps/idrotf/map-1.16-targos.jpg",
+          "tokenScale": 0.007548309178743958
+        },
+        {
+          "name": "Targos",
+          "description": "(Player version)",
+          "order": 34,
+          "imageKey": "official/maps/idrotf/map-1.16-targos-player.jpg",
+          "tokenScale": 0.007548309178743958
+        },
+        {
+          "name": "Kelvin’s Cairn",
+          "description": "(DM version)",
+          "order": 35,
+          "imageKey": "official/maps/idrotf/map-1.17-kelvins-cairn.jpg",
+          "tokenScale": 0.0265
+        },
+        {
+          "name": "Kelvin’s Cairn",
+          "description": "(Player version)",
+          "order": 36,
+          "imageKey": "official/maps/idrotf/map-1.17-kelvins-cairn-player.jpg",
+          "tokenScale": 0.0265
+        },
+        {
+          "name": "Termalaine",
+          "description": "(DM version)",
+          "order": 37,
+          "imageKey": "official/maps/idrotf/map-1.18-termalaine.jpg",
+          "tokenScale": 0.012295081967213115
+        },
+        {
+          "name": "Termalaine",
+          "description": "(Player version)",
+          "order": 38,
+          "imageKey": "official/maps/idrotf/map-1.18-termalaine-player.jpg",
+          "tokenScale": 0.012295081967213115
+        },
+        {
+          "name": "Gem Mine",
+          "description": "(DM version)",
+          "order": 39,
+          "imageKey": "official/maps/idrotf/map-1.19-gem-mine.jpg",
+          "tokenScale": 0.026
+        },
+        {
+          "name": "Gem Mine",
+          "description": "(Player version)",
+          "order": 40,
+          "imageKey": "official/maps/idrotf/map-1.19-gem-mine-player.jpg",
+          "tokenScale": 0.026
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: Places of Interest",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Angajuk’s Bell",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/idrotf/map-2.2-angajuks-bell.jpg",
+          "tokenScale": 0.052941176470588235
+        },
+        {
+          "name": "Angajuk’s Bell",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/idrotf/map-2.2-angajuks-bell-player.jpg",
+          "tokenScale": 0.052941176470588235
+        },
+        {
+          "name": "Black Cabin",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/idrotf/map-2.3-black-cabin.jpg",
+          "tokenScale": 0.05203619909502263
+        },
+        {
+          "name": "Black Cabin",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/idrotf/map-2.3-black-cabin-player.jpg",
+          "tokenScale": 0.05203619909502263
+        },
+        {
+          "name": "Cackling Chasm",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/idrotf/map-2.4-cackling-chasm.jpg",
+          "tokenScale": 0.052941176470588235
+        },
+        {
+          "name": "Cackling Chasm",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/idrotf/map-2.4-cackling-chasm-player.jpg",
+          "tokenScale": 0.052941176470588235
+        },
+        {
+          "name": "Cave of the Berserkers",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/idrotf/map-2.5-berserkers.jpg",
+          "tokenScale": 0.023076923076923078
+        },
+        {
+          "name": "Cave of the Berserkers",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/idrotf/map-2.5-berserkers-player.jpg",
+          "tokenScale": 0.023076923076923078
+        },
+        {
+          "name": "Dark Duchess",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/idrotf/map-2.6-dark-duchess.jpg",
+          "tokenScale": 0.0265
+        },
+        {
+          "name": "Dark Duchess",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/idrotf/map-2.6-dark-duchess-player.jpg",
+          "tokenScale": 0.0265
+        },
+        {
+          "name": "Id Ascendant",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/idrotf/map-2.7-id-ascendant.jpg",
+          "tokenScale": 0.0265
+        },
+        {
+          "name": "Id Ascendant",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/idrotf/map-2.7-id-ascendant-player.jpg",
+          "tokenScale": 0.0265
+        },
+        {
+          "name": "Jarlmoot",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/idrotf/map-2.8-jarlmoot.jpg",
+          "tokenScale": 0.027149321266968326
+        },
+        {
+          "name": "Jarlmoot",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/idrotf/map-2.8-jarlmoot-player.jpg",
+          "tokenScale": 0.027149321266968326
+        },
+        {
+          "name": "Karkolohk",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/idrotf/map-2.9-karkolohk.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Karkolohk",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/idrotf/map-2.9-karkolohk-player.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Lost Spire of Netheril",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/idrotf/map-2.10-lost-spire.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "Lost Spire of Netheril",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/idrotf/map-2.10-lost-spire-player.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "Reghed Tribe Camp",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/idrotf/map-2.11-reghed-camp.jpg",
+          "tokenScale": 0.024886877828054297
+        },
+        {
+          "name": "Reghed Tribe Camp",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/idrotf/map-2.11-reghed-camp-player.jpg",
+          "tokenScale": 0.024886877828054297
+        },
+        {
+          "name": "Revel’s End",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/idrotf/map-2.12-revels-end.jpg",
+          "tokenScale": 0.011400651465798045
+        },
+        {
+          "name": "Revel’s End",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/idrotf/map-2.12-revels-end-player.jpg",
+          "tokenScale": 0.011400651465798045
+        },
+        {
+          "name": "Skytower Shelter",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/idrotf/map-2.13-skytower-shelter.jpg",
+          "tokenScale": 0.024886877828054297
+        },
+        {
+          "name": "Skytower Shelter",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/idrotf/map-2.13-skytower-shelter-player.jpg",
+          "tokenScale": 0.024886877828054297
+        },
+        {
+          "name": "Wyrmdoom Crag",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/idrotf/map-2.14-wyrmdoom-crag.jpg",
+          "tokenScale": 0.024434389140271493
+        },
+        {
+          "name": "Wyrmdoom Crag",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/idrotf/map-2.14-wyrmdoom-crag-player.jpg",
+          "tokenScale": 0.024434389140271493
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Sunblight",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Sunblight",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/idrotf/map-3.1-sunblight.jpg",
+          "tokenScale": 0.011633317822242901
+        },
+        {
+          "name": "Sunblight",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/idrotf/map-3.1-sunblight-player.jpg",
+          "tokenScale": 0.011633317822242901
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 5: Auril’s Abode",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Island of Solstice",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/idrotf/map-5.1-island-of-solstice.jpg",
+          "tokenScale": 0.0054288816503800215
+        },
+        {
+          "name": "Island of Solstice",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/idrotf/map-5.1-island-of-solstice-player.jpg",
+          "tokenScale": 0.0054288816503800215
+        },
+        {
+          "name": "Grimskalle",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/idrotf/map-5.2-grimskalle.jpg",
+          "tokenScale": 0.011129207383279044
+        },
+        {
+          "name": "Grimskalle",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/idrotf/map-5.2-grimskalle-player.jpg",
+          "tokenScale": 0.011129207383279044
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 6: Caves of Hunger",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Caves of Hunger",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/idrotf/map-6.1-caves-of-hunger.jpg",
+          "tokenScale": 0.012723365754354215
+        },
+        {
+          "name": "Caves of Hunger",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/idrotf/map-6.1-caves-of-hunger-player.jpg",
+          "tokenScale": 0.012723365754354215
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 7: Doom of Ythryn",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Necropolis of Ythryn",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/idrotf/map-7.1-the-necropolis.jpg",
+          "tokenScale": 0.005
+        },
+        {
+          "name": "Necropolis of Ythryn",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/idrotf/map-7.1-the-necropolis-player.jpg",
+          "tokenScale": 0.005
+        },
+        {
+          "name": "Spire of Iriolarthas",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/idrotf/map-7.3-spire-of-iriolarthas.jpg",
+          "tokenScale": 0.012884615384615382
+        },
+        {
+          "name": "Spire of Iriolarthas",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/idrotf/map-7.3-spire-of-iriolarthas-player.jpg",
+          "tokenScale": 0.012884615384615382
+        }
+      ]
+    }
+  ]
+}

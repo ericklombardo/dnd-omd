@@ -1,0 +1,150 @@
+{
+  "type": "basic",
+  "name": "BR",
+  "description": "Basic Maps",
+  "backgroundImageKey": "official/covers/br.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Chapter 1",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Mushroom Cave",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/br/01-Mushroom-Cave.jpg",
+          "tokenScale": 0.04791666666666667
+        },
+        {
+          "name": "Mushroom Cave (Animated)",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/br/01-Mushroom-Cave.png",
+          "videoKey": "official/maps/br/01-Mushroom-Cave.mp4",
+          "tokenScale": 0.04791666666666667
+        },
+        {
+          "name": "Grass Field",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/br/02-Grass-Field.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Grass Field (Animated)",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/br/02-Grass-Field-Rain.png",
+          "videoKey": "official/maps/br/02-Grass-Field-Rain.mp4",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Grass",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/br/03-Grass.jpg",
+          "tokenScale": 0.04861111111111111
+        },
+        {
+          "name": "Grass (Animated)",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/br/03-Grass_rain2.png",
+          "videoKey": "official/maps/br/03-Grass_rain2.mp4",
+          "tokenScale": 0.04861111111111111
+        },
+        {
+          "name": "Wood Floor",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/br/04-Wood-Floor.jpg",
+          "tokenScale": 0.04861111111111111
+        },
+        {
+          "name": "Wood Floor (Animated)",
+          "description": "",
+          "order": 8,
+          "imageKey": "official/maps/br/04-wood.png",
+          "videoKey": "official/maps/br/04-wood.mp4",
+          "tokenScale": 0.04861111111111111
+        },
+        {
+          "name": "Red Sands",
+          "description": "",
+          "order": 9,
+          "imageKey": "official/maps/br/05-Red-Sands.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Red Sands (Animated)",
+          "description": "",
+          "order": 10,
+          "imageKey": "official/maps/br/05-Red-Sands.png",
+          "videoKey": "official/maps/br/05-Red-Sands.mp4",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Snow",
+          "description": "",
+          "order": 11,
+          "imageKey": "official/maps/br/06-Snow.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Snow (Animated)",
+          "description": "",
+          "order": 12,
+          "imageKey": "official/maps/br/06-Snow.png",
+          "videoKey": "official/maps/br/06-Snow_1.mp4",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Water",
+          "description": "",
+          "order": 13,
+          "imageKey": "official/maps/br/07-Water.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Water (Animated)",
+          "description": "",
+          "order": 14,
+          "imageKey": "official/maps/br/07-Water.png",
+          "videoKey": "official/maps/br/07-Water.mp4",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Boat",
+          "description": "",
+          "order": 15,
+          "imageKey": "official/maps/br/08-Boat.jpg",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Boat (Animated)",
+          "description": "",
+          "order": 16,
+          "imageKey": "official/maps/br/08-Boat.png",
+          "videoKey": "official/maps/br/08-Boat_bkp.mp4",
+          "tokenScale": 0.04826388888888889
+        },
+        {
+          "name": "Stone Tiling",
+          "description": "",
+          "order": 17,
+          "imageKey": "official/maps/br/09-Stone-Tiling.jpg",
+          "tokenScale": 0.07604166666666666
+        },
+        {
+          "name": "Stone Tiling (Animated)",
+          "description": "",
+          "order": 18,
+          "imageKey": "official/maps/br/09-Stone-Tiling.png",
+          "videoKey": "official/maps/br/09-Stone-Tiling.mp4",
+          "tokenScale": 0.07604166666666666
+        }
+      ]
+    }
+  ]
+}

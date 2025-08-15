@@ -1,0 +1,190 @@
+{
+  "type": "sourcebook",
+  "name": "HCS",
+  "description": "Humblewood Campaign Setting",
+  "backgroundImageKey": "official/covers/hcs.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 3: Traversing the Wood",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Humblewood",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hcs/map-3.01-humblewood-update.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Humblewood",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hcs/map-3.01-humblewood-player-update.jpg",
+          "tokenScale": 0.011
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 4 - Part 1: The Adventure Begins",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Winnowing Reach",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hcs/map-5.01-winnowing--reach.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Winnowing Reach",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hcs/map-4.01-winnowing-reach-player-update.jpg",
+          "tokenScale": 0.033666666666666664
+        },
+        {
+          "name": "Mokkden Caverns",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/hcs/map-4.02-mokkden-caverns-maps-dm.jpg",
+          "tokenScale": 0.041875
+        },
+        {
+          "name": "Mokkden Caverns",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/hcs/map-4.02-mokkden-caverns-player-update.jpg",
+          "tokenScale": 0.041875
+        },
+        {
+          "name": "Susan’s Hut",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/hcs/map-4.03-susans-hut-maps-dm.jpg",
+          "tokenScale": 0.09129564782391196
+        },
+        {
+          "name": "Susan’s Hut",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/hcs/map-4.03-susans-hut-player-update.jpg",
+          "tokenScale": 0.09129564782391196
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 4 - Part 2: The Bandit Menace",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Alderheart",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hcs/map-6.01-alderheart-update.jpg",
+          "tokenScale": 0.039523809523809524
+        },
+        {
+          "name": "Alderheart",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hcs/map-4.04-alderheart-player-update.jpg",
+          "tokenScale": 0.039523809523809524
+        },
+        {
+          "name": "Eliza’s Emporium",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/hcs/map-4.05-elizas-emporium-update.jpg",
+          "tokenScale": 0.06349999999999999
+        },
+        {
+          "name": "Bandit Camp",
+          "description": "(DM version)",
+          "order": 4,
+          "imageKey": "official/maps/hcs/map-4.06-bandit-camp-maps-dm.jpg",
+          "tokenScale": 0.0635
+        },
+        {
+          "name": "Bandit Camp",
+          "description": "(Player version)",
+          "order": 5,
+          "imageKey": "official/maps/hcs/map-4.06-bandit-camp-player-update.jpg",
+          "tokenScale": 0.0635
+        },
+        {
+          "name": "Inner Keep",
+          "description": "(DM version)",
+          "order": 6,
+          "imageKey": "official/maps/hcs/map-4.07-inner-keep-maps-dm.jpg",
+          "tokenScale": 0.06325
+        },
+        {
+          "name": "Inner Keep",
+          "description": "(Player version)",
+          "order": 7,
+          "imageKey": "official/maps/hcs/map-4.07-inner-keep-player-update.jpg",
+          "tokenScale": 0.06325
+        }
+      ]
+    },
+  {
+    "id": "3",
+    "name": "Chapter 4 - Part 4: Mysteries of the Avium",
+    "order": 4,
+    "maps": [
+        {
+          "name": "The Avium",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hcs/map-4.08-the-avium-update.jpg",
+          "tokenScale": 0.039523809523809524
+        },
+        {
+          "name": "The Avium",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hcs/map-4.08-the-avium-player-update.jpg",
+          "tokenScale": 0.039523809523809524
+        },
+        {
+          "name": "The Secret Laboratory",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/hcs/map-4.09-the-secret-laboratory-maps-dm.jpg",
+          "tokenScale": 0.062083333333333324
+        },
+        {
+          "name": "The Secret Laboratory",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/hcs/map-4.09-the-secret-laboratory-player-update.jpg",
+          "tokenScale": 0.062083333333333324
+        }
+      ]
+    },
+  {
+    "id": "4",
+    "name": "Chapter 4 - Part 5: Of Fate and Flame",
+    "order": 5,
+    "maps": [
+        {
+          "name": "The Final Battle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hcs/map-4.10-the-final-battle-maps-dm.jpg",
+          "tokenScale": 0.04149999999999999
+        },
+        {
+          "name": "The Final Battle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hcs/map-4.10-the-final-battle-player-update.jpg",
+          "tokenScale": 0.04149999999999999
+        }
+      ]
+    }
+  ]
+}

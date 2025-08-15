@@ -1,0 +1,386 @@
+{
+  "type": "adventure",
+  "name": "WDH",
+  "description": "Waterdeep: Dragon Heist",
+  "backgroundImageKey": "official/covers/wdh.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 1: A Friend in Need",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Zhentarim Hideout",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdh/map-1.01-zhentarim-hideout-dock.jpg",
+          "tokenScale": 0.02666666666666667
+        },
+        {
+          "name": "Zhentarim Hideout",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdh/map-1.01-zhentarim-hideout-dock-player.jpg",
+          "tokenScale": 0.029333333333333333
+        },
+        {
+          "name": "Xanathar Guild Hideout",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/wdh/map-1.02-xanathar-guild-hideout.jpg",
+          "tokenScale": 0.028
+        },
+        {
+          "name": "Xanathar Guild Hideout",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/wdh/map-1.02-xanthar-guild-hideout-player.jpg",
+          "tokenScale": 0.03133333333333333
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 2: Trollskull Alley",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Trollskull Alley",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdh/map-2.01-trollskull-alley.jpg",
+          "tokenScale": 0.013
+        },
+        {
+          "name": "Trollskull Alley",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdh/map-2.01-trollskull-alley-player.jpg",
+          "tokenScale": 0.014
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 3: Fireball",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Gralhund Villa",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdh/map-3.01-gralhund-villa.jpg",
+          "tokenScale": 0.022333333333333334
+        },
+        {
+          "name": "Gralhund Villa",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdh/map-3.01-gralhund-villa-player.jpg",
+          "tokenScale": 0.02666666666666667
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 4: Dragon Season",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Encounter 1: Alley",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdh/map-4.01-alley.jpg",
+          "tokenScale": 0.02666666666666667
+        },
+        {
+          "name": "Encounter 1: Alley",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdh/map-4.01-alley-player.jpg",
+          "tokenScale": 0.028333333333333332
+        },
+        {
+          "name": "Encounter 2: Mistshore",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/wdh/map-4.02-mistshore.jpg",
+          "tokenScale": 0.018333333333333333
+        },
+        {
+          "name": "Encounter 2: Mistshore",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/wdh/map-4.02-mistshore-player.jpg",
+          "tokenScale": 0.019
+        },
+        {
+          "name": "Encounter 4: Mausoleuml",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/wdh/map-4.03-mausoleum.jpg",
+          "tokenScale": 0.026
+        },
+        {
+          "name": "Encounter 4: Mausoleum",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/wdh/map-4.03-mausoleum-player.jpg",
+          "tokenScale": 0.029666666666666668
+        },
+        {
+          "name": "Encounter 6: Theater",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/wdh/map-4.04-theater.jpg",
+          "tokenScale": 0.028
+        },
+        {
+          "name": "Encounter 6: Theater",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/wdh/map-4.04-theater-player.jpg",
+          "tokenScale": 0.029333333333333333
+        },
+        {
+          "name": "Encounter 7: Old Tower",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/wdh/map-4.05-old-tower.jpg",
+          "tokenScale": 0.024666666666666667
+        },
+        {
+          "name": "Encounter 7: Old Tower",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/wdh/map-4.05-old-tower-player.jpg",
+          "tokenScale": 0.025
+        },
+        {
+          "name": "Encounter 8: Courthouse",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/wdh/map-4.06-courthouse.jpg",
+          "tokenScale": 0.027
+        },
+        {
+          "name": "Encounter 8: Courthouse",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/wdh/map-4.06-courthouse-player.jpg",
+          "tokenScale": 0.029666666666666668
+        },
+        {
+          "name": "Encounter 9: Cellar Complex",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/wdh/map-4.07-cellar-complex.jpg",
+          "tokenScale": 0.025333333333333333
+        },
+        {
+          "name": "Encounter 9: Cellar Complex",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/wdh/map-4.07-collar-complex-player.jpg",
+          "tokenScale": 0.025666666666666667
+        },
+        {
+          "name": "Encounter 10: Converted Windmill",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/wdh/map-4.08-converted-windmill.jpg",
+          "tokenScale": 0.029
+        },
+        {
+          "name": "Encounter 10: Converted Windmill",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/wdh/map-4.08-converted-windmill-player.jpg",
+          "tokenScale": 0.03
+        },
+        {
+          "name": "Vault of Dragons",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/wdh/map-4.09-vault-of-dragons.jpg",
+          "tokenScale": 0.024666666666666667
+        },
+        {
+          "name": "Vault of Dragons",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/wdh/map-4.09-vault-of-dragons-player.jpg",
+          "tokenScale": 0.026333333333333334
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 5: Spring Madness",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Xanathar's Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/wdh/map-5.01-xanathars-lair.jpg",
+          "tokenScale": 0.011538461538461536
+        },
+        {
+          "name": "Xanathar's Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/wdh/map-5.01-xanathars-lair-player.jpg",
+          "tokenScale": 0.014444444444444442
+        }
+      ]
+    },
+    {
+        "id": "5",
+        "name": "Chapter 6: Hell of a Summer",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Cassalanter Villa",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/wdh/map-6.01-cassalanter-villa.jpg",
+            "tokenScale": 0.015333333333333332
+          },
+          {
+            "name": "Cassalanter Villa",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/wdh/map-6.01-cassalanter-villa-player.jpg",
+            "tokenScale": 0.01633333333333333
+          },
+          {
+            "name": "Temple of Asmodeus",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/wdh/map-6.02-temple-of-asmodeus.jpg",
+            "tokenScale": 0.021333333333333333
+          },
+          {
+            "name": "Temple of Asmodeus",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/wdh/map-6.02-temple-of-asmodeus-player.jpg",
+            "tokenScale": 0.021333333333333333
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Chapter 7: Maestro’s Fall",
+        "order": 7,
+        "maps": [
+          {
+            "name": "Ships of the Sea Maidens Faire",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/wdh/map-7.01-ships-of-the-sea-maidens-faire.jpg",
+            "tokenScale": 0.024333333333333332
+          },
+          {
+            "name": "Ships of the Sea Maidens Faire",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/wdh/map-7.01-ships-of-the-sea-maidens-faire-player.jpg",
+            "tokenScale": 0.024666666666666667
+          },
+          {
+            "name": "Scarlet Marpenoth",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/wdh/map-7.02-scarlet-marpenoth.jpg",
+            "tokenScale": 0.034333333333333334
+          },
+          {
+            "name": "Scarlet Marpenoth",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/wdh/map-7.02-scarlet-marpenoth-player.jpg",
+            "tokenScale": 0.034333333333333334
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Chapter 8: Winter Wizardry",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Kolat Towers",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/wdh/map-8.01-kolat-towers.jpg",
+            "tokenScale": 0.019666666666666666
+          },
+          {
+            "name": "Kolat Towers",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/wdh/map-8.01-kolat-towers-player.jpg",
+            "tokenScale": 0.020666666666666667
+          },
+          {
+            "name": "Extradimensional Sanctum",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/wdh/map-8.02-extradimensional-sanctum.jpg",
+            "tokenScale": 0.028
+          },
+          {
+            "name": "Extradimensional Sanctum",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/wdh/map-8.02-extradimensional-sanctum-player.jpg",
+            "tokenScale": 0.029
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Appendix C: Handouts",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Trollskull Manor and Tavern",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/wdh/map-12-01-trollskull-manor.jpg",
+            "tokenScale": 0.041666666666666664
+          },
+          {
+            "name": "Trollskull Manor and Tavern",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/wdh/map-12-01-trollskull-manor-player.jpg",
+            "tokenScale": 0.04833333333333333
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Poster Map",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Waterdeep",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/wdh/map-13-01-waterdeep.jpg",
+            "tokenScale": 0.0033333333333333335
+          },
+          {
+            "name": "Waterdeep",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/wdh/map-13.01-waterdeep-player.jpg",
+            "tokenScale": 0.0033333333333333335
+          }
+        ]
+      }
+  ]
+}

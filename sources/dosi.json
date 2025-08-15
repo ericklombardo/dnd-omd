@@ -1,0 +1,113 @@
+{
+  "type": "adventure",
+  "name": "DoSI",
+  "description": "Dragons of Stormwreck Isle",
+  "backgroundImageKey": "official/covers/DoSI Maps Cover2.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Running the Adventure",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Stormwreck Isle",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dosi/map-0.01-stormwreck-isle.jpg",
+          "tokenScale": 0.010504201680672266
+        },
+        {
+          "name": "Stormwreck Isle",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dosi/map-0.01-stormwreck-isle-player.jpg",
+          "tokenScale": 0.010504201680672266
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 1: Dragon’s Rest",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Dragon’s Rest",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dosi/map-1.01-dragons-rest.jpg",
+          "tokenScale": 0.018235294117647058
+        },
+        {
+          "name": "Dragon’s Rest",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dosi/map-1.01-dragons-rest-player.jpg",
+          "tokenScale": 0.018235294117647058
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 2: Seagrow Caves",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Seagrow Caves",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dosi/map-2.01-seagrow-caves.jpg",
+          "tokenScale": 0.016176470588235296
+        },
+        {
+          "name": "Seagrow Caves",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dosi/map-2.01-seagrow-caves-player.jpg",
+          "tokenScale": 0.016176470588235296
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 3: Cursed Shipwreck",
+      "order": 4,
+      "maps": [
+        {
+          "name": "The Wreck of the Compass Rose",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dosi/map-3.01-wreck-of-compass-rose.jpg",
+          "tokenScale": 0.018266253869969034
+        },
+        {
+          "name": "The Wreck of the Compass Rose",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dosi/map-3.01-wreck-of-compass-rose-player.jpg",
+          "tokenScale": 0.018266253869969034
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 4: Clifftop Observatory",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Clifftop Observatory",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dosi/map-4.01-clifftop-observatory.jpg",
+          "tokenScale": 0.023161764705882344
+        },
+        {
+          "name": "Clifftop Observatory",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dosi/map-4.01-clifftop-observatory-player.jpg",
+          "tokenScale": 0.023161764705882344
+        }
+      ]
+    }
+  ]
+}

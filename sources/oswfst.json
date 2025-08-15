@@ -1,0 +1,238 @@
+{
+    "type": "adventure",
+    "name": "oswfst",
+    "description": "One-Shot Wonders: 10 Forest One-Shot Adventures",
+    "backgroundImageKey": "official/covers/oswfst.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Curtain Call",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Caravan Camp",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/oswfst/map-01.01-caravan-camp-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          },
+          {
+            "name": "Caravan Camp",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/oswfst/map-01.01-caravan-camp-no-grid.jpg",
+            "tokenScale": 0.058767772511848344
+          }
+        ]
+      },
+{
+        "id": "1",
+        "name": "Light the Way",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Dense Forest",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/oswfst/map-02.01-dense-forest-grid.jpg",
+            "tokenScale": 0.06034755134281201
+          },
+          {
+            "name": "Dense Forest",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/oswfst/map-02.01-dense-forest-no-grid.jpg",
+            "tokenScale": 0.06034755134281201
+          }
+        ]
+      },
+{
+        "id": "2",
+        "name": "Unhappy Birthday",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Murky Swamp",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/oswfst/map-03.01-murky-swamp-grid.jpg",
+            "tokenScale": 0.058135860979462876
+          },
+          {
+            "name": "Murky Swamp",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/oswfst/map-03.01-murky-swamp-no-grid.jpg",
+            "tokenScale": 0.058135860979462876
+          }
+        ]
+      },
+{
+        "id": "3",
+        "name": "Surprise Guests",
+        "order": 4,
+        "maps": [
+          {
+            "name": "Moon Temple",
+            "description": "(with grid)",
+            "order":7,
+            "imageKey": "official/maps/oswfst/map-04.01-moon-temple-grid.jpg",
+            "tokenScale": 0.05843137254901961
+          },
+          {
+            "name": "Moon Temple",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/oswfst/map-04.01-moon-temple-no-grid.jpg",
+            "tokenScale": 0.05843137254901961
+          }
+        ]
+      },
+{
+        "id": "4",
+        "name": "Foes in the Foliage",
+        "order": 5,
+        "maps": [
+          {
+            "name": "Midnight Rainforest",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/oswfst/map-05.01-midnight-rainforest-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          },
+          {
+            "name": "Midnight Rainforest",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/oswfst/map-05.01-midnight-rainforest-no-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          }
+        ]
+      },
+{
+        "id": "5",
+        "name": "Shrieker Garden",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Magical Garden",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/oswfst/map-06.01-magical-garden-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          },
+          {
+            "name": "Everden",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/oswfst/map-06.01-magical-garden-no-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          }
+        ]
+      },
+{
+        "id": "6",
+        "name": "Welcome Home",
+        "order": 7,
+        "maps": [
+          {
+            "name": "Welcome Home Mansion",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/oswfst/map-07.01-welcome-home-mansion-grid.jpg",
+            "tokenScale": 0.05845181674565561
+          },
+          {
+            "name": "Welcome Home Mansion",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/oswfst/map-07.01-welcome-home-mansion-no-grid.jpg",
+            "tokenScale": 0.05845181674565561
+          }
+        ]
+      },
+{
+        "id": "7",
+        "name": "A Dog’s Dinner",
+        "order": 8,
+        "maps": [
+          {
+            "name": "Hags Cottage",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/oswfst/map-08.01-hags-cottage-grid.jpg",
+            "tokenScale": 0.05803921568627451
+          },
+          {
+            "name": "Hags Cottage",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/oswfst/map-08.01-hags-cottage-no-grid.jpg",
+            "tokenScale": 0.05803921568627451
+          }
+        ]
+      },
+{
+        "id": "8",
+        "name": "Trouble Brewing",
+        "order": 9,
+        "maps": [
+          {
+            "name": "Orchard",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/oswfst/map-09.01-orchard-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          },
+          {
+            "name": "Orchard",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/oswfst/map-09.01-orchard-no-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          }
+        ]
+      },
+{
+        "id": "9",
+        "name": "Nightmare Glade",
+        "order": 10,
+        "maps": [
+          {
+            "name": "Burning Trees",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/oswfst/map-10.01-burning-trees-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          },
+          {
+            "name": "Burning Trees",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/oswfst/map-10.01-burning-trees-no-grid.jpg",
+            "tokenScale": 0.058823529411764705
+          }
+        ]
+      },{
+        "id": "10",
+        "name": "Continuing the Adventure",
+        "order": 11,
+        "maps": [
+          {
+            "name": "Mirabilis World",
+            "description": "(DM version)",
+            "order": 21,
+            "imageKey": "official/maps/oswfst/map-11.01-mirabilis-world-fst.jpg",
+            "tokenScale": 0.025017135023989032
+          },
+          {
+            "name": "Mirabilis World",
+            "description": "(Player version)",
+            "order": 22,
+            "imageKey": "official/maps/oswfst/map-11.01-mirabilis-world-fst-player.jpg",
+            "tokenScale": 0.025017135023989032
+          }
+        ]
+      }
+    ]
+  }

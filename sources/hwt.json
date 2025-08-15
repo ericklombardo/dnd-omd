@@ -1,0 +1,162 @@
+{
+    "type": "sourcebook",
+    "name": "HWT",
+    "description": "Humblewood Tales",
+    "backgroundImageKey": "official/covers/hwt.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Tales from the Wood",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Marshview",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/hwt/map-04.01-marshview.png",
+            "tokenScale": 0.013427734374999998
+          },
+          {
+            "name": "Marshview",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/hwt/map-04.01-marshview-player.png",
+            "tokenScale": 0.013427734374999998
+          },
+          {
+            "name": "Tideswell Cave",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/hwt/map-05.01-tideswell-cave.jpg",
+            "tokenScale": 0.01586708978906104
+          },
+          {
+            "name": "Tideswell Cave",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/hwt/map-05.01-tideswell-cave-player.jpg",
+            "tokenScale": 0.01586708978906104
+          },
+          {
+            "name": "Archers on the Stairs",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/hwt/map-06.01-archers-on-the-stairs.jpg",
+            "tokenScale": 0.05533854166666666
+          },
+          {
+            "name": "Archers on the Stairs",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/hwt/map-06.01-archers-on-the-stairs-player.jpg",
+            "tokenScale": 0.05533854166666666
+          },
+          {
+            "name": "Shooting from Atop the Spire",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/hwt/map-06.02-shooting-from-atop-the-spire.jpg",
+            "tokenScale": 0.050048828125
+          },
+          {
+            "name": "Shooting from Atop the Spire",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/hwt/map-06.02-shooting-from-atop-the-spire-player.jpg",
+            "tokenScale": 0.050048828125
+          },
+          {
+            "name": "Archers on the Bridge",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/hwt/map-06.03-archers-on-the-bridge.jpg",
+            "tokenScale": 0.03508771929824561
+          },
+          {
+            "name": "Archers on the Bridge",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/hwt/map-06.03-archers-on-the-bridge-player.jpg",
+            "tokenScale": 0.03508771929824561
+          },
+          {
+            "name": "Seawatch Tower",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/hwt/map-06.04-seawatch-tower.png",
+            "tokenScale": 0.02197265625
+          },
+          {
+            "name": "Seawatch Tower",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/hwt/map-06.04-seawatch-tower-player.png",
+            "tokenScale": 0.02197265625
+          },
+          {
+            "name": "The Final Attack",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/hwt/map-06.05-the-final-attack.jpg",
+            "tokenScale": 0.039306640625
+          },
+          {
+            "name": "The Final Attack",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/hwt/map-06.05-the-final-attack-player.jpg",
+            "tokenScale": 0.039306640625
+          },
+          {
+            "name": "Reyas Watch",
+            "description": "(DM version)",
+            "order": 15,
+            "imageKey": "official/maps/hwt/map-07.01-reyas-watch.png",
+            "tokenScale": 0.017089843749999997
+          },
+          {
+            "name": "Reyas Watch",
+            "description": "(Player version)",
+            "order": 16,
+            "imageKey": "official/maps/hwt/map-07.01-reyas-watch-player.png",
+            "tokenScale": 0.017089843749999997
+          },
+          {
+            "name": "Lendarick's Domain",
+            "description": "(DM version)",
+            "order": 17,
+            "imageKey": "official/maps/hwt/map-08.01-lendaricks-domain.jpg",
+            "tokenScale": 0.037787182587666265
+          },
+          {
+            "name": "Lendarick's Domain",
+            "description": "(Player version)",
+            "order": 18,
+            "imageKey": "official/maps/hwt/map-08.01-lendaricks-domain-player.jpg",
+            "tokenScale": 0.037787182587666265
+          }
+        ]
+      },
+{
+        "id": "1",
+        "name": "Everden",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Everden",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/hwt/map-01.01-everden-world.jpg",
+            "tokenScale": 0.007568359375
+          },
+          {
+            "name": "Everden",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/hwt/map-01.01-everden-world-player.jpg",
+            "tokenScale": 0.007568359375
+          }
+        ]
+      }
+    ]
+  }

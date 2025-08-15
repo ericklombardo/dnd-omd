@@ -1,0 +1,260 @@
+{
+  "type": "sourcebook",
+  "name": "MOoT",
+  "description": "Mythic Odysseys of Theros",
+  "backgroundImageKey": "official/covers/MOoT.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 3: Realms of Gods and Mortals",
+      "order": 1,
+      "maps": [
+        {
+          "name": "World of Theros",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/MOoT/map-3-01.world-of-theros.png",
+          "tokenScale": 0.008280887711162636
+        },
+        {
+          "name": "World of Theros",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/MOoT/map-3-01.world-of-theros-player.jpg",
+          "tokenScale": 0.008280887711162636
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 4: Creating Theros Adventures",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Underworld Crossing",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/MOoT/map-4-01.underworld-crossing.jpg",
+          "tokenScale": 0.018934014957871812
+        },
+        {
+          "name": "Underworld Crossing",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/MOoT/map-4-01.underworld-crossing-player.jpg",
+          "tokenScale": 0.018934014957871812
+        },
+        {
+          "name": "Agora",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/MOoT/map-4-02.agora.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Agora",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/MOoT/map-4-02.agora-player.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Graveyard",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/MOoT/map-4-03.graveyard.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Graveyard",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/MOoT/map-4-03.graveyard-player.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Sun Temple",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/MOoT/map-4-04.sun-temple.jpg",
+          "tokenScale": 0.017351069982648928
+        },
+        {
+          "name": "Sun Temple",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/MOoT/map-4-04.sun-temple-player.jpg",
+          "tokenScale": 0.017351069982648928
+        },
+        {
+          "name": "Arena",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/MOoT/map-4-05.arena.jpg",
+          "tokenScale": 0.008559752595537883
+        },
+        {
+          "name": "Arena",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/MOoT/map-4-05.arena-player.jpg",
+          "tokenScale": 0.008559752595537883
+        },
+        {
+          "name": "Arbor Watchtower",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/MOoT/map-4-06.arbor-watchtower.jpg",
+          "tokenScale": 0.01855533465871438
+        },
+        {
+          "name": "Arbor Watchtower",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/MOoT/map-4-06.arbor-watchtower-player.jpg",
+          "tokenScale": 0.01855533465871438
+        },
+        {
+          "name": "Oracular Conflux",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/MOoT/map-4-07.ocular-conflux.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Oracular Conflux",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/MOoT/map-4-07.ocular-conflux-player.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Abandoned Temple",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/MOoT/map-4-08.abandoned-temple.jpg",
+          "tokenScale": 0.024723454146913387
+        },
+        {
+          "name": "Abandoned Temple",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/MOoT/map-4-08.abandoned-temple-player.jpg",
+          "tokenScale": 0.024723454146913387
+        },
+        {
+          "name": "Temple of Mystery",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/MOoT/map-4-09.temple-of-mystery.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Temple of Mystery",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/MOoT/map-4-09.temple-of-mystery-player.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Canyon Shrine",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/MOoT/map-4-10.canyon-shrine.jpg",
+          "tokenScale": 0.009719461011707531
+        },
+        {
+          "name": "Canyon Shrine",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/MOoT/map-4-10.canyon-shrine-player.jpg",
+          "tokenScale": 0.009719461011707531
+        },
+        {
+          "name": "Forest Shrine",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/MOoT/map-4-11.forest-shrine.jpg",
+          "tokenScale": 0.018223989396951624
+        },
+        {
+          "name": "Forest Shrine",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/MOoT/map-4-11.forest-shrine-player.jpg",
+          "tokenScale": 0.018223989396951624
+        },
+        {
+          "name": "Healing Pools",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/MOoT/map-4-12.healing-pools.jpg",
+          "tokenScale": 0.01855533465871438
+        },
+        {
+          "name": "Healing Pools",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/MOoT/map-4-12.healing-pools-player.jpg",
+          "tokenScale": 0.01855533465871438
+        },
+        {
+          "name": "Amphitheater",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/MOoT/map-4-13.amphitheater.jpg",
+          "tokenScale": 0.01855533465871438
+        },
+        {
+          "name": "Amphitheater",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/MOoT/map-4-13.amphitheater-player.jpg",
+          "tokenScale": 0.01855533465871438
+        },
+        {
+          "name": "Volcano Temple",
+          "description": "(DM version)",
+          "order": 27,
+          "imageKey": "official/maps/MOoT/map-4-14.volcano-temple.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Volcano Temple",
+          "description": "(Player version)",
+          "order": 28,
+          "imageKey": "official/maps/MOoT/map-4-14.volcano-temple-player.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Coastal Temple",
+          "description": "(DM version)",
+          "order": 29,
+          "imageKey": "official/maps/MOoT/map-4-15.costal-temple.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Coastal Temple",
+          "description": "(Player version)",
+          "order": 30,
+          "imageKey": "official/maps/MOoT/map-4-15.costal-temple-player.jpg",
+          "tokenScale": 0.018886679920477135
+        },
+        {
+          "name": "Court of Orestes",
+          "description": "(DM version)",
+          "order": 31,
+          "imageKey": "official/maps/MOoT/map-4-16.court-of-orestes.jpg",
+          "tokenScale": 0.03173828125
+        },
+        {
+          "name": "Court of Orestes",
+          "description": "(Player version)",
+          "order": 32,
+          "imageKey": "official/maps/MOoT/map-4-16.court-of-orestes-player.jpg",
+          "tokenScale": 0.03173828125
+        }
+      ]
+    }
+  ]
+}

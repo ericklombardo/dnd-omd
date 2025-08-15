@@ -1,0 +1,29 @@
+{
+  "type": "adventure",
+  "name": "BQGT",
+  "description": "Borderlands Quest: Goblin Trouble",
+  "backgroundImageKey": "official/covers/bqgt.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Borderlands Quest: Goblin Trouble",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Warrens",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dmg/map-12.13-underdark-warren.jpg",
+          "tokenScale": 0.024136715997181108
+        },
+        {
+          "name": "Warrens",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dmg/map-12.13-underdark-warren-player.jpg",
+          "tokenScale": 0.024136715997181108
+        }
+      ]
+    }
+  ]
+}

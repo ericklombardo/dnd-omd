@@ -1,0 +1,29 @@
+{
+  "type": "adventure",
+  "name": "HFSCM",
+  "description": "Heroes’ Feast: Saving the Children’s Menu",
+  "backgroundImageKey": "official/covers/hf.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Heroes’ Feast: Saving the Children’s Menu",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Holrow Homestead",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/hfscm/map-0.01-holrow-homestead.jpg",
+          "tokenScale": 0.09071180555555555
+        },
+        {
+          "name": "Holrow Homestead",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/hfscm/map-0.01-holrow-homestead-player.jpg",
+          "tokenScale": 0.09071180555555555
+        }
+      ]
+    }
+  ]
+}

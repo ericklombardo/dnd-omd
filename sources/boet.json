@@ -1,0 +1,155 @@
+{
+  "type": "sourcebook",
+  "name": "BoET",
+  "description": "Book of Ebon Tides",
+  "backgroundImageKey": "official/covers/boet.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Fey Courts and Servitors",
+      "order": 1,
+      "maps": [
+        {
+          "name": "The Shadow Realm",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/boet/map-7.01-shadow-realm.jpg",
+          "tokenScale": 0.006591796875
+        },
+        {
+          "name": "The Shadow Realm",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/boet/map-7.01-shadow-realm-player.jpg",
+          "tokenScale": 0.006591796875
+        },
+        {
+          "name": "Corremel-in-Shadow",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/boet/map-7.02-corremel-in-shadow.jpg",
+          "tokenScale": 0.0068359375
+        },
+        {
+          "name": "Corremel-in-Shadow",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/boet/map-7.02-corremel-in-shadow-player.jpg",
+          "tokenScale": 0.0068359375
+        },
+        {
+          "name": "Court of the Golden Oak",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/boet/map-7.03-court-of-the-golden-oak.jpg",
+          "tokenScale": 0.01008827238335435
+        },
+        {
+          "name": "Court of the Golden Oak",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/boet/map-7.03-court-of-the-golden-oak-player.jpg",
+          "tokenScale": 0.01008827238335435
+        },
+        {
+          "name": "Court of Midnight Teeth",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/boet/map-7.04-court-of-midnight-teeth.jpg",
+          "tokenScale": 0.005615234375
+        },
+        {
+          "name": "Court of Midnight Teeth",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/boet/map-7.04-court-of-midnight-teeth-player.jpg",
+          "tokenScale": 0.005615234375
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Realms Beyond the Courts",
+      "order": 2,
+      "maps": [
+       {
+          "name": "City of Fandeval",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/boet/map-8.01-city-of-fandeval.jpg",
+          "tokenScale": 0.009457755359394703
+        },
+        {
+          "name": "City of Fandeval",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/boet/map-8.01-city-of-fandeval-player.jpg",
+          "tokenScale": 0.009457755359394703
+        },
+        {
+          "name": "Oshragora, the Splintered City of Vampires",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/boet/map-8.02-oshragora.jpg",
+          "tokenScale": 0.005859375
+        },
+        {
+          "name": "Oshragora, the Splintered City of Vampires",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/boet/map-8.02-oshragora-player.jpg",
+          "tokenScale": 0.005859375
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Tactical maps for the Shadow Realm",
+      "order": 3,
+      "maps": [
+       {
+          "name": "Fey Court Audience Chamber",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/boet/map-15.01-fey-court.jpg",
+          "tokenScale": 0.02991725015913431
+        },
+        {
+          "name": "Shadow Realm Forest",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/boet/map-15.02-forest.jpg",
+          "tokenScale": 0.03905109489051095
+        },
+        {
+          "name": "Shadow Realm Marsh",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/boet/map-15.03-marsh.jpg",
+          "tokenScale": 0.03905109489051095
+        },
+        {
+          "name": "Shadow Realm Road",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/boet/map-15.04-road.jpg",
+          "tokenScale": 0.03905109489051095
+        },
+        {
+          "name": "Shadow Realm River",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/boet/map-15.05-river.jpg",
+          "tokenScale": 0.03905109489051095
+        },
+        {
+          "name": "Shadow Realm Village",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/boet/map-15.06-village.jpg",
+          "tokenScale": 0.03905109489051095
+        }
+      ]
+    }
+  ]
+}

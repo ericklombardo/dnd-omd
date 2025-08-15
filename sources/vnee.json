@@ -1,0 +1,29 @@
+{
+  "type": "adventure",
+  "name": "VNEE",
+  "description": "Vecna: Nest of the Eldritch Eye",
+  "backgroundImageKey": "official/covers/vnee.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "Vecna: Nest of the Eldritch Eye",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Nest of the Eldritch Eye",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/vnee/map-0.01-catacombs.jpg",
+          "tokenScale": 0.020751953125
+        },
+        {
+          "name": "Nest of the Eldritch Eye",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/vnee/map-0.01-catacombs-player.jpg",
+          "tokenScale": 0.021728515625
+        }
+      ]
+    }
+  ]
+}

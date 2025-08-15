@@ -1,0 +1,113 @@
+{
+    "type": "adventure",
+    "name": "ISotSS",
+    "description": "Dungeons of Drakkenheim: In Search of the Smuggler’s Secrets",
+    "backgroundImageKey": "official/covers/isotss.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "In Search of the Smuggler’s Secrets",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Drakkenheim",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/isotss/map-00.01-drakkenheim-city.png",
+            "tokenScale": 0.005967604433077577
+          },
+          {
+            "name": "Drakkenheim",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/isotss/map-00.01-drakkenheim-city-player.png",
+            "tokenScale": 0.005967604433077577
+          },
+          {
+            "name": "Emberwood Village",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/isotss/map-00.02-emberwood-village.jpg",
+            "tokenScale": 0.02099609375
+          },
+          {
+            "name": "Emberwood Village",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/isotss/map-00.02-emberwood-village-player.jpg",
+            "tokenScale": 0.02099609375
+          },
+          {
+            "name": "Smuggler’s Map",
+            "description": "",
+            "order": 5,
+            "imageKey": "official/maps/isotss/map-00.09-smugglers-handout.png",
+            "tokenScale": 0.009360599078341013
+          },
+          {
+            "name": "Drann River Drainage Pipe",
+            "description": "(DM version)",
+            "order": 6,
+            "imageKey": "official/maps/isotss/map-00.03-drann-river-drainage-pipe.jpg",
+            "tokenScale": 0.032677283653846145
+          },
+          {
+            "name": "Drann River Drainage Pipe",
+            "description": "(Player version)",
+            "order": 7,
+            "imageKey": "official/maps/isotss/map-00.03-drann-river-drainage-pipe-player.jpg",
+            "tokenScale": 0.032677283653846145
+          },
+          {
+            "name": "Sewer Cross Section",
+            "description": "",
+            "order": 8,
+            "imageKey": "official/maps/isotss/map-00.04-sewer-cross-section.jpg",
+            "tokenScale": 0.06835937499999997
+          },
+          {
+            "name": "Sluice Gate",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/isotss/map-00.05-sluice-gate.jpg",
+            "tokenScale": 0.03305288461538461
+          },
+          {
+            "name": "Sluice Gate",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/isotss/map-00.05-sluice-gate-player.jpg",
+            "tokenScale": 0.03305288461538461
+          },
+          {
+            "name": "Smuggler’s Tunnel",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/isotss/map-00.06-smugglers-tunnel.jpg",
+            "tokenScale": 0.04316069057104914
+          },
+          {
+            "name": "Smuggler’s Tunnel",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/isotss/map-00.06-smugglers-tunnel-player.jpg",
+            "tokenScale": 0.04316069057104914
+          },
+          {
+            "name": "Sally Port",
+            "description": "",
+            "order": 13,
+            "imageKey": "official/maps/isotss/map-00.07-sally-port.jpg",
+            "tokenScale": 0.04805871212121211
+          },
+          {
+            "name": "Drakkenheim City Street",
+            "description": "",
+            "order": 14,
+            "imageKey": "official/maps/isotss/map-00.08-drakkenheim-city-street.jpg",
+            "tokenScale": 0.03304036458333332
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,554 @@
+{
+  "type": "adventure",
+  "name": "CM",
+  "description": "Candlekeep Mysteries",
+  "backgroundImageKey": "official/covers/cm.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Candlekeep",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Candlekeep",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-1.01-Candlekeep.png",
+          "tokenScale": 0.01929824561403509
+        },
+        {
+          "name": "Candlekeep",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-1.01-Candlekeep-player.jpg",
+          "tokenScale": 0.01929824561403509
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "The Joy of Extradimensional Spaces",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Fistandia’s mansion",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-2.01-fistandias-mansion.jpg",
+          "tokenScale": 0.03212121212121212
+        },
+        {
+          "name": "Fistandia’s mansion",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-2.01-fistandias-mansion-player.jpg",
+          "tokenScale": 0.03212121212121212
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mazfroth’s Mighty Digressions",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Amberdune Hideout",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-3.01-amberdune-hideout.jpg",
+          "tokenScale": 0.07951918631530282
+        },
+        {
+          "name": "Amberdune Hideout",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-3.01-amberdune-hideout-player.jpg",
+          "tokenScale": 0.07951918631530282
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Book of the Raven",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Chalet Brantifax",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-4.01-chalet-brantifax.jpg",
+          "tokenScale": 0.022619047619047615
+        },
+        {
+          "name": "Chalet Brantifax",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-4.01-chalet-brantifax-player.jpg",
+          "tokenScale": 0.022619047619047615
+        },
+        {
+          "name": "Harran Mausoleum",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-4.02-harrn-mausoleum.jpg",
+          "tokenScale": 0.07748074309016764
+        },
+        {
+          "name": "Harran Mausoleum",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-4.02-harrn-mausoleum-player.jpg",
+          "tokenScale": 0.07748074309016764
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "A Deep and Creeping Darkness",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Vermeillon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-5.01-vermeillon.jpg",
+          "tokenScale": 0.009047619047619046
+        },
+        {
+          "name": "Vermeillon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-5.01-vermeillon-player.jpg",
+          "tokenScale": 0.009047619047619046
+        },
+        {
+          "name": "Mayor Duvezin’s House",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-5.02-mayor-duvezins-house.jpg",
+          "tokenScale": 0.05627306273062731
+        },
+        {
+          "name": "Mayor Duvezin’s House",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-5.02-mayor-duvezins-house-player.jpg",
+          "tokenScale": 0.05627306273062731
+        },
+        {
+          "name": "Platinum Mine",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/cm/map-5.03-platinum-mine.jpg",
+          "tokenScale": 0.02
+        },
+        {
+          "name": "Platinum Mine",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/cm/map-5.03-platinum-mine-player.jpg",
+          "tokenScale": 0.02
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Shemshime’s Bedtime Rhyme",
+      "order": 6,
+      "maps": [
+        {
+          "name": "The Firefly Cellar",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-6.01-firefly-cellar.jpg",
+          "tokenScale": 0.023564430112861218
+        },
+        {
+          "name": "The Firefly Cellar",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-6.01-firefly-cellar-player.jpg",
+          "tokenScale": 0.023564430112861218
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "The Price of Beauty",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Temple of the Restful Lily",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-7.01-temple-of-the-restful-lily.jpg",
+          "tokenScale": 0.030205949656750573
+        },
+        {
+          "name": "Temple of the Restful Lily",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-7.01-temple-of-the-restful-lily-player.jpg",
+          "tokenScale": 0.030205949656750573
+        },
+        {
+          "name": "Temple of the Restful Lily (2)",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-7.02-temple-of-the-restful-lily.jpg",
+          "tokenScale": 0.033446437227338824
+        },
+        {
+          "name": "Temple of the Restful Lily (2)",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-7.02-temple-of-the-restful-lily-player.jpg",
+          "tokenScale": 0.033446437227338824
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Book of Cylinders",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Grippli Village",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-8.01-grippli-village.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Grippli Village",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-8.01-grippli-village-player.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Temple",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-8.02-temple.jpg",
+          "tokenScale": 0.043517679057116954
+        },
+        {
+          "name": "Temple",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-8.02-temple-player.jpg",
+          "tokenScale": 0.043517679057116954
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Sarah of Yellowcrest Manor",
+      "order": 9,
+      "maps": [
+        {
+          "name": "Greenfast",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-9.01-greenfast.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Greenfast",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-9.01-greenfast-player.jpg",
+          "tokenScale": 0.011
+        },
+        {
+          "name": "Temple of the Burnt Tongue Cult",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-9.02-temple-of-the-burnt-tongue-cult.jpg",
+          "tokenScale": 0.03137789904502047
+        },
+        {
+          "name": "Temple of the Burnt Tongue Cult",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-9.02-temple-of-the-burnt-tongue-cult-player.jpg",
+          "tokenScale": 0.03137789904502047
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Lore of Lurue",
+      "order": 10,
+      "maps": [
+        {
+          "name": "Hag’s Hovel",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-10.01-hags-hovel.jpg",
+          "tokenScale": 0.034333333333333334
+        },
+        {
+          "name": "Hag’s Hovel",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-10.01-hags-hovel-player.jpg",
+          "tokenScale": 0.034333333333333334
+        },
+        {
+          "name": "Pool of Eternal Spring",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-10.02-pool-of-eternal-spring.jpg",
+          "tokenScale": 0.022
+        },
+        {
+          "name": "Pool of Eternal Spring",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-10.02-pool-of-eternal-spring-player.jpg",
+          "tokenScale": 0.022
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Kandlekeep Dekonstruktion",
+      "order": 11,
+      "maps": [
+        {
+          "name": "The Barn Door",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-11.01-the-barn-door.jpg",
+          "tokenScale": 0.028666666666666667
+        },
+        {
+          "name": "The Barn Door",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-11.01-the-barn-door-player.jpg",
+          "tokenScale": 0.028666666666666667
+        },
+        {
+          "name": "Under The Barn Door",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-11.01-under-the-barn-door.jpg",
+          "tokenScale": 0.027277155382367267
+        },
+        {
+          "name": "Under The Barn Door",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-11.01-under-the-barn-door-player.jpg",
+          "tokenScale": 0.027277155382367267
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Zikran’s Zephyrean Tome",
+      "order": 12,
+      "maps": [
+        {
+          "name": "Zikran’s Laboratory",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-12.01-zikrans-laboratory.jpg",
+          "tokenScale": 0.03266666666666666
+        },
+        {
+          "name": "Zikran’s Laboratory",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-12.01-zikrans-laboratory-player.jpg",
+          "tokenScale": 0.03266666666666666
+        },
+        {
+          "name": "Cloud Giant's Keep",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-12.02-cloud-giants-keep.jpg",
+          "tokenScale": 0.013139525334647285
+        },
+        {
+          "name": "Cloud Giant's Keep",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-12.02-cloud-giants-keep-player.jpg",
+          "tokenScale": 0.013139525334647285
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "The Curious Tale of Wisteria Vale",
+      "order": 13,
+      "maps": [
+        {
+          "name": "Wisteria Vale",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-13.01-wisteria-vale.jpg",
+          "tokenScale": 0.012
+        },
+        {
+          "name": "Wisteria Vale",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-13.01-wisteria-vale-player.jpg",
+          "tokenScale": 0.012
+        },
+        {
+          "name": "The Manor",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-13.02-the-manor.jpg",
+          "tokenScale": 0.02666666666666667
+        },
+        {
+          "name": "The Manor",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-13.02-the-manor-player.jpg",
+          "tokenScale": 0.02666666666666667
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "The Book of Inner Alchemy",
+      "order": 14,
+      "maps": [
+        {
+          "name": "Temple of the Immortal Lotus",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-14.01-temple-of-the-immortal-lotus.jpg",
+          "tokenScale": 0.013666666666666667
+        },
+        {
+          "name": "Temple of the Immortal Lotus",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-14.01-temple-of-the-immortal-lotus-player.jpg",
+          "tokenScale": 0.013666666666666667
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "The Canopic Being",
+      "order": 15,
+      "maps": [
+        {
+          "name": "Tomb of Valin Sarnaste",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-15.01-tomb-of-valin-sarnaster.jpg",
+          "tokenScale": 0.009551098376313275
+        },
+        {
+          "name": "Tomb of Valin Sarnaste",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-15.01-tomb-of-valin-sarnaster-player.jpg",
+          "tokenScale": 0.009551098376313275
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "The Canopic Being",
+      "order": 16,
+      "maps": [
+        {
+          "name": "Haven of the Red Quill",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-16.01-haven-of-the-red-quill.jpg",
+          "tokenScale": 0.02
+        },
+        {
+          "name": "Haven of the Red Quill",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-16.01-haven-of-the-red-quill-player.jpg",
+          "tokenScale": 0.02
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Alkazaar’s Appendix",
+      "order": 17,
+      "maps": [
+        {
+          "name": "Haruun",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-17.01-haruun.jpg",
+          "tokenScale": 0.03535811423390753
+        },
+        {
+          "name": "Haruun",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-17.01-haruun-player.jpg",
+          "tokenScale": 0.03535811423390753
+        },
+        {
+          "name": "Necropolis",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/cm/map-17.02-necropolis.jpg",
+          "tokenScale": 0.008666666666666666
+        },
+        {
+          "name": "Necropolis",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/cm/map-17.02-necropolis-player.jpg",
+          "tokenScale": 0.008666666666666666
+        },
+        {
+          "name": "Mastaba",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/cm/map-17.03-mastaba.jpg",
+          "tokenScale": 0.014333333333333333
+        },
+        {
+          "name": "Mastaba",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/cm/map-17.03-mastaba-player.jpg",
+          "tokenScale": 0.014333333333333333
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Xanthoria",
+      "order": 18,
+      "maps": [
+        {
+          "name": "Lykortha Expanse",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/cm/map-18.01-lykortha-expanse.jpg",
+          "tokenScale": 0.008666666666666666
+        },
+        {
+          "name": "Lykortha Expanse",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/cm/map-18.01-lykortha-expanse-player.jpg",
+          "tokenScale": 0.008666666666666666
+        }
+      ]
+    }
+  ]
+}

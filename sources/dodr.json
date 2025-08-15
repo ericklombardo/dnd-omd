@@ -1,0 +1,701 @@
+{
+  "type": "adventure",
+  "name": "DoDR",
+  "description": "Dungeons of Drakkenheim",
+  "backgroundImageKey": "official/covers/dodr.jpg",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "City of Drakkenheim",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Drakkenheim: City",
+          "description": "(Labeled version)",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-0.01-drakkenheim.jpg",
+          "tokenScale": 0.0052
+        },
+        {
+          "name": "Drakkenheim: City",
+          "description": "(Unlabeled version)",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-0.01-drakkenheim-player.jpg",
+          "tokenScale": 0.0052
+        },
+        {
+          "name": "Drakkenheim: Deep Haze",
+          "description": "(Labeled version)",
+          "order": 3,
+          "imageKey": "official/maps/dodr/map-0.01-drakkenheim-delrium.jpg",
+          "tokenScale": 0.0052
+        },
+        {
+          "name": "Drakkenheim: Deep Haze",
+          "description": "(Unlabeled version)",
+          "order": 4,
+          "imageKey": "official/maps/dodr/map-0.01-drakkenheim-delrium-player.jpg",
+          "tokenScale": 0.0052
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Ch. 4: Emberwood Village",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Emberwood Village",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-3.01-emberwood-village-tatical.jpg",
+          "tokenScale": 0.004888888888888888
+        },
+        {
+          "name": "Emberwood Village",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-3.01-emberwood-village-tatical-player.jpg",
+          "tokenScale": 0.004888888888888888
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Ch. 5: Exploring Drakkenheim",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Drakkenheim City Streets",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-4.01-city-street-tactical.jpg",
+          "tokenScale": 0.03166666666666667
+        },
+        {
+          "name": "Drakkenheim Sewers",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-4.02-sewers-map-tactical.jpg",
+          "tokenScale": 0.03166666666666667
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Ch. 6: Outside the Walls",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Black Ivory Inn - Ground Floor",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-5.01-black-ivory-inn-ground-tactical.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Black Ivory Inn - Ground Floor",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-5.01-black-ivory-inn-ground-tactical-player.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Black Ivory Inn - Inn Rooms",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/dodr/map-5.01-black-ivory-inn-level-2-tactical.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Black Ivory Inn - Inn Rooms",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/dodr/map-5.01-black-ivory-inn-level-2tactical-player.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Black Ivory Inn - Underground",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/dodr/map-5.01-black-ivory-inn-cellar-tactical.jpg",
+          "tokenScale": 0.029333333333333333
+        },
+        {
+          "name": "Black Ivory Inn - Underground",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/dodr/map-5.01-black-ivory-inn-cellar-tactical-player.jpg",
+          "tokenScale": 0.029333333333333333
+        },
+        {
+          "name": "Buckledown Row",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/dodr/map-5.02-buckle-down-row-surface-tactical.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Buckledown Row",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/dodr/map-5.02-buckle-down-row-surface-tactical-player.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Buckledown Row - Fighting Pits",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/dodr/map-5.02-buckle-down-row-fighting-pit-tactical.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Buckledown Row - Fighting Pits",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/dodr/map-5.02-buckle-down-row-fighting-pit-tactical-player.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Chapel of Saint Brenna",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/dodr/map-5.03-chapel-of-st-brena-surface-tactical.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Chapel of Saint Brenna",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/dodr/map-5.03-chapel-of-st-brena-surface-tactical-player.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Chapel of Saint Brenna - Chapel Crypt",
+          "description": "(DM version)",
+          "order": 13,
+          "imageKey": "official/maps/dodr/map-5.03-chapel-of-st-brena-crypts-tactical.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Chapel of Saint Brenna - Chapel Crypt",
+          "description": "(Player version)",
+          "order": 14,
+          "imageKey": "official/maps/dodr/map-5.03-chapel-of-st-brena-crypts-tactical-player.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Chapel of Saint Brenna - Chapel Lower Crypts",
+          "description": "(DM version)",
+          "order": 15,
+          "imageKey": "official/maps/dodr/map-5.03-chapel-of-st-brena-undercroft-tactical.jpg",
+          "tokenScale": 0.03525
+        },
+        {
+          "name": "Chapel of Saint Brenna - Chapel Lower Crypts",
+          "description": "(Player version)",
+          "order": 16,
+          "imageKey": "official/maps/dodr/map-5.03-chapel-of-st-brena-undercroft-tactical-player.jpg",
+          "tokenScale": 0.03525
+        },
+        {
+          "name": "Ratling Burrow",
+          "description": "(DM version)",
+          "order": 17,
+          "imageKey": "official/maps/dodr/map-5.04-ratling-burrow-tactical.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Ratling Burrow",
+          "description": "(Player version)",
+          "order": 18,
+          "imageKey": "official/maps/dodr/map-5.04-ratling-burrow-tactical-player.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Reed Manor - Ground",
+          "description": "(DM version)",
+          "order": 19,
+          "imageKey": "official/maps/dodr/map-5.05-reed-manor-ground-tactical.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Reed Manor - Ground",
+          "description": "(Player version)",
+          "order": 20,
+          "imageKey": "official/maps/dodr/map-5.05-reed-manor-ground-tactical-player.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Reed Manor - Upper",
+          "description": "(DM version)",
+          "order": 21,
+          "imageKey": "official/maps/dodr/map-5.05-reed-manor-level-2-tactical.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Reed Manor - Upper",
+          "description": "(Player version)",
+          "order": 22,
+          "imageKey": "official/maps/dodr/map-5.05-reed-manor-level-2-tactical-player.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Reed Manor - Secret Lab and Cellar",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/dodr/map-5.05-reed-manor-cellar-and-secret-lab-tactical.jpg",
+          "tokenScale": 0.032083333333333325
+        },
+        {
+          "name": "Reed Manor - Secret Lab and Cellar",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/dodr/map-5.05-reed-manor-cellar-and-secret-lab-tactical-player.jpg",
+          "tokenScale": 0.032083333333333325
+        },
+        {
+          "name": "Spokes Smithy",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/dodr/map-5.06-spokes-smithy-tactical.jpg",
+          "tokenScale": 0.048
+        },
+        {
+          "name": "Spokes Smithy",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/dodr/map-5.06-spokes-smithy-tactical-player.jpg",
+          "tokenScale": 0.048
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ch. 7: Inside the Walls of Drakkenheim",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Gate Houses - Ground",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-6.01-gate-houses-ground-level-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Gate Houses - Winch and Interior",
+          "description": "",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-6.01-gate-houses-winch-and-interior-tatical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Gate Houses - Battlement Exterior",
+          "description": "",
+          "order": 3,
+          "imageKey": "official/maps/dodr/map-6.01-gate-houses-battlement-exterior-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Cosmological Clocktower - Ground floor",
+          "description": "",
+          "order": 4,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-ground-floor-tatical.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Cosmological Clocktower - Stairs",
+          "description": "",
+          "order": 5,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-stairs-tatical.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Cosmological Clocktower - Bells",
+          "description": "",
+          "order": 6,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-bells-tatical.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Cosmological Clocktower - Clockwork",
+          "description": "",
+          "order": 7,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-cloclwork-tatical.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Cosmological Clocktower - Rookery",
+          "description": "",
+          "order": 8,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-rookery.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Cosmological Clocktower - Attic",
+          "description": "",
+          "order": 9,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-attic-tatical.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Cosmological Clocktower - Roof",
+          "description": "",
+          "order": 10,
+          "imageKey": "official/maps/dodr/map-6.02-cosmological-clocktower-roof-tatical.jpg",
+          "tokenScale": 0.063
+        },
+        {
+          "name": "Craters Edge",
+          "description": "",
+          "order": 11,
+          "imageKey": "official/maps/dodr/map-7.05-craters-edge-tactical.jpg",
+          "tokenScale": 0.0285
+        },
+        {
+          "name": "Kleinberg Estate - Ground floor",
+          "description": "(DM version)",
+          "order": 12,
+          "imageKey": "official/maps/dodr/map-6.03-kleinberg-estate-grounds-tatical.jpg",
+          "tokenScale": 0.02125
+        },
+        {
+          "name": "Kleinberg Estate - Ground floor",
+          "description": "(Player version)",
+          "order": 13,
+          "imageKey": "official/maps/dodr/map-6.03-kleinberg-estate-grounds-player-tatical.jpg",
+          "tokenScale": 0.02125
+        },
+        {
+          "name": "Kleinberg Estate - Upper",
+          "description": "(DM version)",
+          "order": 14,
+          "imageKey": "official/maps/dodr/map-6.03-kleinberg-estate-2nd-level-tatical.jpg",
+          "tokenScale": 0.02125
+        },
+        {
+          "name": "Kleinberg Estate - Upper",
+          "description": "(Player version)",
+          "order": 15,
+          "imageKey": "official/maps/dodr/map-6.03-kleinberg-estate-2nd-level-player-tatical.jpg",
+          "tokenScale": 0.02125
+        },
+        {
+          "name": "Kleinberg Estate - Caves",
+          "description": "(DM version)",
+          "order": 16,
+          "imageKey": "official/maps/dodr/map-6.03-kleinberg-estate-caves-tatical.jpg",
+          "tokenScale": 0.031
+        },
+        {
+          "name": "Kleinberg Estate - Caves",
+          "description": "(Player version)",
+          "order": 17,
+          "imageKey": "official/maps/dodr/map-6.03-kleinberg-estate-caves-tatical-player.jpg",
+          "tokenScale": 0.031
+        },
+        {
+          "name": "Old Town Cistern",
+          "description": "(DM version)",
+          "order": 18,
+          "imageKey": "official/maps/dodr/map-6.04-old-town-cistern-tatical.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Old Town Cistern",
+          "description": "(Player version)",
+          "order": 19,
+          "imageKey": "official/maps/dodr/map-6.04-old-town-cistern-tatical-player.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Old Town Cistern - Lair",
+          "description": "(DM version)",
+          "order": 20,
+          "imageKey": "official/maps/dodr/map-6.04-old-town-cistern-dutchess-lair-tatical.jpg",
+          "tokenScale": 0.015192307692307689
+        },
+        {
+          "name": "Old Town Cistern - Lair",
+          "description": "(Player version)",
+          "order": 21,
+          "imageKey": "official/maps/dodr/map-6.04-old-town-cistern-dutchess-lair-tatical-player.jpg",
+          "tokenScale": 0.015192307692307689
+        },
+        {
+          "name": "Royal Grotto - Tiered Garden",
+          "description": "",
+          "order": 22,
+          "imageKey": "official/maps/dodr/map-6.05-royal-grotto-tiered-garden-tatical.jpg",
+          "tokenScale": 0.03175
+        },
+        {
+          "name": "Royal Grotto",
+          "description": "(DM version)",
+          "order": 23,
+          "imageKey": "official/maps/dodr/map-6.06-royal-grotto-tatical.jpg",
+          "tokenScale": 0.01846153846153846
+        },
+        {
+          "name": "Royal Grotto",
+          "description": "(Player version)",
+          "order": 24,
+          "imageKey": "official/maps/dodr/map-6.06-royal-grotto-tatical-player.jpg",
+          "tokenScale": 0.01846153846153846
+        },
+        {
+          "name": "Saint Vitruvio’s Cathedral",
+          "description": "(DM version)",
+          "order": 25,
+          "imageKey": "official/maps/dodr/map-6.07-st-vitruvios-tatical.jpg",
+          "tokenScale": 0.013725490196078426
+        },
+        {
+          "name": "Saint Vitruvio’s Cathedral",
+          "description": "(Player version)",
+          "order": 26,
+          "imageKey": "official/maps/dodr/map-6.07-st-vitruvios-tatical-player.jpg",
+          "tokenScale": 0.013725490196078426
+        },
+        {
+          "name": "Saint Vitruvio’s Cathedral Catacombs",
+          "description": "(DM version)",
+          "order": 27,
+          "imageKey": "official/maps/dodr/map-6.08-cathedral-catacombs-tatical.jpg",
+          "tokenScale": 0.014285714285714282
+        },
+        {
+          "name": "Saint Vitruvio’s Cathedral Catacombs",
+          "description": "(Player version)",
+          "order": 28,
+          "imageKey": "official/maps/dodr/map-6.08-cathedral-catacombs-tatical-player.jpg",
+          "tokenScale": 0.014285714285714282
+        },
+        {
+          "name": "Saint Vitruvio’s Cathedral Catacombs - Dragon Pit",
+          "description": "(DM version)",
+          "order": 29,
+          "imageKey": "official/maps/dodr/map-6.08-cathedral-catacombs-dragon-pit-tatical.jpg",
+          "tokenScale": 0.03805555555555555
+        },
+        {
+          "name": "Saint Vitruvio’s Cathedral Catacombs - Dragon Pit",
+          "description": "(Player version)",
+          "order": 30,
+          "imageKey": "official/maps/dodr/map-6.08-cathedral-catacombs-dragon-pit-tatical-player.jpg",
+          "tokenScale": 0.03805555555555555
+        },
+        {
+          "name": "Slaughterstone Square",
+          "description": "(Player version)",
+          "order": 31,
+          "imageKey": "official/maps/dodr/map-7.05-slaughterstone-square-tactical.jpg",
+          "tokenScale": 0.032
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Ch. 8: Faction Strongholds",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Camp Dawn",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-7.01-camp-dawn-tatical.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "Camp Dawn",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-7.01-camp-dawn-tatical-player.jpg",
+          "tokenScale": 0.02825
+        },
+        {
+          "name": "The Under Tavern",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/dodr/map-7.02-theives-throne-room-arena-tactical.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "The Under Tavern",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/dodr/map-7.02-theives-throne-room-arena-tactical-player.jpg",
+          "tokenScale": 0.02625
+        },
+        {
+          "name": "The Under Tavern - Court of Thieves Arena",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/dodr/map-7.02-theives-throne-room-court-of-thieves-tactical.jpg",
+          "tokenScale": 0.0235
+        },
+        {
+          "name": "The Under Tavern - Court of Thieves Arena",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/dodr/map-7.02-theives-throne-room-court-of-thieves-tatical-player.jpg",
+          "tokenScale": 0.0235
+        },
+        {
+          "name": "Drakkenheim Garrison",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/dodr/map-7.03-garrison-tactical.jpg",
+          "tokenScale": 0.04225
+        },
+        {
+          "name": "Drakkenheim Garrison",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/dodr/map-7.03-garrison-tactical-player.jpg",
+          "tokenScale": 0.04225
+        },
+        {
+          "name": "Inscrutable Tower - Lobby",
+          "description": "",
+          "order": 9,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-lobby-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Inscrutable Tower - Great Hall",
+          "description": "",
+          "order": 10,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-great-hall-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Inscrutable Tower - Research Floors",
+          "description": "",
+          "order": 11,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-tower-research-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Inscrutable Tower - Lower Library",
+          "description": "",
+          "order": 12,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-lower-library-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Inscrutable Tower - Wizard's Apartments",
+          "description": "",
+          "order": 13,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-tower-residence-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Inscrutable Tower - Director's Office",
+          "description": "",
+          "order": 14,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-directors-office-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Inscrutable Tower - Nexus",
+          "description": "",
+          "order": 15,
+          "imageKey": "official/maps/dodr/map-8.05-inscrutable-tower-nexus-grid-tactical.jpg",
+          "tokenScale": 0.0315
+        },
+        {
+          "name": "Saint Selina’s Monastery",
+          "description": "(DM version)",
+          "order": 16,
+          "imageKey": "official/maps/dodr/map-7.04-saint-selenas-tactical.jpg",
+          "tokenScale": 0.027599715099715094
+        },
+        {
+          "name": "Saint Selina’s Monastery",
+          "description": "(Player version)",
+          "order": 17,
+          "imageKey": "official/maps/dodr/map-7.04-saint-selenas-tactical-player.jpg",
+          "tokenScale": 0.027599715099715094
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Ch. 9: Castle Drakken",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Castle Drakken - Main Level",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/dodr/map-08.03-castle-drakken-main-tactical.jpg",
+          "tokenScale": 0.01675
+        },
+        {
+          "name": "Castle Drakken - Main Level",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/dodr/map-08.03-castle-drakken-main-tactical-player.jpg",
+          "tokenScale": 0.01675
+        },
+        {
+          "name": "Castle Drakken - Level 1",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/dodr/map-08.02-castle-drakken-towers-level-1-tactical.jpg",
+          "tokenScale": 0.01725
+        },
+        {
+          "name": "Castle Drakken - Level 1",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/dodr/map-08.02-castle-drakken-towers-level-1-tactical-player.jpg",
+          "tokenScale": 0.01725
+        },
+        {
+          "name": "Castle Drakken - Level 2",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/dodr/map-08.02-castle-drakken-towers-level-2-tactical.jpg",
+          "tokenScale": 0.01725
+        },
+        {
+          "name": "Castle Drakken - Level 2",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/dodr/map-08.02-castle-drakken-towers-level-2-tactical-player.jpg",
+          "tokenScale": 0.01725
+        },
+        {
+          "name": "Castle Drakken - Royal Penthouse",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/dodr/map-08.02-castle-drakken-towers-royal-penthouse-tactical.jpg",
+          "tokenScale": 0.01725
+        },
+        {
+          "name": "Castle Drakken - Royal Penthouse",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/dodr/map-08.02-castle-drakken-towers-royal-penthouse-tactical-player.jpg",
+          "tokenScale": 0.01725
+        },
+        {
+          "name": "Castle Drakken - Dungeons",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/dodr/map-08.04-castle-drakken-dungeons-tactical.jpg",
+          "tokenScale": 0.01708333333333333
+        },
+        {
+          "name": "Castle Drakken - Dungeons",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/dodr/map-08.04-castle-drakken-dungeons-tactical-player.jpg",
+          "tokenScale": 0.01708333333333333
+        }
+      ]
+    }
+  ]
+}

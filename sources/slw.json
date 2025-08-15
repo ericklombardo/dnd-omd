@@ -1,0 +1,162 @@
+{
+  "type": "adventure",
+  "name": "SLW",
+  "description": "Storm Lord’s Wrath",
+  "backgroundImageKey": "official/covers/slw.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Sword Coast",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-1.01-sword-coast.jpg",
+          "tokenScale": 0.014739229024943309
+        },
+        {
+          "name": "Sword Coast",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/slw/map-1.01-sword-coast-player.jpg",
+          "tokenScale": 0.014739229024943309
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Attack on the Wayside Inn",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Wayside Inn",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-3.01-wayside-inn.jpg",
+          "tokenScale": 0.023681640625
+        },
+        {
+          "name": "Wayside Inn",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/slw/map-3.01-wayside-inn-player.jpg",
+          "tokenScale": 0.023681640625
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "A Normal Day in Leilon",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Leilon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-4.01-leilon.jpg",
+          "tokenScale": 0.012451171875
+        },
+        {
+          "name": "Leilon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/slw/map-4.01-leilon-player.jpg",
+          "tokenScale": 0.012451171875
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Aid from Phandalin",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Backlot in Town",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-5.01-backlot-in-town.jpg",
+          "tokenScale": 0.04742715437073776
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Foul Weather at Wayside",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Wayside Inn",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-6.01-wayside-inn.jpg",
+          "tokenScale": 0.023681640625
+        },
+        {
+          "name": "Wayside Inn",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/slw/map-6.01-wayside-inn-player.jpg",
+          "tokenScale": 0.023681640625
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "House of Thalivar",
+      "order": 6,
+      "maps": [
+        {
+          "name": "House of Thalivar",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-7.01-house-of-thalivar.jpg",
+          "tokenScale": 0.0234375
+        },
+        {
+          "name": "House of Thalivar",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/slw/map-7.01-house-of-thalivar-player.jpg",
+          "tokenScale": 0.0234375
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Missing Patrol",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Missing Patrol",
+          "description": "",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-8.01-missing-patrol.jpg",
+          "tokenScale": 0.0234375
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Thunder Cliffs",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Thunder Cliffs",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/slw/map-9.01-thunder-cliffs.jpg",
+          "tokenScale": 0.0234375
+        },
+        {
+          "name": "Thunder Cliffs",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/slw/map-9.01-thunder-cliffs-player.jpg",
+          "tokenScale": 0.0234375
+        }
+      ]
+    }
+  ]
+}

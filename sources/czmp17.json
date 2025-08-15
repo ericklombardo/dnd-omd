@@ -1,0 +1,267 @@
+{
+    "type": "mappack",
+    "name": "CZMP17",
+    "description": "Czepeku: Secret Fey Fountain",
+    "backgroundImageKey": "official/covers/czmp17.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Czepeku: Secret Fey Fountain",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Astral Altar",
+            "description": "(with grid)",
+            "order": 1,
+            "imageKey": "official/maps/czmp/czmp17/map-01.01-g-secret-fey-fountain-astralaltar.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Astral Altar",
+            "description": "(without grid)",
+            "order": 2,
+            "imageKey": "official/maps/czmp/czmp17/map-01.01-gl-secret-fey-fountain-astralaltar.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Bridge",
+            "description": "(with grid)",
+            "order": 3,
+            "imageKey": "official/maps/czmp/czmp17/map-01.02-g-secret-fey-fountain-bridge.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Bridge",
+            "description": "(without grid)",
+            "order": 4,
+            "imageKey": "official/maps/czmp/czmp17/map-01.02-gl-secret-fey-fountain-bridge.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Cave",
+            "description": "(with grid)",
+            "order": 5,
+            "imageKey": "official/maps/czmp/czmp17/map-01.03-g-secret-fey-fountain-cave.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Cave",
+            "description": "(without grid)",
+            "order": 6,
+            "imageKey": "official/maps/czmp/czmp17/map-01.03-gl-secret-fey-fountain-cave.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Desert Cave",
+            "description": "(with grid)",
+            "order": 7,
+            "imageKey": "official/maps/czmp/czmp17/map-01.04-g-secret-fey-fountain-desertcave.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Desert Cave",
+            "description": "(without grid)",
+            "order": 8,
+            "imageKey": "official/maps/czmp/czmp17/map-01.04-gl-secret-fey-fountain-desertcave.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Elderbrain",
+            "description": "(with grid)",
+            "order": 9,
+            "imageKey": "official/maps/czmp/czmp17/map-01.05-g-secret-fey-fountain-elderbrain.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Elderbrain",
+            "description": "(without grid)",
+            "order": 10,
+            "imageKey": "official/maps/czmp/czmp17/map-01.05-gl-secret-fey-fountain-elderbrain.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Font of Mana",
+            "description": "(with grid)",
+            "order": 11,
+            "imageKey": "official/maps/czmp/czmp17/map-01.06-g-secret-fey-fountain-fontofmana.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Font of Mana",
+            "description": "(without grid)",
+            "order": 12,
+            "imageKey": "official/maps/czmp/czmp17/map-01.06-gl-secret-fey-fountain-fontofmana.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Frozen",
+            "description": "(with grid)",
+            "order": 13,
+            "imageKey": "official/maps/czmp/czmp17/map-01.07-g-secret-fey-fountain-frozen.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Frozen",
+            "description": "(without grid)",
+            "order": 14,
+            "imageKey": "official/maps/czmp/czmp17/map-01.07-gl-secret-fey-fountain-frozen.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Nepenthe",
+            "description": "(with grid)",
+            "order": 15,
+            "imageKey": "official/maps/czmp/czmp17/map-01.08-g-secret-fey-fountain-nepenthe.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Nepenthe",
+            "description": "(without grid)",
+            "order": 16,
+            "imageKey": "official/maps/czmp/czmp17/map-01.08-gl-secret-fey-fountain-nepenthe.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Oasis",
+            "description": "(with grid)",
+            "order": 17,
+            "imageKey": "official/maps/czmp/czmp17/map-01.09-g-secret-fey-fountain-oasis.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Oasis",
+            "description": "(without grid)",
+            "order": 18,
+            "imageKey": "official/maps/czmp/czmp17/map-01.09-gl-secret-fey-fountain-oasis.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Original Day",
+            "description": "(with grid)",
+            "order": 19,
+            "imageKey": "official/maps/czmp/czmp17/map-01.10-g-secret-fey-fountain-original-day.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Original Day",
+            "description": "(without grid)",
+            "order": 20,
+            "imageKey": "official/maps/czmp/czmp17/map-01.10-gl-secret-fey-fountain-original-day.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Original Night",
+            "description": "(with grid)",
+            "order": 21,
+            "imageKey": "official/maps/czmp/czmp17/map-01.11-g-secret-fey-fountain-original-night.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Original Night",
+            "description": "(without grid)",
+            "order": 22,
+            "imageKey": "official/maps/czmp/czmp17/map-01.11-gl-secret-fey-fountain-original-night.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Pond",
+            "description": "(with grid)",
+            "order": 23,
+            "imageKey": "official/maps/czmp/czmp17/map-01.12-g-secret-fey-fountain-pond.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Pond",
+            "description": "(without grid)",
+            "order": 24,
+            "imageKey": "official/maps/czmp/czmp17/map-01.12-gl-secret-fey-fountain-pond.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Pool",
+            "description": "(with grid)",
+            "order": 25,
+            "imageKey": "official/maps/czmp/czmp17/map-01.13-g-secret-fey-fountain-pool.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Pool",
+            "description": "(without grid)",
+            "order": 26,
+            "imageKey": "official/maps/czmp/czmp17/map-01.13-gl-secret-fey-fountain-pool.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+         {
+            "name": "Portal",
+            "description": "(with grid)",
+            "order": 27,
+            "imageKey": "official/maps/czmp/czmp17/map-01.14-g-secret-fey-fountain-portal.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Portal",
+            "description": "(without grid)",
+            "order": 28,
+            "imageKey": "official/maps/czmp/czmp17/map-01.14-gl-secret-fey-fountain-portal.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Sacrificial Vortex",
+            "description": "(with grid)",
+            "order": 29,
+            "imageKey": "official/maps/czmp/czmp17/map-01.15-g-secret-fey-fountain-sacrificialvortex.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Sacrificial Vortex",
+            "description": "(without grid)",
+            "order": 30,
+            "imageKey": "official/maps/czmp/czmp17/map-01.15-gl-secret-fey-fountain-sacrificialvortex.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Spring",
+            "description": "(with grid)",
+            "order": 31,
+            "imageKey": "official/maps/czmp/czmp17/map-01.16-g-secret-fey-fountain-spring.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Spring",
+            "description": "(without grid)",
+            "order": 32,
+            "imageKey": "official/maps/czmp/czmp17/map-01.16-gl-secret-fey-fountain-spring.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Totem",
+            "description": "(with grid)",
+            "order": 33,
+            "imageKey": "official/maps/czmp/czmp17/map-01.17-g-secret-fey-fountain-totem.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Totem",
+            "description": "(without grid)",
+            "order": 34,
+            "imageKey": "official/maps/czmp/czmp17/map-01.17-gl-secret-fey-fountain-totem.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Vortex",
+            "description": "(with grid)",
+            "order": 35,
+            "imageKey": "official/maps/czmp/czmp17/map-01.18-g-secret-fey-fountain-vortex.jpg",
+            "tokenScale": 0.04345090048245481
+          },
+          {
+            "name": "Vortex",
+            "description": "(without grid)",
+            "order": 36,
+            "imageKey": "official/maps/czmp/czmp17/map-01.18-gl-secret-fey-fountain-vortex.jpg",
+            "tokenScale": 0.04345090048245481
+          }
+        ]
+      }
+    ]
+  }

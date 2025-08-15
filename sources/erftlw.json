@@ -1,0 +1,280 @@
+{
+    "type": "sourcebook",
+    "name": "ERftLW",
+    "description": "Eberron: Rising from the Last War",
+    "backgroundImageKey": "official/covers/erftlw.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "Chapter 2: Khorvaire Gazetteer",
+        "order": 1,
+        "maps": [
+          {
+            "name": "The Continent of Khorvaire",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/erftlw/map-2.01-khorvaire-DM.jpg",
+            "tokenScale": 0.0048828125
+          },
+          {
+            "name": "The Continent of Khorvaire",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/erftlw/map-2.01-khorvaire-Player.jpg",
+            "tokenScale": 0.0048828125
+          },
+          {
+            "name": "The Islands of Aerenal",
+            "description": "",
+            "order": 3,
+            "imageKey": "official/maps/erftlw/map-2.02-aerenal.png",
+            "tokenScale": 0.00784313725490196
+          },
+          {
+            "name": "The Continent of Xen’drik",
+            "description": "(DM version)",
+            "order": 4,
+            "imageKey": "official/maps/erftlw/map-2.03-the-xendrik.png",
+            "tokenScale": 0.00784313725490196
+          },
+          {
+            "name": "The Continent of Xen’drik",
+            "description": "(Player version)",
+            "order": 5,
+            "imageKey": "official/maps/erftlw/map-2.03-the-xendrik-Player.png",
+            "tokenScale": 0.00784313725490196
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "name": "Chapter 3: Sharn, City of Towers",
+        "order": 2,
+        "maps": [
+          {
+            "name": "Sharn, the City of Towers",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/erftlw/map-3.01-sharn-DM.jpg",
+            "tokenScale": 0.007619047619047619
+          },
+          {
+            "name": "Sharn, the City of Towers",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/erftlw/map-3.01-sharn-Player.jpg",
+            "tokenScale": 0.007619047619047619
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Chapter 4: Building Eberron Adventures",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Arcane Workshop",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/erftlw/map-4.01-arcane-workshop-DM.jpg",
+            "tokenScale": 0.03777335984095427
+          },
+          {
+            "name": "Arcane Workshop",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/erftlw/map-4.01-arcane-workshop-Player.jpg",
+            "tokenScale": 0.03777335984095427
+          },
+          {
+            "name": "Planar Observatory",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/erftlw/map-4.02-planar-observatory-DM.jpg",
+            "tokenScale": 0.025016567263088138
+          },
+          {
+            "name": "Planar Observatory",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/erftlw/map-4.02-planar-observatory-Player.jpg",
+            "tokenScale": 0.025016567263088138
+          },
+          {
+            "name": "Ruined Dhakaani Fort",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/erftlw/map-4.03-the-ruined-dhakaani-fort.jpg",
+            "tokenScale": 0.022392190152801357
+          },
+          {
+            "name": "Ruined Dhakaani Fort",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/erftlw/map-4.03-the-ruined-dhakaani-fort-Player.jpg",
+            "tokenScale": 0.020797227036395145
+          },
+          {
+            "name": "Gatekeeper Seal",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/erftlw/map-4.04-gatekeeper-seal-DM.jpg",
+            "tokenScale": 0.025850894632206747
+          },
+          {
+            "name": "Gatekeeper Seal",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/erftlw/map-4.04-gatekeeper-seal-Player.jpg",
+            "tokenScale": 0.024850894632206747
+          },
+          {
+            "name": "Fortified Outpost",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/erftlw/map-4.05-fortified-outpost-DM.jpg",
+            "tokenScale": 0.01751396383603143
+          },
+          {
+            "name": "Fortified Outpost",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/erftlw/map-4.05-fortified-outpost-Player.jpg",
+            "tokenScale": 0.01751396383603143
+          },
+          {
+            "name": "Warforged Ossuary",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/erftlw/map-4.06-warforged-ossuary-DM.jpg",
+            "tokenScale": 0.02394166938731091
+          },
+          {
+            "name": "Warforged Ossuary",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/erftlw/map-4.06-warforged-ossuary-Player.jpg",
+            "tokenScale": 0.02394166938731091
+          },
+          {
+            "name": "Demon Ruin",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/erftlw/map-4.07-demon-ruin-DM.jpg",
+            "tokenScale": 0.018697339770898415
+          },
+          {
+            "name": "Demon Ruin",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/erftlw/map-4.07-demon-ruin-Player.jpg",
+            "tokenScale": 0.018697339770898415
+          },
+          {
+            "name": "Fallen Warforged Colossus",
+            "description": "(DM version)",
+            "order": 15,
+            "imageKey": "official/maps/erftlw/map-4.08-fallen-warforged-colossus-DM.jpg",
+            "tokenScale": 0.02286282306163022
+          },
+          {
+            "name": "Fallen Warforged Colossus",
+            "description": "(Player version)",
+            "order": 16,
+            "imageKey": "official/maps/erftlw/map-4.08-fallen-warforged-colossus-Player.jpg",
+            "tokenScale": 0.02286282306163022
+          },
+          {
+            "name": "Library Vault",
+            "description": "(DM version)",
+            "order": 17,
+            "imageKey": "official/maps/erftlw/map-4.09-library-vault-DM.jpg",
+            "tokenScale": 0.0329688535453943
+          },
+          {
+            "name": "Library Vault",
+            "description": "(Player version)",
+            "order": 18,
+            "imageKey": "official/maps/erftlw/map-4.09-library-vault-Player.jpg",
+            "tokenScale": 0.0329688535453943
+          },{
+            "name": "Planes of Existence",
+            "description": "",
+            "order": 19,
+            "imageKey": "official/maps/erftlw/map-4.10-planes-of-existence.png",
+            "tokenScale": 0.021252796420581657
+          },
+          {
+            "name": "Lightning Rail Train Carriages",
+            "description": "(DM version)",
+            "order": 20,
+            "imageKey": "official/maps/erftlw/map-4.11-lightning-rail-train-carriages-DM.jpg",
+            "tokenScale": 0.048707753479125246
+          },
+          {
+            "name": "Lightning Rail Train Carriages",
+            "description": "(Player version)",
+            "order": 21,
+            "imageKey": "official/maps/erftlw/map-4.11-lightning-rail-train-carriages-Player.jpg",
+            "tokenScale": 0.048707753479125246
+          },
+          {
+            "name": "Sharn Heights",
+            "description": "(DM version)",
+            "order": 22,
+            "imageKey": "official/maps/erftlw/map-4.12-sharn-heights-DM.jpg",
+            "tokenScale": 0.02431851600497681
+          },
+          {
+            "name": "Sharn Heights",
+            "description": "(Player version)",
+            "order": 23,
+            "imageKey": "official/maps/erftlw/map-4.12-sharn-heights-Player.jpg",
+            "tokenScale": 0.02431851600497681
+          },
+          {
+            "name": "Nightclub",
+            "description": "(DM version)",
+            "order": 24,
+            "imageKey": "official/maps/erftlw/map-4.13-nightclub-DM.jpg",
+            "tokenScale": 0.02477095351204615
+          },
+          {
+            "name": "Nightclub",
+            "description": "(Player version)",
+            "order": 25,
+            "imageKey": "official/maps/erftlw/map-4.13-nightclub-Player.jpg",
+            "tokenScale": 0.02477095351204615
+          },
+          {
+            "name": "Cog Hub",
+            "description": "(DM version)",
+            "order": 26,
+            "imageKey": "official/maps/erftlw/map-4.14-cog-hub-DM.jpg",
+            "tokenScale": 0.02485089463220676
+          },
+          {
+            "name": "Cog Hub",
+            "description": "(Player version)",
+            "order": 27,
+            "imageKey": "official/maps/erftlw/map-4.14-cog-hub-Player.jpg",
+            "tokenScale": 0.02485089463220676
+          },
+          {
+            "name": "Terminus",
+            "description": "(DM version)",
+            "order": 28,
+            "imageKey": "official/maps/erftlw/map-4.15-terminus-DM.jpg",
+            "tokenScale": 0.019511367492365116
+          },
+          {
+            "name": "Terminus",
+            "description": "(Player version)",
+            "order": 29,
+            "imageKey": "official/maps/erftlw/map-4.15-terminus-Player.jpg",
+            "tokenScale": 0.019511367492365116
+          }
+        ]
+      }
+    ]
+  }

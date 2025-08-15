@@ -1,0 +1,456 @@
+{
+  "type": "adventure",
+  "name": "QftIS",
+  "description": "Quests from the Infinite Staircase",
+  "backgroundImageKey": "official/covers/qftis.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Chapter 2: The Lost City",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Buried Ziggurat, Tiers 1–3",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/qftis/map-2.01-buried-ziggurat-1-3-DM.jpg",
+          "tokenScale": 0.013124316441851984
+        },
+        {
+          "name": "Buried Ziggurat, Tiers 1–3",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/qftis/map-2.01-buried-ziggurat-1-3-Player.jpg",
+          "tokenScale": 0.013124316441851984
+        },
+        {
+          "name": "Buried Ziggurat, Tier 4",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/qftis/map-2.02-buried-ziggurat-4-DM.jpg",
+          "tokenScale": 0.015165876777251185
+        },
+        {
+          "name": "Buried Ziggurat, Tier 4",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/qftis/map-2.02-buried-ziggurat-4-Player.jpg",
+          "tokenScale": 0.015165876777251185
+        },
+        {
+          "name": "Buried Ziggurat, Tier 5",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/qftis/map-2.03-buried-ziggurat-5-DM.jpg",
+          "tokenScale": 0.011058451816745654
+        },
+        {
+          "name": "Buried Ziggurat, Tier 5",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/qftis/map-2.03-buried-ziggurat-5-Player.jpg",
+          "tokenScale": 0.011058451816745654
+        },
+        {
+          "name": "Expanded Ziggurat",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/qftis/map-2.04-expanded-ziggurat-DM.jpg",
+          "tokenScale": 0.014153245485602733
+        },
+        {
+          "name": "Expanded Ziggurat",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/qftis/map-2.04-expanded-ziggurat-Player.jpg",
+          "tokenScale": 0.014153245485602733
+        },
+        {
+          "name": "Underground City",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/qftis/map-2.05-underground-city-DM.jpg",
+          "tokenScale": 0.003662109374999999
+        },
+        {
+          "name": "Underground City",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/qftis/map-2.05-underground-city-Player.jpg",
+          "tokenScale": 0.003662109374999999
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Chapter 3: When a Star Falls",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Tegefed Mountains",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/qftis/map-3.01-tegefed-mountains-DM.jpg",
+          "tokenScale": 0.01611328125
+        },
+        {
+          "name": "Tegefed Mountains",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/qftis/map-3.01-tegefed-mountains-Player.jpg",
+          "tokenScale": 0.01611328125
+        },
+        {
+          "name": "Derwyth’s Homestead",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/qftis/map-3.02-derwyths-homestead-DM.jpg",
+          "tokenScale": 0.026853829722306988
+        },
+        {
+          "name": "Derwyth’s Homestead",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/qftis/map-3.02-derwyths-homestead-Player.jpg",
+          "tokenScale": 0.026853829722306988
+        },
+        {
+          "name": "Derro Lair",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/qftis/map-3.03-derro-lair-DM.jpg",
+          "tokenScale": 0.01416015625
+        },
+        {
+          "name": "Derro Lair",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/qftis/map-3.03-derro-lair-Player.jpg",
+          "tokenScale": 0.01416015625
+        },
+        {
+          "name": "Therno Lake",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/qftis/map-3.04-therno-lake-DM.jpg",
+          "tokenScale": 0.0091547146780592
+        },
+        {
+          "name": "Therno Lake",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/qftis/map-3.04-therno-lake-Player.jpg",
+          "tokenScale": 0.0091547146780592
+        },
+        {
+          "name": "Tower of the Heavens",
+          "description": "(DM version)",
+          "order": 9,
+          "imageKey": "official/maps/qftis/map-3.05-tower-of-the-heavens-DM.jpg",
+          "tokenScale": 0.00880162491536899
+        },
+        {
+          "name": "Tower of the Heavens",
+          "description": "(Player version)",
+          "order": 10,
+          "imageKey": "official/maps/qftis/map-3.05-tower-of-the-heavens-Player.jpg",
+          "tokenScale": 0.00880162491536899
+        },
+        {
+          "name": "Forge of the Kagu-Svirfneblin",
+          "description": "(DM version)",
+          "order": 11,
+          "imageKey": "official/maps/qftis/map-3.06-forge-of-the-kagu-svirfneblin-DM.jpg",
+          "tokenScale": 0.017061611374407582
+        },
+        {
+          "name": "Forge of the Kagu-Svirfneblin",
+          "description": "(Player version)",
+          "order": 12,
+          "imageKey": "official/maps/qftis/map-3.06-forge-of-the-kagu-svirfneblin-Player.jpg",
+          "tokenScale": 0.017061611374407582
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chapter 4: Beyond the Crystal Cave",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Cave of Echoes",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/qftis/map-4.01-cave-of-echoes-DM.jpg",
+          "tokenScale": 0.01220703125
+        },
+        {
+          "name": "Cave of Echoes",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/qftis/map-4.01-cave-of-echoes-Player.jpg",
+          "tokenScale": 0.01220703125
+        },
+        {
+          "name": "Eternal Garden",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/qftis/map-4.02-eternal-garden-DM.jpg",
+          "tokenScale": 0.00244140625
+        },
+        {
+          "name": "Eternal Garden",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/qftis/map-4.02-eternal-garden-Player.jpg",
+          "tokenScale": 0.00244140625
+        },
+        {
+          "name": "Palace of Spires",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/qftis/map-4.03-palace-of-spires-DM.jpg",
+          "tokenScale": 0.007546164772727272
+        },
+        {
+          "name": "Palace of Spires",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/qftis/map-4.03-palace-of-spires-Player.jpg",
+          "tokenScale": 0.007546164772727272
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chapter 5: Pharaoh",
+      "order": 4,
+      "maps": [
+        {
+          "name": "False Tomb",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/qftis/map-5.01-false-tomb-DM.png",
+          "tokenScale": 0.022759495560032823
+        },
+        {
+          "name": "False Tomb",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/qftis/map-5.01-false-tomb-player.png",
+          "tokenScale": 0.022759495560032823
+        },
+        {
+          "name": "Maze of Mists",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/qftis/map-5.02-maze-of-mists-map-DM.png",
+          "tokenScale": 0.01220043572984749
+        },
+        {
+          "name": "Maze of Mists",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/qftis/map-5.02-maze-of-mists-map-player.png",
+          "tokenScale": 0.01220043572984749
+        },
+        {
+            "name": "Well of Questions",
+            "description": "(DM version)",
+            "order": 5,
+            "imageKey": "official/maps/qftis/map-5.03-well-of-questions-map-DM.png",
+            "tokenScale": 0.0404166666666666
+          },
+          {
+            "name": "Well of Questions",
+            "description": "(Player version)",
+            "order": 6,
+            "imageKey": "official/maps/qftis/map-5.03-well-of-questions-map-player.png",
+            "tokenScale": 0.0404166666666666
+          },
+        {
+            "name": "Halls of the Upper Priesthood",
+            "description": "(DM version)",
+            "order": 7,
+            "imageKey": "official/maps/qftis/map-5.04-halls-of-the-upper-priesthood-map-DM.png",
+            "tokenScale": 0.012590299277605774
+          },
+          {
+            "name": "Halls of the Upper Priesthood",
+            "description": "(Player version)",
+            "order": 8,
+            "imageKey": "official/maps/qftis/map-5.04-halls-of-the-upper-priesthood-map-player.png",
+            "tokenScale": 0.012590299277605774
+          },
+          {
+            "name": "Dome of Flight",
+            "description": "(DM version)",
+            "order": 9,
+            "imageKey": "official/maps/qftis/map-5.05-dome-of-flight-map-DM.png",
+            "tokenScale": 0.05875
+          },
+          {
+            "name": "Dome of Flight",
+            "description": "(Player version)",
+            "order": 10,
+            "imageKey": "official/maps/qftis/map-5.05-dome-of-flight-map-player.png",
+            "tokenScale": 0.05875
+          },
+          {
+            "name": "Observation Dome",
+            "description": "(DM version)",
+            "order": 11,
+            "imageKey": "official/maps/qftis/map-5.06-observation-dome-map-DM.png",
+            "tokenScale": 0.0675
+          },
+          {
+            "name": "Observation Dome",
+            "description": "(Player version)",
+            "order": 12,
+            "imageKey": "official/maps/qftis/map-5.06-observation-dome-map-player.png",
+            "tokenScale": 0.0675
+          },
+          {
+            "name": "Gauntlet",
+            "description": "(DM version)",
+            "order": 13,
+            "imageKey": "official/maps/qftis/map-5.07-gauntlet-map-DM.png",
+            "tokenScale": 0.0234375
+          },
+          {
+            "name": "Gauntlet",
+            "description": "(Player version)",
+            "order": 14,
+            "imageKey": "official/maps/qftis/map-5.07-gauntlet-map-player.png",
+            "tokenScale": 0.0234375
+          },
+          {
+            "name": "Tomb of Amun Sa",
+            "description": "(DM version)",
+            "order": 15,
+            "imageKey": "official/maps/qftis/map-5.08-tomb-of-amun-sa-map-DM.png",
+            "tokenScale": 0.035714285714285705
+          },
+          {
+            "name": "Tomb of Amun Sa",
+            "description": "(Player version)",
+            "order": 16,
+            "imageKey": "official/maps/qftis/map-5.08-tomb-of-amun-sa-map-player.png",
+            "tokenScale": 0.035714285714285705
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chapter 6: The Lost Caverns of Tsojcanth",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Yatil Mountains",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/qftis/map-6.01-yatil-mountains-map-DM.jpg",
+          "tokenScale": 0.01019607843137255
+        },
+        {
+          "name": "Yatil Mountains",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/qftis/map-6.01-yatil-mountains-map-player.jpg",
+          "tokenScale": 0.01019607843137255
+        },
+        {
+          "name": "Lesser Caverns",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/qftis/map-6.02-lesser-caverns-map-DM.jpg",
+          "tokenScale": 0.013840830449826983
+        },
+        {
+          "name": "Lesser Caverns",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/qftis/map-6.02-lesser-caverns-map-player.jpg",
+          "tokenScale": 0.013840830449826983
+        },
+        {
+          "name": "Greater Caverns",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/qftis/map-6.03-greater-caverns-map-DM.jpg",
+          "tokenScale": 0.012745098039215683
+        },
+        {
+          "name": "Greater Caverns",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/qftis/map-6.03-greater-caverns-map-player.jpg",
+          "tokenScale": 0.012745098039215683
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chapter 7: Expedition to the Barrier Peaks",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Spaceship Level 1",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/qftis/map-7.01-spaceship-level-1-map-DM.jpg",
+          "tokenScale": 0.011777777777777776
+        },
+        {
+          "name": "Spaceship Level 1",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/qftis/map-7.01-spaceship-level-1-map-player.jpg",
+          "tokenScale": 0.011777777777777776
+        },
+        {
+          "name": "Spaceship Level 2",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/qftis/map-7.02-spaceship-level-2-map-DM.jpg",
+          "tokenScale": 0.011190476190476188
+        },
+        {
+          "name": "Spaceship Level 2",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/qftis/map-7.02-spaceship-level-2-map-player.jpg",
+          "tokenScale": 0.011190476190476188
+        },
+        {
+          "name": "Spaceship Level 3",
+          "description": "(DM version)",
+          "order": 5,
+          "imageKey": "official/maps/qftis/map-7.03-spaceship-level-3-map-DM.jpg",
+          "tokenScale": 0.012307692307692304
+        },
+        {
+          "name": "Spaceship Level 3",
+          "description": "(Player version)",
+          "order": 6,
+          "imageKey": "official/maps/qftis/map-7.03-spaceship-level-3-map-player.jpg",
+          "tokenScale": 0.012307692307692304
+        },
+        {
+          "name": "Spaceship Level 4",
+          "description": "(DM version)",
+          "order": 7,
+          "imageKey": "official/maps/qftis/map-7.04-spaceship-level-4-map-DM.jpg",
+          "tokenScale": 0.012051282051282048
+        },
+        {
+          "name": "Spaceship Level 4",
+          "description": "(Player version)",
+          "order": 8,
+          "imageKey": "official/maps/qftis/map-7.04-spaceship-level-4-map-player.jpg",
+          "tokenScale": 0.012051282051282048
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "type": "adventure",
+  "name": "SDW",
+  "description": "Sleeping Dragon’s Wake",
+  "backgroundImageKey": "official/covers/sdw.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Sword Coast",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-1.01-sword-coast.jpg",
+          "tokenScale": 0.0151753008895866
+        },
+        {
+          "name": "Sword Coast",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-1.01-sword-coast-player.jpg",
+          "tokenScale": 0.0151753008895866
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Welcome to Leilon",
+      "order": 2,
+      "maps": [
+        {
+          "name": "Leilon",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-2.01-leilon.jpg",
+          "tokenScale": 0.01123046875
+        },
+        {
+          "name": "Leilon",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-2.01-leilon-player.jpg",
+          "tokenScale": 0.01123046875
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Bronze Shrine",
+      "order": 3,
+      "maps": [
+        {
+          "name": "Bronze Shrine",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-3.01-bronze-shrine.jpg",
+          "tokenScale": 0.023681640625
+        },
+        {
+          "name": "Bronze Shrine",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-3.01-bronze-shrine-player.jpg",
+          "tokenScale": 0.023681640625
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Claugiyliamatar’s Lair",
+      "order": 4,
+      "maps": [
+        {
+          "name": "Claugiyliamatar’s Lair",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-4.01-claugiyliamatars-lair.jpg",
+          "tokenScale": 0.012003580729166664
+        },
+        {
+          "name": "Claugiyliamatar’s Lair",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-4.01-claugiyliamatars-lair-player.jpg",
+          "tokenScale": 0.012003580729166664
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Death Knight-Dreadnaught",
+      "order": 5,
+      "maps": [
+        {
+          "name": "Death Knight-Dreadnaught",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-5.01-death-knight-dreadnaught.jpg",
+          "tokenScale": 0.023681640625
+        },
+        {
+          "name": "Death Knight-Dreadnaught",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-5.01-death-knight-dreadnaught-player.jpg",
+          "tokenScale": 0.023681640625
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Iniarv's Tower",
+      "order": 6,
+      "maps": [
+        {
+          "name": "Iniarv's Tower",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-6.01-iniarvs-tower.jpg",
+          "tokenScale": 0.0234375
+        },
+        {
+          "name": "Iniarv's Tower",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-6.01-iniarvs-tower-player.jpg",
+          "tokenScale": 0.0234375
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Leilon Point",
+      "order": 7,
+      "maps": [
+        {
+          "name": "Leilon Point",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/sdw/map-7.01-leilon-point.jpg",
+          "tokenScale": 0.01171875
+        },
+        {
+          "name": "Leilon Point",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/sdw/map-7.01-leilon-point-player.jpg",
+          "tokenScale": 0.01171875
+        }
+      ]
+    }
+  ]
+}

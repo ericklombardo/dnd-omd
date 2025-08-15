@@ -1,0 +1,323 @@
+{
+  "type": "adventure",
+  "name": "ssh",
+  "description": "Ruins of Symbaroum: Setting Handbook",
+  "backgroundImageKey": "official/covers/ssh.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "The Setting",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Ambria and Davokar",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/ssh/map-01.01-ambria-and-davokar.jpg",
+          "tokenScale": 0.010070800781249997
+        },
+        {
+          "name": "Ambria and Davokar",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/ssh/map-01.01-ambria-and-davokar-player.jpg",
+          "tokenScale": 0.010070800781249997
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "The Hunter’s Harbor",
+      "order": 2,
+      "maps": [
+        {
+            "name": "Thistle Hold",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-02.01-thistle-hold.jpg",
+            "tokenScale": 0.00537109375
+          },
+          {
+            "name": "Thistle Hold",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-02.01-thistle-hold-player.jpg",
+            "tokenScale": 0.00537109375
+          },
+          {
+            "name": "Blackmoor",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/ssh/map-02.02-blackmoor.jpg",
+            "tokenScale": 0.007080078125
+          },
+          {
+            "name": "Blackmoor",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/ssh/map-02.02-blackmoor-player.jpg",
+            "tokenScale": 0.007080078125
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "The Explorer’s Haven",
+      "order": 3,
+      "maps": [
+        {
+            "name": "Karvosti",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-03.01-karvosti.jpg",
+            "tokenScale": 0.006591796875
+          },
+          {
+            "name": "Karvosti",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-03.01-karvosti-player.jpg",
+            "tokenScale": 0.006591796875
+          },
+          {
+            "name": "Vearra’s Outpost",
+            "description": "(DM version)",
+            "order": 3,
+            "imageKey": "official/maps/ssh/map-03.02-vearras-outpost.jpg",
+            "tokenScale": 0.01953125
+          },
+          {
+            "name": "Vearra’s Outpost",
+            "description": "(Player version)",
+            "order": 4,
+            "imageKey": "official/maps/ssh/map-03.02-vearras-outpost-player.jpg",
+            "tokenScale": 0.01953125
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Yndaros",
+      "order": 4,
+      "maps": [
+        {
+            "name": "Yndaros",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-05.01-yandaros.jpg",
+            "tokenScale": 0.0037560096153846146
+          },
+          {
+            "name": "Yndaros",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-05.01-yandaros-player.jpg",
+            "tokenScale": 0.0037560096153846146
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Yndarien",
+      "order": 5,
+      "maps": [
+        {
+            "name": "The Kingdom of Ambria",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-06.01-the-kingdom-of-ambria.jpg",
+            "tokenScale": 0.010070800781249997
+          },
+          {
+            "name": "The Kingdom of Ambria",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-06.01-the-kingdom-of-ambria-player.jpg",
+            "tokenScale": 0.010070800781249997
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Report 22:01:08",
+      "order": 6,
+      "maps": [
+        {
+            "name": "Ambria’s Surroundings",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-15.01-ambrias-surroundings.jpg",
+            "tokenScale": 0.010009765625
+          },
+          {
+            "name": "Ambria’s Surroundings",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-15.01-ambrias-surroundings-player.jpg",
+            "tokenScale": 0.010009765625
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Traveling in Davokar",
+      "order": 7,
+      "maps": [
+        {
+            "name": "Ambria and Davokar (Hex)",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-17.01-ambria-and-davokar-hex.jpg",
+            "tokenScale": 0.005578093306288032
+          },
+          {
+            "name": "Ambria and Davokar (Hex)",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-17.01-ambria-and-davokar-hex-player.jpg",
+            "tokenScale": 0.005578093306288032
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Green as Copper",
+      "order": 8,
+      "maps": [
+        {
+          "name": "Green as Copper",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/ssh/map-19.01-green-as-copper.jpg",
+          "tokenScale": 0.015557609365372767
+        },
+        {
+          "name": "Green as Copper",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/ssh/map-19.01-green-as-copper-player.jpg",
+          "tokenScale": 0.015557609365372767
+        },
+        {
+          "name": "The Cave",
+          "description": "(DM version)",
+          "order": 3,
+          "imageKey": "official/maps/ssh/map-19.02-the-cave.jpg",
+          "tokenScale": 0.020302220394736833
+        },
+        {
+          "name": "The Cave",
+          "description": "(Player version)",
+          "order": 4,
+          "imageKey": "official/maps/ssh/map-19.02-the-cave-player.jpg",
+          "tokenScale": 0.020302220394736833
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "A Blooming Vale",
+      "order": 9,
+      "maps": [
+        {
+            "name": "A Blooming Vale",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-20.01-a-blooming-vale.jpg",
+            "tokenScale": 0.005900065104166666
+          },
+          {
+            "name": "A Blooming Vale",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-20.01-a-blooming-vale-player.jpg",
+            "tokenScale": 0.005900065104166666
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Prisoners of the Death Crater",
+      "order": 10,
+      "maps": [
+        {
+            "name": "The Death Crater",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-21.01-the-death-crater.jpg",
+            "tokenScale": 0.0166015625
+          },
+          {
+            "name": "The Death Crater",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-21.01-the-death-crater-player.jpg",
+            "tokenScale": 0.0166015625
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Dawn of the Black Sun",
+      "order": 11,
+      "maps": [
+        {
+            "name": "The Temple of Jeberaja",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-22.01-the-temple-of-jeberaja.jpg",
+            "tokenScale": 0.008451021634615382
+          },
+          {
+            "name": "The Temple of Jeberaja",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-22.01-the-temple-of-jeberaja-player.jpg",
+            "tokenScale": 0.008451021634615382
+          }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Lord of the Bog",
+      "order": 12,
+      "maps": [
+        {
+            "name": "Black Pitch Mire",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-23.01-black-pitch-mire.jpg",
+            "tokenScale": 0.012925091911764702
+          },
+          {
+            "name": "Black Pitch Mire",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-23.01-black-pitch-mire-player.jpg",
+            "tokenScale": 0.012925091911764702
+          }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Blight Night",
+      "order": 13,
+      "maps": [
+        {
+            "name": "Jakad’s Heart",
+            "description": "(DM version)",
+            "order": 1,
+            "imageKey": "official/maps/ssh/map-24.01-jakads-heart.jpg",
+            "tokenScale": 0.03383091517857142
+          },
+          {
+            "name": "Jakad’s Heart",
+            "description": "(Player version)",
+            "order": 2,
+            "imageKey": "official/maps/ssh/map-24.01-jakads-heart-player.jpg",
+            "tokenScale": 0.03383091517857142
+          }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+name: "Deploy JSON to API"
+description: Deploy the Official Map Data JSON
+
+inputs:
+  bearer-token:
+    description: "The bearer token to use for authentication"
+    required: true
+  api-url:
+    description: "The API URL to deploy the JSON data to"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Deploy Official Map Data
+      shell: bash
+      run: npm run deploy-map-data
+      env:
+        API_URL: "${{ inputs.api-url }}/admin/sources"
+        BEARER_TOKEN: "${{ inputs.bearer-token }}"
+        JSON_FILE_PATH: "./official-map-data.json"

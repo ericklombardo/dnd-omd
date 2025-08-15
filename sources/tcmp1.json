@@ -1,0 +1,29 @@
+{
+  "type": "sourcebook",
+  "name": "tcmp1",
+  "description": "The Crooked Moon Part One: Player Options & Campaign Setting",
+  "backgroundImageKey": "official/covers/TCMP1.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Druskenvald",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Druskenvald",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/tcmp1/map-1.01-druskenvald.png",
+          "tokenScale": 0.0037560096153846146
+        },
+        {
+          "name": "Druskenvald",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/tcmp1/map-1.01-druskenvald-player.png",
+          "tokenScale": 0.0037560096153846146
+        }
+      ]
+    }
+  ]
+}
