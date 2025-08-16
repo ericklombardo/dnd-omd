@@ -24,26 +24,33 @@ const getChangedSourceFiles = (): {
 
   // Check if running in GitHub Actions with the release trigger
   const githubEventName = process.env.GITHUB_EVENT_NAME;
-  const isReleaseCreated = githubEventName === 'release';
+  const isReleaseCreated = githubEventName === "release";
 
   if (isReleaseCreated) {
-    core.info("Detected release trigger - comparing with latest tag");
+    core.info("Detected release trigger - comparing with previous release tag");
 
-    // Get the latest tag
-    const latestTag = execSync("git describe --tags --abbrev=0", { encoding: 'utf-8' }).trim();
-    core.info(`Latest tag found: ${latestTag}`);
+    // Get only the latest 2 tags sorted by creation date (newest first)
+    const tagList = execSync("git tag --sort=-creatordate | head -2", { encoding: "utf-8" })
+      .trim()
+      .split('\n')
+      .filter(tag => tag.trim());
 
-    gitCommand = `git diff --name-status ${latestTag} HEAD -- sources/*.json`;
+    const previousTag = tagList[1]; // Second tag (previous release by date)
+    core.info(`Previous release tag found: ${previousTag}`);
+
+    gitCommand = `git diff --name-status ${previousTag} HEAD -- sources/*.json`;
   } else {
     core.info("Using default behavior - comparing with previous commit");
     gitCommand = "git diff --name-status HEAD~1 HEAD -- sources/*.json";
   }
 
   core.info(`Running: ${gitCommand}`);
-  const gitOutput = execSync(gitCommand, { encoding: 'utf-8' }).trim();
+  const gitOutput = execSync(gitCommand, { encoding: "utf-8" }).trim();
 
   if (!gitOutput) {
-    const comparisonType = isReleaseCreated ? "since the latest tag" : "in the last commit";
+    const comparisonType = isReleaseCreated
+        ? "since the previous release"
+        : "in the last commit";
     core.info(`No source files have changed ${comparisonType}`);
     return {
       changedFiles: [],
