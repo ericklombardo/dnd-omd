@@ -11,13 +11,6 @@
         "maps": [
           {
             "name": "Autumn",
-            "description": "(with grid)",
-            "order": 1,
-            "imageKey": "official/maps/czmp/czmp2/map-01.01-g-burial-barrow-autumn.jpg",
-            "tokenScale": 0.031074459184893023
-          },
-          {
-            "name": "Autumn",
             "description": "(without grid)",
             "order": 2,
             "imageKey": "official/maps/czmp/czmp2/map-01.01-gl-burial-barrow-autumn.jpg",

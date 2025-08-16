@@ -11,13 +11,6 @@
         "maps": [
           {
             "name": "Amber",
-            "description": "(with grid)",
-            "order": 1,
-            "imageKey": "official/maps/czmp/czmp1/map-01.01-g-archaeological-dig-amber.jpg",
-            "tokenScale": 0.03458605664488016
-          },
-          {
-            "name": "Amber",
             "description": "(without grid)",
             "order": 2,
             "imageKey": "official/maps/czmp/czmp1/map-01.01-gl-archaeological-dig-amber.jpg",

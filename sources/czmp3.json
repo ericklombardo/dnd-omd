@@ -11,13 +11,6 @@
         "maps": [
           {
             "name": "Astral",
-            "description": "(with grid)",
-            "order": 1,
-            "imageKey": "official/maps/czmp/czmp3/map-01.01-g-celestial-gate-astral.jpg",
-            "tokenScale": 0.02987145637803772
-          },
-          {
-            "name": "Astral",
             "description": "(without grid)",
             "order": 2,
             "imageKey": "official/maps/czmp/czmp3/map-01.01-gl-celestial-gate-astral.jpg",
