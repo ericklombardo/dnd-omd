@@ -84,8 +84,14 @@ const deployData = async (url: string, token: string) => {
     return;
   }
 
-  const sources = changedFiles.map(loadSourceData);
-  const sourcesToDelete = deletedFiles.map(file => path.basename(file, '.json'));
+  const sources = changedFiles.map(file => {
+    core.info(`Loading source data from: ${file}`);
+    return loadSourceData(file);
+  });
+  const sourcesToDelete = deletedFiles.map(file => {
+    core.info(`Loading source data to delete from: ${file}`);
+    return path.basename(file, '.json')
+  });
 
   const response = await summon(`${url}/admin/sources`, {
     requestInit: {
