@@ -135,14 +135,6 @@
           "order": 17,
           "imageKey": "official/maps/br/09-Stone-Tiling.jpg",
           "tokenScale": 0.07604166666666666
-        },
-        {
-          "name": "Stone Tiling (Animated)",
-          "description": "",
-          "order": 18,
-          "imageKey": "official/maps/br/09-Stone-Tiling.png",
-          "videoKey": "official/maps/br/09-Stone-Tiling.mp4",
-          "tokenScale": 0.07604166666666666
         }
       ]
     }
