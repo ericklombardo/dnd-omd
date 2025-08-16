@@ -1,0 +1,29 @@
+{
+  "type": "sourcebook",
+  "name": "GHPG",
+  "description": "Grim Hollow: Player’s Guide",
+  "backgroundImageKey": "official/covers/ghpg.jpg",
+  "chapters": [
+    {
+      "id": "0",
+      "name": "Introduction",
+      "order": 1,
+      "maps": [
+        {
+          "name": "Etharis",
+          "description": "(DM version)",
+          "order": 1,
+          "imageKey": "official/maps/ghpg/map-00.01-etharis-world-map-DM.jpg",
+          "tokenScale": 0.006866416978776529
+        },
+        {
+          "name": "Etharis",
+          "description": "(Player version)",
+          "order": 2,
+          "imageKey": "official/maps/ghpg/map-00.01-etharis-world-map-player.jpg",
+          "tokenScale": 0.006866416978776529
+        }
+      ]
+    }
+  ]
+}
