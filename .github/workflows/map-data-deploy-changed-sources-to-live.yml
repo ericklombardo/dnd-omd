@@ -8,12 +8,12 @@ on:
 
 jobs:
   deploy:
-    runs-on: ddb-arc-stg
-    container:
-      image: ghcr.io/catthehacker/ubuntu:act-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Fetch at least 2 commits to compare HEAD~1
 
       - name: Setup Node
         uses: actions/setup-node@v4
