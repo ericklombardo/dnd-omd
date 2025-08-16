@@ -11,13 +11,6 @@
       "maps": [
         {
           "name": "The Shadow Realm",
-          "description": "(DM version)",
-          "order": 1,
-          "imageKey": "official/maps/boet/map-7.01-shadow-realm.jpg",
-          "tokenScale": 0.006591796875
-        },
-        {
-          "name": "The Shadow Realm",
           "description": "(Player version)",
           "order": 2,
           "imageKey": "official/maps/boet/map-7.01-shadow-realm-player.jpg",
