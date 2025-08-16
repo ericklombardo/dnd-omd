@@ -20,12 +20,31 @@ const getChangedSourceFiles = (): {
 } => {
   core.info("Checking for changed source files...");
 
-  // Get a list of changed files with their status (Added, Modified, Deleted)
-  const gitCommand = "git diff --name-status HEAD~1 HEAD -- sources/*.json";
+  let gitCommand: string;
+
+  // Check if running in GitHub Actions with the release trigger
+  const githubEventName = process.env.GITHUB_EVENT_NAME;
+  const isReleaseCreated = githubEventName === 'release';
+
+  if (isReleaseCreated) {
+    core.info("Detected release trigger - comparing with latest tag");
+
+    // Get the latest tag
+    const latestTag = execSync("git describe --tags --abbrev=0", { encoding: 'utf-8' }).trim();
+    core.info(`Latest tag found: ${latestTag}`);
+
+    gitCommand = `git diff --name-status ${latestTag} HEAD -- sources/*.json`;
+  } else {
+    core.info("Using default behavior - comparing with previous commit");
+    gitCommand = "git diff --name-status HEAD~1 HEAD -- sources/*.json";
+  }
+
+  core.info(`Running: ${gitCommand}`);
   const gitOutput = execSync(gitCommand, { encoding: 'utf-8' }).trim();
 
   if (!gitOutput) {
-    core.info("No source files have changed");
+    const comparisonType = isReleaseCreated ? "since the latest tag" : "in the last commit";
+    core.info(`No source files have changed ${comparisonType}`);
     return {
       changedFiles: [],
       deletedFiles: [],
