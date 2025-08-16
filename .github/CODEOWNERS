@@ -1,7 +1,0 @@
-# CODEOWNERS file
-
-# All files
-* @ballesandro @bendixon205 @devgr @leenephi @mysterycommand @opeologist @valeryan @iamtimsmith @lukei8ii @BinaryPatrick
-
-# JSON files
-*.json @valeryan @bendixon205 @DnDBeyond/Lorekeepers
