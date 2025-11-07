@@ -42,7 +42,7 @@ const getChangedSourceFiles = (): {
     gitCommand = `git diff --name-status ${previousTag} HEAD -- sources/*.json`;
   } else if (isManualTrigger) {
     core.info("Detected manual trigger - comparing current branch with main");
-    gitCommand = "git diff --name-status main...HEAD -- sources/*.json";
+    gitCommand = "git diff --name-status origin/main...HEAD -- sources/*.json";
   } else {
     core.info("Using default behavior - comparing with previous commit");
     gitCommand = "git diff --name-status HEAD~1 HEAD -- sources/*.json";
