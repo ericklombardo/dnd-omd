@@ -56,7 +56,7 @@ const getChangedSourceFiles = (): {
     const comparisonType = isReleaseCreated
         ? "since the previous release"
         : isManualTrigger
-            ? "between current branch and main"
+            ? `between current branch ${currentBranch} and main`
             : "in the last commit";
     core.info(`No source files have changed ${comparisonType}`);
     return {
