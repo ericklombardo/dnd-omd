@@ -1,0 +1,132 @@
+{
+    "type": "adventure",
+    "name": "OSWHAP",
+    "description": "One-Shot Wonders: Holiday Adventure Pack",
+    "backgroundImageKey": "official/covers/oswhap.jpg",
+    "chapters": [
+      {
+        "id": "0",
+        "name": "1. Just Desserts",
+        "order": 1,
+        "maps": [
+          {
+            "name": "Festive Feast",
+            "description": "(Grid)",
+            "order": 1,
+            "imageKey": "official/maps/oswhap/map-01.01-FestiveFeast.jpg",
+            "tokenScale": 0.06350710900473934
+          },
+          {
+            "name": "Festive Feast",
+            "description": "(No Grid)",
+            "order": 2,
+            "imageKey": "official/maps/oswhap/map-01.01-FestiveFeast-no-grid.jpg",
+            "tokenScale": 0.06350710900473934
+          }
+          ]
+      },
+{
+        "id": "1",
+        "name": "2. All Work, No Play",
+        "order": 2,
+        "maps": [
+         {
+            "name": "Toy Factory",
+            "description": "(Grid)",
+            "order": 3,
+            "imageKey": "official/maps/oswhap/map-02.01-ToyFactory.jpg",
+            "tokenScale": 0.06350710900473934
+          },
+          {
+            "name": "Toy Factory",
+            "description": "(No Grid)",
+            "order": 4,
+            "imageKey": "official/maps/oswhap/map-02.01-ToyFactory-no-grid.jpg",
+            "tokenScale": 0.06350710900473934
+          }
+        ]
+      },
+{
+        "id": "2",
+        "name": "3. Blessing of the Drake",
+        "order": 3,
+        "maps": [
+          {
+            "name": "Snowy Tundra",
+            "description": "(Grid)",
+            "order": 5,
+            "imageKey": "official/maps/oswhap/map-03.01-SnowyTundra.jpg",
+            "tokenScale": 0.06350710900473934
+          },
+          {
+            "name": "Snowy Tundra",
+            "description": "(No Grid)",
+            "order": 6,
+            "imageKey": "official/maps/oswhap/map-03.01-SnowyTundra-no-grid.jpg",
+            "tokenScale": 0.06350710900473934
+          }
+        ]
+      },
+{
+        "id": "3",
+        "name": "4. Gift Giveaway",
+        "order": 4,
+        "maps": [
+{
+            "name": "Remote Campsite",
+            "description": "(Grid)",
+            "order": 7,
+            "imageKey": "official/maps/oswhap/map-04.01-RemoteCampsite.jpg",
+            "tokenScale": 0.06350710900473934
+          },
+          {
+            "name": "Remote Campsite",
+            "description": "(No Grid)",
+            "order": 8,
+            "imageKey": "official/maps/oswhap/map-04.01-RemoteCampsite-no-grid.jpg",
+            "tokenScale": 0.06350710900473934
+          }        ]
+      },
+{
+        "id": "4",
+        "name": "5. Catching a Chill",
+        "order": 5,
+        "maps": [
+{
+            "name": "Ice Palace",
+            "description": "(Grid)",
+            "order": 9,
+            "imageKey": "official/maps/oswhap/map-05.01-IcePalace.jpg",
+            "tokenScale": 0.06350710900473934
+          },
+          {
+            "name": "Ice Palace",
+            "description": "(No Grid)",
+            "order": 10,
+            "imageKey": "official/maps/oswhap/map-05.01-IcePalace-no-grid.jpg",
+            "tokenScale": 0.06350710900473934
+          }        ]
+      },
+{
+        "id": "5",
+        "name": "Continuing the Adventure",
+        "order": 6,
+        "maps": [
+          {
+            "name": "Mirabilis World Map",
+            "description": "(No Hex)",
+            "order": 11,
+            "imageKey": "official/maps/oswhap/map-06.01-MirabilisWorldMap-no-blank.jpg",
+            "tokenScale": 0.022846698652044767
+          },
+          {
+            "name": "Mirabilis World Map",
+            "description": "(Hex)",
+            "order": 12,
+            "imageKey": "official/maps/oswhap/map-06.02-MirabilisWorldMap-no-blank-hex.jpg",
+            "tokenScale": 0.022846698652044767
+          }
+        ]
+      }
+    ]
+  }
