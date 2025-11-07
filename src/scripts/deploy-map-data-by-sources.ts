@@ -25,20 +25,24 @@ const getChangedSourceFiles = (): {
   // Check if running in GitHub Actions with the release trigger
   const githubEventName = process.env.GITHUB_EVENT_NAME;
   const isReleaseCreated = githubEventName === "release";
+  const isManualTrigger = githubEventName === "workflow_dispatch";
 
   if (isReleaseCreated) {
     core.info("Detected release trigger - comparing with previous release tag");
 
     // Get only the latest 2 tags sorted by creation date (newest first)
     const tagList = execSync("git tag --sort=-creatordate | head -2", { encoding: "utf-8" })
-      .trim()
-      .split('\n')
-      .filter(tag => tag.trim());
+        .trim()
+        .split('\n')
+        .filter(tag => tag.trim());
 
     const previousTag = tagList[1]; // Second tag (previous release by date)
     core.info(`Previous release tag found: ${previousTag}`);
 
     gitCommand = `git diff --name-status ${previousTag} HEAD -- sources/*.json`;
+  } else if (isManualTrigger) {
+    core.info("Detected manual trigger - comparing current branch with main");
+    gitCommand = "git diff --name-status origin/main...HEAD -- sources/*.json";
   } else {
     core.info("Using default behavior - comparing with previous commit");
     gitCommand = "git diff --name-status HEAD~1 HEAD -- sources/*.json";
@@ -50,7 +54,9 @@ const getChangedSourceFiles = (): {
   if (!gitOutput) {
     const comparisonType = isReleaseCreated
         ? "since the previous release"
-        : "in the last commit";
+        : isManualTrigger
+            ? "between current branch and main"
+            : "in the last commit";
     core.info(`No source files have changed ${comparisonType}`);
     return {
       changedFiles: [],
@@ -110,14 +116,8 @@ const deployData = async (url: string, token: string) => {
     return;
   }
 
-  const sources = changedFiles.map(file => {
-    core.info(`Loading source data from: ${file}`);
-    return loadSourceData(file);
-  });
-  const sourcesToDelete = deletedFiles.map(file => {
-    core.info(`Loading source data to delete from: ${file}`);
-    return path.basename(file, '.json')
-  });
+  const sources = changedFiles.map(loadSourceData);
+  const sourcesToDelete = deletedFiles.map(file => path.basename(file, '.json'));
 
   const response = await summon(`${url}/admin/sources`, {
     requestInit: {
@@ -159,7 +159,7 @@ try {
   const token = process.env.BEARER_TOKEN;
   if (!url || !token) {
     throw new Error(
-      "Error: One or more environment variables are not defined"
+        "Error: One or more environment variables are not defined"
     );
   }
 
