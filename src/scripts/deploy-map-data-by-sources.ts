@@ -26,6 +26,7 @@ const getChangedSourceFiles = (): {
   const githubEventName = process.env.GITHUB_EVENT_NAME;
   const isReleaseCreated = githubEventName === "release";
   const isManualTrigger = githubEventName === "workflow_dispatch";
+  const currentBranch = process.env.GITHUB_REF_NAME;
 
   if (isReleaseCreated) {
     core.info("Detected release trigger - comparing with previous release tag");
@@ -40,8 +41,8 @@ const getChangedSourceFiles = (): {
     core.info(`Previous release tag found: ${previousTag}`);
 
     gitCommand = `git diff --name-status ${previousTag} HEAD -- sources/*.json`;
-  } else if (isManualTrigger) {
-    core.info("Detected manual trigger - comparing current branch with main");
+  } else if (isManualTrigger && currentBranch !== "main") {
+    core.info(`Detected manual trigger - comparing current branch ${currentBranch} with main`);
     gitCommand = "git diff --name-status origin/main...HEAD -- sources/*.json";
   } else {
     core.info("Using default behavior - comparing with previous commit");
