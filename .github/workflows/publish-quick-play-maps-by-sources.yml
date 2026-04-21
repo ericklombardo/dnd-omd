@@ -23,23 +23,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Generate and Sign Staging JWT
-        id: jwt-stg
-        uses: ./.github/actions/generate-jwt
-        with:
-          jwt_secret_key: ${{ secrets.JWT_SECRET_KEY_STG }}
-
-      - name: Generate and Sign Live JWT
-        id: jwt-live
-        uses: ./.github/actions/generate-jwt
-        with:
-          jwt_secret_key: ${{ secrets.JWT_SECRET_KEY_LIVE }}
-
       - name: Publish Quick Play Maps from Staging to Live
         run: npm run publish-quick-play-maps
         env:
           API_URL_LIVE: "https://www.dndbeyond.com/games/api"
           API_URL_STG: "https://stg.dndbeyond.com/games/api"
-          BEARER_TOKEN_LIVE: ${{ steps.jwt-live.outputs.signed_jwt }}
-          BEARER_TOKEN_STG: ${{ steps.jwt-stg.outputs.signed_jwt }}
+          BEARER_TOKEN_LIVE: "1234567890"
+          BEARER_TOKEN_STG: "1234567890"
           SOURCES: ${{ inputs.sources }}
