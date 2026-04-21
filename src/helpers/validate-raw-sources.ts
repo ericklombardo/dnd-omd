@@ -1,4 +1,4 @@
-import sourceList from "../../source-list.json";
+import sourceList from "../../source-list.json" with { type: "json" };
 
 export const validateRawSources = (rawSources: string): string[] => {
   if (!rawSources) {
