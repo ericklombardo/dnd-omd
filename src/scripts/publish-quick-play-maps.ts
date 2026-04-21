@@ -1,6 +1,7 @@
 import * as core from "@actions/core";
 
 import { publishQuickPlayMaps } from "../publishQuickPlayMaps.ts";
+import { validateRawSources } from "../helpers/validate-raw-sources.ts";
 
 try {
   core.info("Validating environment variables...");
@@ -16,7 +17,11 @@ try {
     );
   }
 
+  core.info("Validating sources input...");
+  const sources = validateRawSources(process.env.SOURCES ?? "");
+
   core.info("Starting to publish quick play maps...");
+  core.info(`Publishing maps for sources: ${sources.join(", ")}`);
 
   await publishQuickPlayMaps({
     live: {
@@ -27,6 +32,7 @@ try {
       url: apiUrlStg,
       token: bearerTokenStg,
     },
+    sources,
   });
 
   core.info("Successfully published quick play maps.");

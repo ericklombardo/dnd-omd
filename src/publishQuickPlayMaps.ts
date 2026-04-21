@@ -11,6 +11,7 @@ type ApiInput = {
 type PublishParams = {
   live: ApiInput;
   stg: ApiInput;
+  sources?: string[];
 };
 
 const backoffOptions: BackoffOptions = {
@@ -20,9 +21,12 @@ const backoffOptions: BackoffOptions = {
 };
 
 export const publishQuickPlayMaps = async (input: PublishParams) => {
-  const { live, stg } = input;
+  const { live, stg, sources = [] } = input;
+  const params = new URLSearchParams();
+  sources.forEach((source) => params.append("sources", source));
+  const paramsString = params.size > 0 ? `?${params}` : "";
 
-  const response = await summon(`${stg.url}/admin/prepared-maps`, {
+  const response = await summon(`${stg.url}/admin/prepared-maps${paramsString}`, {
     requestInit: {
       method: "GET",
       headers: {
