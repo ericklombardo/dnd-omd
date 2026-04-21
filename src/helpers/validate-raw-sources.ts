@@ -1,13 +1,10 @@
+import { cwd } from "node:process";
 import { readFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import path from "node:path";
+import { resolve } from "node:path";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const sourceList: Record<string, boolean> = JSON.parse(
-  readFileSync(path.join(__dirname, "../../source-list.json"), "utf8"),
-);
+const sourceList = JSON.parse(
+    readFileSync(resolve(cwd(), "source-list.json"), "utf8"),
+) as Record<string, boolean>;
 
 export const validateRawSources = (rawSources: string): string[] => {
   if (!rawSources) {
