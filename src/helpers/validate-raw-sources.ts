@@ -5,7 +5,7 @@ import path from "node:path";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const sourceList: Record<string, unknown> = JSON.parse(
+const sourceList: Record<string, boolean> = JSON.parse(
   readFileSync(path.join(__dirname, "../../source-list.json"), "utf8"),
 );
 
